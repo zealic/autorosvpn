@@ -1,5 +1,5 @@
 # autorovpn
-Clone for [autorosvpn](https://code.google.com/p/autorosvpn)
+Clone for departed [autorosvpn](https://code.google.com/p/autorosvpn)
 
 # Usage
 * Upload **address-list.rsc** to router
