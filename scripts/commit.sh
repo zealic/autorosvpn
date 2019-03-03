@@ -9,6 +9,6 @@ Host *
     StrictHostKeyChecking no
 EOF
 
-git add *.txt || true
+git add *.txt *.rsc || true
 git commit -am "Update list."
 git push origin HEAD:master
