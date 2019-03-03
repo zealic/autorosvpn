@@ -6,7 +6,7 @@ update-by-schedules:
     - schedules
     - web
   script:
-    - apk add git openssh-client
+    - apk add git openssh-client ipcalc
     - ./scripts/generate.sh
     - bash ./scripts/commit.sh
 
@@ -19,6 +19,6 @@ update-by-changes:
     - schedules
     - web
   script:
-    - apk add git openssh-client
+    - apk add git openssh-client ipcalc
     - ./scripts/generate.sh
     - bash ./scripts/commit.sh
