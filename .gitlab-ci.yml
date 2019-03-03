@@ -1,0 +1,14 @@
+include:
+  - remote: https://arp.to/@ci/docker.yml
+
+update-list:
+  only:
+    - schedules
+    - web
+  script:
+    - apk add git
+    - git config user.name  "$GITLAB_USER_NAME"
+    - git config user.email "$GITLAB_USER_EMAIL"
+    - bash ./generate.sh
+    - git commit -am "Update list."
+    - git push
