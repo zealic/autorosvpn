@@ -1,11 +1,38 @@
-# autorovpn
-Clone for departed [autorosvpn](https://code.google.com/p/autorosvpn)
+# autorosvpn
+China Route Tables
 
 ## Usage
 
-### Router OS
+### address-list.rsc
+Router OS only import script:
 
-Manual import:
+```shell
+/tool fetch http-method=get url=https://raw.githubusercontent.
+com/zealic/autorosvpn/master/address-list.rsc
+:local addrFile
+:local fileSize
+/file
+:set addrFile [find where name="address-list.rsc"]
+:set fileSize [get $addrFile size]
+:if ($fileSize > 300000) do={
+  /import file=address-list.rsc
+}
+```
 
-* Upload **address-list.rsc** to router
-* Import script `/import file=address-list.rsc`
+### chnroutes
+中国路由表
+
+* chnroutes  
+  中国路由表
+* chnroutes-cernet  
+  中国教育网路由表
+* chnroutes-chinanet  
+  中国电信路由表
+* chnroutes-cmcc  
+  中国移动路由表
+* chnroutes-cnc  
+  中国联通路由表
+* chnroutes-cnnic  
+  中国CNNIC
+* chnroutes-crtc  
+  中国铁通路由表
