@@ -1,15 +1,20 @@
 include:
   - remote: https://arp.to/@ci/docker.yml
 
-update-list:
+update-by-schedules:
   only:
     - schedules
     - web
   script:
-    - apk add git
-    - git config user.name  "$GITLAB_USER_NAME"
-    - git config user.email "$GITLAB_USER_EMAIL"
-    - git remote set-url origin "git@gitlab.com:${CI_PROJECT_PATH}.git"
-    - bash ./generate.sh
-    - git commit -am "Update list."
-    - git push origin HEAD:master
+    - apk add git openssh-client
+    - ./generate.sh
+    - bash ./commit.sh
+
+update-by-changes:
+  only:
+    changes:
+      - "*.sh"
+  script:
+    - apk add git openssh-client
+    - ./generate.sh
+    - bash ./commit.sh
