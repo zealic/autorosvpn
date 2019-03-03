@@ -11,4 +11,4 @@ update-list:
     - git config user.email "$GITLAB_USER_EMAIL"
     - bash ./generate.sh
     - git commit -am "Update list."
-    - git push
+    - git push origin HEAD:master
