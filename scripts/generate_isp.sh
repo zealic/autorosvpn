@@ -13,7 +13,7 @@ make_routes() {
 }
 
 # 电信
-make_routes MAINT-CHINANET > china-telecom-routes.txt
+make_routes MAINT-CHINANET > china-chinanet-routes.txt
 # 移动
 make_routes MAINT-CN-CMCC > china-cmcc-routes.txt
 # 联通
