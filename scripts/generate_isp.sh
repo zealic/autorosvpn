@@ -13,14 +13,14 @@ make_routes() {
 }
 
 # 电信
-make_routes MAINT-CHINANET > china-chinanet-routes.txt
+make_routes MAINT-CHINANET > chnroutes-chinanet.txt
 # 移动
-make_routes MAINT-CN-CMCC > china-cmcc-routes.txt
+make_routes MAINT-CN-CMCC > chnroutes-cmcc.txt
 # 联通
-make_routes MAINT-CNCGROUP > china-cnc-routes.txt
+make_routes MAINT-CNCGROUP > chnroutes-cnc.txt
 # 铁通
-make_routes MAINT-CN-CRTC  > china-crtc-routes.txt
+make_routes MAINT-CN-CRTC  > chnroutes-crtc.txt
 # 教育网
-make_routes MAINT-CERNET-AP > china-cernet-routes.txt
+make_routes MAINT-CERNET-AP > chnroutes-cernet.txt
 # CNNIC
-make_routes MAINT-CNNIC-AP > china-cnnic-routes.txt
+make_routes MAINT-CNNIC-AP > chnroutes-cnnic.txt
