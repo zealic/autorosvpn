@@ -7,17 +7,18 @@ update-by-schedules:
     - web
   script:
     - apk add git openssh-client
-    - ./generate.sh
-    - bash ./commit.sh
+    - ./scripts/generate.sh
+    - bash ./scripts/commit.sh
 
 update-by-changes:
   only:
     changes:
-      - "*.sh"
+      - "*.yml"
+      - "scripts/*.sh"
   except:
     - schedules
     - web
   script:
     - apk add git openssh-client
-    - ./generate.sh
-    - bash ./commit.sh
+    - ./scripts/generate.sh
+    - bash ./scripts/commit.sh
