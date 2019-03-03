@@ -8,6 +8,7 @@ update-by-schedules:
   script:
     - apk add git openssh-client ipcalc
     - ./scripts/generate.sh
+    - ./scripts/generate_isp.sh
     - bash ./scripts/commit.sh
 
 update-by-changes:
@@ -21,4 +22,5 @@ update-by-changes:
   script:
     - apk add git openssh-client ipcalc
     - ./scripts/generate.sh
+    - ./scripts/generate_isp.sh
     - bash ./scripts/commit.sh
