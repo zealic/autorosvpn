@@ -36,3 +36,10 @@ Router OS only import script:
   中国CNNIC
 * chnroutes-crtc  
   中国铁通路由表
+
+### TODO
+Parse routes from:
+
+* https://bgp.he.net/country/CN
+* https://ftp.arin.net/pub/rr/arin.db
+* https://ftp.arin.net/pub/stats/
