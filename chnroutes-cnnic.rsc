@@ -309,3 +309,4 @@ add address=103.118.252.0/22 disabled=no list=chnroutes-cnnic
 add address=103.118.52.0/22 disabled=no list=chnroutes-cnnic
 add address=103.118.56.0/22 disabled=no list=chnroutes-cnnic
 add address=103.118.60.0/22 disabled=no list=chnroutes-cnnic
+add address=103.118.64.0/22 disabled=no list=chnroutes-cnnic
