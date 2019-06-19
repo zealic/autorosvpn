@@ -44,6 +44,10 @@ add address=101.7.208.0/22 disabled=no list=chnroutes-cernet
 add address=101.7.224.0/20 disabled=no list=chnroutes-cernet
 add address=101.7.64.0/18 disabled=no list=chnroutes-cernet
 add address=101.7.8.0/24 disabled=no list=chnroutes-cernet
+add address=101.7.8.144/28 disabled=no list=chnroutes-cernet
+add address=101.7.8.176/28 disabled=no list=chnroutes-cernet
+add address=101.7.8.208/28 disabled=no list=chnroutes-cernet
+add address=101.7.8.240/28 disabled=no list=chnroutes-cernet
 add address=101.76.0.0/20 disabled=no list=chnroutes-cernet
 add address=101.76.112.0/20 disabled=no list=chnroutes-cernet
 add address=101.76.128.0/20 disabled=no list=chnroutes-cernet
@@ -439,9 +443,3 @@ add address=118.228.128.0/20 disabled=no list=chnroutes-cernet
 add address=118.228.150.0/24 disabled=no list=chnroutes-cernet
 add address=118.228.156.0/23 disabled=no list=chnroutes-cernet
 add address=118.228.159.0/24 disabled=no list=chnroutes-cernet
-add address=118.228.16.0/21 disabled=no list=chnroutes-cernet
-add address=118.228.160.0/19 disabled=no list=chnroutes-cernet
-add address=118.228.192.0/19 disabled=no list=chnroutes-cernet
-add address=118.228.224.0/20 disabled=no list=chnroutes-cernet
-add address=118.228.244.0/23 disabled=no list=chnroutes-cernet
-add address=118.228.247.0/24 disabled=no list=chnroutes-cernet
