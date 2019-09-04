@@ -3946,6 +3946,7 @@ add address=103.142.154.0/23 disabled=no list=novpn
 add address=103.142.156.0/23 disabled=no list=novpn
 add address=103.142.172.0/23 disabled=no list=novpn
 add address=103.142.180.0/23 disabled=no list=novpn
+add address=103.142.186.0/23 disabled=no list=novpn
 add address=103.192.0.0/22 disabled=no list=novpn
 add address=103.192.4.0/22 disabled=no list=novpn
 add address=103.192.8.0/22 disabled=no list=novpn
@@ -6232,6 +6233,7 @@ add address=183.172.0.0/14 disabled=no list=novpn
 add address=183.182.0.0/19 disabled=no list=novpn
 add address=183.184.0.0/13 disabled=no list=novpn
 add address=183.192.0.0/10 disabled=no list=novpn
+add address=185.203.36.0/22 disabled=no list=novpn
 add address=188.131.128.0/17 disabled=no list=novpn
 add address=192.51.188.0/24 disabled=no list=novpn
 add address=192.55.46.0/24 disabled=no list=novpn
