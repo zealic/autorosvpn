@@ -1127,7 +1127,6 @@ add address=45.121.68.0/22 disabled=no list=chnroutes
 add address=45.121.72.0/22 disabled=no list=chnroutes
 add address=45.121.92.0/22 disabled=no list=chnroutes
 add address=45.121.96.0/22 disabled=no list=chnroutes
-add address=45.121.104.0/22 disabled=no list=chnroutes
 add address=45.121.172.0/22 disabled=no list=chnroutes
 add address=45.121.176.0/22 disabled=no list=chnroutes
 add address=45.121.212.0/22 disabled=no list=chnroutes
