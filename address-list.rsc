@@ -1891,7 +1891,9 @@ add address=101.36.0.0/17 disabled=no list=novpn
 add address=101.36.128.0/17 disabled=no list=novpn
 add address=101.37.0.0/16 disabled=no list=novpn
 add address=101.38.0.0/15 disabled=no list=novpn
-add address=101.40.0.0/13 disabled=no list=novpn
+add address=101.40.0.0/15 disabled=no list=novpn
+add address=101.42.0.0/15 disabled=no list=novpn
+add address=101.44.0.0/14 disabled=no list=novpn
 add address=101.48.0.0/15 disabled=no list=novpn
 add address=101.50.8.0/22 disabled=no list=novpn
 add address=101.50.12.0/22 disabled=no list=novpn
