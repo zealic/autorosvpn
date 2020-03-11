@@ -6164,7 +6164,10 @@ add address=171.208.0.0/12 disabled=no list=chnroutes
 add address=172.81.192.0/18 disabled=no list=chnroutes
 add address=175.0.0.0/12 disabled=no list=chnroutes
 add address=175.16.0.0/13 disabled=no list=chnroutes
-add address=175.24.0.0/14 disabled=no list=chnroutes
+add address=175.24.0.0/16 disabled=no list=chnroutes
+add address=175.25.0.0/16 disabled=no list=chnroutes
+add address=175.26.0.0/16 disabled=no list=chnroutes
+add address=175.27.0.0/16 disabled=no list=chnroutes
 add address=175.30.0.0/15 disabled=no list=chnroutes
 add address=175.42.0.0/15 disabled=no list=chnroutes
 add address=175.44.0.0/16 disabled=no list=chnroutes
