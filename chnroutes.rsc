@@ -2780,7 +2780,6 @@ add address=103.52.172.0/22 disabled=no list=chnroutes
 add address=103.52.176.0/22 disabled=no list=chnroutes
 add address=103.52.184.0/22 disabled=no list=chnroutes
 add address=103.52.196.0/22 disabled=no list=chnroutes
-add address=103.53.4.0/22 disabled=no list=chnroutes
 add address=103.53.64.0/22 disabled=no list=chnroutes
 add address=103.53.68.0/22 disabled=no list=chnroutes
 add address=103.53.92.0/22 disabled=no list=chnroutes
