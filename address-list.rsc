@@ -4018,6 +4018,7 @@ add address=103.149.242.0/23 disabled=no list=novpn
 add address=103.149.244.0/23 disabled=no list=novpn
 add address=103.149.246.0/23 disabled=no list=novpn
 add address=103.149.248.0/23 disabled=no list=novpn
+add address=103.150.24.0/23 disabled=no list=novpn
 add address=103.192.0.0/22 disabled=no list=novpn
 add address=103.192.4.0/22 disabled=no list=novpn
 add address=103.192.8.0/22 disabled=no list=novpn
