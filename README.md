@@ -7,15 +7,18 @@ China Route Tables
 Router OS only import script:
 
 ```shell
+:log info "start download address-list.rsc ..."
 /tool fetch http-method=get url=https://raw.githubusercontent.com/zealic/autorosvpn/master/address-list.rsc
-:local addrFile
-:local fileSize
-/file
-:set addrFile [find where name="address-list.rsc"]
-:set fileSize [get $addrFile size]
-:if ($fileSize > 300000) do={
-  /import file=address-list.rsc
-  :log "NoVPN address list updated!"
+:log info "address-list.rsc downloaded."
+/file {
+  :local addrFile
+  :local fileSize
+  :set addrFile [find where name="address-list.rsc"]
+  :set fileSize [get $addrFile size]
+  :if ($fileSize > 300000) do={
+    /import file=address-list.rsc
+    :log info "NoVPN address list updated!"
+  }
 }
 ```
 
