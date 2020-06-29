@@ -4052,6 +4052,7 @@ add address=103.152.120.0/23 disabled=no list=chnroutes
 add address=103.152.122.0/23 disabled=no list=chnroutes
 add address=103.152.132.0/23 disabled=no list=chnroutes
 add address=103.152.152.0/23 disabled=no list=chnroutes
+add address=103.152.168.0/23 disabled=no list=chnroutes
 add address=103.192.0.0/22 disabled=no list=chnroutes
 add address=103.192.4.0/22 disabled=no list=chnroutes
 add address=103.192.8.0/22 disabled=no list=chnroutes
