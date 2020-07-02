@@ -4061,6 +4061,7 @@ add address=103.152.186.0/23 disabled=no list=novpn
 add address=103.152.190.0/23 disabled=no list=novpn
 add address=103.152.192.0/23 disabled=no list=novpn
 add address=103.152.200.0/23 disabled=no list=novpn
+add address=103.152.208.0/23 disabled=no list=novpn
 add address=103.192.0.0/22 disabled=no list=novpn
 add address=103.192.4.0/22 disabled=no list=novpn
 add address=103.192.8.0/22 disabled=no list=novpn
