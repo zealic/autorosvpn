@@ -266,6 +266,7 @@ add address=42.240.128.0/17 disabled=no list=chnroutes
 add address=42.242.0.0/15 disabled=no list=chnroutes
 add address=42.244.0.0/14 disabled=no list=chnroutes
 add address=42.248.0.0/13 disabled=no list=chnroutes
+add address=43.128.0.0/10 disabled=no list=chnroutes
 add address=43.224.12.0/22 disabled=no list=chnroutes
 add address=43.224.24.0/22 disabled=no list=chnroutes
 add address=43.224.44.0/22 disabled=no list=chnroutes
