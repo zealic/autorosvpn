@@ -5313,7 +5313,6 @@ add address=113.208.96.0/19 disabled=no list=novpn
 add address=113.208.128.0/17 disabled=no list=novpn
 add address=113.209.0.0/16 disabled=no list=novpn
 add address=113.212.0.0/18 disabled=no list=novpn
-add address=113.212.64.0/22 disabled=no list=novpn
 add address=113.212.88.0/22 disabled=no list=novpn
 add address=113.212.100.0/22 disabled=no list=novpn
 add address=113.212.184.0/21 disabled=no list=novpn
