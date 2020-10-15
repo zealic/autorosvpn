@@ -3773,7 +3773,6 @@ add address=103.119.200.0/22 disabled=no list=chnroutes
 add address=103.119.224.0/22 disabled=no list=chnroutes
 add address=103.120.52.0/22 disabled=no list=chnroutes
 add address=103.120.72.0/22 disabled=no list=chnroutes
-add address=103.120.76.0/24 disabled=no list=chnroutes
 add address=103.120.88.0/22 disabled=no list=chnroutes
 add address=103.120.96.0/22 disabled=no list=chnroutes
 add address=103.120.100.0/22 disabled=no list=chnroutes
