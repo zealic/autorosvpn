@@ -5339,7 +5339,8 @@ add address=114.111.0.0/19 disabled=no list=novpn
 add address=114.111.160.0/19 disabled=no list=novpn
 add address=114.112.0.0/14 disabled=no list=novpn
 add address=114.116.0.0/16 disabled=no list=novpn
-add address=114.117.0.0/16 disabled=no list=novpn
+add address=114.117.0.0/17 disabled=no list=novpn
+add address=114.117.128.0/17 disabled=no list=novpn
 add address=114.118.0.0/16 disabled=no list=novpn
 add address=114.119.0.0/17 disabled=no list=novpn
 add address=114.119.192.0/21 disabled=no list=novpn
