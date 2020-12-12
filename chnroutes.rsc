@@ -4109,6 +4109,8 @@ add address=103.159.122.0/23 disabled=no list=chnroutes
 add address=103.159.124.0/23 disabled=no list=chnroutes
 add address=103.159.134.0/23 disabled=no list=chnroutes
 add address=103.159.142.0/23 disabled=no list=chnroutes
+add address=103.160.32.0/23 disabled=no list=chnroutes
+add address=103.160.34.0/23 disabled=no list=chnroutes
 add address=103.192.0.0/22 disabled=no list=chnroutes
 add address=103.192.4.0/22 disabled=no list=chnroutes
 add address=103.192.8.0/22 disabled=no list=chnroutes
