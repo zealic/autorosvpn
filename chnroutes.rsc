@@ -3923,7 +3923,6 @@ add address=103.142.82.0/23 disabled=no list=chnroutes
 add address=103.142.96.0/23 disabled=no list=chnroutes
 add address=103.142.102.0/23 disabled=no list=chnroutes
 add address=103.142.122.0/23 disabled=no list=chnroutes
-add address=103.142.126.0/24 disabled=no list=chnroutes
 add address=103.142.128.0/23 disabled=no list=chnroutes
 add address=103.142.140.0/23 disabled=no list=chnroutes
 add address=103.142.154.0/23 disabled=no list=chnroutes
