@@ -1730,7 +1730,6 @@ add address=59.155.0.0/16 disabled=no list=novpn
 add address=59.172.0.0/15 disabled=no list=novpn
 add address=59.174.0.0/15 disabled=no list=novpn
 add address=59.191.0.0/17 disabled=no list=novpn
-add address=59.191.240.0/20 disabled=no list=novpn
 add address=59.192.0.0/10 disabled=no list=novpn
 add address=60.0.0.0/13 disabled=no list=novpn
 add address=60.8.0.0/15 disabled=no list=novpn
