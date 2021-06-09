@@ -4524,7 +4524,6 @@ add address=103.213.180.0/22 disabled=no list=chnroutes
 add address=103.213.184.0/22 disabled=no list=chnroutes
 add address=103.213.188.0/22 disabled=no list=chnroutes
 add address=103.213.248.0/22 disabled=no list=chnroutes
-add address=103.214.32.0/22 disabled=no list=chnroutes
 add address=103.214.48.0/22 disabled=no list=chnroutes
 add address=103.214.84.0/22 disabled=no list=chnroutes
 add address=103.214.168.0/22 disabled=no list=chnroutes
