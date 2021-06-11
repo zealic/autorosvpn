@@ -3658,7 +3658,6 @@ add address=103.110.92.0/22 disabled=no list=chnroutes
 add address=103.110.116.0/22 disabled=no list=chnroutes
 add address=103.110.127.0/24 disabled=no list=chnroutes
 add address=103.110.128.0/23 disabled=no list=chnroutes
-add address=103.110.131.0/24 disabled=no list=chnroutes
 add address=103.110.132.0/22 disabled=no list=chnroutes
 add address=103.110.136.0/22 disabled=no list=chnroutes
 add address=103.110.152.0/22 disabled=no list=chnroutes
