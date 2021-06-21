@@ -23,6 +23,7 @@ add address=1.8.32.0/19 disabled=no list=chnroutes-cnnic
 add address=1.8.64.0/18 disabled=no list=chnroutes-cnnic
 add address=1.8.128.0/17 disabled=no list=chnroutes-cnnic
 add address=1.88.0.0/14 disabled=no list=chnroutes-cnnic
+add address=1.92.0.0/16 disabled=no list=chnroutes-cnnic
 add address=1.92.0.0/15 disabled=no list=chnroutes-cnnic
 add address=1.92.32.0/19 disabled=no list=chnroutes-cnnic
 add address=1.93.0.0/16 disabled=no list=chnroutes-cnnic
@@ -237,6 +238,3 @@ add address=103.11.180.0/22 disabled=no list=chnroutes-cnnic
 add address=103.110.116.0/22 disabled=no list=chnroutes-cnnic
 add address=103.110.132.0/22 disabled=no list=chnroutes-cnnic
 add address=103.110.136.0/22 disabled=no list=chnroutes-cnnic
-add address=103.110.152.0/22 disabled=no list=chnroutes-cnnic
-add address=103.110.156.0/22 disabled=no list=chnroutes-cnnic
-add address=103.110.188.0/22 disabled=no list=chnroutes-cnnic
