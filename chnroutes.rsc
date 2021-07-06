@@ -4542,7 +4542,6 @@ add address=103.215.108.0/22 disabled=no list=chnroutes
 add address=103.215.116.0/22 disabled=no list=chnroutes
 add address=103.215.120.0/22 disabled=no list=chnroutes
 add address=103.215.140.0/22 disabled=no list=chnroutes
-add address=103.215.228.0/22 disabled=no list=chnroutes
 add address=103.216.4.0/22 disabled=no list=chnroutes
 add address=103.216.8.0/22 disabled=no list=chnroutes
 add address=103.216.12.0/22 disabled=no list=chnroutes
