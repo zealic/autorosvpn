@@ -729,7 +729,6 @@ add address=43.240.208.0/22 disabled=no list=novpn
 add address=43.240.212.0/22 disabled=no list=novpn
 add address=43.240.216.0/22 disabled=no list=novpn
 add address=43.240.220.0/22 disabled=no list=novpn
-add address=43.240.236.0/22 disabled=no list=novpn
 add address=43.240.240.0/22 disabled=no list=novpn
 add address=43.240.244.0/22 disabled=no list=novpn
 add address=43.240.248.0/22 disabled=no list=novpn
@@ -2450,7 +2449,6 @@ add address=103.36.232.0/22 disabled=no list=novpn
 add address=103.36.236.0/22 disabled=no list=novpn
 add address=103.36.240.0/22 disabled=no list=novpn
 add address=103.36.244.0/22 disabled=no list=novpn
-add address=103.37.0.0/22 disabled=no list=novpn
 add address=103.37.12.0/22 disabled=no list=novpn
 add address=103.37.16.0/22 disabled=no list=novpn
 add address=103.37.24.0/22 disabled=no list=novpn
