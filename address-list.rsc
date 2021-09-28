@@ -5820,7 +5820,8 @@ add address=121.255.0.0/16 disabled=no list=novpn
 add address=122.0.64.0/18 disabled=no list=novpn
 add address=122.0.128.0/17 disabled=no list=novpn
 add address=122.4.0.0/14 disabled=no list=novpn
-add address=122.8.0.0/16 disabled=no list=novpn
+add address=122.8.0.0/17 disabled=no list=novpn
+add address=122.8.192.0/18 disabled=no list=novpn
 add address=122.9.0.0/16 disabled=no list=novpn
 add address=122.10.128.0/22 disabled=no list=novpn
 add address=122.10.132.0/23 disabled=no list=novpn
