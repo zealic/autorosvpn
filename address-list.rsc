@@ -604,7 +604,6 @@ add address=43.237.180.0/22 disabled=no list=novpn
 add address=43.237.184.0/22 disabled=no list=novpn
 add address=43.237.188.0/22 disabled=no list=novpn
 add address=43.237.192.0/22 disabled=no list=novpn
-add address=43.237.196.0/22 disabled=no list=novpn
 add address=43.237.200.0/22 disabled=no list=novpn
 add address=43.237.204.0/22 disabled=no list=novpn
 add address=43.237.208.0/22 disabled=no list=novpn
