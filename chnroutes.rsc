@@ -4444,7 +4444,6 @@ add address=103.208.28.0/22 disabled=no list=chnroutes
 add address=103.208.40.0/22 disabled=no list=chnroutes
 add address=103.208.44.0/22 disabled=no list=chnroutes
 add address=103.208.48.0/22 disabled=no list=chnroutes
-add address=103.208.148.0/22 disabled=no list=chnroutes
 add address=103.209.112.0/22 disabled=no list=chnroutes
 add address=103.209.136.0/22 disabled=no list=chnroutes
 add address=103.209.200.0/22 disabled=no list=chnroutes
