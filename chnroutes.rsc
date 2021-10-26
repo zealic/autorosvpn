@@ -4147,6 +4147,7 @@ add address=103.173.102.0/23 disabled=no list=chnroutes
 add address=103.173.182.0/23 disabled=no list=chnroutes
 add address=103.173.184.0/23 disabled=no list=chnroutes
 add address=103.174.94.0/23 disabled=no list=chnroutes
+add address=103.175.14.0/23 disabled=no list=chnroutes
 add address=103.192.0.0/22 disabled=no list=chnroutes
 add address=103.192.4.0/22 disabled=no list=chnroutes
 add address=103.192.8.0/22 disabled=no list=chnroutes
@@ -5679,7 +5680,6 @@ add address=119.40.64.0/20 disabled=no list=chnroutes
 add address=119.40.128.0/17 disabled=no list=chnroutes
 add address=119.41.0.0/16 disabled=no list=chnroutes
 add address=119.42.0.0/19 disabled=no list=chnroutes
-add address=119.42.52.0/22 disabled=no list=chnroutes
 add address=119.42.128.0/21 disabled=no list=chnroutes
 add address=119.42.136.0/21 disabled=no list=chnroutes
 add address=119.42.224.0/19 disabled=no list=chnroutes
