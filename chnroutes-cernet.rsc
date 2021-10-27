@@ -156,5 +156,3 @@ add address=202.199.64.0/20 disabled=no list=chnroutes-cernet
 add address=202.199.80.0/21 disabled=no list=chnroutes-cernet
 add address=202.199.88.0/21 disabled=no list=chnroutes-cernet
 add address=202.199.96.0/20 disabled=no list=chnroutes-cernet
-add address=202.38.125.0/29 disabled=no list=chnroutes-cernet
-add address=202.38.126.0/23 disabled=no list=chnroutes-cernet
