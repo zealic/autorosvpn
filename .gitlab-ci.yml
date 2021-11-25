@@ -18,5 +18,5 @@ update-by-changes:
     - schedules
     - web
   script:
-    - apk add git openssh-client ipcalc
+    - apk add git openssh-client ipcalc grep
     - make
