@@ -63,7 +63,7 @@ make_route(){
     | awk -v name=$name '{ print "add address=" $1, "disabled=no", "list=" name }'
 }
 
-make_route_regions(){
+make_route_zones(){
   local name=$1
   local iplist=$2
   local zonelist=$3
@@ -78,7 +78,28 @@ make_route_regions(){
   while read line; do
   	local fields=($(echo "$line"))
     local address=${fields[0]}
-    local region=$(echo "${fields[1]}" | grep -Eo '.+[^0-9]')
+    local zone=$(echo "${fields[1]}" | grep -Eo '.+[^0-9]')
+    echo "add address=$address disabled=no list=$name@$zone"
+  done < $merged_file
+  rm $merged_file $zonelist_trimed
+}
+
+make_route_regions(){
+  local name=$1
+  local iplist=$2
+  local zonelist=$3
+  local zonelist_trimed=$3.trimed
+  local merged_file=$1.merged
+  cat $zonelist | grep -Eo '^[^-]+$' > $zonelist_trimed
+  cat $zonelist_trimed | uniq \
+    | awk -v name=$name '{ print "/ip firewall address-list remove [/ip firewall address-list find list=" name "@" $1 "]"}'
+  echo "/ip firewall address-list"
+  paste $iplist $zonelist > $merged_file
+
+  while read line; do
+    local fields=($(echo "$line"))
+    local address=${fields[0]}
+    local region=$(echo "${fields[1]}" | grep -Eo '^[^-]+')
     echo "add address=$address disabled=no list=$name@$region"
   done < $merged_file
   rm $merged_file $zonelist_trimed
@@ -95,12 +116,14 @@ generate(){
   local zonelist=${provider}_zones.list
   prepare_${provider}_route ${provider}.json $iplist $zonelist
   # IP lists
-  cat $iplist | trim_ipv6 > route-${provider}.txt
+  cat $iplist | trim_ipv6 | sort -t . -n > route-${provider}.txt
   # All routes
   make_route route-${provider} $iplist | trim_ipv6 > route-${provider}.rsc
   if [[ -f $zonelist ]]; then
-  # Regions route
-    make_route_regions route-${provider} $iplist $zonelist | trim_ipv6 > route-${provider}-regions.rsc
+    # Regions route
+    make_route_regions route-${provider} $iplist $zonelist | uniq | trim_ipv6 > route-${provider}-regions.rsc
+    # Zones route
+    make_route_zones   route-${provider} $iplist $zonelist | trim_ipv6 > route-${provider}-zones.rsc
     rm $zonelist
   fi
   rm $iplist
