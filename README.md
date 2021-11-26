@@ -1,5 +1,5 @@
 # autorosvpn
-China Route Tables
+China Routes and Cloud Service Provider Routes.
 
 ## Usage
 
@@ -39,6 +39,15 @@ Router OS only import script:
   中国CNNIC
 * chnroutes-crtc  
   中国铁通路由表
+
+### Cloud Service Providers Routes
+
+* route-aws  
+  Amazon Web Services IP Route Ranges
+* route-azure  
+  Microsoft Azure IP Route Ranges
+* route-gcp  
+  Google Cloud Platform IP Route Ranges
 
 ### TODO
 Parse routes from:
