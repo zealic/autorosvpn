@@ -1,4 +1,6 @@
 #!/bin/bash
+WHOIS3="docker run -i --rm zealic/whois3"
+
 prepare_cloudflare_route(){
   local url="https://api.cloudflare.com/client/v4/ips"
   local file=$1
@@ -7,6 +9,13 @@ prepare_cloudflare_route(){
   curl -fsSL -o $file ${url}
   cat $file | tr -d '\\' | grep -Eo "([0-9]+\.+){3}[0-9]+\/[0-9]+" | sort -t . -n > $iplist
   rm $file
+}
+
+prepare_mikrotik_route(){
+  local whois_host=riswhois.ripe.net
+  local asn=51894
+  local iplist=$2
+  ${WHOIS3} -h $whois_host -i $asn | grep route: | awk '{print $2}' | sort -t . -n > $iplist
 }
 
 generate(){
@@ -55,4 +64,4 @@ trim_ipv6() {
 }
 
 generate cloudflare
-
+generate mikrotik
