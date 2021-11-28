@@ -218,7 +218,7 @@ generate(){
   popd > /dev/null
 }
 
-#generate aws
-#generate azure
+generate aws
+generate azure
 generate gcp
 
