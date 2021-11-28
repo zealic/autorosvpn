@@ -24,12 +24,12 @@ generate(){
   local iplist=${site}_ips.list
 
   echo Generating $site routes...
-  if [[ -d $site ]]; then
-    rm -r $site
+  if [[ -d sites/$site ]]; then
+    rm -r sites/$site
   fi
-  mkdir $site
+  mkdir -p sites/$site
 
-  pushd $site > /dev/null
+  pushd sites/$site > /dev/null
   prepare_${site}_route ${site}.json $iplist
 
   cat $iplist | write_rsc ${name} > route-${name}.rsc
