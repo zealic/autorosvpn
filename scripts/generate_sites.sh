@@ -41,7 +41,7 @@ generate(){
 
 write_rsc(){
   local name=$1
-  echo "/ip firewall address-list remove [/ip firewall address-list find list=\"${name}\""
+  echo "/ip firewall address-list remove [/ip firewall address-list find list=\"${name}\"]"
   echo "/ip firewall address-list"
   while read line; do
     local fields=($(echo "$line"))

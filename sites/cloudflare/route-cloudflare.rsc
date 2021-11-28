@@ -1,4 +1,4 @@
-/ip firewall address-list remove [/ip firewall address-list find list="route-cloudflare"
+/ip firewall address-list remove [/ip firewall address-list find list="route-cloudflare"]
 /ip firewall address-list
 add address=103.21.244.0/22 disabled=no list=route-cloudflare
 add address=103.22.200.0/22 disabled=no list=route-cloudflare
