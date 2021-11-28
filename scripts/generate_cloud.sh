@@ -174,7 +174,7 @@ write_rsc(){
     local fields=($(echo "$line"))
     local address=${fields[0]}
     echo "add address=$address disabled=no list=$name"
-  done | trim_ipv6
+  done | uniq | trim_ipv6
 }
 
 write_txt(){
@@ -182,7 +182,7 @@ write_txt(){
     local fields=($(echo "$line"))
     local address=${fields[0]}
     echo "$address"
-  done | trim_ipv6 | sort -t . -n 
+  done | uniq | trim_ipv6 | sort -t . -n 
 }
 
 trim_ipv6() {
