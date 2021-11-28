@@ -59,7 +59,7 @@ make_route(){
   local iplist=$2
   echo "/ip firewall address-list remove [/ip firewall address-list find list=${name}]"
   echo "/ip firewall address-list"
-  cat $iplist | sort -t . -n \
+  cat $iplist | sort -t . -n | uniq \
     | awk -v name=$name '{ print "add address=" $1, "disabled=no", "list=" name }'
 }
 
