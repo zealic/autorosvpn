@@ -204,7 +204,7 @@ write_txt(){
     local fields=($(echo "$line"))
     local address=${fields[0]}
     echo "$address"
-  done | trim_ipv6
+  done | trim_ipv6 | sort -t . -n 
 }
 
 trim_ipv6() {
