@@ -102,25 +102,11 @@ make_route_zones(){
 
   paste $iplist $zonelist $zonelist_trimed | sort -k2 > $merged_file
 
-  # All
-  cat $merged_file |
-  {
-    cat $zonelist_trimed | sort | uniq \
-      | awk -v name=$name '{ print "/ip firewall address-list remove [/ip firewall address-list find list=" name "@" $1 "]"}'
-    echo "/ip firewall address-list"
-    while read line; do
-      local fields=($(echo "$line"))
-      local address=${fields[0]}
-      local zone=${fields[2]}
-      echo "add address=$address disabled=no list=$name@$zone"
-    done
-  } | trim_ipv6 > $name-zones.rsc
-
   # Zones
   cat $zonelist_trimed | sort | uniq |
   {
     while read zone; do
-      grep -E "${zone}$" $merged_file | write_rsc $name@$zone > $name@$zone.rsc
+      grep -E "${zone}$" $merged_file | sort -t . -n | write_rsc $name@$zone > $name@$zone.rsc
       grep -E "${zone}$" $merged_file | write_txt > $name@$zone.txt
     done
   }
@@ -129,10 +115,13 @@ make_route_zones(){
   cat $zonelist | sort | uniq |
   {
     while read subzone; do
-      grep "${subzone}" $merged_file | write_rsc $name@$subzone > $name@$subzone.rsc
+      grep "${subzone}" $merged_file | sort -t . -n | write_rsc $name@$subzone > $name@$subzone.rsc
       grep "${subzone}" $merged_file | write_txt > $name@$subzone.txt
     done
   }
+
+  # All
+  cat $zonelist_trimed | sort | uniq | awk -v name=$name '{ print name "@" $1 ".rsc" }' | xargs cat > $name-zones.rsc 
 
   rm $merged_file $zonelist_trimed
 }
@@ -162,28 +151,17 @@ make_route_regions(){
 
   paste $iplist $zonelist $zonelist_trimed | sort -k2 > $merged_file
 
-  # All
-  cat $merged_file |
-  {
-    cat $zonelist_trimed | sort | uniq \
-      | awk -v name=$name '{ print "/ip firewall address-list remove [/ip firewall address-list find list=" name "@" $1 "]"}'
-    echo "/ip firewall address-list"
-    while read line; do
-      local fields=($(echo "$line"))
-      local address=${fields[0]}
-      local region=${fields[2]}
-      echo "add address=$address disabled=no list=$name@$region"
-    done
-  } > $name-regions.rsc
-
   # Regions
   cat $zonelist_trimed | sort | uniq |
   {
     while read region; do
-      grep -E "${region}$" $merged_file | write_rsc $name@$region > $name@$region.rsc
+      grep -E "${region}$" $merged_file | sort -t . -n |write_rsc $name@$region > $name@$region.rsc
       grep -E "${region}$" $merged_file | write_txt > $name@$region.txt
     done
   }
+
+  # All
+  cat $zonelist_trimed | sort | uniq | awk -v name=$name '{ print name "@" $1 ".rsc" }' | xargs cat > $name-regions.rsc 
 
   rm $merged_file $zonelist_trimed
 }
