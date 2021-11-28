@@ -10,5 +10,5 @@ Host *
 EOF
 
 git add **/*.txt **/*.rsc || true
-git commit -am "Update list @ $(date '+%F')"
+git commit -am "update: Update list @ $(date '+%F')"
 git push origin HEAD:master
