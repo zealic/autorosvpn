@@ -1,9 +1,6 @@
 /ip firewall address-list remove [/ip firewall address-list find list="route-aws@af-south"]
 /ip firewall address-list
 add address=3.5.228.0/22 disabled=no list=route-aws@af-south
-add address=3.5.228.0/22 disabled=no list=route-aws@af-south
-add address=3.5.228.0/22 disabled=no list=route-aws@af-south
-add address=13.244.0.0/15 disabled=no list=route-aws@af-south
 add address=13.244.0.0/15 disabled=no list=route-aws@af-south
 add address=13.244.121.0/26 disabled=no list=route-aws@af-south
 add address=13.244.121.196/30 disabled=no list=route-aws@af-south
@@ -36,12 +33,8 @@ add address=13.245.93.160/29 disabled=no list=route-aws@af-south
 add address=13.245.93.176/28 disabled=no list=route-aws@af-south
 add address=13.245.93.192/28 disabled=no list=route-aws@af-south
 add address=13.246.0.0/16 disabled=no list=route-aws@af-south
-add address=13.246.0.0/16 disabled=no list=route-aws@af-south
 add address=13.247.0.0/16 disabled=no list=route-aws@af-south
 add address=15.177.91.0/24 disabled=no list=route-aws@af-south
-add address=15.177.91.0/24 disabled=no list=route-aws@af-south
-add address=15.177.91.0/24 disabled=no list=route-aws@af-south
-add address=15.193.10.0/24 disabled=no list=route-aws@af-south
 add address=15.193.10.0/24 disabled=no list=route-aws@af-south
 add address=15.221.52.0/24 disabled=no list=route-aws@af-south
 add address=15.230.138.0/24 disabled=no list=route-aws@af-south
@@ -52,21 +45,13 @@ add address=52.93.126.146/32 disabled=no list=route-aws@af-south
 add address=52.93.126.147/32 disabled=no list=route-aws@af-south
 add address=52.93.57.0/24 disabled=no list=route-aws@af-south
 add address=52.94.249.176/28 disabled=no list=route-aws@af-south
-add address=52.94.249.176/28 disabled=no list=route-aws@af-south
-add address=52.94.30.0/24 disabled=no list=route-aws@af-south
 add address=52.94.30.0/24 disabled=no list=route-aws@af-south
 add address=52.95.175.0/24 disabled=no list=route-aws@af-south
-add address=52.95.175.0/24 disabled=no list=route-aws@af-south
-add address=52.95.176.0/24 disabled=no list=route-aws@af-south
 add address=52.95.176.0/24 disabled=no list=route-aws@af-south
 add address=52.95.180.0/24 disabled=no list=route-aws@af-south
-add address=52.95.180.0/24 disabled=no list=route-aws@af-south
-add address=52.95.229.0/24 disabled=no list=route-aws@af-south
 add address=52.95.229.0/24 disabled=no list=route-aws@af-south
 add address=54.239.1.128/28 disabled=no list=route-aws@af-south
 add address=99.150.104.0/21 disabled=no list=route-aws@af-south
-add address=99.150.104.0/21 disabled=no list=route-aws@af-south
-add address=99.77.148.0/24 disabled=no list=route-aws@af-south
 add address=99.77.148.0/24 disabled=no list=route-aws@af-south
 add address=99.78.128.0/20 disabled=no list=route-aws@af-south
 add address=99.78.144.0/21 disabled=no list=route-aws@af-south
