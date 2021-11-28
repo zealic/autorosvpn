@@ -42,18 +42,18 @@ Router OS only import script:
 
 ### Cloud Service Providers Routes
 
-* aws  
+* [aws](https://github.com/zealic/autorosvpn/tree/master/cloud/aws)  
   [Amazon Web Services](https://aws.amazon.com/cn/) Routes
-* azure  
+* [azure](https://github.com/zealic/autorosvpn/tree/master/cloud/azure)  
   [Microsoft Azure](https://azure.microsoft.com/) Routes
-* gcp  
+* [gcp](https://github.com/zealic/autorosvpn/tree/master/cloud/gcp)  
   [Google Cloud Platform](https://cloud.google.com/) Routes
 
 ### Web Sites
 
-* cloudflare  
+* [cloudflare](https://github.com/zealic/autorosvpn/tree/master/sites/cloudflare)  
   [Cloudflare CDN Provider](https://www.cloudflare.com)
-* mikrotik  
+* [mikrotik](https://github.com/zealic/autorosvpn/tree/master/sites/mikrotik)  
   [Mikrotik](https://mikrotik.com/)
 
 ### TODO

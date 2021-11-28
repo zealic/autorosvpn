@@ -196,12 +196,12 @@ generate(){
   local zonelist=${provider}_zones.list
 
   echo Generating $provider routes...
-  if [[ -d $provider ]]; then
-    rm -r $provider
+  if [[ -d cloud/$provider ]]; then
+    rm -r cloud/$provider
   fi
-  mkdir $provider
+  mkdir -p cloud/$provider
 
-  pushd $provider > /dev/null
+  pushd cloud/$provider > /dev/null
   prepare_${provider}_route ${provider}.json $iplist $zonelist
   # IP lists
   cat $iplist | trim_ipv6 | sort -t . -n > route-${provider}.txt
