@@ -120,7 +120,7 @@ make_route_zones(){
   cat $zonelist_trimed | sort | uniq |
   {
     while read zone; do
-      grep -E "${zone}$" $merged_file | write_rsc name@$zone > $name@$zone.rsc
+      grep -E "${zone}$" $merged_file | write_rsc $name@$zone > $name@$zone.rsc
       grep -E "${zone}$" $merged_file | write_txt > $name@$zone.txt
     done
   }
@@ -129,7 +129,7 @@ make_route_zones(){
   cat $zonelist | sort | uniq |
   {
     while read subzone; do
-      grep "${subzone}" $merged_file | write_rsc $subzone > $name@$subzone.rsc
+      grep "${subzone}" $merged_file | write_rsc $name@$subzone > $name@$subzone.rsc
       grep "${subzone}" $merged_file | write_txt > $name@$subzone.txt
     done
   }
@@ -240,7 +240,7 @@ generate(){
   popd > /dev/null
 }
 
-generate aws
-generate azure
+#generate aws
+#generate azure
 generate gcp
 

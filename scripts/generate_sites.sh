@@ -32,8 +32,8 @@ generate(){
   pushd sites/$site > /dev/null
   prepare_${site}_route ${site}.json $iplist
 
-  cat $iplist | write_rsc ${name} > route-${name}.rsc
-  cat $iplist | write_txt ${name} > route-${name}.txt
+  cat $iplist | write_rsc route-${name} > route-${name}.rsc
+  cat $iplist | write_txt route-${name} > route-${name}.txt
 
   rm $iplist
   popd > /dev/null
