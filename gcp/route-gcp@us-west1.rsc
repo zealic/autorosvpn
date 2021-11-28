@@ -1,9 +1,5 @@
 /ip firewall address-list remove [/ip firewall address-list find list="route-gcp@us-west1"
 /ip firewall address-list
-add address=104.196.224.0/19 disabled=no list=route-gcp@us-west1
-add address=104.198.0.0/20 disabled=no list=route-gcp@us-west1
-add address=104.198.96.0/20 disabled=no list=route-gcp@us-west1
-add address=104.199.112.0/20 disabled=no list=route-gcp@us-west1
 add address=34.105.0.0/17 disabled=no list=route-gcp@us-west1
 add address=34.127.0.0/17 disabled=no list=route-gcp@us-west1
 add address=34.145.0.0/17 disabled=no list=route-gcp@us-west1
@@ -22,3 +18,7 @@ add address=35.233.128.0/17 disabled=no list=route-gcp@us-west1
 add address=35.242.48.0/21 disabled=no list=route-gcp@us-west1
 add address=35.243.32.0/21 disabled=no list=route-gcp@us-west1
 add address=35.247.0.0/17 disabled=no list=route-gcp@us-west1
+add address=104.196.224.0/19 disabled=no list=route-gcp@us-west1
+add address=104.198.0.0/20 disabled=no list=route-gcp@us-west1
+add address=104.198.96.0/20 disabled=no list=route-gcp@us-west1
+add address=104.199.112.0/20 disabled=no list=route-gcp@us-west1
