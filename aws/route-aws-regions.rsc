@@ -1,4 +1,4 @@
-/ip firewall address-list remove [/ip firewall address-list find list="route-aws@af"
+/ip firewall address-list remove [/ip firewall address-list find list="route-aws@af"]
 /ip firewall address-list
 add address=3.5.228.0/22 disabled=no list=route-aws@af
 add address=3.5.228.0/22 disabled=no list=route-aws@af
@@ -94,7 +94,7 @@ add address=150.222.242.229/32 disabled=no list=route-aws@af
 add address=150.222.242.231/32 disabled=no list=route-aws@af
 add address=150.222.242.233/32 disabled=no list=route-aws@af
 add address=150.222.92.0/22 disabled=no list=route-aws@af
-/ip firewall address-list remove [/ip firewall address-list find list="route-aws@ap"
+/ip firewall address-list remove [/ip firewall address-list find list="route-aws@ap"]
 /ip firewall address-list
 add address=3.0.0.0/15 disabled=no list=route-aws@ap
 add address=3.0.0.0/15 disabled=no list=route-aws@ap
@@ -1433,7 +1433,7 @@ add address=176.34.0.0/19 disabled=no list=route-aws@ap
 add address=176.34.32.0/19 disabled=no list=route-aws@ap
 add address=176.34.32.0/19 disabled=no list=route-aws@ap
 add address=203.83.220.0/22 disabled=no list=route-aws@ap
-/ip firewall address-list remove [/ip firewall address-list find list="route-aws@ca"
+/ip firewall address-list remove [/ip firewall address-list find list="route-aws@ca"]
 /ip firewall address-list
 add address=3.5.252.0/22 disabled=no list=route-aws@ca
 add address=3.5.252.0/22 disabled=no list=route-aws@ca
@@ -1559,7 +1559,7 @@ add address=99.79.34.0/23 disabled=no list=route-aws@ca
 add address=99.82.174.0/24 disabled=no list=route-aws@ca
 add address=99.82.174.0/24 disabled=no list=route-aws@ca
 add address=150.222.109.0/24 disabled=no list=route-aws@ca
-/ip firewall address-list remove [/ip firewall address-list find list="route-aws@cn"
+/ip firewall address-list remove [/ip firewall address-list find list="route-aws@cn"]
 /ip firewall address-list
 add address=15.230.141.0/24 disabled=no list=route-aws@cn
 add address=15.230.41.0/24 disabled=no list=route-aws@cn
@@ -1707,7 +1707,7 @@ add address=161.189.0.0/16 disabled=no list=route-aws@cn
 add address=161.189.148.0/23 disabled=no list=route-aws@cn
 add address=161.189.66.128/26 disabled=no list=route-aws@cn
 add address=161.189.66.192/26 disabled=no list=route-aws@cn
-/ip firewall address-list remove [/ip firewall address-list find list="route-aws@eu"
+/ip firewall address-list remove [/ip firewall address-list find list="route-aws@eu"]
 /ip firewall address-list
 add address=3.10.127.32/27 disabled=no list=route-aws@eu
 add address=3.10.17.0/25 disabled=no list=route-aws@eu
@@ -3126,7 +3126,7 @@ add address=195.17.0.0/24 disabled=no list=route-aws@eu
 add address=208.86.90.0/23 disabled=no list=route-aws@eu
 add address=208.86.90.0/23 disabled=no list=route-aws@eu
 add address=209.54.184.0/21 disabled=no list=route-aws@eu
-/ip firewall address-list remove [/ip firewall address-list find list="route-aws@global"
+/ip firewall address-list remove [/ip firewall address-list find list="route-aws@global"]
 /ip firewall address-list
 add address=3.2.8.0/21 disabled=no list=route-aws@global
 add address=3.2.8.0/21 disabled=no list=route-aws@global
@@ -3426,7 +3426,7 @@ add address=223.71.71.128/25 disabled=no list=route-aws@global
 add address=223.71.71.128/25 disabled=no list=route-aws@global
 add address=223.71.71.96/27 disabled=no list=route-aws@global
 add address=223.71.71.96/27 disabled=no list=route-aws@global
-/ip firewall address-list remove [/ip firewall address-list find list="route-aws@me"
+/ip firewall address-list remove [/ip firewall address-list find list="route-aws@me"]
 /ip firewall address-list
 add address=3.28.0.0/15 disabled=no list=route-aws@me
 add address=3.28.0.0/15 disabled=no list=route-aws@me
@@ -3528,7 +3528,7 @@ add address=157.175.102.160/27 disabled=no list=route-aws@me
 add address=157.175.102.96/27 disabled=no list=route-aws@me
 add address=157.175.140.0/23 disabled=no list=route-aws@me
 add address=157.241.0.0/16 disabled=no list=route-aws@me
-/ip firewall address-list remove [/ip firewall address-list find list="route-aws@sa"
+/ip firewall address-list remove [/ip firewall address-list find list="route-aws@sa"]
 /ip firewall address-list
 add address=3.5.232.0/22 disabled=no list=route-aws@sa
 add address=3.5.232.0/22 disabled=no list=route-aws@sa
@@ -3734,7 +3734,7 @@ add address=177.71.128.0/17 disabled=no list=route-aws@sa
 add address=177.71.128.0/17 disabled=no list=route-aws@sa
 add address=177.71.207.128/26 disabled=no list=route-aws@sa
 add address=177.72.240.0/21 disabled=no list=route-aws@sa
-/ip firewall address-list remove [/ip firewall address-list find list="route-aws@us"
+/ip firewall address-list remove [/ip firewall address-list find list="route-aws@us"]
 /ip firewall address-list
 add address=3.100.0.0/16 disabled=no list=route-aws@us
 add address=3.101.0.0/16 disabled=no list=route-aws@us

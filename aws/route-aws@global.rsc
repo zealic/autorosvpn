@@ -1,4 +1,4 @@
-/ip firewall address-list remove [/ip firewall address-list find list="route-aws@global"
+/ip firewall address-list remove [/ip firewall address-list find list="route-aws@global"]
 /ip firewall address-list
 add address=3.2.8.0/21 disabled=no list=route-aws@global
 add address=3.2.8.0/21 disabled=no list=route-aws@global

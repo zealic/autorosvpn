@@ -1,4 +1,4 @@
-/ip firewall address-list remove [/ip firewall address-list find list="route-gcp@global"
+/ip firewall address-list remove [/ip firewall address-list find list="route-gcp@global"]
 /ip firewall address-list
 add address=34.102.128.0/17 disabled=no list=route-gcp@global
 add address=34.104.27.0/24 disabled=no list=route-gcp@global
