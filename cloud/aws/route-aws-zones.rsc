@@ -4910,6 +4910,10 @@ add address=52.93.240.200/31 disabled=no list=route-aws@us-west
 add address=52.93.240.202/31 disabled=no list=route-aws@us-west
 add address=52.93.240.204/31 disabled=no list=route-aws@us-west
 add address=52.93.32.180/32 disabled=no list=route-aws@us-west
+add address=52.93.34.120/31 disabled=no list=route-aws@us-west
+add address=52.93.34.122/31 disabled=no list=route-aws@us-west
+add address=52.93.34.124/31 disabled=no list=route-aws@us-west
+add address=52.93.34.126/31 disabled=no list=route-aws@us-west
 add address=52.93.34.40/32 disabled=no list=route-aws@us-west
 add address=52.93.34.42/32 disabled=no list=route-aws@us-west
 add address=52.93.34.56/32 disabled=no list=route-aws@us-west

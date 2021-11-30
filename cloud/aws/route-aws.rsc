@@ -3488,6 +3488,10 @@ add address=52.93.3.0/24 disabled=no list=route-aws
 add address=52.93.32.176/32 disabled=no list=route-aws
 add address=52.93.32.179/32 disabled=no list=route-aws
 add address=52.93.32.180/32 disabled=no list=route-aws
+add address=52.93.34.120/31 disabled=no list=route-aws
+add address=52.93.34.122/31 disabled=no list=route-aws
+add address=52.93.34.124/31 disabled=no list=route-aws
+add address=52.93.34.126/31 disabled=no list=route-aws
 add address=52.93.34.40/32 disabled=no list=route-aws
 add address=52.93.34.42/32 disabled=no list=route-aws
 add address=52.93.34.56/32 disabled=no list=route-aws

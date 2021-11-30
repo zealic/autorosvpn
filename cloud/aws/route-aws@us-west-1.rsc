@@ -262,6 +262,10 @@ add address=52.93.178.234/32 disabled=no list=route-aws@us-west-1
 add address=52.93.178.235/32 disabled=no list=route-aws@us-west-1
 add address=52.93.237.0/24 disabled=no list=route-aws@us-west-1
 add address=52.93.32.180/32 disabled=no list=route-aws@us-west-1
+add address=52.93.34.120/31 disabled=no list=route-aws@us-west-1
+add address=52.93.34.122/31 disabled=no list=route-aws@us-west-1
+add address=52.93.34.124/31 disabled=no list=route-aws@us-west-1
+add address=52.93.34.126/31 disabled=no list=route-aws@us-west-1
 add address=52.93.34.40/32 disabled=no list=route-aws@us-west-1
 add address=52.93.34.42/32 disabled=no list=route-aws@us-west-1
 add address=52.93.34.56/32 disabled=no list=route-aws@us-west-1
