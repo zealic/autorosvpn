@@ -133,6 +133,7 @@ add address=3.33.34.0/24 disabled=no list=route-aws@us-east-1
 add address=3.4.0.0/24 disabled=no list=route-aws@us-east-1
 add address=3.4.1.0/24 disabled=no list=route-aws@us-east-1
 add address=3.4.2.0/24 disabled=no list=route-aws@us-east-1
+add address=3.4.7.0/24 disabled=no list=route-aws@us-east-1
 add address=3.5.0.0/19 disabled=no list=route-aws@us-east-1
 add address=3.80.0.0/12 disabled=no list=route-aws@us-east-1
 add address=3.83.168.0/22 disabled=no list=route-aws@us-east-1
