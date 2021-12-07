@@ -500,6 +500,10 @@ add address=15.230.193.0/24 disabled=no list=route-aws@us
 add address=15.230.199.0/28 disabled=no list=route-aws@us
 add address=15.230.201.0/24 disabled=no list=route-aws@us
 add address=15.230.202.0/30 disabled=no list=route-aws@us
+add address=15.230.204.0/32 disabled=no list=route-aws@us
+add address=15.230.204.1/32 disabled=no list=route-aws@us
+add address=15.230.204.2/32 disabled=no list=route-aws@us
+add address=15.230.204.3/32 disabled=no list=route-aws@us
 add address=15.230.28.0/24 disabled=no list=route-aws@us
 add address=15.230.35.0/24 disabled=no list=route-aws@us
 add address=15.230.36.0/23 disabled=no list=route-aws@us
