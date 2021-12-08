@@ -7,8 +7,12 @@ add address=13.248.56.0/22 disabled=no list=route-aws@ap-east-1
 add address=13.248.60.0/22 disabled=no list=route-aws@ap-east-1
 add address=13.34.11.0/27 disabled=no list=route-aws@ap-east-1
 add address=13.34.11.32/27 disabled=no list=route-aws@ap-east-1
+add address=13.34.16.64/27 disabled=no list=route-aws@ap-east-1
+add address=13.34.16.96/27 disabled=no list=route-aws@ap-east-1
 add address=13.34.62.0/27 disabled=no list=route-aws@ap-east-1
 add address=13.34.62.32/27 disabled=no list=route-aws@ap-east-1
+add address=13.34.63.0/27 disabled=no list=route-aws@ap-east-1
+add address=13.34.63.32/27 disabled=no list=route-aws@ap-east-1
 add address=13.34.7.64/27 disabled=no list=route-aws@ap-east-1
 add address=13.34.7.96/27 disabled=no list=route-aws@ap-east-1
 add address=15.177.85.0/24 disabled=no list=route-aws@ap-east-1
