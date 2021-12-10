@@ -83,6 +83,10 @@ add address=15.230.131.160/31 disabled=no list=route-aws@eu-central
 add address=15.230.131.162/31 disabled=no list=route-aws@eu-central
 add address=15.230.131.164/31 disabled=no list=route-aws@eu-central
 add address=15.230.131.166/31 disabled=no list=route-aws@eu-central
+add address=15.230.131.168/31 disabled=no list=route-aws@eu-central
+add address=15.230.131.170/31 disabled=no list=route-aws@eu-central
+add address=15.230.131.172/31 disabled=no list=route-aws@eu-central
+add address=15.230.131.174/31 disabled=no list=route-aws@eu-central
 add address=15.230.131.2/32 disabled=no list=route-aws@eu-central
 add address=15.230.131.3/32 disabled=no list=route-aws@eu-central
 add address=15.230.131.32/28 disabled=no list=route-aws@eu-central
