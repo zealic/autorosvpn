@@ -1803,6 +1803,7 @@ add address=16.163.63.64/26 disabled=no list=route-aws
 add address=16.168.0.0/15 disabled=no list=route-aws
 add address=16.170.0.0/15 disabled=no list=route-aws
 add address=16.170.199.0/26 disabled=no list=route-aws
+add address=16.171.48.0/22 disabled=no list=route-aws
 add address=16.50.0.0/15 disabled=no list=route-aws
 add address=16.62.0.0/15 disabled=no list=route-aws
 add address=18.100.0.0/15 disabled=no list=route-aws
