@@ -63,6 +63,8 @@ add address=52.95.188.0/23 disabled=no list=route-aws@me
 add address=52.95.228.0/24 disabled=no list=route-aws@me
 add address=54.239.1.112/28 disabled=no list=route-aws@me
 add address=54.239.1.176/28 disabled=no list=route-aws@me
+add address=69.107.7.128/29 disabled=no list=route-aws@me
+add address=69.107.7.136/29 disabled=no list=route-aws@me
 add address=99.150.120.0/21 disabled=no list=route-aws@me
 add address=99.77.0.0/20 disabled=no list=route-aws@me
 add address=99.77.147.0/24 disabled=no list=route-aws@me

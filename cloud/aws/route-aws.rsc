@@ -4234,6 +4234,8 @@ add address=69.107.7.0/29 disabled=no list=route-aws
 add address=69.107.7.104/29 disabled=no list=route-aws
 add address=69.107.7.112/29 disabled=no list=route-aws
 add address=69.107.7.120/29 disabled=no list=route-aws
+add address=69.107.7.128/29 disabled=no list=route-aws
+add address=69.107.7.136/29 disabled=no list=route-aws
 add address=69.107.7.16/29 disabled=no list=route-aws
 add address=69.107.7.32/29 disabled=no list=route-aws
 add address=69.107.7.40/29 disabled=no list=route-aws
