@@ -4997,6 +4997,9 @@ add address=150.222.227.0/24 disabled=no list=route-aws@us
 add address=150.222.231.0/24 disabled=no list=route-aws@us
 add address=150.222.232.112/31 disabled=no list=route-aws@us
 add address=150.222.232.114/31 disabled=no list=route-aws@us
+add address=150.222.232.116/31 disabled=no list=route-aws@us
+add address=150.222.232.118/31 disabled=no list=route-aws@us
+add address=150.222.232.120/31 disabled=no list=route-aws@us
 add address=150.222.232.51/32 disabled=no list=route-aws@us
 add address=150.222.232.88/32 disabled=no list=route-aws@us
 add address=150.222.232.94/31 disabled=no list=route-aws@us
