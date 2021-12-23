@@ -1343,6 +1343,7 @@ add address=15.197.24.0/22 disabled=no list=route-aws
 add address=15.197.28.0/23 disabled=no list=route-aws
 add address=15.197.3.0/24 disabled=no list=route-aws
 add address=15.197.30.0/23 disabled=no list=route-aws
+add address=15.197.32.0/23 disabled=no list=route-aws
 add address=15.197.4.0/22 disabled=no list=route-aws
 add address=15.197.8.0/22 disabled=no list=route-aws
 add address=15.200.0.0/16 disabled=no list=route-aws
