@@ -539,6 +539,7 @@ add address=18.60.0.0/15 disabled=no list=route-aws@ap
 add address=27.0.0.0/22 disabled=no list=route-aws@ap
 add address=35.154.0.0/16 disabled=no list=route-aws@ap
 add address=35.71.96.0/24 disabled=no list=route-aws@ap
+add address=35.71.97.0/24 disabled=no list=route-aws@ap
 add address=35.72.0.0/13 disabled=no list=route-aws@ap
 add address=35.72.164.212/30 disabled=no list=route-aws@ap
 add address=35.72.164.232/29 disabled=no list=route-aws@ap
