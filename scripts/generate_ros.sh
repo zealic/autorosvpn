@@ -19,7 +19,7 @@ make_ros_ipv6() {
   local file=$1
   local name=$2
   local lan=$3
-  echo "/ipv6 firewall address-list remove [/ip firewall address-list find list=$name]"
+  echo "/ipv6 firewall address-list remove [/ipv6 firewall address-list find list=$name]"
   echo "/ipv6 firewall address-list"
   if [[ ! -z "$lan" ]]; then
     echo "add address=fd00::/8 disabled=no list=$name"

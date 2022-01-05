@@ -1,4 +1,4 @@
-/ipv6 firewall address-list remove [/ip firewall address-list find list=chnroutes.ipv6]
+/ipv6 firewall address-list remove [/ipv6 firewall address-list find list=chnroutes.ipv6]
 /ipv6 firewall address-list
 add address=2001:250::/35 disabled=no list=chnroutes.ipv6
 add address=2001:250:2000::/35 disabled=no list=chnroutes.ipv6

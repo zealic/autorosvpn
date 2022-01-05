@@ -1,4 +1,4 @@
-/ipv6 firewall address-list remove [/ip firewall address-list find list=novpn]
+/ipv6 firewall address-list remove [/ipv6 firewall address-list find list=novpn]
 /ipv6 firewall address-list
 add address=fd00::/8 disabled=no list=novpn
 add address=2001:250::/35 disabled=no list=novpn
