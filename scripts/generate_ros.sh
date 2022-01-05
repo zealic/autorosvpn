@@ -40,4 +40,4 @@ done
 
 # Generate backward Compatibility address-list.rsc
 make_ros chnroutes.txt novpn yes > address-list.rsc
-make_ros_ipv6 chnroutes.ipv6.txt novpn yes > address-list.ipv6.rsc
+make_ros_ipv6 chnroutes.ipv6.txt novpn.ipv6 yes > address-list.ipv6.rsc
