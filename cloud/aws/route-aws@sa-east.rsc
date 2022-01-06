@@ -43,6 +43,7 @@ add address=15.228.92.192/28 disabled=no list=route-aws@sa-east
 add address=15.228.92.208/28 disabled=no list=route-aws@sa-east
 add address=15.228.92.224/27 disabled=no list=route-aws@sa-east
 add address=15.228.97.0/24 disabled=no list=route-aws@sa-east
+add address=15.229.36.0/23 disabled=no list=route-aws@sa-east
 add address=15.230.0.12/31 disabled=no list=route-aws@sa-east
 add address=15.230.0.14/32 disabled=no list=route-aws@sa-east
 add address=15.230.0.4/32 disabled=no list=route-aws@sa-east
