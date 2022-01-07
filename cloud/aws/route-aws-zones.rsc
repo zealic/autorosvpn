@@ -323,6 +323,7 @@ add address=15.230.160.0/24 disabled=no list=route-aws@ap-northeast
 add address=15.230.161.0/24 disabled=no list=route-aws@ap-northeast
 add address=15.230.181.0/24 disabled=no list=route-aws@ap-northeast
 add address=15.230.196.0/24 disabled=no list=route-aws@ap-northeast
+add address=15.230.207.0/24 disabled=no list=route-aws@ap-northeast
 add address=15.230.24.0/22 disabled=no list=route-aws@ap-northeast
 add address=15.230.59.0/24 disabled=no list=route-aws@ap-northeast
 add address=15.230.60.0/24 disabled=no list=route-aws@ap-northeast
@@ -2149,6 +2150,7 @@ add address=15.230.153.0/24 disabled=no list=route-aws@eu-west
 add address=15.230.156.0/24 disabled=no list=route-aws@eu-west
 add address=15.230.158.0/23 disabled=no list=route-aws@eu-west
 add address=15.230.165.0/24 disabled=no list=route-aws@eu-west
+add address=15.230.166.0/24 disabled=no list=route-aws@eu-west
 add address=15.230.173.0/24 disabled=no list=route-aws@eu-west
 add address=15.230.176.0/24 disabled=no list=route-aws@eu-west
 add address=15.230.182.0/24 disabled=no list=route-aws@eu-west
@@ -2156,6 +2158,7 @@ add address=15.230.188.0/25 disabled=no list=route-aws@eu-west
 add address=15.230.188.128/25 disabled=no list=route-aws@eu-west
 add address=15.230.189.0/25 disabled=no list=route-aws@eu-west
 add address=15.230.189.128/25 disabled=no list=route-aws@eu-west
+add address=15.230.19.18/31 disabled=no list=route-aws@eu-west
 add address=15.230.190.0/25 disabled=no list=route-aws@eu-west
 add address=15.230.190.128/25 disabled=no list=route-aws@eu-west
 add address=15.230.195.0/24 disabled=no list=route-aws@eu-west
@@ -3388,6 +3391,7 @@ add address=15.230.135.0/24 disabled=no list=route-aws@us-east
 add address=15.230.137.0/24 disabled=no list=route-aws@us-east
 add address=15.230.14.12/32 disabled=no list=route-aws@us-east
 add address=15.230.14.18/31 disabled=no list=route-aws@us-east
+add address=15.230.14.20/31 disabled=no list=route-aws@us-east
 add address=15.230.14.252/31 disabled=no list=route-aws@us-east
 add address=15.230.140.0/24 disabled=no list=route-aws@us-east
 add address=15.230.142.0/24 disabled=no list=route-aws@us-east
