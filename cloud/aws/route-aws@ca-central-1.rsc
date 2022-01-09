@@ -63,6 +63,7 @@ add address=35.183.38.48/29 disabled=no list=route-aws@ca-central-1
 add address=35.183.38.56/29 disabled=no list=route-aws@ca-central-1
 add address=35.183.38.64/29 disabled=no list=route-aws@ca-central-1
 add address=35.183.92.176/29 disabled=no list=route-aws@ca-central-1
+add address=35.71.119.0/24 disabled=no list=route-aws@ca-central-1
 add address=52.144.199.128/26 disabled=no list=route-aws@ca-central-1
 add address=52.144.201.128/26 disabled=no list=route-aws@ca-central-1
 add address=52.144.201.64/26 disabled=no list=route-aws@ca-central-1

@@ -543,6 +543,14 @@ add address=18.34.64.0/21 disabled=no list=route-aws@ap
 add address=18.60.0.0/15 disabled=no list=route-aws@ap
 add address=27.0.0.0/22 disabled=no list=route-aws@ap
 add address=35.154.0.0/16 disabled=no list=route-aws@ap
+add address=35.71.100.0/24 disabled=no list=route-aws@ap
+add address=35.71.107.0/24 disabled=no list=route-aws@ap
+add address=35.71.108.0/24 disabled=no list=route-aws@ap
+add address=35.71.109.0/24 disabled=no list=route-aws@ap
+add address=35.71.110.0/24 disabled=no list=route-aws@ap
+add address=35.71.112.0/24 disabled=no list=route-aws@ap
+add address=35.71.114.0/24 disabled=no list=route-aws@ap
+add address=35.71.118.0/24 disabled=no list=route-aws@ap
 add address=35.71.96.0/24 disabled=no list=route-aws@ap
 add address=35.71.97.0/24 disabled=no list=route-aws@ap
 add address=35.72.0.0/13 disabled=no list=route-aws@ap
