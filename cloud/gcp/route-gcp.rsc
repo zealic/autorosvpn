@@ -50,7 +50,6 @@ add address=34.107.0.0/17 disabled=no list=route-gcp
 add address=34.107.128.0/17 disabled=no list=route-gcp
 add address=34.108.0.0/16 disabled=no list=route-gcp
 add address=34.110.128.0/17 disabled=no list=route-gcp
-add address=34.110.8.0/24 disabled=no list=route-gcp
 add address=34.111.0.0/16 disabled=no list=route-gcp
 add address=34.116.0.0/21 disabled=no list=route-gcp
 add address=34.116.128.0/17 disabled=no list=route-gcp

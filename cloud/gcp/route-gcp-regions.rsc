@@ -249,7 +249,6 @@ add address=34.102.128.0/17 disabled=no list=route-gcp@global
 add address=34.104.27.0/24 disabled=no list=route-gcp@global
 add address=34.107.128.0/17 disabled=no list=route-gcp@global
 add address=34.110.128.0/17 disabled=no list=route-gcp@global
-add address=34.110.8.0/24 disabled=no list=route-gcp@global
 add address=34.111.0.0/16 disabled=no list=route-gcp@global
 add address=34.116.0.0/21 disabled=no list=route-gcp@global
 add address=34.117.0.0/16 disabled=no list=route-gcp@global

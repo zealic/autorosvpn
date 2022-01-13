@@ -531,5 +531,3 @@ add address=219.149.0.0/17 disabled=no list=chnroutes-chinanet
 add address=219.149.128.0/18 disabled=no list=chnroutes-chinanet
 add address=219.149.192.0/18 disabled=no list=chnroutes-chinanet
 add address=219.150.0.0/19 disabled=no list=chnroutes-chinanet
-add address=219.150.112.0/20 disabled=no list=chnroutes-chinanet
-add address=219.150.128.0/17 disabled=no list=chnroutes-chinanet
