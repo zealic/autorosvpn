@@ -61,3 +61,4 @@ add address=157.175.102.96/27 disabled=no list=route-aws@me-south
 add address=157.175.140.0/23 disabled=no list=route-aws@me-south
 add address=157.175.255.0/24 disabled=no list=route-aws@me-south
 add address=157.241.0.0/16 disabled=no list=route-aws@me-south
+add address=157.241.2.0/23 disabled=no list=route-aws@me-south

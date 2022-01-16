@@ -137,6 +137,7 @@ add address=13.34.62.128/27 disabled=no list=route-aws@ap-northeast
 add address=13.34.62.160/27 disabled=no list=route-aws@ap-northeast
 add address=15.152.0.0/16 disabled=no list=route-aws@ap-northeast
 add address=15.152.10.0/24 disabled=no list=route-aws@ap-northeast
+add address=15.152.174.0/23 disabled=no list=route-aws@ap-northeast
 add address=15.152.176.0/22 disabled=no list=route-aws@ap-northeast
 add address=15.152.24.0/27 disabled=no list=route-aws@ap-northeast
 add address=15.152.24.128/29 disabled=no list=route-aws@ap-northeast
