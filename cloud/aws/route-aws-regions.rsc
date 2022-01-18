@@ -706,6 +706,10 @@ add address=52.144.228.64/26 disabled=no list=route-aws@ap
 add address=52.144.229.0/26 disabled=no list=route-aws@ap
 add address=52.144.229.64/26 disabled=no list=route-aws@ap
 add address=52.144.230.0/26 disabled=no list=route-aws@ap
+add address=52.144.230.204/31 disabled=no list=route-aws@ap
+add address=52.144.230.206/31 disabled=no list=route-aws@ap
+add address=52.144.230.208/31 disabled=no list=route-aws@ap
+add address=52.144.230.210/31 disabled=no list=route-aws@ap
 add address=52.144.231.64/26 disabled=no list=route-aws@ap
 add address=52.144.233.128/31 disabled=no list=route-aws@ap
 add address=52.144.233.130/31 disabled=no list=route-aws@ap

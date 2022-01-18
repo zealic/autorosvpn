@@ -272,6 +272,8 @@ add address=42.248.0.0/13 disabled=no list=novpn
 add address=43.136.0.0/13 disabled=no list=novpn
 add address=43.144.0.0/13 disabled=no list=novpn
 add address=43.160.0.0/11 disabled=no list=novpn
+add address=43.195.0.0/16 disabled=no list=novpn
+add address=43.196.0.0/15 disabled=no list=novpn
 add address=43.224.12.0/22 disabled=no list=novpn
 add address=43.224.24.0/22 disabled=no list=novpn
 add address=43.224.44.0/22 disabled=no list=novpn
