@@ -298,7 +298,6 @@ add address=2400:ba00::/32 disabled=no list=novpn.ipv6
 add address=2400:ba40::/32 disabled=no list=novpn.ipv6
 add address=2400:ba41::/32 disabled=no list=novpn.ipv6
 add address=2400:bac0::/32 disabled=no list=novpn.ipv6
-add address=2400:bc40::/32 disabled=no list=novpn.ipv6
 add address=2400:be00::/32 disabled=no list=novpn.ipv6
 add address=2400:bf00::/32 disabled=no list=novpn.ipv6
 add address=2400:c200::/32 disabled=no list=novpn.ipv6
@@ -967,7 +966,6 @@ add address=2403:8c00::/32 disabled=no list=novpn.ipv6
 add address=2403:8c80::/32 disabled=no list=novpn.ipv6
 add address=2403:8d00::/32 disabled=no list=novpn.ipv6
 add address=2403:8d80::/32 disabled=no list=novpn.ipv6
-add address=2403:8f80::/32 disabled=no list=novpn.ipv6
 add address=2403:9080::/32 disabled=no list=novpn.ipv6
 add address=2403:9180::/32 disabled=no list=novpn.ipv6
 add address=2403:9280::/32 disabled=no list=novpn.ipv6
