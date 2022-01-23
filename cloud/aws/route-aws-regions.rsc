@@ -1075,6 +1075,11 @@ add address=104.255.59.115/32 disabled=no list=route-aws@ap
 add address=104.255.59.118/32 disabled=no list=route-aws@ap
 add address=104.255.59.119/32 disabled=no list=route-aws@ap
 add address=104.255.59.122/32 disabled=no list=route-aws@ap
+add address=104.255.59.123/32 disabled=no list=route-aws@ap
+add address=104.255.59.124/32 disabled=no list=route-aws@ap
+add address=104.255.59.125/32 disabled=no list=route-aws@ap
+add address=104.255.59.126/32 disabled=no list=route-aws@ap
+add address=104.255.59.127/32 disabled=no list=route-aws@ap
 add address=104.255.59.130/32 disabled=no list=route-aws@ap
 add address=104.255.59.131/32 disabled=no list=route-aws@ap
 add address=104.255.59.132/32 disabled=no list=route-aws@ap

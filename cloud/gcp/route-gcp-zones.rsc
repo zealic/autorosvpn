@@ -110,6 +110,8 @@ add address=34.124.128.0/17 disabled=no list=route-gcp@asia-southeast
 add address=34.124.42.0/23 disabled=no list=route-gcp@asia-southeast
 add address=34.126.128.0/18 disabled=no list=route-gcp@asia-southeast
 add address=34.126.64.0/18 disabled=no list=route-gcp@asia-southeast
+add address=34.157.210.0/23 disabled=no list=route-gcp@asia-southeast
+add address=34.157.82.0/23 disabled=no list=route-gcp@asia-southeast
 add address=34.87.0.0/17 disabled=no list=route-gcp@asia-southeast
 add address=34.87.128.0/18 disabled=no list=route-gcp@asia-southeast
 add address=35.185.176.0/20 disabled=no list=route-gcp@asia-southeast
@@ -183,9 +185,11 @@ add address=34.147.0.0/17 disabled=no list=route-gcp@europe-west
 add address=34.147.128.0/17 disabled=no list=route-gcp@europe-west
 add address=34.157.168.0/22 disabled=no list=route-gcp@europe-west
 add address=34.157.176.0/20 disabled=no list=route-gcp@europe-west
+add address=34.157.208.0/23 disabled=no list=route-gcp@europe-west
 add address=34.157.36.0/22 disabled=no list=route-gcp@europe-west
 add address=34.157.40.0/22 disabled=no list=route-gcp@europe-west
 add address=34.157.48.0/20 disabled=no list=route-gcp@europe-west
+add address=34.157.80.0/23 disabled=no list=route-gcp@europe-west
 add address=34.159.0.0/16 disabled=no list=route-gcp@europe-west
 add address=34.65.0.0/16 disabled=no list=route-gcp@europe-west
 add address=34.76.0.0/14 disabled=no list=route-gcp@europe-west
@@ -326,6 +330,8 @@ add address=34.121.0.0/16 disabled=no list=route-gcp@us-central
 add address=34.122.0.0/15 disabled=no list=route-gcp@us-central
 add address=34.132.0.0/14 disabled=no list=route-gcp@us-central
 add address=34.136.0.0/16 disabled=no list=route-gcp@us-central
+add address=34.157.212.0/23 disabled=no list=route-gcp@us-central
+add address=34.157.84.0/23 disabled=no list=route-gcp@us-central
 add address=34.170.0.0/15 disabled=no list=route-gcp@us-central
 add address=34.172.0.0/15 disabled=no list=route-gcp@us-central
 add address=34.66.0.0/15 disabled=no list=route-gcp@us-central
