@@ -95,7 +95,10 @@ add address=15.230.182.0/24 disabled=no list=route-aws@eu-west-1
 add address=15.230.188.0/25 disabled=no list=route-aws@eu-west-1
 add address=15.230.188.128/25 disabled=no list=route-aws@eu-west-1
 add address=15.230.189.0/25 disabled=no list=route-aws@eu-west-1
+add address=15.230.19.12/32 disabled=no list=route-aws@eu-west-1
 add address=15.230.19.18/31 disabled=no list=route-aws@eu-west-1
+add address=15.230.19.248/31 disabled=no list=route-aws@eu-west-1
+add address=15.230.19.252/31 disabled=no list=route-aws@eu-west-1
 add address=15.230.195.0/24 disabled=no list=route-aws@eu-west-1
 add address=15.230.30.0/24 disabled=no list=route-aws@eu-west-1
 add address=15.230.31.0/24 disabled=no list=route-aws@eu-west-1
