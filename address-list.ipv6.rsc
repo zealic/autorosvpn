@@ -186,6 +186,7 @@ add address=2400:5280::/32 disabled=no list=novpn.ipv6
 add address=2400:5400::/32 disabled=no list=novpn.ipv6
 add address=2400:5580::/32 disabled=no list=novpn.ipv6
 add address=2400:55c0::/32 disabled=no list=novpn.ipv6
+add address=2400:55e0::/32 disabled=no list=novpn.ipv6
 add address=2400:5600::/32 disabled=no list=novpn.ipv6
 add address=2400:5640::/32 disabled=no list=novpn.ipv6
 add address=2400:56c0::/32 disabled=no list=novpn.ipv6
