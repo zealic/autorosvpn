@@ -42,6 +42,7 @@ add address=54.239.0.144/28 disabled=no list=route-aws@cn-north-1
 add address=71.131.192.0/18 disabled=no list=route-aws@cn-north-1
 add address=71.131.196.128/26 disabled=no list=route-aws@cn-north-1
 add address=71.132.0.0/18 disabled=no list=route-aws@cn-north-1
+add address=71.136.64.0/18 disabled=no list=route-aws@cn-north-1
 add address=71.137.0.0/22 disabled=no list=route-aws@cn-north-1
 add address=71.137.4.0/24 disabled=no list=route-aws@cn-north-1
 add address=71.137.8.0/22 disabled=no list=route-aws@cn-north-1
