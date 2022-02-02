@@ -3441,6 +3441,10 @@ add address=15.191.0.0/16 disabled=no list=route-aws@us-east
 add address=15.193.6.0/24 disabled=no list=route-aws@us-east
 add address=15.220.220.0/23 disabled=no list=route-aws@us-east
 add address=15.220.222.0/23 disabled=no list=route-aws@us-east
+add address=15.220.233.0/24 disabled=no list=route-aws@us-east
+add address=15.220.234.0/23 disabled=no list=route-aws@us-east
+add address=15.220.236.0/22 disabled=no list=route-aws@us-east
+add address=15.220.248.0/23 disabled=no list=route-aws@us-east
 add address=15.220.250.0/23 disabled=no list=route-aws@us-east
 add address=15.221.0.0/24 disabled=no list=route-aws@us-east
 add address=15.221.24.0/21 disabled=no list=route-aws@us-east

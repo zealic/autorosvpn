@@ -3584,6 +3584,10 @@ add address=15.220.220.0/23 disabled=no list=route-aws@us
 add address=15.220.222.0/23 disabled=no list=route-aws@us
 add address=15.220.224.0/23 disabled=no list=route-aws@us
 add address=15.220.226.0/24 disabled=no list=route-aws@us
+add address=15.220.233.0/24 disabled=no list=route-aws@us
+add address=15.220.234.0/23 disabled=no list=route-aws@us
+add address=15.220.236.0/22 disabled=no list=route-aws@us
+add address=15.220.248.0/23 disabled=no list=route-aws@us
 add address=15.220.250.0/23 disabled=no list=route-aws@us
 add address=15.220.252.0/22 disabled=no list=route-aws@us
 add address=15.221.0.0/24 disabled=no list=route-aws@us
