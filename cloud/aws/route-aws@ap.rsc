@@ -787,6 +787,10 @@ add address=52.93.98.0/24 disabled=no list=route-aws@ap
 add address=52.93.99.0/24 disabled=no list=route-aws@ap
 add address=52.94.11.0/24 disabled=no list=route-aws@ap
 add address=52.94.13.0/24 disabled=no list=route-aws@ap
+add address=52.94.152.176/32 disabled=no list=route-aws@ap
+add address=52.94.152.177/32 disabled=no list=route-aws@ap
+add address=52.94.152.178/32 disabled=no list=route-aws@ap
+add address=52.94.152.179/32 disabled=no list=route-aws@ap
 add address=52.94.152.3/32 disabled=no list=route-aws@ap
 add address=52.94.19.0/24 disabled=no list=route-aws@ap
 add address=52.94.198.112/28 disabled=no list=route-aws@ap
