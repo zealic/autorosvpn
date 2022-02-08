@@ -1584,6 +1584,7 @@ add address=15.230.207.0/24 disabled=no list=route-aws
 add address=15.230.208.0/24 disabled=no list=route-aws
 add address=15.230.21.0/24 disabled=no list=route-aws
 add address=15.230.210.0/23 disabled=no list=route-aws
+add address=15.230.212.0/23 disabled=no list=route-aws
 add address=15.230.22.0/24 disabled=no list=route-aws
 add address=15.230.23.0/24 disabled=no list=route-aws
 add address=15.230.24.0/22 disabled=no list=route-aws
@@ -3225,6 +3226,10 @@ add address=52.93.125.42/32 disabled=no list=route-aws
 add address=52.93.125.43/32 disabled=no list=route-aws
 add address=52.93.126.122/32 disabled=no list=route-aws
 add address=52.93.126.123/32 disabled=no list=route-aws
+add address=52.93.126.128/32 disabled=no list=route-aws
+add address=52.93.126.129/32 disabled=no list=route-aws
+add address=52.93.126.130/32 disabled=no list=route-aws
+add address=52.93.126.131/32 disabled=no list=route-aws
 add address=52.93.126.132/32 disabled=no list=route-aws
 add address=52.93.126.133/32 disabled=no list=route-aws
 add address=52.93.126.134/32 disabled=no list=route-aws
@@ -3552,6 +3557,7 @@ add address=52.93.178.234/32 disabled=no list=route-aws
 add address=52.93.178.235/32 disabled=no list=route-aws
 add address=52.93.18.178/32 disabled=no list=route-aws
 add address=52.93.18.179/32 disabled=no list=route-aws
+add address=52.93.182.128/26 disabled=no list=route-aws
 add address=52.93.19.236/32 disabled=no list=route-aws
 add address=52.93.19.237/32 disabled=no list=route-aws
 add address=52.93.193.192/32 disabled=no list=route-aws
@@ -3615,6 +3621,7 @@ add address=52.93.3.0/24 disabled=no list=route-aws
 add address=52.93.32.176/32 disabled=no list=route-aws
 add address=52.93.32.179/32 disabled=no list=route-aws
 add address=52.93.32.180/32 disabled=no list=route-aws
+add address=52.93.32.183/32 disabled=no list=route-aws
 add address=52.93.34.120/31 disabled=no list=route-aws
 add address=52.93.34.122/31 disabled=no list=route-aws
 add address=52.93.34.124/31 disabled=no list=route-aws

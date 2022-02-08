@@ -169,6 +169,7 @@ add address=15.230.200.0/24 disabled=no list=route-aws@ap-southeast
 add address=15.230.202.4/32 disabled=no list=route-aws@ap-southeast
 add address=15.230.202.5/32 disabled=no list=route-aws@ap-southeast
 add address=15.230.210.0/23 disabled=no list=route-aws@ap-southeast
+add address=15.230.212.0/23 disabled=no list=route-aws@ap-southeast
 add address=15.230.22.0/24 disabled=no list=route-aws@ap-southeast
 add address=15.230.23.0/24 disabled=no list=route-aws@ap-southeast
 add address=15.230.29.0/24 disabled=no list=route-aws@ap-southeast
@@ -259,6 +260,10 @@ add address=52.76.0.0/17 disabled=no list=route-aws@ap-southeast
 add address=52.76.127.0/24 disabled=no list=route-aws@ap-southeast
 add address=52.76.128.0/17 disabled=no list=route-aws@ap-southeast
 add address=52.77.0.0/16 disabled=no list=route-aws@ap-southeast
+add address=52.93.126.128/32 disabled=no list=route-aws@ap-southeast
+add address=52.93.126.129/32 disabled=no list=route-aws@ap-southeast
+add address=52.93.126.130/32 disabled=no list=route-aws@ap-southeast
+add address=52.93.126.131/32 disabled=no list=route-aws@ap-southeast
 add address=52.93.126.136/32 disabled=no list=route-aws@ap-southeast
 add address=52.93.126.137/32 disabled=no list=route-aws@ap-southeast
 add address=52.93.126.138/32 disabled=no list=route-aws@ap-southeast
@@ -277,8 +282,10 @@ add address=52.93.127.116/32 disabled=no list=route-aws@ap-southeast
 add address=52.93.127.117/32 disabled=no list=route-aws@ap-southeast
 add address=52.93.127.194/32 disabled=no list=route-aws@ap-southeast
 add address=52.93.127.195/32 disabled=no list=route-aws@ap-southeast
+add address=52.93.182.128/26 disabled=no list=route-aws@ap-southeast
 add address=52.93.19.236/32 disabled=no list=route-aws@ap-southeast
 add address=52.93.19.237/32 disabled=no list=route-aws@ap-southeast
+add address=52.93.32.183/32 disabled=no list=route-aws@ap-southeast
 add address=52.93.63.0/24 disabled=no list=route-aws@ap-southeast
 add address=52.93.78.0/24 disabled=no list=route-aws@ap-southeast
 add address=52.93.8.0/22 disabled=no list=route-aws@ap-southeast
