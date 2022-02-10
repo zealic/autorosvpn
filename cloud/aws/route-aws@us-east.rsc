@@ -369,6 +369,7 @@ add address=15.230.204.3/32 disabled=no list=route-aws@us-east
 add address=15.230.205.0/24 disabled=no list=route-aws@us-east
 add address=15.230.206.0/24 disabled=no list=route-aws@us-east
 add address=15.230.208.0/24 disabled=no list=route-aws@us-east
+add address=15.230.214.0/24 disabled=no list=route-aws@us-east
 add address=15.230.35.0/24 disabled=no list=route-aws@us-east
 add address=15.230.38.0/24 disabled=no list=route-aws@us-east
 add address=15.230.39.0/31 disabled=no list=route-aws@us-east
