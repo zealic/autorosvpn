@@ -26,6 +26,7 @@ add address=34.127.177.0/24 disabled=no list=route-gcp@asia
 add address=34.127.190.0/23 disabled=no list=route-gcp@asia
 add address=34.131.0.0/16 disabled=no list=route-gcp@asia
 add address=34.137.0.0/16 disabled=no list=route-gcp@asia
+add address=34.142.128.0/17 disabled=no list=route-gcp@asia
 add address=34.146.0.0/16 disabled=no list=route-gcp@asia
 add address=34.150.0.0/17 disabled=no list=route-gcp@asia
 add address=34.157.164.0/22 disabled=no list=route-gcp@asia

@@ -2865,6 +2865,8 @@ add address=223.71.71.96/27 disabled=no list=route-aws@global
 /ip firewall address-list remove [/ip firewall address-list find list="route-aws@il-central"]
 /ip firewall address-list
 add address=13.248.72.0/24 disabled=no list=route-aws@il-central
+add address=16.12.12.0/23 disabled=no list=route-aws@il-central
+add address=16.12.14.0/24 disabled=no list=route-aws@il-central
 /ip firewall address-list remove [/ip firewall address-list find list="route-aws@me-central"]
 /ip firewall address-list
 add address=3.28.0.0/15 disabled=no list=route-aws@me-central

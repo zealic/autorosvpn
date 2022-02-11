@@ -103,6 +103,7 @@ add address=34.140.0.0/16 disabled=no list=route-gcp
 add address=34.141.0.0/17 disabled=no list=route-gcp
 add address=34.141.128.0/17 disabled=no list=route-gcp
 add address=34.142.0.0/17 disabled=no list=route-gcp
+add address=34.142.128.0/17 disabled=no list=route-gcp
 add address=34.145.0.0/17 disabled=no list=route-gcp
 add address=34.145.128.0/17 disabled=no list=route-gcp
 add address=34.146.0.0/16 disabled=no list=route-gcp
