@@ -1415,6 +1415,7 @@ add address=15.207.13.128/25 disabled=no list=route-aws
 add address=15.207.213.128/25 disabled=no list=route-aws
 add address=15.220.0.0/20 disabled=no list=route-aws
 add address=15.220.16.0/20 disabled=no list=route-aws
+add address=15.220.205.0/24 disabled=no list=route-aws
 add address=15.220.206.0/24 disabled=no list=route-aws
 add address=15.220.207.0/24 disabled=no list=route-aws
 add address=15.220.216.0/22 disabled=no list=route-aws
