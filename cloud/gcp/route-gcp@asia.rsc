@@ -5,6 +5,7 @@ add address=34.101.128.0/17 disabled=no list=route-gcp@asia
 add address=34.101.18.0/24 disabled=no list=route-gcp@asia
 add address=34.101.20.0/22 disabled=no list=route-gcp@asia
 add address=34.101.24.0/22 disabled=no list=route-gcp@asia
+add address=34.101.32.0/19 disabled=no list=route-gcp@asia
 add address=34.101.64.0/18 disabled=no list=route-gcp@asia
 add address=34.104.106.0/23 disabled=no list=route-gcp@asia
 add address=34.104.108.0/23 disabled=no list=route-gcp@asia
@@ -26,7 +27,7 @@ add address=34.127.177.0/24 disabled=no list=route-gcp@asia
 add address=34.127.190.0/23 disabled=no list=route-gcp@asia
 add address=34.131.0.0/16 disabled=no list=route-gcp@asia
 add address=34.137.0.0/16 disabled=no list=route-gcp@asia
-add address=34.142.128.0/17 disabled=no list=route-gcp@asia
+add address=34.143.128.0/17 disabled=no list=route-gcp@asia
 add address=34.146.0.0/16 disabled=no list=route-gcp@asia
 add address=34.150.0.0/17 disabled=no list=route-gcp@asia
 add address=34.157.164.0/22 disabled=no list=route-gcp@asia
@@ -40,6 +41,7 @@ add address=34.64.136.0/21 disabled=no list=route-gcp@asia
 add address=34.64.144.0/20 disabled=no list=route-gcp@asia
 add address=34.64.160.0/19 disabled=no list=route-gcp@asia
 add address=34.64.192.0/18 disabled=no list=route-gcp@asia
+add address=34.64.32.0/19 disabled=no list=route-gcp@asia
 add address=34.64.64.0/22 disabled=no list=route-gcp@asia
 add address=34.64.68.0/22 disabled=no list=route-gcp@asia
 add address=34.64.72.0/21 disabled=no list=route-gcp@asia
