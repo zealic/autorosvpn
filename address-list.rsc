@@ -801,7 +801,6 @@ add address=43.243.4.0/22 disabled=no list=novpn
 add address=43.243.8.0/22 disabled=no list=novpn
 add address=43.243.12.0/22 disabled=no list=novpn
 add address=43.243.16.0/22 disabled=no list=novpn
-add address=43.243.24.0/22 disabled=no list=novpn
 add address=43.243.88.0/22 disabled=no list=novpn
 add address=43.243.128.0/22 disabled=no list=novpn
 add address=43.243.136.0/22 disabled=no list=novpn

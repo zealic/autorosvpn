@@ -13,6 +13,7 @@ add address=13.34.65.64/27 disabled=no list=route-aws@il-central-1
 add address=13.34.65.96/27 disabled=no list=route-aws@il-central-1
 add address=15.190.0.0/22 disabled=no list=route-aws@il-central-1
 add address=15.190.16.0/20 disabled=no list=route-aws@il-central-1
+add address=15.230.62.0/24 disabled=no list=route-aws@il-central-1
 add address=15.248.48.0/21 disabled=no list=route-aws@il-central-1
 add address=16.12.12.0/23 disabled=no list=route-aws@il-central-1
 add address=16.12.14.0/24 disabled=no list=route-aws@il-central-1
