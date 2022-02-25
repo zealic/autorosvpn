@@ -76,8 +76,4 @@ add address=150.222.208.90/31 disabled=no list=route-aws@af-south
 add address=150.222.208.92/31 disabled=no list=route-aws@af-south
 add address=150.222.208.94/31 disabled=no list=route-aws@af-south
 add address=150.222.208.96/31 disabled=no list=route-aws@af-south
-add address=150.222.242.227/32 disabled=no list=route-aws@af-south
-add address=150.222.242.229/32 disabled=no list=route-aws@af-south
-add address=150.222.242.231/32 disabled=no list=route-aws@af-south
-add address=150.222.242.233/32 disabled=no list=route-aws@af-south
 add address=150.222.92.0/22 disabled=no list=route-aws@af-south

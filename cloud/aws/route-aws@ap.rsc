@@ -245,6 +245,7 @@ add address=13.248.102.0/24 disabled=no list=route-aws@ap
 add address=13.248.105.0/24 disabled=no list=route-aws@ap
 add address=13.248.107.0/24 disabled=no list=route-aws@ap
 add address=13.248.109.0/24 disabled=no list=route-aws@ap
+add address=13.248.110.0/24 disabled=no list=route-aws@ap
 add address=13.248.115.0/24 disabled=no list=route-aws@ap
 add address=13.248.117.0/24 disabled=no list=route-aws@ap
 add address=13.248.125.0/24 disabled=no list=route-aws@ap
