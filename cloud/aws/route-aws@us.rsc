@@ -505,6 +505,7 @@ add address=15.221.0.0/24 disabled=no list=route-aws@us
 add address=15.221.1.0/24 disabled=no list=route-aws@us
 add address=15.221.16.0/22 disabled=no list=route-aws@us
 add address=15.221.24.0/21 disabled=no list=route-aws@us
+add address=15.221.32.0/24 disabled=no list=route-aws@us
 add address=15.221.4.0/23 disabled=no list=route-aws@us
 add address=15.221.49.0/24 disabled=no list=route-aws@us
 add address=15.221.7.0/24 disabled=no list=route-aws@us
