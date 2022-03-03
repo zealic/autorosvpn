@@ -201,6 +201,7 @@ add address=2400:5c80::/32 disabled=no list=chnroutes.ipv6
 add address=2400:5cc0::/32 disabled=no list=chnroutes.ipv6
 add address=2400:5e20::/32 disabled=no list=chnroutes.ipv6
 add address=2400:5e80::/32 disabled=no list=chnroutes.ipv6
+add address=2400:5ee0::/32 disabled=no list=chnroutes.ipv6
 add address=2400:5fc0::/32 disabled=no list=chnroutes.ipv6
 add address=2400:6000::/32 disabled=no list=chnroutes.ipv6
 add address=2400:6040::/32 disabled=no list=chnroutes.ipv6
