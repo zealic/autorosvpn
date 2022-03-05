@@ -3432,6 +3432,8 @@ add address=13.34.63.160/27 disabled=no list=route-aws@us-east
 add address=13.34.63.192/27 disabled=no list=route-aws@us-east
 add address=13.34.63.224/27 disabled=no list=route-aws@us-east
 add address=13.34.66.0/27 disabled=no list=route-aws@us-east
+add address=13.34.66.192/27 disabled=no list=route-aws@us-east
+add address=13.34.66.224/27 disabled=no list=route-aws@us-east
 add address=13.34.66.32/27 disabled=no list=route-aws@us-east
 add address=13.34.66.64/27 disabled=no list=route-aws@us-east
 add address=13.34.66.96/27 disabled=no list=route-aws@us-east
