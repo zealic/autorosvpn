@@ -103,10 +103,13 @@ add address=13.250.186.208/29 disabled=no list=route-aws@ap-southeast
 add address=13.250.186.8/29 disabled=no list=route-aws@ap-southeast
 add address=13.251.113.64/26 disabled=no list=route-aws@ap-southeast
 add address=13.251.116.0/23 disabled=no list=route-aws@ap-southeast
+add address=13.34.16.128/27 disabled=no list=route-aws@ap-southeast
 add address=13.34.16.192/27 disabled=no list=route-aws@ap-southeast
 add address=13.34.17.24/29 disabled=no list=route-aws@ap-southeast
 add address=13.34.18.192/27 disabled=no list=route-aws@ap-southeast
 add address=13.34.18.224/27 disabled=no list=route-aws@ap-southeast
+add address=13.34.22.128/27 disabled=no list=route-aws@ap-southeast
+add address=13.34.22.96/27 disabled=no list=route-aws@ap-southeast
 add address=13.34.35.192/27 disabled=no list=route-aws@ap-southeast
 add address=13.34.35.224/27 disabled=no list=route-aws@ap-southeast
 add address=13.34.36.0/27 disabled=no list=route-aws@ap-southeast
