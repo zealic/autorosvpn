@@ -144,6 +144,7 @@ add address=34.157.8.0/23 disabled=no list=route-gcp
 add address=34.157.80.0/23 disabled=no list=route-gcp
 add address=34.157.82.0/23 disabled=no list=route-gcp
 add address=34.157.84.0/23 disabled=no list=route-gcp
+add address=34.157.88.0/23 disabled=no list=route-gcp
 add address=34.159.0.0/16 disabled=no list=route-gcp
 add address=34.161.0.0/16 disabled=no list=route-gcp
 add address=34.163.0.0/16 disabled=no list=route-gcp
