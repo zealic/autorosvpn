@@ -204,10 +204,14 @@ add address=13.34.13.18/32 disabled=no list=route-aws@us-east
 add address=13.34.13.19/32 disabled=no list=route-aws@us-east
 add address=13.34.13.20/32 disabled=no list=route-aws@us-east
 add address=13.34.13.21/32 disabled=no list=route-aws@us-east
+add address=13.34.13.22/32 disabled=no list=route-aws@us-east
+add address=13.34.13.23/32 disabled=no list=route-aws@us-east
 add address=13.34.13.50/32 disabled=no list=route-aws@us-east
 add address=13.34.13.51/32 disabled=no list=route-aws@us-east
 add address=13.34.13.52/32 disabled=no list=route-aws@us-east
 add address=13.34.13.53/32 disabled=no list=route-aws@us-east
+add address=13.34.13.54/32 disabled=no list=route-aws@us-east
+add address=13.34.13.55/32 disabled=no list=route-aws@us-east
 add address=13.34.17.64/27 disabled=no list=route-aws@us-east
 add address=13.34.17.96/27 disabled=no list=route-aws@us-east
 add address=13.34.21.160/27 disabled=no list=route-aws@us-east
