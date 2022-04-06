@@ -436,6 +436,7 @@ add address=43.224.79.192/31 disabled=no list=route-aws@us-east-1
 add address=43.224.79.194/31 disabled=no list=route-aws@us-east-1
 add address=43.224.79.196/31 disabled=no list=route-aws@us-east-1
 add address=43.224.79.198/31 disabled=no list=route-aws@us-east-1
+add address=43.224.79.2/31 disabled=no list=route-aws@us-east-1
 add address=43.224.79.200/31 disabled=no list=route-aws@us-east-1
 add address=43.224.79.212/31 disabled=no list=route-aws@us-east-1
 add address=43.224.79.214/31 disabled=no list=route-aws@us-east-1
