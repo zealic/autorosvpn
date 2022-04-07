@@ -3801,7 +3801,6 @@ add address=52.93.71.29/32 disabled=no list=route-aws
 add address=52.93.71.30/32 disabled=no list=route-aws
 add address=52.93.71.31/32 disabled=no list=route-aws
 add address=52.93.71.32/32 disabled=no list=route-aws
-add address=52.93.71.37/32 disabled=no list=route-aws
 add address=52.93.73.0/26 disabled=no list=route-aws
 add address=52.93.75.0/24 disabled=no list=route-aws
 add address=52.93.76.0/24 disabled=no list=route-aws
