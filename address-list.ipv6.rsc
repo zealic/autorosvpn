@@ -232,6 +232,7 @@ add address=2400:6bc0::/32 disabled=no list=novpn.ipv6
 add address=2400:6c40::/32 disabled=no list=novpn.ipv6
 add address=2400:6cc0::/32 disabled=no list=novpn.ipv6
 add address=2400:6d40::/32 disabled=no list=novpn.ipv6
+add address=2400:6da0::/32 disabled=no list=novpn.ipv6
 add address=2400:6dc0::/32 disabled=no list=novpn.ipv6
 add address=2400:6e00::/32 disabled=no list=novpn.ipv6
 add address=2400:6e40::/32 disabled=no list=novpn.ipv6

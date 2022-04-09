@@ -138,8 +138,6 @@ add address=13.34.44.160/27 disabled=no list=route-aws@ap-southeast
 add address=13.34.44.64/27 disabled=no list=route-aws@ap-southeast
 add address=13.34.44.96/27 disabled=no list=route-aws@ap-southeast
 add address=13.34.53.128/27 disabled=no list=route-aws@ap-southeast
-add address=13.34.53.160/27 disabled=no list=route-aws@ap-southeast
-add address=13.34.53.192/27 disabled=no list=route-aws@ap-southeast
 add address=13.34.54.32/27 disabled=no list=route-aws@ap-southeast
 add address=13.34.54.64/27 disabled=no list=route-aws@ap-southeast
 add address=13.34.55.160/27 disabled=no list=route-aws@ap-southeast
