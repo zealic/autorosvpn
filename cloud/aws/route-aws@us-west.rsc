@@ -666,6 +666,7 @@ add address=52.94.116.0/22 disabled=no list=route-aws@us-west
 add address=52.94.12.0/24 disabled=no list=route-aws@us-west
 add address=52.94.120.0/22 disabled=no list=route-aws@us-west
 add address=52.94.128.0/22 disabled=no list=route-aws@us-west
+add address=52.94.144.0/23 disabled=no list=route-aws@us-west
 add address=52.94.152.66/32 disabled=no list=route-aws@us-west
 add address=52.94.152.67/32 disabled=no list=route-aws@us-west
 add address=52.94.152.68/32 disabled=no list=route-aws@us-west
