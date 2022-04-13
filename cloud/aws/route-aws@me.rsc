@@ -50,6 +50,7 @@ add address=15.230.177.0/31 disabled=no list=route-aws@me
 add address=15.230.177.2/31 disabled=no list=route-aws@me
 add address=15.230.177.4/32 disabled=no list=route-aws@me
 add address=15.230.198.0/24 disabled=no list=route-aws@me
+add address=15.230.219.0/24 disabled=no list=route-aws@me
 add address=15.230.69.128/26 disabled=no list=route-aws@me
 add address=15.230.69.192/26 disabled=no list=route-aws@me
 add address=15.230.69.64/26 disabled=no list=route-aws@me

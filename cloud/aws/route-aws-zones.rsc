@@ -2905,6 +2905,7 @@ add address=13.34.59.32/27 disabled=no list=route-aws@me-central
 add address=15.230.177.0/31 disabled=no list=route-aws@me-central
 add address=15.230.177.2/31 disabled=no list=route-aws@me-central
 add address=15.230.177.4/32 disabled=no list=route-aws@me-central
+add address=15.230.219.0/24 disabled=no list=route-aws@me-central
 add address=35.71.104.0/24 disabled=no list=route-aws@me-central
 add address=52.94.249.224/28 disabled=no list=route-aws@me-central
 add address=52.95.187.0/24 disabled=no list=route-aws@me-central
@@ -3474,6 +3475,8 @@ add address=13.34.67.0/27 disabled=no list=route-aws@us-east
 add address=13.34.67.32/27 disabled=no list=route-aws@us-east
 add address=13.34.68.128/27 disabled=no list=route-aws@us-east
 add address=13.34.68.96/27 disabled=no list=route-aws@us-east
+add address=13.34.7.0/27 disabled=no list=route-aws@us-east
+add address=13.34.7.32/27 disabled=no list=route-aws@us-east
 add address=13.34.8.64/27 disabled=no list=route-aws@us-east
 add address=13.34.8.96/27 disabled=no list=route-aws@us-east
 add address=13.58.0.0/15 disabled=no list=route-aws@us-east
