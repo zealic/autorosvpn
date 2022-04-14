@@ -153,6 +153,7 @@ add address=15.220.204.0/24 disabled=no list=route-aws@us-west
 add address=15.220.205.0/24 disabled=no list=route-aws@us-west
 add address=15.220.206.0/24 disabled=no list=route-aws@us-west
 add address=15.220.207.0/24 disabled=no list=route-aws@us-west
+add address=15.220.208.128/26 disabled=no list=route-aws@us-west
 add address=15.220.224.0/23 disabled=no list=route-aws@us-west
 add address=15.220.226.0/24 disabled=no list=route-aws@us-west
 add address=15.220.252.0/22 disabled=no list=route-aws@us-west
