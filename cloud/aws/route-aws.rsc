@@ -3845,6 +3845,7 @@ add address=52.94.132.0/22 disabled=no list=route-aws
 add address=52.94.136.0/21 disabled=no list=route-aws
 add address=52.94.14.0/24 disabled=no list=route-aws
 add address=52.94.144.0/23 disabled=no list=route-aws
+add address=52.94.146.0/24 disabled=no list=route-aws
 add address=52.94.148.0/22 disabled=no list=route-aws
 add address=52.94.15.0/24 disabled=no list=route-aws
 add address=52.94.152.11/32 disabled=no list=route-aws
