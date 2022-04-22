@@ -36,6 +36,7 @@ add address=2001:df0:59c0::/48 disabled=no list=chnroutes.ipv6
 add address=2001:df0:85c0::/48 disabled=no list=chnroutes.ipv6
 add address=2001:df0:8d40::/48 disabled=no list=chnroutes.ipv6
 add address=2001:df0:9d40::/48 disabled=no list=chnroutes.ipv6
+add address=2001:df0:ac40::/48 disabled=no list=chnroutes.ipv6
 add address=2001:df0:b180::/48 disabled=no list=chnroutes.ipv6
 add address=2001:df0:bf80::/48 disabled=no list=chnroutes.ipv6
 add address=2001:df0:d880::/48 disabled=no list=chnroutes.ipv6
@@ -248,6 +249,7 @@ add address=2400:71c0::/32 disabled=no list=chnroutes.ipv6
 add address=2400:7200::/32 disabled=no list=chnroutes.ipv6
 add address=2400:7240::/32 disabled=no list=chnroutes.ipv6
 add address=2400:72c0::/32 disabled=no list=chnroutes.ipv6
+add address=2400:72e0::/32 disabled=no list=chnroutes.ipv6
 add address=2400:7340::/32 disabled=no list=chnroutes.ipv6
 add address=2400:73c0::/32 disabled=no list=chnroutes.ipv6
 add address=2400:7440::/32 disabled=no list=chnroutes.ipv6
