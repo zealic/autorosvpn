@@ -288,6 +288,8 @@ add address=13.248.70.0/24 disabled=no list=route-aws@ap-northeast
 add address=13.248.98.0/24 disabled=no list=route-aws@ap-northeast
 add address=13.34.0.128/27 disabled=no list=route-aws@ap-northeast
 add address=13.34.0.160/27 disabled=no list=route-aws@ap-northeast
+add address=13.34.11.192/27 disabled=no list=route-aws@ap-northeast
+add address=13.34.11.224/27 disabled=no list=route-aws@ap-northeast
 add address=13.34.15.0/27 disabled=no list=route-aws@ap-northeast
 add address=13.34.15.32/27 disabled=no list=route-aws@ap-northeast
 add address=13.34.46.128/27 disabled=no list=route-aws@ap-northeast
