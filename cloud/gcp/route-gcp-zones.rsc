@@ -469,6 +469,11 @@ add address=104.196.66.0/23 disabled=no list=route-gcp@us-east
 add address=104.196.68.0/22 disabled=no list=route-gcp@us-east
 add address=104.196.96.0/19 disabled=no list=route-gcp@us-east
 add address=162.216.148.0/22 disabled=no list=route-gcp@us-east
+/ip firewall address-list remove [/ip firewall address-list find list="route-gcp@us-south"]
+/ip firewall address-list
+add address=34.157.174.0/23 disabled=no list=route-gcp@us-south
+add address=34.157.46.0/23 disabled=no list=route-gcp@us-south
+add address=34.174.0.0/16 disabled=no list=route-gcp@us-south
 /ip firewall address-list remove [/ip firewall address-list find list="route-gcp@us-west"]
 /ip firewall address-list
 add address=34.102.0.0/17 disabled=no list=route-gcp@us-west
