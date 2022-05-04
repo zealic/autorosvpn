@@ -102,12 +102,12 @@ add address=13.34.58.96/27 disabled=no list=route-aws@us-west
 add address=13.34.61.192/27 disabled=no list=route-aws@us-west
 add address=13.34.61.224/27 disabled=no list=route-aws@us-west
 add address=13.34.67.128/27 disabled=no list=route-aws@us-west
-add address=13.34.67.160/27 disabled=no list=route-aws@us-west
 add address=13.34.67.192/27 disabled=no list=route-aws@us-west
 add address=13.34.67.224/27 disabled=no list=route-aws@us-west
 add address=13.34.67.64/27 disabled=no list=route-aws@us-west
 add address=13.34.67.96/27 disabled=no list=route-aws@us-west
 add address=13.34.68.0/27 disabled=no list=route-aws@us-west
+add address=13.34.68.32/27 disabled=no list=route-aws@us-west
 add address=13.52.0.0/16 disabled=no list=route-aws@us-west
 add address=13.52.1.0/28 disabled=no list=route-aws@us-west
 add address=13.52.1.16/28 disabled=no list=route-aws@us-west

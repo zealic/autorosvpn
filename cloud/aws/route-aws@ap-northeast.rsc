@@ -144,10 +144,10 @@ add address=13.34.58.192/27 disabled=no list=route-aws@ap-northeast
 add address=13.34.58.224/27 disabled=no list=route-aws@ap-northeast
 add address=13.34.62.128/27 disabled=no list=route-aws@ap-northeast
 add address=13.34.62.160/27 disabled=no list=route-aws@ap-northeast
-add address=13.34.68.160/27 disabled=no list=route-aws@ap-northeast
 add address=13.34.69.0/27 disabled=no list=route-aws@ap-northeast
 add address=13.34.69.32/27 disabled=no list=route-aws@ap-northeast
 add address=13.34.69.64/27 disabled=no list=route-aws@ap-northeast
+add address=13.34.69.96/27 disabled=no list=route-aws@ap-northeast
 add address=15.152.0.0/16 disabled=no list=route-aws@ap-northeast
 add address=15.152.10.0/24 disabled=no list=route-aws@ap-northeast
 add address=15.152.174.0/23 disabled=no list=route-aws@ap-northeast

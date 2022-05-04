@@ -51,10 +51,10 @@ add address=13.34.58.192/27 disabled=no list=route-aws@ap-northeast-1
 add address=13.34.58.224/27 disabled=no list=route-aws@ap-northeast-1
 add address=13.34.62.128/27 disabled=no list=route-aws@ap-northeast-1
 add address=13.34.62.160/27 disabled=no list=route-aws@ap-northeast-1
-add address=13.34.68.160/27 disabled=no list=route-aws@ap-northeast-1
 add address=13.34.69.0/27 disabled=no list=route-aws@ap-northeast-1
 add address=13.34.69.32/27 disabled=no list=route-aws@ap-northeast-1
 add address=13.34.69.64/27 disabled=no list=route-aws@ap-northeast-1
+add address=13.34.69.96/27 disabled=no list=route-aws@ap-northeast-1
 add address=15.177.79.0/24 disabled=no list=route-aws@ap-northeast-1
 add address=15.193.1.0/24 disabled=no list=route-aws@ap-northeast-1
 add address=15.221.34.0/24 disabled=no list=route-aws@ap-northeast-1
