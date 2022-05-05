@@ -1570,6 +1570,8 @@ add address=13.34.5.78/32 disabled=no list=route-aws@eu-central
 add address=13.34.5.79/32 disabled=no list=route-aws@eu-central
 add address=13.34.5.80/32 disabled=no list=route-aws@eu-central
 add address=13.34.5.81/32 disabled=no list=route-aws@eu-central
+add address=13.34.62.64/27 disabled=no list=route-aws@eu-central
+add address=13.34.62.96/27 disabled=no list=route-aws@eu-central
 add address=15.177.68.0/23 disabled=no list=route-aws@eu-central
 add address=15.193.4.0/24 disabled=no list=route-aws@eu-central
 add address=15.221.3.0/24 disabled=no list=route-aws@eu-central

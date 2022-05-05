@@ -1128,6 +1128,8 @@ add address=13.34.62.160/27 disabled=no list=route-aws
 add address=13.34.62.192/27 disabled=no list=route-aws
 add address=13.34.62.224/27 disabled=no list=route-aws
 add address=13.34.62.32/27 disabled=no list=route-aws
+add address=13.34.62.64/27 disabled=no list=route-aws
+add address=13.34.62.96/27 disabled=no list=route-aws
 add address=13.34.63.0/27 disabled=no list=route-aws
 add address=13.34.63.128/27 disabled=no list=route-aws
 add address=13.34.63.160/27 disabled=no list=route-aws
