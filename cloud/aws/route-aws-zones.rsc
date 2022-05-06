@@ -1362,7 +1362,7 @@ add address=15.230.141.0/24 disabled=no list=route-aws@cn-north
 add address=15.230.41.0/24 disabled=no list=route-aws@cn-north
 add address=15.230.49.0/24 disabled=no list=route-aws@cn-north
 add address=43.195.0.0/16 disabled=no list=route-aws@cn-north
-add address=43.196.0.0/15 disabled=no list=route-aws@cn-north
+add address=43.196.0.0/16 disabled=no list=route-aws@cn-north
 add address=52.80.0.0/16 disabled=no list=route-aws@cn-north
 add address=52.80.197.0/25 disabled=no list=route-aws@cn-north
 add address=52.80.197.128/25 disabled=no list=route-aws@cn-north
@@ -1425,7 +1425,7 @@ add address=150.222.88.0/24 disabled=no list=route-aws@cn-north
 add address=150.222.89.0/24 disabled=no list=route-aws@cn-north
 /ip firewall address-list remove [/ip firewall address-list find list="route-aws@cn-northwest"]
 /ip firewall address-list
-add address=43.192.0.0/15 disabled=no list=route-aws@cn-northwest
+add address=43.192.0.0/16 disabled=no list=route-aws@cn-northwest
 add address=43.194.0.0/16 disabled=no list=route-aws@cn-northwest
 add address=52.82.0.0/17 disabled=no list=route-aws@cn-northwest
 add address=52.82.1.0/29 disabled=no list=route-aws@cn-northwest
