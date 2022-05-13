@@ -421,7 +421,8 @@ add address=13.34.69.160/27 disabled=no list=route-aws@us
 add address=13.34.7.0/27 disabled=no list=route-aws@us
 add address=13.34.7.32/27 disabled=no list=route-aws@us
 add address=13.34.70.0/27 disabled=no list=route-aws@us
-add address=13.34.70.128/27 disabled=no list=route-aws@us
+add address=13.34.70.192/27 disabled=no list=route-aws@us
+add address=13.34.70.224/27 disabled=no list=route-aws@us
 add address=13.34.70.32/27 disabled=no list=route-aws@us
 add address=13.34.70.64/27 disabled=no list=route-aws@us
 add address=13.34.70.96/27 disabled=no list=route-aws@us
