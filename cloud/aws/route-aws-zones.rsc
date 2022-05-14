@@ -308,6 +308,10 @@ add address=13.34.69.0/27 disabled=no list=route-aws@ap-northeast
 add address=13.34.69.32/27 disabled=no list=route-aws@ap-northeast
 add address=13.34.69.64/27 disabled=no list=route-aws@ap-northeast
 add address=13.34.69.96/27 disabled=no list=route-aws@ap-northeast
+add address=13.34.71.0/27 disabled=no list=route-aws@ap-northeast
+add address=13.34.71.32/27 disabled=no list=route-aws@ap-northeast
+add address=13.34.71.64/27 disabled=no list=route-aws@ap-northeast
+add address=13.34.71.96/27 disabled=no list=route-aws@ap-northeast
 add address=15.152.0.0/16 disabled=no list=route-aws@ap-northeast
 add address=15.152.10.0/24 disabled=no list=route-aws@ap-northeast
 add address=15.152.174.0/23 disabled=no list=route-aws@ap-northeast
