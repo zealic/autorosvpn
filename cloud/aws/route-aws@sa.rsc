@@ -17,6 +17,8 @@ add address=13.34.47.192/27 disabled=no list=route-aws@sa
 add address=13.34.47.224/27 disabled=no list=route-aws@sa
 add address=13.34.63.64/27 disabled=no list=route-aws@sa
 add address=13.34.63.96/27 disabled=no list=route-aws@sa
+add address=13.34.71.192/27 disabled=no list=route-aws@sa
+add address=13.34.71.224/27 disabled=no list=route-aws@sa
 add address=15.177.70.0/23 disabled=no list=route-aws@sa
 add address=15.177.88.0/24 disabled=no list=route-aws@sa
 add address=15.221.40.0/21 disabled=no list=route-aws@sa

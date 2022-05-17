@@ -385,6 +385,8 @@ add address=13.34.7.96/27 disabled=no list=route-aws@ap
 add address=13.34.70.128/27 disabled=no list=route-aws@ap
 add address=13.34.70.160/27 disabled=no list=route-aws@ap
 add address=13.34.71.0/27 disabled=no list=route-aws@ap
+add address=13.34.71.128/27 disabled=no list=route-aws@ap
+add address=13.34.71.160/27 disabled=no list=route-aws@ap
 add address=13.34.71.32/27 disabled=no list=route-aws@ap
 add address=13.34.71.64/27 disabled=no list=route-aws@ap
 add address=13.34.71.96/27 disabled=no list=route-aws@ap

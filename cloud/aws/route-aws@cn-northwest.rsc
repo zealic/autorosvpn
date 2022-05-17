@@ -27,6 +27,7 @@ add address=52.83.34.128/25 disabled=no list=route-aws@cn-northwest
 add address=52.83.35.0/25 disabled=no list=route-aws@cn-northwest
 add address=52.83.35.128/25 disabled=no list=route-aws@cn-northwest
 add address=52.83.5.0/26 disabled=no list=route-aws@cn-northwest
+add address=52.83.58.0/24 disabled=no list=route-aws@cn-northwest
 add address=52.93.127.100/32 disabled=no list=route-aws@cn-northwest
 add address=52.93.127.101/32 disabled=no list=route-aws@cn-northwest
 add address=52.93.127.102/32 disabled=no list=route-aws@cn-northwest
@@ -52,6 +53,7 @@ add address=69.234.192.0/18 disabled=no list=route-aws@cn-northwest
 add address=69.234.197.192/26 disabled=no list=route-aws@cn-northwest
 add address=69.234.197.72/29 disabled=no list=route-aws@cn-northwest
 add address=69.235.128.0/18 disabled=no list=route-aws@cn-northwest
+add address=69.235.162.0/24 disabled=no list=route-aws@cn-northwest
 add address=69.235.170.0/23 disabled=no list=route-aws@cn-northwest
 add address=161.189.0.0/16 disabled=no list=route-aws@cn-northwest
 add address=161.189.148.0/23 disabled=no list=route-aws@cn-northwest
