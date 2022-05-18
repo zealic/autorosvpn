@@ -46,6 +46,7 @@ add address=15.197.3.0/24 disabled=no list=route-aws@global
 add address=15.197.30.0/23 disabled=no list=route-aws@global
 add address=15.197.32.0/23 disabled=no list=route-aws@global
 add address=15.197.34.0/23 disabled=no list=route-aws@global
+add address=15.197.36.0/22 disabled=no list=route-aws@global
 add address=15.197.4.0/22 disabled=no list=route-aws@global
 add address=15.197.8.0/22 disabled=no list=route-aws@global
 add address=18.154.0.0/15 disabled=no list=route-aws@global

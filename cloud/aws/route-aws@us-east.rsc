@@ -310,9 +310,13 @@ add address=13.34.70.192/27 disabled=no list=route-aws@us-east
 add address=13.34.70.224/27 disabled=no list=route-aws@us-east
 add address=13.34.70.32/27 disabled=no list=route-aws@us-east
 add address=13.34.72.0/27 disabled=no list=route-aws@us-east
+add address=13.34.72.192/27 disabled=no list=route-aws@us-east
+add address=13.34.72.224/27 disabled=no list=route-aws@us-east
 add address=13.34.72.32/27 disabled=no list=route-aws@us-east
-add address=13.34.72.64/27 disabled=no list=route-aws@us-east
-add address=13.34.72.96/27 disabled=no list=route-aws@us-east
+add address=13.34.73.0/27 disabled=no list=route-aws@us-east
+add address=13.34.73.192/27 disabled=no list=route-aws@us-east
+add address=13.34.73.224/27 disabled=no list=route-aws@us-east
+add address=13.34.73.32/27 disabled=no list=route-aws@us-east
 add address=13.34.8.64/27 disabled=no list=route-aws@us-east
 add address=13.34.8.96/27 disabled=no list=route-aws@us-east
 add address=13.58.0.0/15 disabled=no list=route-aws@us-east
