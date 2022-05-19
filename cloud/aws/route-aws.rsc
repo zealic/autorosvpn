@@ -334,6 +334,7 @@ add address=3.26.88.16/28 disabled=no list=route-aws
 add address=3.28.0.0/15 disabled=no list=route-aws
 add address=3.3.0.0/23 disabled=no list=route-aws
 add address=3.3.16.0/21 disabled=no list=route-aws
+add address=3.3.2.0/24 disabled=no list=route-aws
 add address=3.3.24.0/22 disabled=no list=route-aws
 add address=3.3.28.0/22 disabled=no list=route-aws
 add address=3.3.5.0/24 disabled=no list=route-aws

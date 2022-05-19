@@ -60,6 +60,7 @@ add address=35.210.0.0/16 disabled=no list=route-gcp@europe-west
 add address=35.214.0.0/17 disabled=no list=route-gcp@europe-west
 add address=35.214.128.0/17 disabled=no list=route-gcp@europe-west
 add address=35.216.128.0/17 disabled=no list=route-gcp@europe-west
+add address=35.219.224.0/19 disabled=no list=route-gcp@europe-west
 add address=35.220.16.0/23 disabled=no list=route-gcp@europe-west
 add address=35.220.18.0/23 disabled=no list=route-gcp@europe-west
 add address=35.220.20.0/22 disabled=no list=route-gcp@europe-west

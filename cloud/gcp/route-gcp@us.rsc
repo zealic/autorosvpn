@@ -82,6 +82,7 @@ add address=35.199.144.0/20 disabled=no list=route-gcp@us
 add address=35.199.160.0/19 disabled=no list=route-gcp@us
 add address=35.202.0.0/16 disabled=no list=route-gcp@us
 add address=35.203.128.0/18 disabled=no list=route-gcp@us
+add address=35.206.10.0/23 disabled=no list=route-gcp@us
 add address=35.206.32.0/19 disabled=no list=route-gcp@us
 add address=35.206.64.0/18 disabled=no list=route-gcp@us
 add address=35.207.0.0/18 disabled=no list=route-gcp@us
