@@ -3048,6 +3048,10 @@ add address=13.34.63.64/27 disabled=no list=route-aws@sa-east
 add address=13.34.63.96/27 disabled=no list=route-aws@sa-east
 add address=13.34.71.192/27 disabled=no list=route-aws@sa-east
 add address=13.34.71.224/27 disabled=no list=route-aws@sa-east
+add address=13.34.74.0/27 disabled=no list=route-aws@sa-east
+add address=13.34.74.32/27 disabled=no list=route-aws@sa-east
+add address=13.34.74.64/27 disabled=no list=route-aws@sa-east
+add address=13.34.74.96/27 disabled=no list=route-aws@sa-east
 add address=15.177.70.0/23 disabled=no list=route-aws@sa-east
 add address=15.177.88.0/24 disabled=no list=route-aws@sa-east
 add address=15.221.40.0/21 disabled=no list=route-aws@sa-east
@@ -3527,6 +3531,8 @@ add address=13.34.73.0/27 disabled=no list=route-aws@us-east
 add address=13.34.73.192/27 disabled=no list=route-aws@us-east
 add address=13.34.73.224/27 disabled=no list=route-aws@us-east
 add address=13.34.73.32/27 disabled=no list=route-aws@us-east
+add address=13.34.74.128/27 disabled=no list=route-aws@us-east
+add address=13.34.74.160/27 disabled=no list=route-aws@us-east
 add address=13.34.8.64/27 disabled=no list=route-aws@us-east
 add address=13.34.8.96/27 disabled=no list=route-aws@us-east
 add address=13.58.0.0/15 disabled=no list=route-aws@us-east
