@@ -81,6 +81,7 @@ add address=15.220.208.128/26 disabled=no list=route-aws@us-west-2
 add address=15.220.224.0/23 disabled=no list=route-aws@us-west-2
 add address=15.220.226.0/24 disabled=no list=route-aws@us-west-2
 add address=15.220.252.0/22 disabled=no list=route-aws@us-west-2
+add address=15.220.32.0/21 disabled=no list=route-aws@us-west-2
 add address=15.221.1.0/24 disabled=no list=route-aws@us-west-2
 add address=15.221.7.0/24 disabled=no list=route-aws@us-west-2
 add address=15.230.67.192/26 disabled=no list=route-aws@us-west-2
