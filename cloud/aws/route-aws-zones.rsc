@@ -4623,6 +4623,8 @@ add address=13.34.12.64/27 disabled=no list=route-aws@us-west
 add address=13.34.12.96/27 disabled=no list=route-aws@us-west
 add address=13.34.14.128/27 disabled=no list=route-aws@us-west
 add address=13.34.14.160/27 disabled=no list=route-aws@us-west
+add address=13.34.2.0/27 disabled=no list=route-aws@us-west
+add address=13.34.2.32/27 disabled=no list=route-aws@us-west
 add address=13.34.21.64/27 disabled=no list=route-aws@us-west
 add address=13.34.21.96/27 disabled=no list=route-aws@us-west
 add address=13.34.23.128/27 disabled=no list=route-aws@us-west
