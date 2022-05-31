@@ -477,6 +477,7 @@ add address=15.230.212.0/23 disabled=no list=route-aws@ap
 add address=15.230.215.0/24 disabled=no list=route-aws@ap
 add address=15.230.217.0/24 disabled=no list=route-aws@ap
 add address=15.230.22.0/24 disabled=no list=route-aws@ap
+add address=15.230.222.0/24 disabled=no list=route-aws@ap
 add address=15.230.23.0/24 disabled=no list=route-aws@ap
 add address=15.230.24.0/22 disabled=no list=route-aws@ap
 add address=15.230.29.0/24 disabled=no list=route-aws@ap
