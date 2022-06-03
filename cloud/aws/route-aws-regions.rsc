@@ -502,6 +502,8 @@ add address=15.177.83.0/24 disabled=no list=route-aws@ap
 add address=15.177.85.0/24 disabled=no list=route-aws@ap
 add address=15.177.86.0/24 disabled=no list=route-aws@ap
 add address=15.177.92.0/24 disabled=no list=route-aws@ap
+add address=15.177.94.0/24 disabled=no list=route-aws@ap
+add address=15.177.96.0/24 disabled=no list=route-aws@ap
 add address=15.193.0.0/24 disabled=no list=route-aws@ap
 add address=15.193.1.0/24 disabled=no list=route-aws@ap
 add address=15.193.2.0/24 disabled=no list=route-aws@ap
@@ -1828,6 +1830,8 @@ add address=15.177.75.0/24 disabled=no list=route-aws@eu
 add address=15.177.78.0/24 disabled=no list=route-aws@eu
 add address=15.177.89.0/24 disabled=no list=route-aws@eu
 add address=15.177.90.0/24 disabled=no list=route-aws@eu
+add address=15.177.97.0/24 disabled=no list=route-aws@eu
+add address=15.177.98.0/24 disabled=no list=route-aws@eu
 add address=15.188.0.0/16 disabled=no list=route-aws@eu
 add address=15.188.102.0/27 disabled=no list=route-aws@eu
 add address=15.188.184.0/24 disabled=no list=route-aws@eu
@@ -2908,6 +2912,7 @@ add address=13.34.65.64/27 disabled=no list=route-aws@il
 add address=13.34.65.96/27 disabled=no list=route-aws@il
 add address=13.34.66.128/27 disabled=no list=route-aws@il
 add address=13.34.66.160/27 disabled=no list=route-aws@il
+add address=15.177.99.0/24 disabled=no list=route-aws@il
 add address=15.190.0.0/22 disabled=no list=route-aws@il
 add address=15.190.16.0/20 disabled=no list=route-aws@il
 add address=15.230.62.0/24 disabled=no list=route-aws@il
@@ -2945,6 +2950,7 @@ add address=13.34.35.96/27 disabled=no list=route-aws@me
 add address=13.34.59.0/27 disabled=no list=route-aws@me
 add address=13.34.59.32/27 disabled=no list=route-aws@me
 add address=15.177.87.0/24 disabled=no list=route-aws@me
+add address=15.177.93.0/24 disabled=no list=route-aws@me
 add address=15.184.0.0/16 disabled=no list=route-aws@me
 add address=15.184.1.128/26 disabled=no list=route-aws@me
 add address=15.184.1.64/26 disabled=no list=route-aws@me

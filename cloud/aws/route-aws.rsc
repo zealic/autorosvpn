@@ -1400,6 +1400,12 @@ add address=15.177.89.0/24 disabled=no list=route-aws
 add address=15.177.90.0/24 disabled=no list=route-aws
 add address=15.177.91.0/24 disabled=no list=route-aws
 add address=15.177.92.0/24 disabled=no list=route-aws
+add address=15.177.93.0/24 disabled=no list=route-aws
+add address=15.177.94.0/24 disabled=no list=route-aws
+add address=15.177.96.0/24 disabled=no list=route-aws
+add address=15.177.97.0/24 disabled=no list=route-aws
+add address=15.177.98.0/24 disabled=no list=route-aws
+add address=15.177.99.0/24 disabled=no list=route-aws
 add address=15.181.0.0/20 disabled=no list=route-aws
 add address=15.181.112.0/22 disabled=no list=route-aws
 add address=15.181.116.0/22 disabled=no list=route-aws

@@ -1607,6 +1607,7 @@ add address=52.80.0.0/15 disabled=no list=novpn
 add address=52.82.0.0/15 disabled=no list=novpn
 add address=52.130.0.0/15 disabled=no list=novpn
 add address=54.222.0.0/15 disabled=no list=novpn
+add address=57.176.0.0/15 disabled=no list=novpn
 add address=58.14.0.0/15 disabled=no list=novpn
 add address=58.16.0.0/16 disabled=no list=novpn
 add address=58.17.0.0/17 disabled=no list=novpn
