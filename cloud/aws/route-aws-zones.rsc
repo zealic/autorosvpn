@@ -573,6 +573,7 @@ add address=104.255.59.137/32 disabled=no list=route-aws@ap-northeast
 add address=104.255.59.81/32 disabled=no list=route-aws@ap-northeast
 add address=104.255.59.82/32 disabled=no list=route-aws@ap-northeast
 add address=104.255.59.83/32 disabled=no list=route-aws@ap-northeast
+add address=136.18.20.0/24 disabled=no list=route-aws@ap-northeast
 add address=150.222.105.0/24 disabled=no list=route-aws@ap-northeast
 add address=150.222.116.0/24 disabled=no list=route-aws@ap-northeast
 add address=150.222.133.0/24 disabled=no list=route-aws@ap-northeast
@@ -1699,6 +1700,7 @@ add address=99.78.160.0/21 disabled=no list=route-aws@eu-central
 add address=99.78.168.0/23 disabled=no list=route-aws@eu-central
 add address=99.82.163.0/24 disabled=no list=route-aws@eu-central
 add address=99.83.99.0/24 disabled=no list=route-aws@eu-central
+add address=136.18.18.0/24 disabled=no list=route-aws@eu-central
 add address=150.222.10.0/24 disabled=no list=route-aws@eu-central
 add address=150.222.104.0/24 disabled=no list=route-aws@eu-central
 add address=150.222.120.20/31 disabled=no list=route-aws@eu-central
@@ -3190,6 +3192,7 @@ add address=69.107.7.120/29 disabled=no list=route-aws@sa-east
 add address=99.151.112.0/21 disabled=no list=route-aws@sa-east
 add address=99.77.149.0/24 disabled=no list=route-aws@sa-east
 add address=99.82.164.0/24 disabled=no list=route-aws@sa-east
+add address=136.18.19.0/24 disabled=no list=route-aws@sa-east
 add address=150.222.0.0/24 disabled=no list=route-aws@sa-east
 add address=150.222.12.0/24 disabled=no list=route-aws@sa-east
 add address=150.222.228.0/24 disabled=no list=route-aws@sa-east
@@ -5358,6 +5361,7 @@ add address=99.83.98.0/24 disabled=no list=route-aws@us-west
 add address=100.20.0.0/14 disabled=no list=route-aws@us-west
 add address=108.166.224.0/21 disabled=no list=route-aws@us-west
 add address=108.166.240.0/21 disabled=no list=route-aws@us-west
+add address=136.18.21.0/24 disabled=no list=route-aws@us-west
 add address=142.4.160.104/29 disabled=no list=route-aws@us-west
 add address=142.4.160.16/29 disabled=no list=route-aws@us-west
 add address=142.4.160.32/29 disabled=no list=route-aws@us-west

@@ -1067,6 +1067,7 @@ add address=99.87.32.0/22 disabled=no list=route-aws@eu
 add address=108.128.0.0/13 disabled=no list=route-aws@eu
 add address=108.128.160.0/23 disabled=no list=route-aws@eu
 add address=108.128.162.0/24 disabled=no list=route-aws@eu
+add address=136.18.18.0/24 disabled=no list=route-aws@eu
 add address=150.222.10.0/24 disabled=no list=route-aws@eu
 add address=150.222.104.0/24 disabled=no list=route-aws@eu
 add address=150.222.11.0/31 disabled=no list=route-aws@eu

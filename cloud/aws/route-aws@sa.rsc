@@ -151,6 +151,7 @@ add address=69.107.7.120/29 disabled=no list=route-aws@sa
 add address=99.151.112.0/21 disabled=no list=route-aws@sa
 add address=99.77.149.0/24 disabled=no list=route-aws@sa
 add address=99.82.164.0/24 disabled=no list=route-aws@sa
+add address=136.18.19.0/24 disabled=no list=route-aws@sa
 add address=150.222.0.0/24 disabled=no list=route-aws@sa
 add address=150.222.12.0/24 disabled=no list=route-aws@sa
 add address=150.222.228.0/24 disabled=no list=route-aws@sa
