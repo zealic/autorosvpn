@@ -1236,6 +1236,8 @@ add address=13.34.74.96/27 disabled=no list=route-aws
 add address=13.34.75.0/27 disabled=no list=route-aws
 add address=13.34.75.128/27 disabled=no list=route-aws
 add address=13.34.75.160/27 disabled=no list=route-aws
+add address=13.34.75.192/27 disabled=no list=route-aws
+add address=13.34.75.224/27 disabled=no list=route-aws
 add address=13.34.75.32/27 disabled=no list=route-aws
 add address=13.34.75.64/27 disabled=no list=route-aws
 add address=13.34.75.96/27 disabled=no list=route-aws
@@ -4237,6 +4239,7 @@ add address=54.222.76.0/22 disabled=no list=route-aws
 add address=54.222.80.0/21 disabled=no list=route-aws
 add address=54.222.88.0/24 disabled=no list=route-aws
 add address=54.222.89.0/24 disabled=no list=route-aws
+add address=54.222.90.0/24 disabled=no list=route-aws
 add address=54.222.92.0/22 disabled=no list=route-aws
 add address=54.222.96.0/22 disabled=no list=route-aws
 add address=54.223.0.0/16 disabled=no list=route-aws
@@ -4594,6 +4597,7 @@ add address=76.223.101.0/24 disabled=no list=route-aws
 add address=76.223.102.0/24 disabled=no list=route-aws
 add address=76.223.103.0/24 disabled=no list=route-aws
 add address=76.223.104.0/24 disabled=no list=route-aws
+add address=76.223.168.0/24 disabled=no list=route-aws
 add address=76.223.95.0/24 disabled=no list=route-aws
 add address=76.223.96.0/24 disabled=no list=route-aws
 add address=76.223.97.0/24 disabled=no list=route-aws
@@ -4832,6 +4836,10 @@ add address=108.136.154.16/28 disabled=no list=route-aws
 add address=108.136.154.32/28 disabled=no list=route-aws
 add address=108.136.154.48/28 disabled=no list=route-aws
 add address=108.136.221.0/26 disabled=no list=route-aws
+add address=108.137.58.0/26 disabled=no list=route-aws
+add address=108.137.58.128/26 disabled=no list=route-aws
+add address=108.137.58.192/26 disabled=no list=route-aws
+add address=108.137.58.64/26 disabled=no list=route-aws
 add address=108.138.0.0/15 disabled=no list=route-aws
 add address=108.156.0.0/14 disabled=no list=route-aws
 add address=108.166.224.0/21 disabled=no list=route-aws
