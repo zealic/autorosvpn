@@ -273,6 +273,8 @@ add address=2400:8200::/32 disabled=no list=chnroutes.ipv6
 add address=2400:82c0::/32 disabled=no list=chnroutes.ipv6
 add address=2400:8580::/32 disabled=no list=chnroutes.ipv6
 add address=2400:8600::/32 disabled=no list=chnroutes.ipv6
+add address=2400:86a0::/32 disabled=no list=chnroutes.ipv6
+add address=2400:86e0::/32 disabled=no list=chnroutes.ipv6
 add address=2400:8780::/32 disabled=no list=chnroutes.ipv6
 add address=2400:87c0::/32 disabled=no list=chnroutes.ipv6
 add address=2400:8840::/32 disabled=no list=chnroutes.ipv6
