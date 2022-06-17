@@ -580,7 +580,10 @@ add address=15.230.16.0/32 disabled=no list=route-aws@us
 add address=15.230.16.12/32 disabled=no list=route-aws@us
 add address=15.230.16.17/32 disabled=no list=route-aws@us
 add address=15.230.16.18/31 disabled=no list=route-aws@us
+add address=15.230.16.196/31 disabled=no list=route-aws@us
+add address=15.230.16.198/31 disabled=no list=route-aws@us
 add address=15.230.16.20/31 disabled=no list=route-aws@us
+add address=15.230.16.22/31 disabled=no list=route-aws@us
 add address=15.230.16.252/31 disabled=no list=route-aws@us
 add address=15.230.162.0/24 disabled=no list=route-aws@us
 add address=15.230.167.0/24 disabled=no list=route-aws@us
