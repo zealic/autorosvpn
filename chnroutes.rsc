@@ -5401,6 +5401,7 @@ add address=114.141.64.0/21 disabled=no list=chnroutes
 add address=114.141.80.0/22 disabled=no list=chnroutes
 add address=114.141.84.0/22 disabled=no list=chnroutes
 add address=114.141.128.0/18 disabled=no list=chnroutes
+add address=114.142.136.0/21 disabled=no list=chnroutes
 add address=114.196.0.0/15 disabled=no list=chnroutes
 add address=114.198.248.0/21 disabled=no list=chnroutes
 add address=114.208.0.0/14 disabled=no list=chnroutes
