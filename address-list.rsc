@@ -3648,7 +3648,6 @@ add address=103.112.116.0/22 disabled=no list=novpn
 add address=103.112.140.0/22 disabled=no list=novpn
 add address=103.112.172.0/22 disabled=no list=novpn
 add address=103.112.184.0/22 disabled=no list=novpn
-add address=103.112.208.0/22 disabled=no list=novpn
 add address=103.113.4.0/22 disabled=no list=novpn
 add address=103.113.92.0/22 disabled=no list=novpn
 add address=103.113.144.0/22 disabled=no list=novpn
