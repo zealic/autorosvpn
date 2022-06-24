@@ -2851,6 +2851,7 @@ add address=54.240.128.0/18 disabled=no list=route-aws@global
 add address=58.254.138.0/25 disabled=no list=route-aws@global
 add address=58.254.138.128/26 disabled=no list=route-aws@global
 add address=63.246.114.0/23 disabled=no list=route-aws@global
+add address=63.246.120.0/21 disabled=no list=route-aws@global
 add address=64.252.128.0/18 disabled=no list=route-aws@global
 add address=64.252.64.0/18 disabled=no list=route-aws@global
 add address=65.8.0.0/16 disabled=no list=route-aws@global
