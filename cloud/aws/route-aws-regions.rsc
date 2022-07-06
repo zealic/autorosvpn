@@ -4088,7 +4088,6 @@ add address=18.252.145.168/29 disabled=no list=route-aws@us
 add address=18.252.145.192/28 disabled=no list=route-aws@us
 add address=18.252.145.208/28 disabled=no list=route-aws@us
 add address=18.252.165.0/26 disabled=no list=route-aws@us
-add address=18.252.165.140/30 disabled=no list=route-aws@us
 add address=18.252.4.0/30 disabled=no list=route-aws@us
 add address=18.252.4.16/29 disabled=no list=route-aws@us
 add address=18.252.56.0/23 disabled=no list=route-aws@us
