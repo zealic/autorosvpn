@@ -1713,6 +1713,7 @@ add address=15.230.179.0/29 disabled=no list=route-aws
 add address=15.230.179.16/29 disabled=no list=route-aws
 add address=15.230.179.8/29 disabled=no list=route-aws
 add address=15.230.18.0/24 disabled=no list=route-aws
+add address=15.230.180.0/24 disabled=no list=route-aws
 add address=15.230.181.0/24 disabled=no list=route-aws
 add address=15.230.182.0/24 disabled=no list=route-aws
 add address=15.230.183.0/24 disabled=no list=route-aws
