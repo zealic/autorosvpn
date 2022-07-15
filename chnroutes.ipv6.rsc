@@ -297,6 +297,7 @@ add address=2400:93e0::/32 disabled=no list=chnroutes.ipv6
 add address=2400:9520::/32 disabled=no list=chnroutes.ipv6
 add address=2400:9580::/32 disabled=no list=chnroutes.ipv6
 add address=2400:95c0::/32 disabled=no list=chnroutes.ipv6
+add address=2400:95e0::/32 disabled=no list=chnroutes.ipv6
 add address=2400:9600::/32 disabled=no list=chnroutes.ipv6
 add address=2400:98c0::/32 disabled=no list=chnroutes.ipv6
 add address=2400:9a00::/32 disabled=no list=chnroutes.ipv6

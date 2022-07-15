@@ -203,11 +203,13 @@ add address=34.157.140.0/22 disabled=no list=route-gcp@europe-west
 add address=34.157.168.0/22 disabled=no list=route-gcp@europe-west
 add address=34.157.176.0/20 disabled=no list=route-gcp@europe-west
 add address=34.157.208.0/23 disabled=no list=route-gcp@europe-west
+add address=34.157.220.0/22 disabled=no list=route-gcp@europe-west
 add address=34.157.36.0/22 disabled=no list=route-gcp@europe-west
 add address=34.157.40.0/22 disabled=no list=route-gcp@europe-west
 add address=34.157.48.0/20 disabled=no list=route-gcp@europe-west
 add address=34.157.8.0/23 disabled=no list=route-gcp@europe-west
 add address=34.157.80.0/23 disabled=no list=route-gcp@europe-west
+add address=34.157.92.0/22 disabled=no list=route-gcp@europe-west
 add address=34.159.0.0/16 disabled=no list=route-gcp@europe-west
 add address=34.163.0.0/16 disabled=no list=route-gcp@europe-west
 add address=34.65.0.0/16 disabled=no list=route-gcp@europe-west

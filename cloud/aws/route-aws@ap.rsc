@@ -480,6 +480,7 @@ add address=15.230.163.0/24 disabled=no list=route-aws@ap
 add address=15.230.164.0/24 disabled=no list=route-aws@ap
 add address=15.230.178.0/24 disabled=no list=route-aws@ap
 add address=15.230.181.0/24 disabled=no list=route-aws@ap
+add address=15.230.194.0/24 disabled=no list=route-aws@ap
 add address=15.230.196.0/24 disabled=no list=route-aws@ap
 add address=15.230.200.0/24 disabled=no list=route-aws@ap
 add address=15.230.203.0/24 disabled=no list=route-aws@ap
