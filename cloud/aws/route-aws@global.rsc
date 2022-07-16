@@ -5,6 +5,7 @@ add address=3.3.0.0/23 disabled=no list=route-aws@global
 add address=3.3.6.0/23 disabled=no list=route-aws@global
 add address=3.3.8.0/21 disabled=no list=route-aws@global
 add address=3.33.128.0/17 disabled=no list=route-aws@global
+add address=3.4.8.0/24 disabled=no list=route-aws@global
 add address=13.224.0.0/14 disabled=no list=route-aws@global
 add address=13.248.128.0/17 disabled=no list=route-aws@global
 add address=13.248.224.0/24 disabled=no list=route-aws@global
