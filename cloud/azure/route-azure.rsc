@@ -9720,6 +9720,7 @@ add address=20.95.5.0/24 disabled=no list=route-azure
 add address=20.95.50.0/24 disabled=no list=route-azure
 add address=20.95.51.0/24 disabled=no list=route-azure
 add address=20.95.52.0/24 disabled=no list=route-azure
+add address=20.95.53.0/24 disabled=no list=route-azure
 add address=20.95.6.0/24 disabled=no list=route-azure
 add address=20.95.64.0/24 disabled=no list=route-azure
 add address=20.95.65.0/24 disabled=no list=route-azure
@@ -10996,6 +10997,12 @@ add address=40.123.147.0/27 disabled=no list=route-azure
 add address=40.123.147.32/31 disabled=no list=route-azure
 add address=40.123.147.34/31 disabled=no list=route-azure
 add address=40.123.147.36/31 disabled=no list=route-azure
+add address=40.123.147.38/31 disabled=no list=route-azure
+add address=40.123.147.40/29 disabled=no list=route-azure
+add address=40.123.147.48/28 disabled=no list=route-azure
+add address=40.123.147.64/29 disabled=no list=route-azure
+add address=40.123.147.72/30 disabled=no list=route-azure
+add address=40.123.147.76/31 disabled=no list=route-azure
 add address=40.123.148.0/25 disabled=no list=route-azure
 add address=40.123.148.128/30 disabled=no list=route-azure
 add address=40.123.148.132/31 disabled=no list=route-azure
@@ -13188,13 +13195,10 @@ add address=40.79.201.0/24 disabled=no list=route-azure
 add address=40.79.202.0/24 disabled=no list=route-azure
 add address=40.79.203.0/24 disabled=no list=route-azure
 add address=40.79.204.0/27 disabled=no list=route-azure
-add address=40.79.204.128/27 disabled=no list=route-azure
 add address=40.79.204.160/27 disabled=no list=route-azure
 add address=40.79.204.192/26 disabled=no list=route-azure
 add address=40.79.204.32/28 disabled=no list=route-azure
-add address=40.79.204.48/28 disabled=no list=route-azure
 add address=40.79.204.64/27 disabled=no list=route-azure
-add address=40.79.204.96/27 disabled=no list=route-azure
 add address=40.79.205.0/26 disabled=no list=route-azure
 add address=40.79.205.128/26 disabled=no list=route-azure
 add address=40.79.205.192/27 disabled=no list=route-azure
