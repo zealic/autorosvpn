@@ -94,6 +94,7 @@ add address=3.71.104.0/24 disabled=no list=route-aws@eu
 add address=3.71.120.0/22 disabled=no list=route-aws@eu
 add address=3.72.168.0/24 disabled=no list=route-aws@eu
 add address=3.72.33.128/25 disabled=no list=route-aws@eu
+add address=3.74.148.128/26 disabled=no list=route-aws@eu
 add address=3.8.0.0/14 disabled=no list=route-aws@eu
 add address=3.8.168.0/23 disabled=no list=route-aws@eu
 add address=3.8.37.24/29 disabled=no list=route-aws@eu
