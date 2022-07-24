@@ -13,6 +13,8 @@ add address=34.105.128.0/17 disabled=no list=route-gcp@europe
 add address=34.107.0.0/17 disabled=no list=route-gcp@europe
 add address=34.116.128.0/17 disabled=no list=route-gcp@europe
 add address=34.118.0.0/17 disabled=no list=route-gcp@europe
+add address=34.118.244.0/22 disabled=no list=route-gcp@europe
+add address=34.118.254.0/23 disabled=no list=route-gcp@europe
 add address=34.124.32.0/21 disabled=no list=route-gcp@europe
 add address=34.124.46.0/23 disabled=no list=route-gcp@europe
 add address=34.124.48.0/23 disabled=no list=route-gcp@europe
