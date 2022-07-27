@@ -813,6 +813,7 @@ add address=150.222.232.176/28 disabled=no list=route-aws@us-west
 add address=150.222.232.192/28 disabled=no list=route-aws@us-west
 add address=150.222.232.208/28 disabled=no list=route-aws@us-west
 add address=150.222.232.224/31 disabled=no list=route-aws@us-west
+add address=150.222.232.226/31 disabled=no list=route-aws@us-west
 add address=150.222.232.51/32 disabled=no list=route-aws@us-west
 add address=150.222.232.88/32 disabled=no list=route-aws@us-west
 add address=150.222.232.93/32 disabled=no list=route-aws@us-west
