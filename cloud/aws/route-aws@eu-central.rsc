@@ -124,6 +124,7 @@ add address=18.184.2.128/25 disabled=no list=route-aws@eu-central
 add address=18.184.203.128/27 disabled=no list=route-aws@eu-central
 add address=18.192.0.0/15 disabled=no list=route-aws@eu-central
 add address=18.192.142.0/23 disabled=no list=route-aws@eu-central
+add address=18.192.216.0/22 disabled=no list=route-aws@eu-central
 add address=18.194.0.0/15 disabled=no list=route-aws@eu-central
 add address=18.196.0.0/15 disabled=no list=route-aws@eu-central
 add address=18.196.161.0/27 disabled=no list=route-aws@eu-central

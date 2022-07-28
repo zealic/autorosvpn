@@ -38,6 +38,7 @@ add address=3.218.183.0/25 disabled=no list=route-aws@us-east-1
 add address=3.218.183.128/25 disabled=no list=route-aws@us-east-1
 add address=3.224.0.0/12 disabled=no list=route-aws@us-east-1
 add address=3.227.250.128/25 disabled=no list=route-aws@us-east-1
+add address=3.227.4.0/22 disabled=no list=route-aws@us-east-1
 add address=3.228.170.0/26 disabled=no list=route-aws@us-east-1
 add address=3.228.170.128/25 disabled=no list=route-aws@us-east-1
 add address=3.228.170.64/26 disabled=no list=route-aws@us-east-1
@@ -333,6 +334,7 @@ add address=15.230.220.0/24 disabled=no list=route-aws@us-east-1
 add address=15.230.221.0/24 disabled=no list=route-aws@us-east-1
 add address=15.230.242.0/24 disabled=no list=route-aws@us-east-1
 add address=15.230.245.0/24 disabled=no list=route-aws@us-east-1
+add address=15.230.248.0/24 disabled=no list=route-aws@us-east-1
 add address=15.230.35.0/24 disabled=no list=route-aws@us-east-1
 add address=15.230.38.0/24 disabled=no list=route-aws@us-east-1
 add address=15.230.40.0/24 disabled=no list=route-aws@us-east-1
@@ -345,7 +347,6 @@ add address=15.230.83.0/24 disabled=no list=route-aws@us-east-1
 add address=15.230.87.0/24 disabled=no list=route-aws@us-east-1
 add address=15.251.0.10/32 disabled=no list=route-aws@us-east-1
 add address=15.251.0.11/32 disabled=no list=route-aws@us-east-1
-add address=16.12.64.0/19 disabled=no list=route-aws@us-east-1
 add address=18.204.0.0/14 disabled=no list=route-aws@us-east-1
 add address=18.206.107.160/29 disabled=no list=route-aws@us-east-1
 add address=18.206.107.24/29 disabled=no list=route-aws@us-east-1
@@ -511,6 +512,7 @@ add address=44.199.180.0/23 disabled=no list=route-aws@us-east-1
 add address=44.199.222.128/26 disabled=no list=route-aws@us-east-1
 add address=44.202.79.128/25 disabled=no list=route-aws@us-east-1
 add address=44.206.4.0/22 disabled=no list=route-aws@us-east-1
+add address=44.209.84.0/22 disabled=no list=route-aws@us-east-1
 add address=46.51.208.0/22 disabled=no list=route-aws@us-east-1
 add address=50.16.0.0/15 disabled=no list=route-aws@us-east-1
 add address=50.19.0.0/16 disabled=no list=route-aws@us-east-1

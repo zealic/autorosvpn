@@ -9,6 +9,7 @@ add address=3.96.2.72/30 disabled=no list=route-aws@ca-central
 add address=3.96.84.0/26 disabled=no list=route-aws@ca-central
 add address=3.97.192.112/29 disabled=no list=route-aws@ca-central
 add address=3.97.192.128/25 disabled=no list=route-aws@ca-central
+add address=3.97.20.0/22 disabled=no list=route-aws@ca-central
 add address=3.97.217.0/24 disabled=no list=route-aws@ca-central
 add address=3.97.218.0/24 disabled=no list=route-aws@ca-central
 add address=3.97.219.0/24 disabled=no list=route-aws@ca-central
