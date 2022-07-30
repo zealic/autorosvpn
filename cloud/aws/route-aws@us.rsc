@@ -603,6 +603,10 @@ add address=15.230.16.252/31 disabled=no list=route-aws@us
 add address=15.230.162.0/24 disabled=no list=route-aws@us
 add address=15.230.167.0/24 disabled=no list=route-aws@us
 add address=15.230.168.0/24 disabled=no list=route-aws@us
+add address=15.230.169.0/31 disabled=no list=route-aws@us
+add address=15.230.169.2/32 disabled=no list=route-aws@us
+add address=15.230.169.4/31 disabled=no list=route-aws@us
+add address=15.230.169.6/31 disabled=no list=route-aws@us
 add address=15.230.179.0/29 disabled=no list=route-aws@us
 add address=15.230.179.16/29 disabled=no list=route-aws@us
 add address=15.230.179.8/29 disabled=no list=route-aws@us

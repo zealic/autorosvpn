@@ -1055,6 +1055,7 @@ add address=99.82.170.0/24 disabled=no list=route-aws@ap
 add address=99.82.173.0/24 disabled=no list=route-aws@ap
 add address=99.82.184.0/22 disabled=no list=route-aws@ap
 add address=99.83.100.0/24 disabled=no list=route-aws@ap
+add address=99.83.102.0/24 disabled=no list=route-aws@ap
 add address=99.83.120.0/22 disabled=no list=route-aws@ap
 add address=99.83.72.0/22 disabled=no list=route-aws@ap
 add address=99.83.76.0/22 disabled=no list=route-aws@ap

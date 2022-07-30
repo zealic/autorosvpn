@@ -402,6 +402,7 @@ add address=99.78.238.255/32 disabled=no list=route-aws@ap-southeast
 add address=99.78.240.0/20 disabled=no list=route-aws@ap-southeast
 add address=99.82.173.0/24 disabled=no list=route-aws@ap-southeast
 add address=99.82.184.0/22 disabled=no list=route-aws@ap-southeast
+add address=99.83.102.0/24 disabled=no list=route-aws@ap-southeast
 add address=99.83.120.0/22 disabled=no list=route-aws@ap-southeast
 add address=99.83.80.0/22 disabled=no list=route-aws@ap-southeast
 add address=99.87.0.0/22 disabled=no list=route-aws@ap-southeast
