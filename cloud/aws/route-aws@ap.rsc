@@ -448,6 +448,8 @@ add address=15.206.137.192/26 disabled=no list=route-aws@ap
 add address=15.207.13.0/26 disabled=no list=route-aws@ap
 add address=15.207.13.128/25 disabled=no list=route-aws@ap
 add address=15.207.213.128/25 disabled=no list=route-aws@ap
+add address=15.220.128.0/21 disabled=no list=route-aws@ap
+add address=15.220.136.0/21 disabled=no list=route-aws@ap
 add address=15.220.216.0/22 disabled=no list=route-aws@ap
 add address=15.220.227.0/24 disabled=no list=route-aws@ap
 add address=15.220.228.0/22 disabled=no list=route-aws@ap
