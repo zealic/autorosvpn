@@ -617,6 +617,7 @@ add address=18.34.0.0/19 disabled=no list=route-aws@us-east
 add address=18.34.232.0/21 disabled=no list=route-aws@us-east
 add address=18.34.252.0/22 disabled=no list=route-aws@us-east
 add address=18.34.72.0/21 disabled=no list=route-aws@us-east
+add address=18.88.0.0/18 disabled=no list=route-aws@us-east
 add address=23.20.0.0/14 disabled=no list=route-aws@us-east
 add address=34.192.0.0/12 disabled=no list=route-aws@us-east
 add address=34.195.252.0/24 disabled=no list=route-aws@us-east

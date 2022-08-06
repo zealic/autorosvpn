@@ -503,6 +503,7 @@ add address=15.230.23.0/24 disabled=no list=route-aws@ap
 add address=15.230.24.0/22 disabled=no list=route-aws@ap
 add address=15.230.243.0/24 disabled=no list=route-aws@ap
 add address=15.230.246.0/24 disabled=no list=route-aws@ap
+add address=15.230.249.0/24 disabled=no list=route-aws@ap
 add address=15.230.29.0/24 disabled=no list=route-aws@ap
 add address=15.230.4.152/31 disabled=no list=route-aws@ap
 add address=15.230.4.154/31 disabled=no list=route-aws@ap
