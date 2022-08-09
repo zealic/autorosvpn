@@ -488,6 +488,8 @@ add address=13.54.63.128/26 disabled=no list=route-aws@ap
 add address=13.55.255.216/29 disabled=no list=route-aws@ap
 add address=15.152.0.0/16 disabled=no list=route-aws@ap
 add address=15.152.10.0/24 disabled=no list=route-aws@ap
+add address=15.152.133.112/28 disabled=no list=route-aws@ap
+add address=15.152.133.128/28 disabled=no list=route-aws@ap
 add address=15.152.174.0/23 disabled=no list=route-aws@ap
 add address=15.152.176.0/22 disabled=no list=route-aws@ap
 add address=15.152.24.0/27 disabled=no list=route-aws@ap
@@ -3005,6 +3007,9 @@ add address=99.151.152.0/21 disabled=no list=route-aws@il
 /ip firewall address-list remove [/ip firewall address-list find list="route-aws@me"]
 /ip firewall address-list
 add address=3.28.0.0/15 disabled=no list=route-aws@me
+add address=3.28.70.112/28 disabled=no list=route-aws@me
+add address=3.28.70.48/28 disabled=no list=route-aws@me
+add address=3.28.70.96/28 disabled=no list=route-aws@me
 add address=3.28.72.0/23 disabled=no list=route-aws@me
 add address=3.5.220.0/22 disabled=no list=route-aws@me
 add address=3.5.48.0/22 disabled=no list=route-aws@me
@@ -3759,6 +3764,8 @@ add address=13.34.77.192/27 disabled=no list=route-aws@us
 add address=13.34.77.224/27 disabled=no list=route-aws@us
 add address=13.34.78.64/27 disabled=no list=route-aws@us
 add address=13.34.78.96/27 disabled=no list=route-aws@us
+add address=13.34.79.64/27 disabled=no list=route-aws@us
+add address=13.34.79.96/27 disabled=no list=route-aws@us
 add address=13.34.8.64/27 disabled=no list=route-aws@us
 add address=13.34.8.96/27 disabled=no list=route-aws@us
 add address=13.52.0.0/16 disabled=no list=route-aws@us

@@ -408,6 +408,8 @@ add address=13.54.63.128/26 disabled=no list=route-aws@ap
 add address=13.55.255.216/29 disabled=no list=route-aws@ap
 add address=15.152.0.0/16 disabled=no list=route-aws@ap
 add address=15.152.10.0/24 disabled=no list=route-aws@ap
+add address=15.152.133.112/28 disabled=no list=route-aws@ap
+add address=15.152.133.128/28 disabled=no list=route-aws@ap
 add address=15.152.174.0/23 disabled=no list=route-aws@ap
 add address=15.152.176.0/22 disabled=no list=route-aws@ap
 add address=15.152.24.0/27 disabled=no list=route-aws@ap
