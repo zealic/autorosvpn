@@ -485,6 +485,8 @@ add address=52.93.127.26/32 disabled=no list=route-aws@eu-west
 add address=52.93.127.27/32 disabled=no list=route-aws@eu-west
 add address=52.93.138.252/32 disabled=no list=route-aws@eu-west
 add address=52.93.138.253/32 disabled=no list=route-aws@eu-west
+add address=52.93.139.248/31 disabled=no list=route-aws@eu-west
+add address=52.93.139.250/32 disabled=no list=route-aws@eu-west
 add address=52.93.139.252/32 disabled=no list=route-aws@eu-west
 add address=52.93.139.253/32 disabled=no list=route-aws@eu-west
 add address=52.93.153.148/32 disabled=no list=route-aws@eu-west
