@@ -3852,6 +3852,7 @@ add address=103.138.248.0/23 disabled=no list=novpn
 add address=103.139.0.0/23 disabled=no list=novpn
 add address=103.139.2.0/23 disabled=no list=novpn
 add address=103.139.22.0/23 disabled=no list=novpn
+add address=103.139.92.0/23 disabled=no list=novpn
 add address=103.139.113.0/24 disabled=no list=novpn
 add address=103.139.134.0/23 disabled=no list=novpn
 add address=103.139.136.0/23 disabled=no list=novpn
