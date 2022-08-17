@@ -4916,8 +4916,6 @@ add address=103.246.148.0/23 disabled=no list=route-aws
 add address=103.246.150.0/23 disabled=no list=route-aws
 add address=103.4.8.0/21 disabled=no list=route-aws
 add address=103.8.172.0/22 disabled=no list=route-aws
-add address=104.153.112.0/24 disabled=no list=route-aws
-add address=104.153.113.0/24 disabled=no list=route-aws
 add address=104.255.56.11/32 disabled=no list=route-aws
 add address=104.255.56.12/32 disabled=no list=route-aws
 add address=104.255.59.101/32 disabled=no list=route-aws

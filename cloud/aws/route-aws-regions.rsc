@@ -5369,8 +5369,6 @@ add address=99.83.97.0/24 disabled=no list=route-aws@us
 add address=99.83.98.0/24 disabled=no list=route-aws@us
 add address=100.20.0.0/14 disabled=no list=route-aws@us
 add address=100.24.0.0/13 disabled=no list=route-aws@us
-add address=104.153.112.0/24 disabled=no list=route-aws@us
-add address=104.153.113.0/24 disabled=no list=route-aws@us
 add address=104.255.56.11/32 disabled=no list=route-aws@us
 add address=104.255.56.12/32 disabled=no list=route-aws@us
 add address=107.20.0.0/14 disabled=no list=route-aws@us
