@@ -309,6 +309,7 @@ add address=2400:9a00::/32 disabled=no list=novpn.ipv6
 add address=2400:9ca0::/32 disabled=no list=novpn.ipv6
 add address=2400:9e00::/32 disabled=no list=novpn.ipv6
 add address=2400:a040::/32 disabled=no list=novpn.ipv6
+add address=2400:a320::/32 disabled=no list=novpn.ipv6
 add address=2400:a380::/32 disabled=no list=novpn.ipv6
 add address=2400:a480::/32 disabled=no list=novpn.ipv6
 add address=2400:a780::/32 disabled=no list=novpn.ipv6

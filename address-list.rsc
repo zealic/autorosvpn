@@ -4430,6 +4430,7 @@ add address=103.204.144.0/22 disabled=no list=novpn
 add address=103.204.148.0/22 disabled=no list=novpn
 add address=103.204.152.0/22 disabled=no list=novpn
 add address=103.204.196.0/22 disabled=no list=novpn
+add address=103.204.216.0/23 disabled=no list=novpn
 add address=103.204.232.0/22 disabled=no list=novpn
 add address=103.204.236.0/22 disabled=no list=novpn
 add address=103.205.4.0/22 disabled=no list=novpn
