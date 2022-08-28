@@ -602,6 +602,7 @@ add address=15.230.251.0/31 disabled=no list=route-aws@ap
 add address=15.230.251.2/31 disabled=no list=route-aws@ap
 add address=15.230.251.4/31 disabled=no list=route-aws@ap
 add address=15.230.251.6/32 disabled=no list=route-aws@ap
+add address=15.230.253.0/24 disabled=no list=route-aws@ap
 add address=15.230.29.0/24 disabled=no list=route-aws@ap
 add address=15.230.4.152/31 disabled=no list=route-aws@ap
 add address=15.230.4.154/31 disabled=no list=route-aws@ap
