@@ -50,6 +50,8 @@ add address=15.230.143.0/24 disabled=no list=route-aws@eu-south
 add address=15.230.76.0/26 disabled=no list=route-aws@eu-south
 add address=15.230.76.128/26 disabled=no list=route-aws@eu-south
 add address=15.230.76.64/26 disabled=no list=route-aws@eu-south
+add address=16.164.0.0/16 disabled=no list=route-aws@eu-south
+add address=16.165.0.0/16 disabled=no list=route-aws@eu-south
 add address=18.100.0.0/15 disabled=no list=route-aws@eu-south
 add address=18.100.74.0/23 disabled=no list=route-aws@eu-south
 add address=18.102.0.0/16 disabled=no list=route-aws@eu-south

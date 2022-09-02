@@ -525,6 +525,7 @@ add address=44.199.222.128/26 disabled=no list=route-aws@us-east-1
 add address=44.202.79.128/25 disabled=no list=route-aws@us-east-1
 add address=44.206.4.0/22 disabled=no list=route-aws@us-east-1
 add address=44.209.84.0/22 disabled=no list=route-aws@us-east-1
+add address=44.210.246.64/26 disabled=no list=route-aws@us-east-1
 add address=44.210.64.0/22 disabled=no list=route-aws@us-east-1
 add address=46.51.208.0/22 disabled=no list=route-aws@us-east-1
 add address=50.16.0.0/15 disabled=no list=route-aws@us-east-1

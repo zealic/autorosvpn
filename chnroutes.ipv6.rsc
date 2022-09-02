@@ -108,7 +108,6 @@ add address=2001:df7:2b80::/48 disabled=no list=chnroutes.ipv6
 add address=2001:df7:6600::/48 disabled=no list=chnroutes.ipv6
 add address=2001:df7:ab00::/48 disabled=no list=chnroutes.ipv6
 add address=2001:df7:e580::/48 disabled=no list=chnroutes.ipv6
-add address=2001:df7:f080::/48 disabled=no list=chnroutes.ipv6
 add address=2001:e08::/32 disabled=no list=chnroutes.ipv6
 add address=2001:e18::/32 disabled=no list=chnroutes.ipv6
 add address=2001:e80::/32 disabled=no list=chnroutes.ipv6
@@ -312,6 +311,8 @@ add address=2400:a320::/32 disabled=no list=chnroutes.ipv6
 add address=2400:a380::/32 disabled=no list=chnroutes.ipv6
 add address=2400:a420::/32 disabled=no list=chnroutes.ipv6
 add address=2400:a480::/32 disabled=no list=chnroutes.ipv6
+add address=2400:a5a0::/32 disabled=no list=chnroutes.ipv6
+add address=2400:a6a0::/32 disabled=no list=chnroutes.ipv6
 add address=2400:a780::/32 disabled=no list=chnroutes.ipv6
 add address=2400:a8c0::/32 disabled=no list=chnroutes.ipv6
 add address=2400:a900::/32 disabled=no list=chnroutes.ipv6

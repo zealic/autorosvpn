@@ -30,3 +30,4 @@ add address=99.151.96.0/21 disabled=no list=route-aws@us-gov-east
 add address=99.77.183.0/24 disabled=no list=route-aws@us-gov-east
 add address=108.175.52.0/22 disabled=no list=route-aws@us-gov-east
 add address=108.175.60.0/22 disabled=no list=route-aws@us-gov-east
+add address=157.152.0.0/16 disabled=no list=route-aws@us-gov-east
