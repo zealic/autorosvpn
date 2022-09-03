@@ -32,6 +32,7 @@ add address=3.2.38.0/26 disabled=no list=route-aws@eu
 add address=3.2.38.192/26 disabled=no list=route-aws@eu
 add address=3.2.43.0/26 disabled=no list=route-aws@eu
 add address=3.2.43.64/26 disabled=no list=route-aws@eu
+add address=3.2.48.0/24 disabled=no list=route-aws@eu
 add address=3.248.0.0/13 disabled=no list=route-aws@eu
 add address=3.248.176.0/22 disabled=no list=route-aws@eu
 add address=3.248.180.128/25 disabled=no list=route-aws@eu
