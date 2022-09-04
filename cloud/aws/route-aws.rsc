@@ -476,6 +476,7 @@ add address=3.5.40.0/22 disabled=no list=route-aws
 add address=3.5.44.0/22 disabled=no list=route-aws
 add address=3.5.48.0/22 disabled=no list=route-aws
 add address=3.5.52.0/22 disabled=no list=route-aws
+add address=3.5.56.0/22 disabled=no list=route-aws
 add address=3.5.64.0/21 disabled=no list=route-aws
 add address=3.5.72.0/23 disabled=no list=route-aws
 add address=3.5.76.0/22 disabled=no list=route-aws
