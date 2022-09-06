@@ -1745,6 +1745,7 @@ add address=3.71.120.0/22 disabled=no list=route-aws@eu
 add address=3.72.168.0/24 disabled=no list=route-aws@eu
 add address=3.72.33.128/25 disabled=no list=route-aws@eu
 add address=3.74.148.128/26 disabled=no list=route-aws@eu
+add address=3.75.112.0/24 disabled=no list=route-aws@eu
 add address=3.8.0.0/14 disabled=no list=route-aws@eu
 add address=3.8.168.0/23 disabled=no list=route-aws@eu
 add address=3.8.37.24/29 disabled=no list=route-aws@eu
@@ -1960,6 +1961,7 @@ add address=13.49.40.64/26 disabled=no list=route-aws@eu
 add address=13.49.42.0/23 disabled=no list=route-aws@eu
 add address=13.50.0.0/16 disabled=no list=route-aws@eu
 add address=13.50.12.192/26 disabled=no list=route-aws@eu
+add address=13.50.89.0/24 disabled=no list=route-aws@eu
 add address=13.51.0.0/16 disabled=no list=route-aws@eu
 add address=13.51.120.0/24 disabled=no list=route-aws@eu
 add address=13.51.253.80/29 disabled=no list=route-aws@eu
@@ -4107,6 +4109,8 @@ add address=15.230.242.0/24 disabled=no list=route-aws@us
 add address=15.230.245.0/24 disabled=no list=route-aws@us
 add address=15.230.247.0/24 disabled=no list=route-aws@us
 add address=15.230.248.0/24 disabled=no list=route-aws@us
+add address=15.230.254.0/31 disabled=no list=route-aws@us
+add address=15.230.254.2/31 disabled=no list=route-aws@us
 add address=15.230.28.0/24 disabled=no list=route-aws@us
 add address=15.230.35.0/24 disabled=no list=route-aws@us
 add address=15.230.36.0/23 disabled=no list=route-aws@us
@@ -4621,6 +4625,8 @@ add address=44.199.222.128/26 disabled=no list=route-aws@us
 add address=44.202.79.128/25 disabled=no list=route-aws@us
 add address=44.206.4.0/22 disabled=no list=route-aws@us
 add address=44.209.84.0/22 disabled=no list=route-aws@us
+add address=44.210.201.0/24 disabled=no list=route-aws@us
+add address=44.210.202.0/24 disabled=no list=route-aws@us
 add address=44.210.246.64/26 disabled=no list=route-aws@us
 add address=44.210.64.0/22 disabled=no list=route-aws@us
 add address=44.224.0.0/11 disabled=no list=route-aws@us
