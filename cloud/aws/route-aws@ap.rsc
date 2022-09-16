@@ -1114,6 +1114,7 @@ add address=99.77.144.0/24 disabled=no list=route-aws@ap
 add address=99.77.145.0/24 disabled=no list=route-aws@ap
 add address=99.77.160.0/24 disabled=no list=route-aws@ap
 add address=99.77.161.0/24 disabled=no list=route-aws@ap
+add address=99.77.239.0/24 disabled=no list=route-aws@ap
 add address=99.77.56.0/21 disabled=no list=route-aws@ap
 add address=99.78.170.0/23 disabled=no list=route-aws@ap
 add address=99.78.184.0/22 disabled=no list=route-aws@ap

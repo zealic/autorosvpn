@@ -965,6 +965,9 @@ add address=142.4.160.112/29 disabled=no list=route-aws@us-east-1
 add address=142.4.160.120/29 disabled=no list=route-aws@us-east-1
 add address=142.4.160.128/29 disabled=no list=route-aws@us-east-1
 add address=142.4.160.136/29 disabled=no list=route-aws@us-east-1
+add address=142.4.160.176/29 disabled=no list=route-aws@us-east-1
+add address=142.4.160.184/29 disabled=no list=route-aws@us-east-1
+add address=142.4.160.200/29 disabled=no list=route-aws@us-east-1
 add address=142.4.160.24/29 disabled=no list=route-aws@us-east-1
 add address=142.4.160.40/29 disabled=no list=route-aws@us-east-1
 add address=142.4.160.48/29 disabled=no list=route-aws@us-east-1
