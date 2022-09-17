@@ -3389,7 +3389,6 @@ add address=103.94.116.0/22 disabled=no list=novpn
 add address=103.94.160.0/22 disabled=no list=novpn
 add address=103.94.180.0/22 disabled=no list=novpn
 add address=103.94.200.0/22 disabled=no list=novpn
-add address=103.95.28.0/22 disabled=no list=novpn
 add address=103.95.52.0/22 disabled=no list=novpn
 add address=103.95.64.0/22 disabled=no list=novpn
 add address=103.95.68.0/22 disabled=no list=novpn
