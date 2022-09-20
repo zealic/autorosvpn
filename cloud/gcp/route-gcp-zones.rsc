@@ -517,6 +517,7 @@ add address=34.127.180.0/24 disabled=no list=route-gcp@us-west
 add address=34.145.0.0/17 disabled=no list=route-gcp@us-west
 add address=34.157.112.0/21 disabled=no list=route-gcp@us-west
 add address=34.157.240.0/21 disabled=no list=route-gcp@us-west
+add address=34.16.128.0/17 disabled=no list=route-gcp@us-west
 add address=34.168.0.0/15 disabled=no list=route-gcp@us-west
 add address=34.82.0.0/15 disabled=no list=route-gcp@us-west
 add address=34.94.0.0/16 disabled=no list=route-gcp@us-west
