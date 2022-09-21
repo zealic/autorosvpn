@@ -429,7 +429,9 @@ add address=99.151.72.0/21 disabled=no list=route-aws@ap-southeast
 add address=99.77.143.0/24 disabled=no list=route-aws@ap-southeast
 add address=99.77.144.0/24 disabled=no list=route-aws@ap-southeast
 add address=99.77.161.0/24 disabled=no list=route-aws@ap-southeast
+add address=99.77.237.0/24 disabled=no list=route-aws@ap-southeast
 add address=99.77.239.0/24 disabled=no list=route-aws@ap-southeast
+add address=99.77.240.0/24 disabled=no list=route-aws@ap-southeast
 add address=99.78.170.0/23 disabled=no list=route-aws@ap-southeast
 add address=99.78.212.0/22 disabled=no list=route-aws@ap-southeast
 add address=99.78.228.0/22 disabled=no list=route-aws@ap-southeast

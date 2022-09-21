@@ -100,6 +100,7 @@ add address=96.0.24.0/21 disabled=no list=route-aws@eu-north-1
 add address=96.0.32.0/22 disabled=no list=route-aws@eu-north-1
 add address=99.150.64.0/21 disabled=no list=route-aws@eu-north-1
 add address=99.77.137.0/24 disabled=no list=route-aws@eu-north-1
+add address=99.77.246.0/24 disabled=no list=route-aws@eu-north-1
 add address=150.222.117.0/24 disabled=no list=route-aws@eu-north-1
 add address=150.222.118.0/24 disabled=no list=route-aws@eu-north-1
 add address=150.222.203.0/24 disabled=no list=route-aws@eu-north-1

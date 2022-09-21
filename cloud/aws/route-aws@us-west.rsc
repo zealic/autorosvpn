@@ -776,6 +776,7 @@ add address=99.77.132.0/24 disabled=no list=route-aws@us-west
 add address=99.77.152.0/24 disabled=no list=route-aws@us-west
 add address=99.77.154.0/24 disabled=no list=route-aws@us-west
 add address=99.77.186.0/24 disabled=no list=route-aws@us-west
+add address=99.77.251.0/24 disabled=no list=route-aws@us-west
 add address=99.77.253.0/24 disabled=no list=route-aws@us-west
 add address=99.78.196.0/22 disabled=no list=route-aws@us-west
 add address=99.82.172.0/24 disabled=no list=route-aws@us-west

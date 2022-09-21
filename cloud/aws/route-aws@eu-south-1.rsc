@@ -136,4 +136,5 @@ add address=76.162.0.0/15 disabled=no list=route-aws@eu-south-1
 add address=99.150.80.0/21 disabled=no list=route-aws@eu-south-1
 add address=99.77.138.0/24 disabled=no list=route-aws@eu-south-1
 add address=99.77.159.0/24 disabled=no list=route-aws@eu-south-1
+add address=99.77.245.0/24 disabled=no list=route-aws@eu-south-1
 add address=150.222.229.0/24 disabled=no list=route-aws@eu-south-1

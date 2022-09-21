@@ -62,6 +62,7 @@ add address=96.0.36.0/22 disabled=no list=route-aws@af-south
 add address=96.0.40.0/21 disabled=no list=route-aws@af-south
 add address=99.150.104.0/21 disabled=no list=route-aws@af-south
 add address=99.77.148.0/24 disabled=no list=route-aws@af-south
+add address=99.77.235.0/24 disabled=no list=route-aws@af-south
 add address=99.78.128.0/20 disabled=no list=route-aws@af-south
 add address=99.78.144.0/21 disabled=no list=route-aws@af-south
 add address=99.78.152.0/22 disabled=no list=route-aws@af-south

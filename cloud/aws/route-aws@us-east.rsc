@@ -1228,6 +1228,7 @@ add address=99.77.151.0/24 disabled=no list=route-aws@us-east
 add address=99.77.153.0/24 disabled=no list=route-aws@us-east
 add address=99.77.187.0/24 disabled=no list=route-aws@us-east
 add address=99.77.191.0/24 disabled=no list=route-aws@us-east
+add address=99.77.252.0/24 disabled=no list=route-aws@us-east
 add address=99.77.254.0/24 disabled=no list=route-aws@us-east
 add address=99.78.176.0/21 disabled=no list=route-aws@us-east
 add address=99.78.192.0/22 disabled=no list=route-aws@us-east

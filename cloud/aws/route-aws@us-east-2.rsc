@@ -285,6 +285,7 @@ add address=69.107.7.56/29 disabled=no list=route-aws@us-east-2
 add address=99.150.0.0/21 disabled=no list=route-aws@us-east-2
 add address=99.77.131.0/24 disabled=no list=route-aws@us-east-2
 add address=99.77.153.0/24 disabled=no list=route-aws@us-east-2
+add address=99.77.252.0/24 disabled=no list=route-aws@us-east-2
 add address=99.78.176.0/21 disabled=no list=route-aws@us-east-2
 add address=99.78.216.0/22 disabled=no list=route-aws@us-east-2
 add address=108.166.232.0/21 disabled=no list=route-aws@us-east-2

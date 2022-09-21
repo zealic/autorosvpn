@@ -90,6 +90,7 @@ add address=99.150.120.0/21 disabled=no list=route-aws@me
 add address=99.77.0.0/20 disabled=no list=route-aws@me
 add address=99.77.147.0/24 disabled=no list=route-aws@me
 add address=99.77.16.0/21 disabled=no list=route-aws@me
+add address=99.77.236.0/24 disabled=no list=route-aws@me
 add address=99.77.24.0/22 disabled=no list=route-aws@me
 add address=99.78.220.0/22 disabled=no list=route-aws@me
 add address=99.82.128.0/20 disabled=no list=route-aws@me

@@ -2073,6 +2073,8 @@ add address=99.77.184.0/24 disabled=no list=route-aws@us
 add address=99.77.186.0/24 disabled=no list=route-aws@us
 add address=99.77.187.0/24 disabled=no list=route-aws@us
 add address=99.77.191.0/24 disabled=no list=route-aws@us
+add address=99.77.251.0/24 disabled=no list=route-aws@us
+add address=99.77.252.0/24 disabled=no list=route-aws@us
 add address=99.77.253.0/24 disabled=no list=route-aws@us
 add address=99.77.254.0/24 disabled=no list=route-aws@us
 add address=99.78.176.0/21 disabled=no list=route-aws@us
