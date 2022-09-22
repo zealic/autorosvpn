@@ -5027,6 +5027,7 @@ add address=99.77.240.0/24 disabled=no list=route-aws
 add address=99.77.241.0/24 disabled=no list=route-aws
 add address=99.77.242.0/24 disabled=no list=route-aws
 add address=99.77.243.0/24 disabled=no list=route-aws
+add address=99.77.244.0/24 disabled=no list=route-aws
 add address=99.77.245.0/24 disabled=no list=route-aws
 add address=99.77.246.0/24 disabled=no list=route-aws
 add address=99.77.247.0/24 disabled=no list=route-aws

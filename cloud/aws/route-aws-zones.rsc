@@ -585,6 +585,7 @@ add address=99.77.141.0/24 disabled=no list=route-aws@ap-northeast
 add address=99.77.160.0/24 disabled=no list=route-aws@ap-northeast
 add address=99.77.242.0/24 disabled=no list=route-aws@ap-northeast
 add address=99.77.243.0/24 disabled=no list=route-aws@ap-northeast
+add address=99.77.244.0/24 disabled=no list=route-aws@ap-northeast
 add address=99.77.56.0/21 disabled=no list=route-aws@ap-northeast
 add address=99.78.184.0/22 disabled=no list=route-aws@ap-northeast
 add address=99.78.188.0/22 disabled=no list=route-aws@ap-northeast
