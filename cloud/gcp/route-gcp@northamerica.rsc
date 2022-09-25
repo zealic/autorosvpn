@@ -8,6 +8,8 @@ add address=34.124.12.0/22 disabled=no list=route-gcp@northamerica
 add address=34.124.50.0/23 disabled=no list=route-gcp@northamerica
 add address=34.130.0.0/16 disabled=no list=route-gcp@northamerica
 add address=34.152.0.0/18 disabled=no list=route-gcp@northamerica
+add address=34.19.128.0/17 disabled=no list=route-gcp@northamerica
+add address=34.20.0.0/17 disabled=no list=route-gcp@northamerica
 add address=34.95.0.0/18 disabled=no list=route-gcp@northamerica
 add address=35.203.0.0/17 disabled=no list=route-gcp@northamerica
 add address=35.215.0.0/18 disabled=no list=route-gcp@northamerica

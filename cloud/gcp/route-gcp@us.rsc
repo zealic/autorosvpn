@@ -61,6 +61,17 @@ add address=34.168.0.0/15 disabled=no list=route-gcp@us
 add address=34.170.0.0/15 disabled=no list=route-gcp@us
 add address=34.172.0.0/15 disabled=no list=route-gcp@us
 add address=34.174.0.0/16 disabled=no list=route-gcp@us
+add address=34.19.0.0/17 disabled=no list=route-gcp@us
+add address=34.20.128.0/17 disabled=no list=route-gcp@us
+add address=34.21.0.0/17 disabled=no list=route-gcp@us
+add address=34.22.0.0/19 disabled=no list=route-gcp@us
+add address=34.22.32.0/19 disabled=no list=route-gcp@us
+add address=34.23.0.0/16 disabled=no list=route-gcp@us
+add address=34.24.0.0/15 disabled=no list=route-gcp@us
+add address=34.26.0.0/16 disabled=no list=route-gcp@us
+add address=34.27.0.0/16 disabled=no list=route-gcp@us
+add address=34.28.0.0/15 disabled=no list=route-gcp@us
+add address=34.30.0.0/16 disabled=no list=route-gcp@us
 add address=34.66.0.0/15 disabled=no list=route-gcp@us
 add address=34.68.0.0/14 disabled=no list=route-gcp@us
 add address=34.72.0.0/16 disabled=no list=route-gcp@us

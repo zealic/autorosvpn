@@ -4,6 +4,8 @@ add address=34.104.76.0/22 disabled=no list=route-gcp@northamerica-northeast1
 add address=34.118.128.0/18 disabled=no list=route-gcp@northamerica-northeast1
 add address=34.124.12.0/22 disabled=no list=route-gcp@northamerica-northeast1
 add address=34.152.0.0/18 disabled=no list=route-gcp@northamerica-northeast1
+add address=34.19.128.0/17 disabled=no list=route-gcp@northamerica-northeast1
+add address=34.20.0.0/17 disabled=no list=route-gcp@northamerica-northeast1
 add address=34.95.0.0/18 disabled=no list=route-gcp@northamerica-northeast1
 add address=35.203.0.0/17 disabled=no list=route-gcp@northamerica-northeast1
 add address=35.215.0.0/18 disabled=no list=route-gcp@northamerica-northeast1
