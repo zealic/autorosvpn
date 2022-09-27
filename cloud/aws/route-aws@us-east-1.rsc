@@ -961,6 +961,7 @@ add address=104.255.56.11/32 disabled=no list=route-aws@us-east-1
 add address=104.255.56.12/32 disabled=no list=route-aws@us-east-1
 add address=107.20.0.0/14 disabled=no list=route-aws@us-east-1
 add address=107.23.255.0/26 disabled=no list=route-aws@us-east-1
+add address=136.18.50.0/23 disabled=no list=route-aws@us-east-1
 add address=142.4.160.0/29 disabled=no list=route-aws@us-east-1
 add address=142.4.160.112/29 disabled=no list=route-aws@us-east-1
 add address=142.4.160.120/29 disabled=no list=route-aws@us-east-1
