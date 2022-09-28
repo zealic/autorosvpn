@@ -223,6 +223,7 @@ add address=104.255.59.82/32 disabled=no list=route-aws@ap-northeast-1
 add address=104.255.59.83/32 disabled=no list=route-aws@ap-northeast-1
 add address=136.18.20.0/24 disabled=no list=route-aws@ap-northeast-1
 add address=142.4.160.144/29 disabled=no list=route-aws@ap-northeast-1
+add address=142.4.160.208/29 disabled=no list=route-aws@ap-northeast-1
 add address=150.222.105.0/24 disabled=no list=route-aws@ap-northeast-1
 add address=150.222.133.0/24 disabled=no list=route-aws@ap-northeast-1
 add address=150.222.141.0/24 disabled=no list=route-aws@ap-northeast-1
