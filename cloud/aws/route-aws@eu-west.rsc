@@ -175,7 +175,6 @@ add address=13.40.1.192/26 disabled=no list=route-aws@eu-west
 add address=13.40.202.0/23 disabled=no list=route-aws@eu-west
 add address=13.40.204.0/22 disabled=no list=route-aws@eu-west
 add address=13.41.1.160/27 disabled=no list=route-aws@eu-west
-add address=13.44.0.0/14 disabled=no list=route-aws@eu-west
 add address=15.177.74.0/24 disabled=no list=route-aws@eu-west
 add address=15.177.75.0/24 disabled=no list=route-aws@eu-west
 add address=15.177.78.0/24 disabled=no list=route-aws@eu-west
@@ -286,7 +285,6 @@ add address=18.168.37.64/26 disabled=no list=route-aws@eu-west
 add address=18.169.230.136/30 disabled=no list=route-aws@eu-west
 add address=18.169.230.200/29 disabled=no list=route-aws@eu-west
 add address=18.175.0.0/16 disabled=no list=route-aws@eu-west
-add address=18.186.0.0/15 disabled=no list=route-aws@eu-west
 add address=18.200.0.0/16 disabled=no list=route-aws@eu-west
 add address=18.200.212.0/23 disabled=no list=route-aws@eu-west
 add address=18.201.0.0/16 disabled=no list=route-aws@eu-west
@@ -402,7 +400,6 @@ add address=46.137.0.0/17 disabled=no list=route-aws@eu-west
 add address=46.137.128.0/18 disabled=no list=route-aws@eu-west
 add address=46.51.128.0/18 disabled=no list=route-aws@eu-west
 add address=46.51.192.0/20 disabled=no list=route-aws@eu-west
-add address=51.20.0.0/14 disabled=no list=route-aws@eu-west
 add address=52.119.192.0/22 disabled=no list=route-aws@eu-west
 add address=52.119.240.0/21 disabled=no list=route-aws@eu-west
 add address=52.144.133.32/27 disabled=no list=route-aws@eu-west
@@ -510,6 +507,7 @@ add address=52.93.127.24/32 disabled=no list=route-aws@eu-west
 add address=52.93.127.25/32 disabled=no list=route-aws@eu-west
 add address=52.93.127.26/32 disabled=no list=route-aws@eu-west
 add address=52.93.127.27/32 disabled=no list=route-aws@eu-west
+add address=52.93.138.12/32 disabled=no list=route-aws@eu-west
 add address=52.93.138.252/32 disabled=no list=route-aws@eu-west
 add address=52.93.138.253/32 disabled=no list=route-aws@eu-west
 add address=52.93.139.248/31 disabled=no list=route-aws@eu-west
