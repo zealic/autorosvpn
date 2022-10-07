@@ -5760,6 +5760,7 @@ add address=136.8.0.0/16 disabled=no list=route-aws@us-west
 add address=136.9.0.0/16 disabled=no list=route-aws@us-west
 add address=142.4.160.104/29 disabled=no list=route-aws@us-west
 add address=142.4.160.16/29 disabled=no list=route-aws@us-west
+add address=142.4.160.224/29 disabled=no list=route-aws@us-west
 add address=142.4.160.32/29 disabled=no list=route-aws@us-west
 add address=142.4.160.56/29 disabled=no list=route-aws@us-west
 add address=142.4.160.64/29 disabled=no list=route-aws@us-west

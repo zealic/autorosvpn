@@ -438,6 +438,7 @@ add address=108.166.224.0/21 disabled=no list=route-aws@us-west-2
 add address=108.166.240.0/21 disabled=no list=route-aws@us-west-2
 add address=142.4.160.104/29 disabled=no list=route-aws@us-west-2
 add address=142.4.160.16/29 disabled=no list=route-aws@us-west-2
+add address=142.4.160.224/29 disabled=no list=route-aws@us-west-2
 add address=142.4.160.32/29 disabled=no list=route-aws@us-west-2
 add address=142.4.160.56/29 disabled=no list=route-aws@us-west-2
 add address=142.4.160.64/29 disabled=no list=route-aws@us-west-2
