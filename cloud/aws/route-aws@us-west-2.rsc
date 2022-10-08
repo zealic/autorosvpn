@@ -64,6 +64,12 @@ add address=13.34.70.64/27 disabled=no list=route-aws@us-west-2
 add address=13.34.70.96/27 disabled=no list=route-aws@us-west-2
 add address=13.34.79.64/27 disabled=no list=route-aws@us-west-2
 add address=13.34.79.96/27 disabled=no list=route-aws@us-west-2
+add address=13.34.82.128/27 disabled=no list=route-aws@us-west-2
+add address=13.34.82.160/27 disabled=no list=route-aws@us-west-2
+add address=13.34.82.192/27 disabled=no list=route-aws@us-west-2
+add address=13.34.82.224/27 disabled=no list=route-aws@us-west-2
+add address=13.34.82.64/27 disabled=no list=route-aws@us-west-2
+add address=13.34.82.96/27 disabled=no list=route-aws@us-west-2
 add address=15.177.80.0/24 disabled=no list=route-aws@us-west-2
 add address=15.181.0.0/20 disabled=no list=route-aws@us-west-2
 add address=15.181.116.0/22 disabled=no list=route-aws@us-west-2
