@@ -103,6 +103,7 @@ add address=52.95.146.0/23 disabled=no list=route-aws@ca-central
 add address=52.95.190.0/24 disabled=no list=route-aws@ca-central
 add address=52.95.250.0/24 disabled=no list=route-aws@ca-central
 add address=54.239.1.0/28 disabled=no list=route-aws@ca-central
+add address=64.252.124.0/24 disabled=no list=route-aws@ca-central
 add address=99.151.128.0/21 disabled=no list=route-aws@ca-central
 add address=99.77.150.0/24 disabled=no list=route-aws@ca-central
 add address=99.77.233.0/24 disabled=no list=route-aws@ca-central

@@ -4787,6 +4787,7 @@ add address=64.252.120.0/24 disabled=no list=route-aws
 add address=64.252.121.0/24 disabled=no list=route-aws
 add address=64.252.122.0/24 disabled=no list=route-aws
 add address=64.252.123.0/24 disabled=no list=route-aws
+add address=64.252.124.0/24 disabled=no list=route-aws
 add address=64.252.128.0/18 disabled=no list=route-aws
 add address=64.252.64.0/18 disabled=no list=route-aws
 add address=64.252.64.0/24 disabled=no list=route-aws
