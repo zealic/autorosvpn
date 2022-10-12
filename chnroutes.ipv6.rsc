@@ -330,6 +330,7 @@ add address=2400:b200::/32 disabled=no list=chnroutes.ipv6
 add address=2400:b2c0::/32 disabled=no list=chnroutes.ipv6
 add address=2400:b500::/32 disabled=no list=chnroutes.ipv6
 add address=2400:b600::/32 disabled=no list=chnroutes.ipv6
+add address=2400:b620::/32 disabled=no list=chnroutes.ipv6
 add address=2400:b6c0::/32 disabled=no list=chnroutes.ipv6
 add address=2400:b700::/32 disabled=no list=chnroutes.ipv6
 add address=2400:b9c0::/32 disabled=no list=chnroutes.ipv6
