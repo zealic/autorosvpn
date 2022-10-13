@@ -171,11 +171,11 @@ add address=54.239.54.0/23 disabled=no list=route-aws@eu-central-1
 add address=54.239.56.0/21 disabled=no list=route-aws@eu-central-1
 add address=54.239.64.0/21 disabled=no list=route-aws@eu-central-1
 add address=54.93.0.0/16 disabled=no list=route-aws@eu-central-1
+add address=57.104.0.0/13 disabled=no list=route-aws@eu-central-1
 add address=64.252.86.0/24 disabled=no list=route-aws@eu-central-1
 add address=64.252.87.0/24 disabled=no list=route-aws@eu-central-1
 add address=64.252.88.0/24 disabled=no list=route-aws@eu-central-1
 add address=64.252.89.0/24 disabled=no list=route-aws@eu-central-1
-add address=98.80.0.0/12 disabled=no list=route-aws@eu-central-1
 add address=99.150.16.0/21 disabled=no list=route-aws@eu-central-1
 add address=99.77.136.0/24 disabled=no list=route-aws@eu-central-1
 add address=99.77.158.0/24 disabled=no list=route-aws@eu-central-1

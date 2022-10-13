@@ -117,8 +117,6 @@ add address=15.230.80.0/24 disabled=no list=route-aws@eu-central
 add address=15.230.85.0/24 disabled=no list=route-aws@eu-central
 add address=16.12.24.0/21 disabled=no list=route-aws@eu-central
 add address=16.12.32.0/22 disabled=no list=route-aws@eu-central
-add address=16.180.0.0/16 disabled=no list=route-aws@eu-central
-add address=16.181.0.0/16 disabled=no list=route-aws@eu-central
 add address=16.62.0.0/15 disabled=no list=route-aws@eu-central
 add address=16.62.56.224/28 disabled=no list=route-aws@eu-central
 add address=16.62.56.240/28 disabled=no list=route-aws@eu-central
@@ -153,6 +151,7 @@ add address=35.158.127.64/26 disabled=no list=route-aws@eu-central
 add address=35.158.136.0/24 disabled=no list=route-aws@eu-central
 add address=35.71.105.0/24 disabled=no list=route-aws@eu-central
 add address=35.71.121.0/24 disabled=no list=route-aws@eu-central
+add address=51.96.0.0/14 disabled=no list=route-aws@eu-central
 add address=52.119.188.0/22 disabled=no list=route-aws@eu-central
 add address=52.144.209.0/26 disabled=no list=route-aws@eu-central
 add address=52.144.210.192/26 disabled=no list=route-aws@eu-central
@@ -200,6 +199,7 @@ add address=54.239.54.0/23 disabled=no list=route-aws@eu-central
 add address=54.239.56.0/21 disabled=no list=route-aws@eu-central
 add address=54.239.64.0/21 disabled=no list=route-aws@eu-central
 add address=54.93.0.0/16 disabled=no list=route-aws@eu-central
+add address=57.104.0.0/13 disabled=no list=route-aws@eu-central
 add address=64.252.86.0/24 disabled=no list=route-aws@eu-central
 add address=64.252.87.0/24 disabled=no list=route-aws@eu-central
 add address=64.252.88.0/24 disabled=no list=route-aws@eu-central
@@ -207,7 +207,6 @@ add address=64.252.89.0/24 disabled=no list=route-aws@eu-central
 add address=70.232.112.0/21 disabled=no list=route-aws@eu-central
 add address=70.232.120.0/22 disabled=no list=route-aws@eu-central
 add address=70.232.96.0/20 disabled=no list=route-aws@eu-central
-add address=98.80.0.0/12 disabled=no list=route-aws@eu-central
 add address=99.150.16.0/21 disabled=no list=route-aws@eu-central
 add address=99.151.80.0/21 disabled=no list=route-aws@eu-central
 add address=99.77.136.0/24 disabled=no list=route-aws@eu-central
