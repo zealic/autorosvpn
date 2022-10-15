@@ -267,5 +267,6 @@ add address=150.222.3.250/31 disabled=no list=route-aws@ap-southeast-1
 add address=150.222.3.252/31 disabled=no list=route-aws@ap-southeast-1
 add address=150.222.3.254/31 disabled=no list=route-aws@ap-southeast-1
 add address=150.222.78.0/24 disabled=no list=route-aws@ap-southeast-1
+add address=151.148.38.0/24 disabled=no list=route-aws@ap-southeast-1
 add address=175.41.128.0/18 disabled=no list=route-aws@ap-southeast-1
 add address=203.83.220.0/22 disabled=no list=route-aws@ap-southeast-1

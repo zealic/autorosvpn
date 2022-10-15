@@ -49,6 +49,7 @@ add address=2001:df1:5280::/48 disabled=no list=novpn.ipv6
 add address=2001:df1:5b80::/48 disabled=no list=novpn.ipv6
 add address=2001:df1:5fc0::/48 disabled=no list=novpn.ipv6
 add address=2001:df1:6180::/48 disabled=no list=novpn.ipv6
+add address=2001:df1:61c0::/48 disabled=no list=novpn.ipv6
 add address=2001:df1:6b80::/48 disabled=no list=novpn.ipv6
 add address=2001:df1:8b00::/48 disabled=no list=novpn.ipv6
 add address=2001:df1:a100::/48 disabled=no list=novpn.ipv6

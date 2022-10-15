@@ -130,3 +130,4 @@ add address=99.82.168.0/24 disabled=no list=route-aws@ap-northeast-2
 add address=104.255.59.118/32 disabled=no list=route-aws@ap-northeast-2
 add address=104.255.59.119/32 disabled=no list=route-aws@ap-northeast-2
 add address=150.222.116.0/24 disabled=no list=route-aws@ap-northeast-2
+add address=151.148.40.0/24 disabled=no list=route-aws@ap-northeast-2

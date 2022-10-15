@@ -2073,6 +2073,7 @@ add address=103.18.224.0/22 disabled=no list=novpn
 add address=103.19.12.0/22 disabled=no list=novpn
 add address=103.19.40.0/22 disabled=no list=novpn
 add address=103.19.44.0/22 disabled=no list=novpn
+add address=103.19.50.0/23 disabled=no list=novpn
 add address=103.19.64.0/22 disabled=no list=novpn
 add address=103.19.68.0/22 disabled=no list=novpn
 add address=103.19.72.0/22 disabled=no list=novpn

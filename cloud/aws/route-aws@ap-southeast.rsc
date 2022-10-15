@@ -536,5 +536,7 @@ add address=150.222.51.224/27 disabled=no list=route-aws@ap-southeast
 add address=150.222.72.0/24 disabled=no list=route-aws@ap-southeast
 add address=150.222.78.0/24 disabled=no list=route-aws@ap-southeast
 add address=150.222.82.0/24 disabled=no list=route-aws@ap-southeast
+add address=151.148.38.0/24 disabled=no list=route-aws@ap-southeast
+add address=151.148.39.0/24 disabled=no list=route-aws@ap-southeast
 add address=175.41.128.0/18 disabled=no list=route-aws@ap-southeast
 add address=203.83.220.0/22 disabled=no list=route-aws@ap-southeast

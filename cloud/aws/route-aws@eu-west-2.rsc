@@ -273,3 +273,4 @@ add address=150.222.134.0/24 disabled=no list=route-aws@eu-west-2
 add address=150.222.207.0/24 disabled=no list=route-aws@eu-west-2
 add address=150.222.215.0/24 disabled=no list=route-aws@eu-west-2
 add address=150.222.67.0/24 disabled=no list=route-aws@eu-west-2
+add address=151.148.41.0/24 disabled=no list=route-aws@eu-west-2
