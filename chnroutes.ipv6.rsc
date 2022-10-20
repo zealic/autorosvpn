@@ -1789,7 +1789,6 @@ add address=2407:f40::/32 disabled=no list=chnroutes.ipv6
 add address=2407:17c0::/32 disabled=no list=chnroutes.ipv6
 add address=2407:1900::/32 disabled=no list=chnroutes.ipv6
 add address=2407:1d00::/32 disabled=no list=chnroutes.ipv6
-add address=2407:1e80::/32 disabled=no list=chnroutes.ipv6
 add address=2407:2280::/32 disabled=no list=chnroutes.ipv6
 add address=2407:2380::/32 disabled=no list=chnroutes.ipv6
 add address=2407:23c0::/32 disabled=no list=chnroutes.ipv6
