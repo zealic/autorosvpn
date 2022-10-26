@@ -1084,6 +1084,7 @@ add address=70.232.86.124/32 disabled=no list=route-aws@ap
 add address=70.232.86.125/32 disabled=no list=route-aws@ap
 add address=70.232.86.126/32 disabled=no list=route-aws@ap
 add address=70.232.88.0/22 disabled=no list=route-aws@ap
+add address=71.141.8.0/21 disabled=no list=route-aws@ap
 add address=96.0.0.0/21 disabled=no list=route-aws@ap
 add address=96.0.60.0/22 disabled=no list=route-aws@ap
 add address=96.0.64.0/21 disabled=no list=route-aws@ap
