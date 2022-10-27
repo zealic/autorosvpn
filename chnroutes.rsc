@@ -4493,7 +4493,6 @@ add address=103.212.44.0/22 disabled=no list=chnroutes
 add address=103.212.48.0/22 disabled=no list=chnroutes
 add address=103.212.84.0/22 disabled=no list=chnroutes
 add address=103.212.100.0/22 disabled=no list=chnroutes
-add address=103.212.104.0/22 disabled=no list=chnroutes
 add address=103.212.108.0/22 disabled=no list=chnroutes
 add address=103.212.148.0/22 disabled=no list=chnroutes
 add address=103.212.164.0/22 disabled=no list=chnroutes
@@ -6080,7 +6079,6 @@ add address=139.5.128.0/22 disabled=no list=chnroutes
 add address=139.5.160.0/22 disabled=no list=chnroutes
 add address=139.5.192.0/22 disabled=no list=chnroutes
 add address=139.5.204.0/22 disabled=no list=chnroutes
-add address=139.5.208.0/22 disabled=no list=chnroutes
 add address=139.5.212.0/22 disabled=no list=chnroutes
 add address=139.5.244.0/22 disabled=no list=chnroutes
 add address=139.9.0.0/16 disabled=no list=chnroutes
