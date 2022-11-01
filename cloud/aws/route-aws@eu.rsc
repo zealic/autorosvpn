@@ -620,8 +620,7 @@ add address=35.71.120.0/24 disabled=no list=route-aws@eu
 add address=35.71.121.0/24 disabled=no list=route-aws@eu
 add address=35.71.72.0/22 disabled=no list=route-aws@eu
 add address=35.71.98.0/24 disabled=no list=route-aws@eu
-add address=40.180.0.0/16 disabled=no list=route-aws@eu
-add address=40.181.0.0/16 disabled=no list=route-aws@eu
+add address=40.180.0.0/15 disabled=no list=route-aws@eu
 add address=43.224.76.100/30 disabled=no list=route-aws@eu
 add address=43.224.76.120/30 disabled=no list=route-aws@eu
 add address=43.224.76.124/30 disabled=no list=route-aws@eu

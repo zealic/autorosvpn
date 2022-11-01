@@ -797,8 +797,7 @@ add address=100.20.0.0/14 disabled=no list=route-aws@us-west
 add address=108.166.224.0/21 disabled=no list=route-aws@us-west
 add address=108.166.240.0/21 disabled=no list=route-aws@us-west
 add address=136.18.21.0/24 disabled=no list=route-aws@us-west
-add address=136.8.0.0/16 disabled=no list=route-aws@us-west
-add address=136.9.0.0/16 disabled=no list=route-aws@us-west
+add address=136.8.0.0/15 disabled=no list=route-aws@us-west
 add address=142.4.160.104/29 disabled=no list=route-aws@us-west
 add address=142.4.160.16/29 disabled=no list=route-aws@us-west
 add address=142.4.160.224/29 disabled=no list=route-aws@us-west
