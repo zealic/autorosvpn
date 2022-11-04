@@ -1417,12 +1417,16 @@ add address=13.34.81.32/27 disabled=no list=route-aws@ca
 add address=13.34.84.192/27 disabled=no list=route-aws@ca
 add address=13.34.84.224/27 disabled=no list=route-aws@ca
 add address=13.34.85.0/27 disabled=no list=route-aws@ca
+add address=13.34.85.128/27 disabled=no list=route-aws@ca
+add address=13.34.85.160/27 disabled=no list=route-aws@ca
 add address=13.34.85.32/27 disabled=no list=route-aws@ca
 add address=15.156.0.0/15 disabled=no list=route-aws@ca
 add address=15.156.38.0/27 disabled=no list=route-aws@ca
 add address=15.156.38.64/26 disabled=no list=route-aws@ca
 add address=15.177.100.0/24 disabled=no list=route-aws@ca
 add address=15.177.84.0/24 disabled=no list=route-aws@ca
+add address=15.190.48.0/20 disabled=no list=route-aws@ca
+add address=15.190.8.0/22 disabled=no list=route-aws@ca
 add address=15.193.8.0/24 disabled=no list=route-aws@ca
 add address=15.221.33.0/24 disabled=no list=route-aws@ca
 add address=15.222.0.0/15 disabled=no list=route-aws@ca
@@ -1457,7 +1461,8 @@ add address=35.183.38.56/29 disabled=no list=route-aws@ca
 add address=35.183.38.64/29 disabled=no list=route-aws@ca
 add address=35.183.92.176/29 disabled=no list=route-aws@ca
 add address=35.71.119.0/24 disabled=no list=route-aws@ca
-add address=40.176.0.0/14 disabled=no list=route-aws@ca
+add address=40.176.0.0/15 disabled=no list=route-aws@ca
+add address=40.178.0.0/15 disabled=no list=route-aws@ca
 add address=52.144.199.128/26 disabled=no list=route-aws@ca
 add address=52.144.201.128/26 disabled=no list=route-aws@ca
 add address=52.144.201.64/26 disabled=no list=route-aws@ca
@@ -1491,6 +1496,7 @@ add address=52.95.250.0/24 disabled=no list=route-aws@ca
 add address=54.239.1.0/28 disabled=no list=route-aws@ca
 add address=64.252.124.0/24 disabled=no list=route-aws@ca
 add address=99.151.128.0/21 disabled=no list=route-aws@ca
+add address=99.151.168.0/21 disabled=no list=route-aws@ca
 add address=99.77.150.0/24 disabled=no list=route-aws@ca
 add address=99.77.233.0/24 disabled=no list=route-aws@ca
 add address=99.79.0.0/16 disabled=no list=route-aws@ca
