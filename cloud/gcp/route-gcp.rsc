@@ -10,6 +10,7 @@ add address=8.35.192.0/21 disabled=no list=route-gcp
 add address=23.236.48.0/20 disabled=no list=route-gcp
 add address=23.251.128.0/20 disabled=no list=route-gcp
 add address=23.251.144.0/20 disabled=no list=route-gcp
+add address=34.0.32.0/20 disabled=no list=route-gcp
 add address=34.0.64.0/19 disabled=no list=route-gcp
 add address=34.100.128.0/17 disabled=no list=route-gcp
 add address=34.101.128.0/17 disabled=no list=route-gcp
