@@ -4723,6 +4723,10 @@ add address=44.210.201.0/24 disabled=no list=route-aws@us
 add address=44.210.202.0/24 disabled=no list=route-aws@us
 add address=44.210.246.64/26 disabled=no list=route-aws@us
 add address=44.210.64.0/22 disabled=no list=route-aws@us
+add address=44.212.176.0/23 disabled=no list=route-aws@us
+add address=44.212.178.0/23 disabled=no list=route-aws@us
+add address=44.212.180.0/23 disabled=no list=route-aws@us
+add address=44.212.182.0/23 disabled=no list=route-aws@us
 add address=44.212.79.192/26 disabled=no list=route-aws@us
 add address=44.224.0.0/11 disabled=no list=route-aws@us
 add address=44.227.178.0/24 disabled=no list=route-aws@us

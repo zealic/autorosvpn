@@ -2202,6 +2202,7 @@ add address=103.31.160.0/22 disabled=no list=novpn
 add address=103.31.168.0/22 disabled=no list=novpn
 add address=103.31.200.0/22 disabled=no list=novpn
 add address=103.31.236.0/22 disabled=no list=novpn
+add address=103.31.242.0/23 disabled=no list=novpn
 add address=103.32.0.0/22 disabled=no list=novpn
 add address=103.32.4.0/22 disabled=no list=novpn
 add address=103.32.8.0/22 disabled=no list=novpn

@@ -784,6 +784,10 @@ add address=44.210.201.0/24 disabled=no list=route-aws@us-east
 add address=44.210.202.0/24 disabled=no list=route-aws@us-east
 add address=44.210.246.64/26 disabled=no list=route-aws@us-east
 add address=44.210.64.0/22 disabled=no list=route-aws@us-east
+add address=44.212.176.0/23 disabled=no list=route-aws@us-east
+add address=44.212.178.0/23 disabled=no list=route-aws@us-east
+add address=44.212.180.0/23 disabled=no list=route-aws@us-east
+add address=44.212.182.0/23 disabled=no list=route-aws@us-east
 add address=44.212.79.192/26 disabled=no list=route-aws@us-east
 add address=46.51.208.0/22 disabled=no list=route-aws@us-east
 add address=50.16.0.0/15 disabled=no list=route-aws@us-east
