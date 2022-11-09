@@ -1509,6 +1509,7 @@ add address=150.222.109.0/24 disabled=no list=route-aws@ca-central
 /ip firewall address-list remove [/ip firewall address-list find list="route-aws@ca-west"]
 /ip firewall address-list
 add address=3.2.42.192/26 disabled=no list=route-aws@ca-west
+add address=13.248.73.0/24 disabled=no list=route-aws@ca-west
 add address=15.177.100.0/24 disabled=no list=route-aws@ca-west
 add address=15.190.48.0/20 disabled=no list=route-aws@ca-west
 add address=15.190.8.0/22 disabled=no list=route-aws@ca-west
@@ -3596,6 +3597,7 @@ add address=3.2.3.0/24 disabled=no list=route-aws@us-east
 add address=3.2.33.192/26 disabled=no list=route-aws@us-east
 add address=3.2.36.0/25 disabled=no list=route-aws@us-east
 add address=3.2.41.0/26 disabled=no list=route-aws@us-east
+add address=3.2.50.0/24 disabled=no list=route-aws@us-east
 add address=3.20.0.0/14 disabled=no list=route-aws@us-east
 add address=3.208.0.0/12 disabled=no list=route-aws@us-east
 add address=3.208.72.176/28 disabled=no list=route-aws@us-east
