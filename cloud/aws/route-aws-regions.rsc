@@ -1962,6 +1962,8 @@ add address=13.34.83.0/27 disabled=no list=route-aws@eu
 add address=13.34.83.128/27 disabled=no list=route-aws@eu
 add address=13.34.83.160/27 disabled=no list=route-aws@eu
 add address=13.34.83.32/27 disabled=no list=route-aws@eu
+add address=13.34.86.0/27 disabled=no list=route-aws@eu
+add address=13.34.86.32/27 disabled=no list=route-aws@eu
 add address=13.34.9.0/27 disabled=no list=route-aws@eu
 add address=13.34.9.32/27 disabled=no list=route-aws@eu
 add address=13.34.9.76/32 disabled=no list=route-aws@eu
