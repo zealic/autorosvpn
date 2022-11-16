@@ -1327,6 +1327,8 @@ add address=13.34.77.32/27 disabled=no list=route-aws
 add address=13.34.77.64/27 disabled=no list=route-aws
 add address=13.34.77.96/27 disabled=no list=route-aws
 add address=13.34.78.0/27 disabled=no list=route-aws
+add address=13.34.78.128/27 disabled=no list=route-aws
+add address=13.34.78.160/27 disabled=no list=route-aws
 add address=13.34.78.192/27 disabled=no list=route-aws
 add address=13.34.78.224/27 disabled=no list=route-aws
 add address=13.34.78.32/27 disabled=no list=route-aws
