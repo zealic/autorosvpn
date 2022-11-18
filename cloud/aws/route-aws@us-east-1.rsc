@@ -296,7 +296,6 @@ add address=15.181.40.0/21 disabled=no list=route-aws@us-east-1
 add address=15.181.48.0/20 disabled=no list=route-aws@us-east-1
 add address=15.181.80.0/20 disabled=no list=route-aws@us-east-1
 add address=15.181.96.0/20 disabled=no list=route-aws@us-east-1
-add address=15.191.0.0/16 disabled=no list=route-aws@us-east-1
 add address=15.193.6.0/24 disabled=no list=route-aws@us-east-1
 add address=15.220.120.0/21 disabled=no list=route-aws@us-east-1
 add address=15.220.176.0/21 disabled=no list=route-aws@us-east-1
