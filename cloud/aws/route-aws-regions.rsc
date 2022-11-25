@@ -514,6 +514,8 @@ add address=13.34.85.192/27 disabled=no list=route-aws@ap
 add address=13.34.85.224/27 disabled=no list=route-aws@ap
 add address=13.34.87.0/27 disabled=no list=route-aws@ap
 add address=13.34.87.32/27 disabled=no list=route-aws@ap
+add address=13.34.87.64/27 disabled=no list=route-aws@ap
+add address=13.34.87.96/27 disabled=no list=route-aws@ap
 add address=13.54.0.0/15 disabled=no list=route-aws@ap
 add address=13.54.63.128/26 disabled=no list=route-aws@ap
 add address=13.55.255.216/29 disabled=no list=route-aws@ap
