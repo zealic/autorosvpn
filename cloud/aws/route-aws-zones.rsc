@@ -328,6 +328,8 @@ add address=13.34.71.64/27 disabled=no list=route-aws@ap-northeast
 add address=13.34.71.96/27 disabled=no list=route-aws@ap-northeast
 add address=13.34.81.64/27 disabled=no list=route-aws@ap-northeast
 add address=13.34.81.96/27 disabled=no list=route-aws@ap-northeast
+add address=13.34.87.128/27 disabled=no list=route-aws@ap-northeast
+add address=13.34.87.160/27 disabled=no list=route-aws@ap-northeast
 add address=13.34.87.64/27 disabled=no list=route-aws@ap-northeast
 add address=13.34.87.96/27 disabled=no list=route-aws@ap-northeast
 add address=15.152.0.0/16 disabled=no list=route-aws@ap-northeast
@@ -3241,8 +3243,6 @@ add address=13.34.65.224/27 disabled=no list=route-aws@il-central
 add address=13.34.65.32/27 disabled=no list=route-aws@il-central
 add address=13.34.65.64/27 disabled=no list=route-aws@il-central
 add address=13.34.65.96/27 disabled=no list=route-aws@il-central
-add address=13.34.66.128/27 disabled=no list=route-aws@il-central
-add address=13.34.66.160/27 disabled=no list=route-aws@il-central
 add address=15.177.99.0/24 disabled=no list=route-aws@il-central
 add address=15.190.0.0/22 disabled=no list=route-aws@il-central
 add address=15.190.16.0/20 disabled=no list=route-aws@il-central
