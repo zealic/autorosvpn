@@ -490,7 +490,6 @@ add address=16.12.18.0/23 disabled=no list=route-aws@eu
 add address=16.12.20.0/24 disabled=no list=route-aws@eu
 add address=16.12.24.0/21 disabled=no list=route-aws@eu
 add address=16.12.32.0/22 disabled=no list=route-aws@eu
-add address=16.12.59.0/24 disabled=no list=route-aws@eu
 add address=16.12.9.0/24 disabled=no list=route-aws@eu
 add address=16.16.0.0/16 disabled=no list=route-aws@eu
 add address=16.16.2.0/23 disabled=no list=route-aws@eu
