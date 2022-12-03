@@ -2801,6 +2801,7 @@ add address=40.176.0.0/15 disabled=no list=route-aws
 add address=40.178.0.0/15 disabled=no list=route-aws
 add address=40.180.0.0/15 disabled=no list=route-aws
 add address=43.192.0.0/16 disabled=no list=route-aws
+add address=43.193.0.0/17 disabled=no list=route-aws
 add address=43.194.0.0/16 disabled=no list=route-aws
 add address=43.195.0.0/16 disabled=no list=route-aws
 add address=43.196.0.0/16 disabled=no list=route-aws
