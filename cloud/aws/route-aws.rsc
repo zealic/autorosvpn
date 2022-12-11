@@ -5003,6 +5003,8 @@ add address=96.0.72.0/21 disabled=no list=route-aws
 add address=96.0.8.0/22 disabled=no list=route-aws
 add address=96.0.80.0/22 disabled=no list=route-aws
 add address=96.0.84.0/22 disabled=no list=route-aws
+add address=96.0.88.0/22 disabled=no list=route-aws
+add address=96.0.92.0/23 disabled=no list=route-aws
 add address=96.127.0.0/17 disabled=no list=route-aws
 add address=98.130.0.0/15 disabled=no list=route-aws
 add address=98.80.0.0/12 disabled=no list=route-aws
