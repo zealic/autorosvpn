@@ -3920,7 +3920,6 @@ add address=103.145.106.0/23 disabled=no list=novpn
 add address=103.145.122.0/23 disabled=no list=novpn
 add address=103.145.188.0/23 disabled=no list=novpn
 add address=103.145.190.0/23 disabled=no list=novpn
-add address=103.146.6.0/23 disabled=no list=novpn
 add address=103.146.72.0/23 disabled=no list=novpn
 add address=103.146.88.0/23 disabled=no list=novpn
 add address=103.146.90.0/23 disabled=no list=novpn

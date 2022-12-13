@@ -4586,6 +4586,7 @@ add address=54.219.0.0/16 disabled=no list=route-aws
 add address=54.220.0.0/16 disabled=no list=route-aws
 add address=54.221.0.0/16 disabled=no list=route-aws
 add address=54.222.0.0/19 disabled=no list=route-aws
+add address=54.222.112.0/20 disabled=no list=route-aws
 add address=54.222.128.0/17 disabled=no list=route-aws
 add address=54.222.32.0/22 disabled=no list=route-aws
 add address=54.222.36.0/22 disabled=no list=route-aws
