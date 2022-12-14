@@ -440,6 +440,7 @@ add address=64.252.72.0/24 disabled=no list=route-aws@us-west-2
 add address=64.252.73.0/24 disabled=no list=route-aws@us-west-2
 add address=70.224.192.0/18 disabled=no list=route-aws@us-west-2
 add address=99.150.56.0/21 disabled=no list=route-aws@us-west-2
+add address=99.151.186.0/23 disabled=no list=route-aws@us-west-2
 add address=99.77.130.0/24 disabled=no list=route-aws@us-west-2
 add address=99.77.152.0/24 disabled=no list=route-aws@us-west-2
 add address=99.77.186.0/24 disabled=no list=route-aws@us-west-2
