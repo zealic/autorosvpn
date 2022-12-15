@@ -506,6 +506,8 @@ add address=13.34.86.128/27 disabled=no list=route-aws@us
 add address=13.34.86.160/27 disabled=no list=route-aws@us
 add address=13.34.86.192/27 disabled=no list=route-aws@us
 add address=13.34.86.224/27 disabled=no list=route-aws@us
+add address=13.34.88.0/27 disabled=no list=route-aws@us
+add address=13.34.88.32/27 disabled=no list=route-aws@us
 add address=13.52.0.0/16 disabled=no list=route-aws@us
 add address=13.52.1.0/28 disabled=no list=route-aws@us
 add address=13.52.1.16/28 disabled=no list=route-aws@us
