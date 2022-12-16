@@ -8,6 +8,7 @@ add address=43.193.0.0/17 disabled=no list=route-aws@cn
 add address=43.194.0.0/16 disabled=no list=route-aws@cn
 add address=43.195.0.0/16 disabled=no list=route-aws@cn
 add address=43.196.0.0/16 disabled=no list=route-aws@cn
+add address=43.196.3.64/26 disabled=no list=route-aws@cn
 add address=52.80.0.0/16 disabled=no list=route-aws@cn
 add address=52.80.197.0/25 disabled=no list=route-aws@cn
 add address=52.80.197.128/25 disabled=no list=route-aws@cn
