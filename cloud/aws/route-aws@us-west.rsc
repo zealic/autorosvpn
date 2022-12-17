@@ -424,6 +424,7 @@ add address=52.219.120.0/22 disabled=no list=route-aws@us-west
 add address=52.219.192.0/23 disabled=no list=route-aws@us-west
 add address=52.219.194.0/24 disabled=no list=route-aws@us-west
 add address=52.219.216.0/23 disabled=no list=route-aws@us-west
+add address=52.219.220.0/23 disabled=no list=route-aws@us-west
 add address=52.219.24.0/21 disabled=no list=route-aws@us-west
 add address=52.24.0.0/14 disabled=no list=route-aws@us-west
 add address=52.32.0.0/14 disabled=no list=route-aws@us-west

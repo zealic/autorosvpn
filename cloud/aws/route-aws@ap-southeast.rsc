@@ -363,6 +363,7 @@ add address=52.95.166.0/23 disabled=no list=route-aws@ap-southeast
 add address=52.95.168.0/24 disabled=no list=route-aws@ap-southeast
 add address=52.95.177.0/24 disabled=no list=route-aws@ap-southeast
 add address=52.95.178.0/23 disabled=no list=route-aws@ap-southeast
+add address=52.95.191.0/24 disabled=no list=route-aws@ap-southeast
 add address=52.95.212.0/22 disabled=no list=route-aws@ap-southeast
 add address=52.95.235.0/24 disabled=no list=route-aws@ap-southeast
 add address=52.95.241.0/24 disabled=no list=route-aws@ap-southeast
