@@ -5001,6 +5001,7 @@ add address=76.223.103.0/24 disabled=no list=route-aws
 add address=76.223.104.0/24 disabled=no list=route-aws
 add address=76.223.128.0/24 disabled=no list=route-aws
 add address=76.223.168.0/24 disabled=no list=route-aws
+add address=76.223.170.0/28 disabled=no list=route-aws
 add address=76.223.172.0/22 disabled=no list=route-aws
 add address=76.223.95.0/24 disabled=no list=route-aws
 add address=76.223.96.0/24 disabled=no list=route-aws
