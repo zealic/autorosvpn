@@ -4086,8 +4086,6 @@ add address=13.34.82.64/27 disabled=no list=route-aws@us
 add address=13.34.82.96/27 disabled=no list=route-aws@us
 add address=13.34.83.192/27 disabled=no list=route-aws@us
 add address=13.34.83.224/27 disabled=no list=route-aws@us
-add address=13.34.83.64/27 disabled=no list=route-aws@us
-add address=13.34.83.96/27 disabled=no list=route-aws@us
 add address=13.34.84.128/27 disabled=no list=route-aws@us
 add address=13.34.84.160/27 disabled=no list=route-aws@us
 add address=13.34.84.64/27 disabled=no list=route-aws@us
