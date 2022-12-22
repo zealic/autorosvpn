@@ -358,6 +358,7 @@ add address=2400:cc40::/32 disabled=no list=novpn.ipv6
 add address=2400:cc80::/32 disabled=no list=novpn.ipv6
 add address=2400:ccc0::/32 disabled=no list=novpn.ipv6
 add address=2400:cd40::/32 disabled=no list=novpn.ipv6
+add address=2400:cda0::/32 disabled=no list=novpn.ipv6
 add address=2400:cdc0::/32 disabled=no list=novpn.ipv6
 add address=2400:ce00::/32 disabled=no list=novpn.ipv6
 add address=2400:ce40::/32 disabled=no list=novpn.ipv6
