@@ -199,6 +199,7 @@ add address=34.159.0.0/16 disabled=no list=route-gcp@europe
 add address=34.163.0.0/16 disabled=no list=route-gcp@europe
 add address=34.164.0.0/16 disabled=no list=route-gcp@europe
 add address=34.175.0.0/16 disabled=no list=route-gcp@europe
+add address=34.22.128.0/17 disabled=no list=route-gcp@europe
 add address=34.65.0.0/16 disabled=no list=route-gcp@europe
 add address=34.76.0.0/14 disabled=no list=route-gcp@europe
 add address=34.88.0.0/16 disabled=no list=route-gcp@europe

@@ -197,6 +197,7 @@ add address=34.20.128.0/17 disabled=no list=route-gcp
 add address=34.21.0.0/17 disabled=no list=route-gcp
 add address=34.21.128.0/17 disabled=no list=route-gcp
 add address=34.22.0.0/19 disabled=no list=route-gcp
+add address=34.22.128.0/17 disabled=no list=route-gcp
 add address=34.22.32.0/19 disabled=no list=route-gcp
 add address=34.23.0.0/16 disabled=no list=route-gcp
 add address=34.24.0.0/15 disabled=no list=route-gcp
