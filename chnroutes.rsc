@@ -2822,6 +2822,7 @@ add address=103.59.124.0/22 disabled=no list=chnroutes
 add address=103.59.128.0/22 disabled=no list=chnroutes
 add address=103.59.148.0/22 disabled=no list=chnroutes
 add address=103.59.164.0/22 disabled=no list=chnroutes
+add address=103.59.168.0/23 disabled=no list=chnroutes
 add address=103.60.32.0/22 disabled=no list=chnroutes
 add address=103.60.44.0/22 disabled=no list=chnroutes
 add address=103.60.164.0/22 disabled=no list=chnroutes
