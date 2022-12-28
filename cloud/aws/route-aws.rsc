@@ -418,10 +418,8 @@ add address=3.33.49.192/31 disabled=no list=route-aws
 add address=3.33.49.194/31 disabled=no list=route-aws
 add address=3.33.49.196/31 disabled=no list=route-aws
 add address=3.33.49.198/31 disabled=no list=route-aws
-add address=3.33.49.24/30 disabled=no list=route-aws
 add address=3.33.49.240/31 disabled=no list=route-aws
 add address=3.33.49.242/31 disabled=no list=route-aws
-add address=3.33.49.28/30 disabled=no list=route-aws
 add address=3.34.0.0/15 disabled=no list=route-aws
 add address=3.34.101.192/26 disabled=no list=route-aws
 add address=3.34.228.0/26 disabled=no list=route-aws
