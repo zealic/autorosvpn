@@ -137,19 +137,6 @@ add address=3.3.2.0/24 disabled=no list=route-aws@us-east-1
 add address=3.3.5.0/24 disabled=no list=route-aws@us-east-1
 add address=3.33.34.0/24 disabled=no list=route-aws@us-east-1
 add address=3.33.44.0/22 disabled=no list=route-aws@us-east-1
-add address=3.33.49.132/30 disabled=no list=route-aws@us-east-1
-add address=3.33.49.136/30 disabled=no list=route-aws@us-east-1
-add address=3.33.49.140/30 disabled=no list=route-aws@us-east-1
-add address=3.33.49.144/30 disabled=no list=route-aws@us-east-1
-add address=3.33.49.164/30 disabled=no list=route-aws@us-east-1
-add address=3.33.49.180/31 disabled=no list=route-aws@us-east-1
-add address=3.33.49.182/31 disabled=no list=route-aws@us-east-1
-add address=3.33.49.192/31 disabled=no list=route-aws@us-east-1
-add address=3.33.49.194/31 disabled=no list=route-aws@us-east-1
-add address=3.33.49.196/31 disabled=no list=route-aws@us-east-1
-add address=3.33.49.198/31 disabled=no list=route-aws@us-east-1
-add address=3.33.49.240/31 disabled=no list=route-aws@us-east-1
-add address=3.33.49.242/31 disabled=no list=route-aws@us-east-1
 add address=3.4.0.0/24 disabled=no list=route-aws@us-east-1
 add address=3.4.1.0/24 disabled=no list=route-aws@us-east-1
 add address=3.4.2.0/24 disabled=no list=route-aws@us-east-1
@@ -643,8 +630,6 @@ add address=52.46.189.200/30 disabled=no list=route-aws@us-east-1
 add address=52.46.189.204/30 disabled=no list=route-aws@us-east-1
 add address=52.46.189.240/30 disabled=no list=route-aws@us-east-1
 add address=52.46.189.244/30 disabled=no list=route-aws@us-east-1
-add address=52.46.189.36/30 disabled=no list=route-aws@us-east-1
-add address=52.46.189.40/30 disabled=no list=route-aws@us-east-1
 add address=52.46.189.44/30 disabled=no list=route-aws@us-east-1
 add address=52.46.189.48/30 disabled=no list=route-aws@us-east-1
 add address=52.46.189.52/30 disabled=no list=route-aws@us-east-1
@@ -685,8 +670,6 @@ add address=52.46.191.100/31 disabled=no list=route-aws@us-east-1
 add address=52.46.191.102/31 disabled=no list=route-aws@us-east-1
 add address=52.46.191.104/31 disabled=no list=route-aws@us-east-1
 add address=52.46.191.106/31 disabled=no list=route-aws@us-east-1
-add address=52.46.191.108/31 disabled=no list=route-aws@us-east-1
-add address=52.46.191.110/31 disabled=no list=route-aws@us-east-1
 add address=52.46.191.12/31 disabled=no list=route-aws@us-east-1
 add address=52.46.191.120/31 disabled=no list=route-aws@us-east-1
 add address=52.46.191.122/31 disabled=no list=route-aws@us-east-1
