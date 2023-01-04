@@ -1710,6 +1710,7 @@ add address=75.101.128.0/17 disabled=no list=route-aws@us
 add address=75.79.0.0/16 disabled=no list=route-aws@us
 add address=76.223.168.0/24 disabled=no list=route-aws@us
 add address=76.223.172.0/22 disabled=no list=route-aws@us
+add address=96.0.100.0/23 disabled=no list=route-aws@us
 add address=96.0.12.0/22 disabled=no list=route-aws@us
 add address=96.0.16.0/21 disabled=no list=route-aws@us
 add address=96.0.48.0/21 disabled=no list=route-aws@us

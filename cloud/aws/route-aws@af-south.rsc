@@ -38,6 +38,8 @@ add address=13.246.108.0/22 disabled=no list=route-aws@af-south
 add address=13.246.120.0/22 disabled=no list=route-aws@af-south
 add address=13.246.70.0/23 disabled=no list=route-aws@af-south
 add address=13.247.0.0/16 disabled=no list=route-aws@af-south
+add address=13.34.81.0/27 disabled=no list=route-aws@af-south
+add address=13.34.81.32/27 disabled=no list=route-aws@af-south
 add address=15.177.91.0/24 disabled=no list=route-aws@af-south
 add address=15.193.10.0/24 disabled=no list=route-aws@af-south
 add address=15.221.52.0/24 disabled=no list=route-aws@af-south
