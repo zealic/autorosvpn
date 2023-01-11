@@ -4945,8 +4945,8 @@ add address=142.4.160.80/29 disabled=no list=route-aws
 add address=142.4.160.88/29 disabled=no list=route-aws
 add address=142.4.160.96/29 disabled=no list=route-aws
 add address=142.4.161.0/29 disabled=no list=route-aws
+add address=142.4.161.16/29 disabled=no list=route-aws
 add address=142.4.161.8/29 disabled=no list=route-aws
-add address=142.4.177.0/24 disabled=no list=route-aws
 add address=143.204.0.0/16 disabled=no list=route-aws
 add address=144.220.0.0/16 disabled=no list=route-aws
 add address=150.222.0.0/24 disabled=no list=route-aws
