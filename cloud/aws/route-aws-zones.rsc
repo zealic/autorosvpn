@@ -162,7 +162,6 @@ add address=52.95.160.0/23 disabled=no list=route-aws@ap-east
 add address=52.95.162.0/24 disabled=no list=route-aws@ap-east
 add address=52.95.226.0/24 disabled=no list=route-aws@ap-east
 add address=54.239.1.80/28 disabled=no list=route-aws@ap-east
-add address=54.240.17.0/24 disabled=no list=route-aws@ap-east
 add address=54.240.241.0/24 disabled=no list=route-aws@ap-east
 add address=54.46.0.0/15 disabled=no list=route-aws@ap-east
 add address=69.107.7.16/29 disabled=no list=route-aws@ap-east
@@ -855,6 +854,7 @@ add address=104.255.59.86/32 disabled=no list=route-aws@ap-south
 add address=104.255.59.91/32 disabled=no list=route-aws@ap-south
 add address=142.4.160.160/29 disabled=no list=route-aws@ap-south
 add address=142.4.160.248/29 disabled=no list=route-aws@ap-south
+add address=142.4.177.0/24 disabled=no list=route-aws@ap-south
 add address=150.222.113.0/24 disabled=no list=route-aws@ap-south
 add address=150.222.115.0/24 disabled=no list=route-aws@ap-south
 add address=150.222.210.0/24 disabled=no list=route-aws@ap-south
@@ -1836,6 +1836,7 @@ add address=16.12.24.0/21 disabled=no list=route-aws@eu-central
 add address=16.12.32.0/22 disabled=no list=route-aws@eu-central
 add address=16.62.0.0/15 disabled=no list=route-aws@eu-central
 add address=16.62.140.0/25 disabled=no list=route-aws@eu-central
+add address=16.62.140.128/25 disabled=no list=route-aws@eu-central
 add address=16.62.141.0/24 disabled=no list=route-aws@eu-central
 add address=16.62.54.0/26 disabled=no list=route-aws@eu-central
 add address=16.62.54.64/26 disabled=no list=route-aws@eu-central
@@ -3210,6 +3211,7 @@ add address=3.2.34.192/26 disabled=no list=route-aws@me-central
 add address=3.28.0.0/15 disabled=no list=route-aws@me-central
 add address=3.28.211.128/25 disabled=no list=route-aws@me-central
 add address=3.28.229.0/24 disabled=no list=route-aws@me-central
+add address=3.28.255.128/25 disabled=no list=route-aws@me-central
 add address=3.28.63.128/26 disabled=no list=route-aws@me-central
 add address=3.28.63.192/26 disabled=no list=route-aws@me-central
 add address=3.28.65.0/26 disabled=no list=route-aws@me-central
