@@ -371,6 +371,7 @@ add address=2400:d200::/32 disabled=no list=chnroutes.ipv6
 add address=2400:d300::/32 disabled=no list=chnroutes.ipv6
 add address=2400:d440::/32 disabled=no list=chnroutes.ipv6
 add address=2400:d600::/32 disabled=no list=chnroutes.ipv6
+add address=2400:d6a0::/32 disabled=no list=chnroutes.ipv6
 add address=2400:d6c0::/32 disabled=no list=chnroutes.ipv6
 add address=2400:d780::/32 disabled=no list=chnroutes.ipv6
 add address=2400:da00::/32 disabled=no list=chnroutes.ipv6
