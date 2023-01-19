@@ -2,6 +2,16 @@
 /ip firewall address-list
 add address=3.2.42.192/26 disabled=no list=route-aws@ca-west-1
 add address=13.248.73.0/24 disabled=no list=route-aws@ca-west-1
+add address=13.34.89.0/27 disabled=no list=route-aws@ca-west-1
+add address=13.34.89.128/27 disabled=no list=route-aws@ca-west-1
+add address=13.34.89.160/27 disabled=no list=route-aws@ca-west-1
+add address=13.34.89.192/27 disabled=no list=route-aws@ca-west-1
+add address=13.34.89.224/27 disabled=no list=route-aws@ca-west-1
+add address=13.34.89.32/27 disabled=no list=route-aws@ca-west-1
+add address=13.34.89.64/27 disabled=no list=route-aws@ca-west-1
+add address=13.34.89.96/27 disabled=no list=route-aws@ca-west-1
+add address=13.34.90.0/27 disabled=no list=route-aws@ca-west-1
+add address=13.34.90.32/27 disabled=no list=route-aws@ca-west-1
 add address=15.177.100.0/24 disabled=no list=route-aws@ca-west-1
 add address=15.190.48.0/20 disabled=no list=route-aws@ca-west-1
 add address=15.190.8.0/22 disabled=no list=route-aws@ca-west-1
