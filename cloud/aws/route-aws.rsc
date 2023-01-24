@@ -2942,7 +2942,7 @@ add address=50.16.0.0/15 disabled=no list=route-aws
 add address=50.18.0.0/16 disabled=no list=route-aws
 add address=50.19.0.0/16 disabled=no list=route-aws
 add address=51.100.0.0/15 disabled=no list=route-aws
-add address=51.112.0.0/15 disabled=no list=route-aws
+add address=51.112.0.0/16 disabled=no list=route-aws
 add address=51.118.0.0/15 disabled=no list=route-aws
 add address=51.16.0.0/15 disabled=no list=route-aws
 add address=51.20.0.0/14 disabled=no list=route-aws
