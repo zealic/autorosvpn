@@ -240,6 +240,7 @@ add address=150.222.129.19/32 disabled=no list=route-aws@eu-central-1
 add address=150.222.129.20/31 disabled=no list=route-aws@eu-central-1
 add address=150.222.129.224/31 disabled=no list=route-aws@eu-central-1
 add address=150.222.129.226/31 disabled=no list=route-aws@eu-central-1
+add address=150.222.129.228/31 disabled=no list=route-aws@eu-central-1
 add address=150.222.129.240/31 disabled=no list=route-aws@eu-central-1
 add address=150.222.129.242/31 disabled=no list=route-aws@eu-central-1
 add address=150.222.129.244/31 disabled=no list=route-aws@eu-central-1

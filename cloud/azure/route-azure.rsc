@@ -2581,6 +2581,7 @@ add address=20.100.4.136/29 disabled=no list=route-azure
 add address=20.100.4.180/30 disabled=no list=route-azure
 add address=20.100.4.184/29 disabled=no list=route-azure
 add address=20.100.5.16/30 disabled=no list=route-azure
+add address=20.100.5.224/27 disabled=no list=route-azure
 add address=20.100.5.24/29 disabled=no list=route-azure
 add address=20.100.6.0/25 disabled=no list=route-azure
 add address=20.100.6.128/26 disabled=no list=route-azure
@@ -2609,6 +2610,7 @@ add address=20.103.18.84/32 disabled=no list=route-azure
 add address=20.103.204.204/32 disabled=no list=route-azure
 add address=20.103.21.113/32 disabled=no list=route-azure
 add address=20.103.21.81/32 disabled=no list=route-azure
+add address=20.103.30.230/32 disabled=no list=route-azure
 add address=20.103.57.210/32 disabled=no list=route-azure
 add address=20.103.57.29/32 disabled=no list=route-azure
 add address=20.103.58.116/32 disabled=no list=route-azure
@@ -2678,6 +2680,7 @@ add address=20.105.244.62/31 disabled=no list=route-azure
 add address=20.105.245.128/25 disabled=no list=route-azure
 add address=20.105.245.80/32 disabled=no list=route-azure
 add address=20.105.246.0/26 disabled=no list=route-azure
+add address=20.105.77.19/32 disabled=no list=route-azure
 add address=20.106.0.0/18 disabled=no list=route-azure
 add address=20.106.101.214/32 disabled=no list=route-azure
 add address=20.106.116.172/32 disabled=no list=route-azure
@@ -2698,7 +2701,9 @@ add address=20.106.96.5/32 disabled=no list=route-azure
 add address=20.106.99.10/32 disabled=no list=route-azure
 add address=20.107.0.0/17 disabled=no list=route-azure
 add address=20.107.128.0/17 disabled=no list=route-azure
+add address=20.107.156.88/32 disabled=no list=route-azure
 add address=20.107.224.0/21 disabled=no list=route-azure
+add address=20.107.238.0/24 disabled=no list=route-azure
 add address=20.107.239.0/26 disabled=no list=route-azure
 add address=20.107.239.204/30 disabled=no list=route-azure
 add address=20.107.239.216/31 disabled=no list=route-azure
@@ -2754,6 +2759,7 @@ add address=20.111.4.48/29 disabled=no list=route-azure
 add address=20.111.42.147/32 disabled=no list=route-azure
 add address=20.111.5.0/25 disabled=no list=route-azure
 add address=20.111.5.128/26 disabled=no list=route-azure
+add address=20.111.5.192/26 disabled=no list=route-azure
 add address=20.111.64.0/18 disabled=no list=route-azure
 add address=20.112.0.0/17 disabled=no list=route-azure
 add address=20.112.128.0/19 disabled=no list=route-azure
@@ -2810,6 +2816,7 @@ add address=20.116.43.88/30 disabled=no list=route-azure
 add address=20.116.47.192/26 disabled=no list=route-azure
 add address=20.116.47.64/30 disabled=no list=route-azure
 add address=20.116.47.72/29 disabled=no list=route-azure
+add address=20.116.85.253/32 disabled=no list=route-azure
 add address=20.117.0.0/18 disabled=no list=route-azure
 add address=20.117.128.0/17 disabled=no list=route-azure
 add address=20.117.192.168/29 disabled=no list=route-azure
@@ -2866,6 +2873,7 @@ add address=20.118.79.160/28 disabled=no list=route-azure
 add address=20.118.79.192/29 disabled=no list=route-azure
 add address=20.119.0.0/17 disabled=no list=route-azure
 add address=20.119.0.0/20 disabled=no list=route-azure
+add address=20.119.120.190/32 disabled=no list=route-azure
 add address=20.119.128.0/17 disabled=no list=route-azure
 add address=20.119.128.0/20 disabled=no list=route-azure
 add address=20.119.144.0/21 disabled=no list=route-azure
@@ -2874,6 +2882,7 @@ add address=20.119.155.128/29 disabled=no list=route-azure
 add address=20.119.156.128/25 disabled=no list=route-azure
 add address=20.119.156.32/27 disabled=no list=route-azure
 add address=20.119.156.64/26 disabled=no list=route-azure
+add address=20.119.157.0/26 disabled=no list=route-azure
 add address=20.119.157.64/28 disabled=no list=route-azure
 add address=20.119.158.1/32 disabled=no list=route-azure
 add address=20.119.158.2/31 disabled=no list=route-azure
@@ -2905,12 +2914,15 @@ add address=20.120.128.0/17 disabled=no list=route-azure
 add address=20.120.43.49/32 disabled=no list=route-azure
 add address=20.120.43.58/32 disabled=no list=route-azure
 add address=20.121.0.0/16 disabled=no list=route-azure
+add address=20.121.156.117/32 disabled=no list=route-azure
 add address=20.122.0.0/16 disabled=no list=route-azure
 add address=20.122.64.76/32 disabled=no list=route-azure
 add address=20.123.0.0/17 disabled=no list=route-azure
 add address=20.123.0.42/32 disabled=no list=route-azure
+add address=20.123.101.197/32 disabled=no list=route-azure
 add address=20.123.128.0/17 disabled=no list=route-azure
 add address=20.124.0.0/16 disabled=no list=route-azure
+add address=20.124.56.83/32 disabled=no list=route-azure
 add address=20.125.0.0/18 disabled=no list=route-azure
 add address=20.125.1.140/30 disabled=no list=route-azure
 add address=20.125.1.152/30 disabled=no list=route-azure
@@ -2934,6 +2946,7 @@ add address=20.125.163.208/29 disabled=no list=route-azure
 add address=20.125.164.103/32 disabled=no list=route-azure
 add address=20.125.164.128/25 disabled=no list=route-azure
 add address=20.125.165.0/26 disabled=no list=route-azure
+add address=20.125.165.64/26 disabled=no list=route-azure
 add address=20.125.166.40/31 disabled=no list=route-azure
 add address=20.125.168.64/27 disabled=no list=route-azure
 add address=20.125.169.64/27 disabled=no list=route-azure
@@ -3000,6 +3013,7 @@ add address=20.125.7.64/26 disabled=no list=route-azure
 add address=20.126.0.0/16 disabled=no list=route-azure
 add address=20.126.241.238/32 disabled=no list=route-azure
 add address=20.126.243.151/32 disabled=no list=route-azure
+add address=20.126.251.230/32 disabled=no list=route-azure
 add address=20.127.0.0/16 disabled=no list=route-azure
 add address=20.127.137.143/32 disabled=no list=route-azure
 add address=20.13.0.0/17 disabled=no list=route-azure
@@ -3146,7 +3160,9 @@ add address=20.143.30.0/23 disabled=no list=route-azure
 add address=20.143.32.0/23 disabled=no list=route-azure
 add address=20.143.34.0/23 disabled=no list=route-azure
 add address=20.143.36.0/23 disabled=no list=route-azure
+add address=20.143.38.0/24 disabled=no list=route-azure
 add address=20.143.4.0/24 disabled=no list=route-azure
+add address=20.143.40.0/23 disabled=no list=route-azure
 add address=20.143.5.0/24 disabled=no list=route-azure
 add address=20.143.6.0/23 disabled=no list=route-azure
 add address=20.143.8.0/23 disabled=no list=route-azure
@@ -3568,6 +3584,7 @@ add address=20.157.101.0/24 disabled=no list=route-azure
 add address=20.157.102.0/24 disabled=no list=route-azure
 add address=20.157.103.0/24 disabled=no list=route-azure
 add address=20.157.104.0/23 disabled=no list=route-azure
+add address=20.157.106.0/24 disabled=no list=route-azure
 add address=20.157.109.0/24 disabled=no list=route-azure
 add address=20.157.110.0/24 disabled=no list=route-azure
 add address=20.157.111.0/24 disabled=no list=route-azure
@@ -3795,6 +3812,7 @@ add address=20.164.153.128/26 disabled=no list=route-azure
 add address=20.165.0.0/17 disabled=no list=route-azure
 add address=20.165.128.0/17 disabled=no list=route-azure
 add address=20.166.0.0/16 disabled=no list=route-azure
+add address=20.166.106.104/32 disabled=no list=route-azure
 add address=20.166.126.56/32 disabled=no list=route-azure
 add address=20.166.2.191/32 disabled=no list=route-azure
 add address=20.166.40.64/28 disabled=no list=route-azure
@@ -3931,6 +3949,7 @@ add address=20.174.0.0/16 disabled=no list=route-azure
 add address=20.175.0.0/17 disabled=no list=route-azure
 add address=20.175.0.128/26 disabled=no list=route-azure
 add address=20.175.128.0/17 disabled=no list=route-azure
+add address=20.175.157.119/32 disabled=no list=route-azure
 add address=20.175.2.254/31 disabled=no list=route-azure
 add address=20.175.4.128/25 disabled=no list=route-azure
 add address=20.175.5.128/29 disabled=no list=route-azure
@@ -4007,6 +4026,7 @@ add address=20.185.72.53/32 disabled=no list=route-azure
 add address=20.185.73.73/32 disabled=no list=route-azure
 add address=20.185.75.209/32 disabled=no list=route-azure
 add address=20.185.75.6/32 disabled=no list=route-azure
+add address=20.185.78.168/32 disabled=no list=route-azure
 add address=20.185.8.74/32 disabled=no list=route-azure
 add address=20.186.0.0/17 disabled=no list=route-azure
 add address=20.186.128.0/18 disabled=no list=route-azure
@@ -4017,6 +4037,7 @@ add address=20.186.83.56/32 disabled=no list=route-azure
 add address=20.187.0.0/18 disabled=no list=route-azure
 add address=20.187.128.0/18 disabled=no list=route-azure
 add address=20.187.161.172/32 disabled=no list=route-azure
+add address=20.187.167.74/32 disabled=no list=route-azure
 add address=20.187.184.36/32 disabled=no list=route-azure
 add address=20.187.187.155/32 disabled=no list=route-azure
 add address=20.187.188.136/32 disabled=no list=route-azure
@@ -4188,6 +4209,7 @@ add address=20.189.198.88/29 disabled=no list=route-azure
 add address=20.189.199.128/25 disabled=no list=route-azure
 add address=20.189.199.32/30 disabled=no list=route-azure
 add address=20.189.199.40/29 disabled=no list=route-azure
+add address=20.189.199.96/27 disabled=no list=route-azure
 add address=20.189.224.0/26 disabled=no list=route-azure
 add address=20.189.224.208/29 disabled=no list=route-azure
 add address=20.189.224.224/27 disabled=no list=route-azure
@@ -4731,6 +4753,7 @@ add address=20.192.157.224/28 disabled=no list=route-azure
 add address=20.192.157.240/29 disabled=no list=route-azure
 add address=20.192.157.248/29 disabled=no list=route-azure
 add address=20.192.158.128/25 disabled=no list=route-azure
+add address=20.192.158.32/27 disabled=no list=route-azure
 add address=20.192.158.64/26 disabled=no list=route-azure
 add address=20.192.159.65/32 disabled=no list=route-azure
 add address=20.192.159.66/31 disabled=no list=route-azure
@@ -5041,6 +5064,7 @@ add address=20.193.160.40/29 disabled=no list=route-azure
 add address=20.193.160.48/28 disabled=no list=route-azure
 add address=20.193.160.64/26 disabled=no list=route-azure
 add address=20.193.168.76/32 disabled=no list=route-azure
+add address=20.193.17.106/32 disabled=no list=route-azure
 add address=20.193.192.0/20 disabled=no list=route-azure
 add address=20.193.192.0/27 disabled=no list=route-azure
 add address=20.193.192.128/26 disabled=no list=route-azure
@@ -5380,6 +5404,7 @@ add address=20.199.201.80/29 disabled=no list=route-azure
 add address=20.199.201.88/29 disabled=no list=route-azure
 add address=20.199.202.128/25 disabled=no list=route-azure
 add address=20.199.202.64/26 disabled=no list=route-azure
+add address=20.199.203.0/26 disabled=no list=route-azure
 add address=20.199.203.72/32 disabled=no list=route-azure
 add address=20.199.203.80/29 disabled=no list=route-azure
 add address=20.199.204.0/26 disabled=no list=route-azure
@@ -5403,6 +5428,7 @@ add address=20.200.160.253/32 disabled=no list=route-azure
 add address=20.200.160.254/31 disabled=no list=route-azure
 add address=20.200.160.28/30 disabled=no list=route-azure
 add address=20.200.160.32/27 disabled=no list=route-azure
+add address=20.200.161.160/27 disabled=no list=route-azure
 add address=20.200.161.192/26 disabled=no list=route-azure
 add address=20.200.161.48/29 disabled=no list=route-azure
 add address=20.200.162.0/25 disabled=no list=route-azure
@@ -5460,6 +5486,7 @@ add address=20.200.64.0/18 disabled=no list=route-azure
 add address=20.200.73.253/32 disabled=no list=route-azure
 add address=20.200.75.254/32 disabled=no list=route-azure
 add address=20.201.0.0/17 disabled=no list=route-azure
+add address=20.201.1.228/32 disabled=no list=route-azure
 add address=20.201.128.0/24 disabled=no list=route-azure
 add address=20.201.129.0/24 disabled=no list=route-azure
 add address=20.201.130.0/23 disabled=no list=route-azure
@@ -5658,6 +5685,7 @@ add address=20.203.89.128/25 disabled=no list=route-azure
 add address=20.203.89.36/32 disabled=no list=route-azure
 add address=20.203.89.40/29 disabled=no list=route-azure
 add address=20.203.89.64/26 disabled=no list=route-azure
+add address=20.203.90.0/26 disabled=no list=route-azure
 add address=20.203.90.136/29 disabled=no list=route-azure
 add address=20.203.91.0/26 disabled=no list=route-azure
 add address=20.203.91.112/28 disabled=no list=route-azure
@@ -5675,6 +5703,7 @@ add address=20.203.96.0/19 disabled=no list=route-azure
 add address=20.204.0.0/16 disabled=no list=route-azure
 add address=20.204.136.104/32 disabled=no list=route-azure
 add address=20.204.136.84/32 disabled=no list=route-azure
+add address=20.204.188.222/32 disabled=no list=route-azure
 add address=20.204.192.108/30 disabled=no list=route-azure
 add address=20.204.192.144/28 disabled=no list=route-azure
 add address=20.204.192.160/28 disabled=no list=route-azure
@@ -5687,6 +5716,7 @@ add address=20.204.193.112/29 disabled=no list=route-azure
 add address=20.204.194.130/31 disabled=no list=route-azure
 add address=20.204.194.132/32 disabled=no list=route-azure
 add address=20.204.194.144/28 disabled=no list=route-azure
+add address=20.204.194.96/27 disabled=no list=route-azure
 add address=20.204.195.64/26 disabled=no list=route-azure
 add address=20.204.196.128/25 disabled=no list=route-azure
 add address=20.204.197.0/25 disabled=no list=route-azure
@@ -5731,6 +5761,7 @@ add address=20.205.50.232/29 disabled=no list=route-azure
 add address=20.205.50.96/28 disabled=no list=route-azure
 add address=20.205.51.128/25 disabled=no list=route-azure
 add address=20.205.54.0/26 disabled=no list=route-azure
+add address=20.205.54.128/25 disabled=no list=route-azure
 add address=20.205.55.208/32 disabled=no list=route-azure
 add address=20.205.55.209/32 disabled=no list=route-azure
 add address=20.205.55.216/30 disabled=no list=route-azure
@@ -5838,6 +5869,7 @@ add address=20.206.179.136/30 disabled=no list=route-azure
 add address=20.206.179.144/29 disabled=no list=route-azure
 add address=20.206.182.0/25 disabled=no list=route-azure
 add address=20.206.182.128/26 disabled=no list=route-azure
+add address=20.206.182.192/26 disabled=no list=route-azure
 add address=20.206.183.24/31 disabled=no list=route-azure
 add address=20.206.183.26/32 disabled=no list=route-azure
 add address=20.206.183.28/30 disabled=no list=route-azure
@@ -5902,6 +5934,7 @@ add address=20.207.6.192/26 disabled=no list=route-azure
 add address=20.207.64.0/18 disabled=no list=route-azure
 add address=20.207.7.0/25 disabled=no list=route-azure
 add address=20.207.7.128/25 disabled=no list=route-azure
+add address=20.207.82.166/32 disabled=no list=route-azure
 add address=20.208.0.0/17 disabled=no list=route-azure
 add address=20.208.1.0/24 disabled=no list=route-azure
 add address=20.208.128.0/18 disabled=no list=route-azure
@@ -5909,6 +5942,7 @@ add address=20.208.144.16/29 disabled=no list=route-azure
 add address=20.208.144.192/26 disabled=no list=route-azure
 add address=20.208.145.0/25 disabled=no list=route-azure
 add address=20.208.145.129/32 disabled=no list=route-azure
+add address=20.208.145.192/26 disabled=no list=route-azure
 add address=20.208.148.16/28 disabled=no list=route-azure
 add address=20.208.148.192/26 disabled=no list=route-azure
 add address=20.208.148.4/31 disabled=no list=route-azure
@@ -6184,6 +6218,7 @@ add address=20.21.86.0/25 disabled=no list=route-azure
 add address=20.21.87.128/25 disabled=no list=route-azure
 add address=20.210.0.0/17 disabled=no list=route-azure
 add address=20.210.128.0/18 disabled=no list=route-azure
+add address=20.210.139.64/32 disabled=no list=route-azure
 add address=20.210.144.0/26 disabled=no list=route-azure
 add address=20.210.144.114/31 disabled=no list=route-azure
 add address=20.210.144.116/30 disabled=no list=route-azure
@@ -6205,6 +6240,7 @@ add address=20.210.149.192/26 disabled=no list=route-azure
 add address=20.210.150.0/23 disabled=no list=route-azure
 add address=20.210.192.0/18 disabled=no list=route-azure
 add address=20.210.3.27/32 disabled=no list=route-azure
+add address=20.210.57.215/32 disabled=no list=route-azure
 add address=20.210.64.0/22 disabled=no list=route-azure
 add address=20.210.68.0/25 disabled=no list=route-azure
 add address=20.210.68.156/30 disabled=no list=route-azure
@@ -6221,6 +6257,7 @@ add address=20.210.70.80/30 disabled=no list=route-azure
 add address=20.210.70.88/29 disabled=no list=route-azure
 add address=20.210.71.0/25 disabled=no list=route-azure
 add address=20.210.71.128/26 disabled=no list=route-azure
+add address=20.210.71.192/27 disabled=no list=route-azure
 add address=20.210.71.248/31 disabled=no list=route-azure
 add address=20.210.71.250/32 disabled=no list=route-azure
 add address=20.211.0.0/17 disabled=no list=route-azure
@@ -6248,6 +6285,7 @@ add address=20.212.226.151/32 disabled=no list=route-azure
 add address=20.212.64.0/21 disabled=no list=route-azure
 add address=20.212.79.0/26 disabled=no list=route-azure
 add address=20.212.79.224/27 disabled=no list=route-azure
+add address=20.212.90.11/32 disabled=no list=route-azure
 add address=20.213.0.0/17 disabled=no list=route-azure
 add address=20.213.128.0/18 disabled=no list=route-azure
 add address=20.213.192.0/20 disabled=no list=route-azure
@@ -6261,6 +6299,7 @@ add address=20.213.196.192/31 disabled=no list=route-azure
 add address=20.213.196.194/32 disabled=no list=route-azure
 add address=20.213.196.204/30 disabled=no list=route-azure
 add address=20.213.196.208/28 disabled=no list=route-azure
+add address=20.213.196.64/26 disabled=no list=route-azure
 add address=20.213.197.192/26 disabled=no list=route-azure
 add address=20.213.198.0/26 disabled=no list=route-azure
 add address=20.213.199.0/25 disabled=no list=route-azure
@@ -6277,6 +6316,7 @@ add address=20.213.65.83/32 disabled=no list=route-azure
 add address=20.214.0.0/18 disabled=no list=route-azure
 add address=20.214.128.0/17 disabled=no list=route-azure
 add address=20.214.130.128/25 disabled=no list=route-azure
+add address=20.214.130.32/27 disabled=no list=route-azure
 add address=20.214.130.64/26 disabled=no list=route-azure
 add address=20.214.131.40/31 disabled=no list=route-azure
 add address=20.214.131.48/28 disabled=no list=route-azure
@@ -6421,6 +6461,7 @@ add address=20.216.0.0/18 disabled=no list=route-azure
 add address=20.216.128.0/17 disabled=no list=route-azure
 add address=20.216.16.75/32 disabled=no list=route-azure
 add address=20.216.182.176/32 disabled=no list=route-azure
+add address=20.216.30.131/32 disabled=no list=route-azure
 add address=20.216.64.0/18 disabled=no list=route-azure
 add address=20.217.0.0/19 disabled=no list=route-azure
 add address=20.217.10.36/30 disabled=no list=route-azure
@@ -6565,9 +6606,12 @@ add address=20.218.64.0/18 disabled=no list=route-azure
 add address=20.219.0.0/18 disabled=no list=route-azure
 add address=20.219.128.0/17 disabled=no list=route-azure
 add address=20.219.64.0/18 disabled=no list=route-azure
+add address=20.219.69.208/32 disabled=no list=route-azure
+add address=20.219.97.76/32 disabled=no list=route-azure
 add address=20.22.0.0/16 disabled=no list=route-azure
 add address=20.220.0.0/18 disabled=no list=route-azure
 add address=20.220.0.0/25 disabled=no list=route-azure
+add address=20.220.0.128/26 disabled=no list=route-azure
 add address=20.220.0.244/32 disabled=no list=route-azure
 add address=20.220.0.248/30 disabled=no list=route-azure
 add address=20.220.1.64/28 disabled=no list=route-azure
@@ -6605,8 +6649,12 @@ add address=20.223.65.68/30 disabled=no list=route-azure
 add address=20.223.65.72/29 disabled=no list=route-azure
 add address=20.223.65.80/28 disabled=no list=route-azure
 add address=20.223.65.96/27 disabled=no list=route-azure
+add address=20.223.66.176/28 disabled=no list=route-azure
 add address=20.223.66.192/26 disabled=no list=route-azure
 add address=20.223.67.0/25 disabled=no list=route-azure
+add address=20.223.67.160/27 disabled=no list=route-azure
+add address=20.223.69.0/25 disabled=no list=route-azure
+add address=20.223.8.252/32 disabled=no list=route-azure
 add address=20.224.0.0/16 disabled=no list=route-azure
 add address=20.225.0.0/16 disabled=no list=route-azure
 add address=20.225.136.13/32 disabled=no list=route-azure
@@ -6644,6 +6692,7 @@ add address=20.228.6.64/26 disabled=no list=route-azure
 add address=20.228.64.0/18 disabled=no list=route-azure
 add address=20.229.0.0/16 disabled=no list=route-azure
 add address=20.23.0.0/16 disabled=no list=route-azure
+add address=20.23.0.108/32 disabled=no list=route-azure
 add address=20.230.0.0/17 disabled=no list=route-azure
 add address=20.230.128.0/17 disabled=no list=route-azure
 add address=20.230.169.50/32 disabled=no list=route-azure
@@ -6651,6 +6700,7 @@ add address=20.230.169.96/32 disabled=no list=route-azure
 add address=20.231.0.0/17 disabled=no list=route-azure
 add address=20.231.109.75/32 disabled=no list=route-azure
 add address=20.231.110.84/32 disabled=no list=route-azure
+add address=20.231.112.182/32 disabled=no list=route-azure
 add address=20.231.128.0/19 disabled=no list=route-azure
 add address=20.231.128.0/26 disabled=no list=route-azure
 add address=20.231.128.0/27 disabled=no list=route-azure
@@ -6676,6 +6726,7 @@ add address=20.232.92.128/30 disabled=no list=route-azure
 add address=20.232.92.132/31 disabled=no list=route-azure
 add address=20.232.92.134/32 disabled=no list=route-azure
 add address=20.232.92.207/32 disabled=no list=route-azure
+add address=20.232.92.64/26 disabled=no list=route-azure
 add address=20.232.93.108/31 disabled=no list=route-azure
 add address=20.232.93.192/29 disabled=no list=route-azure
 add address=20.233.0.0/16 disabled=no list=route-azure
@@ -6695,6 +6746,7 @@ add address=20.236.145.0/25 disabled=no list=route-azure
 add address=20.236.145.128/26 disabled=no list=route-azure
 add address=20.236.145.194/31 disabled=no list=route-azure
 add address=20.236.145.196/30 disabled=no list=route-azure
+add address=20.236.146.0/25 disabled=no list=route-azure
 add address=20.236.146.156/32 disabled=no list=route-azure
 add address=20.236.150.0/27 disabled=no list=route-azure
 add address=20.236.150.32/30 disabled=no list=route-azure
@@ -6703,8 +6755,16 @@ add address=20.236.192.0/18 disabled=no list=route-azure
 add address=20.236.64.0/18 disabled=no list=route-azure
 add address=20.236.85.126/31 disabled=no list=route-azure
 add address=20.237.0.0/17 disabled=no list=route-azure
+add address=20.237.112.231/32 disabled=no list=route-azure
 add address=20.237.128.0/17 disabled=no list=route-azure
+add address=20.237.137.112/32 disabled=no list=route-azure
+add address=20.237.160.38/32 disabled=no list=route-azure
+add address=20.237.199.13/32 disabled=no list=route-azure
+add address=20.237.243.36/32 disabled=no list=route-azure
+add address=20.237.252.8/32 disabled=no list=route-azure
+add address=20.237.81.39/32 disabled=no list=route-azure
 add address=20.237.82.201/32 disabled=no list=route-azure
+add address=20.237.83.167/32 disabled=no list=route-azure
 add address=20.238.0.0/17 disabled=no list=route-azure
 add address=20.238.128.0/17 disabled=no list=route-azure
 add address=20.239.0.0/16 disabled=no list=route-azure
@@ -6718,6 +6778,7 @@ add address=20.24.1.192/26 disabled=no list=route-azure
 add address=20.24.128.0/18 disabled=no list=route-azure
 add address=20.24.192.0/18 disabled=no list=route-azure
 add address=20.24.2.0/25 disabled=no list=route-azure
+add address=20.24.2.128/25 disabled=no list=route-azure
 add address=20.24.3.12/31 disabled=no list=route-azure
 add address=20.24.3.14/32 disabled=no list=route-azure
 add address=20.24.3.30/31 disabled=no list=route-azure
@@ -6734,6 +6795,7 @@ add address=20.241.115.0/24 disabled=no list=route-azure
 add address=20.241.116.192/26 disabled=no list=route-azure
 add address=20.241.117.0/25 disabled=no list=route-azure
 add address=20.241.128.0/17 disabled=no list=route-azure
+add address=20.241.129.50/32 disabled=no list=route-azure
 add address=20.242.0.0/17 disabled=no list=route-azure
 add address=20.242.128.0/17 disabled=no list=route-azure
 add address=20.242.181.0/24 disabled=no list=route-azure
@@ -6745,12 +6807,18 @@ add address=20.244.192.0/26 disabled=no list=route-azure
 add address=20.244.193.0/25 disabled=no list=route-azure
 add address=20.244.193.128/25 disabled=no list=route-azure
 add address=20.245.0.0/16 disabled=no list=route-azure
+add address=20.245.1.212/32 disabled=no list=route-azure
+add address=20.245.107.170/32 disabled=no list=route-azure
+add address=20.245.139.209/32 disabled=no list=route-azure
+add address=20.245.34.183/32 disabled=no list=route-azure
+add address=20.245.8.110/32 disabled=no list=route-azure
 add address=20.246.0.0/17 disabled=no list=route-azure
 add address=20.246.128.0/17 disabled=no list=route-azure
 add address=20.247.0.0/17 disabled=no list=route-azure
 add address=20.247.128.0/17 disabled=no list=route-azure
 add address=20.248.0.0/17 disabled=no list=route-azure
 add address=20.248.128.0/17 disabled=no list=route-azure
+add address=20.248.149.107/32 disabled=no list=route-azure
 add address=20.249.0.0/16 disabled=no list=route-azure
 add address=20.25.0.0/17 disabled=no list=route-azure
 add address=20.25.128.0/18 disabled=no list=route-azure
@@ -6764,6 +6832,10 @@ add address=20.252.208.128/25 disabled=no list=route-azure
 add address=20.252.208.64/26 disabled=no list=route-azure
 add address=20.253.0.0/17 disabled=no list=route-azure
 add address=20.253.128.0/17 disabled=no list=route-azure
+add address=20.253.152.61/32 disabled=no list=route-azure
+add address=20.253.209.242/32 disabled=no list=route-azure
+add address=20.253.224.215/32 disabled=no list=route-azure
+add address=20.253.228.153/32 disabled=no list=route-azure
 add address=20.254.0.0/17 disabled=no list=route-azure
 add address=20.254.128.0/17 disabled=no list=route-azure
 add address=20.254.173.48/28 disabled=no list=route-azure
@@ -6772,6 +6844,7 @@ add address=20.26.0.0/16 disabled=no list=route-azure
 add address=20.26.16.112/30 disabled=no list=route-azure
 add address=20.26.16.192/26 disabled=no list=route-azure
 add address=20.26.17.0/25 disabled=no list=route-azure
+add address=20.26.17.128/26 disabled=no list=route-azure
 add address=20.26.17.248/31 disabled=no list=route-azure
 add address=20.26.17.250/32 disabled=no list=route-azure
 add address=20.26.18.114/31 disabled=no list=route-azure
@@ -9195,6 +9268,8 @@ add address=20.50.88.0/21 disabled=no list=route-azure
 add address=20.50.88.154/32 disabled=no list=route-azure
 add address=20.50.88.196/30 disabled=no list=route-azure
 add address=20.50.88.224/27 disabled=no list=route-azure
+add address=20.50.89.0/25 disabled=no list=route-azure
+add address=20.50.89.128/26 disabled=no list=route-azure
 add address=20.50.93.128/26 disabled=no list=route-azure
 add address=20.50.94.0/25 disabled=no list=route-azure
 add address=20.50.94.128/28 disabled=no list=route-azure
@@ -9653,6 +9728,7 @@ add address=20.59.84.80/28 disabled=no list=route-azure
 add address=20.59.84.96/27 disabled=no list=route-azure
 add address=20.59.85.192/26 disabled=no list=route-azure
 add address=20.59.86.0/25 disabled=no list=route-azure
+add address=20.59.86.128/26 disabled=no list=route-azure
 add address=20.59.87.96/31 disabled=no list=route-azure
 add address=20.59.88.0/21 disabled=no list=route-azure
 add address=20.59.96.0/22 disabled=no list=route-azure
@@ -9859,6 +9935,7 @@ add address=20.62.157.223/32 disabled=no list=route-azure
 add address=20.62.180.13/32 disabled=no list=route-azure
 add address=20.62.190.184/29 disabled=no list=route-azure
 add address=20.62.212.114/32 disabled=no list=route-azure
+add address=20.62.235.189/32 disabled=no list=route-azure
 add address=20.62.235.247/32 disabled=no list=route-azure
 add address=20.62.56.0/23 disabled=no list=route-azure
 add address=20.62.58.0/26 disabled=no list=route-azure
@@ -10173,6 +10250,7 @@ add address=20.74.197.86/32 disabled=no list=route-azure
 add address=20.74.197.96/27 disabled=no list=route-azure
 add address=20.74.198.0/26 disabled=no list=route-azure
 add address=20.74.198.160/28 disabled=no list=route-azure
+add address=20.74.198.64/26 disabled=no list=route-azure
 add address=20.74.199.64/26 disabled=no list=route-azure
 add address=20.74.24.6/32 disabled=no list=route-azure
 add address=20.74.250.247/32 disabled=no list=route-azure
@@ -10197,12 +10275,15 @@ add address=20.76.171.34/32 disabled=no list=route-azure
 add address=20.76.174.72/32 disabled=no list=route-azure
 add address=20.76.181.210/32 disabled=no list=route-azure
 add address=20.76.222.244/32 disabled=no list=route-azure
+add address=20.76.224.119/32 disabled=no list=route-azure
 add address=20.76.230.103/32 disabled=no list=route-azure
 add address=20.76.242.45/32 disabled=no list=route-azure
 add address=20.76.254.131/32 disabled=no list=route-azure
+add address=20.76.254.150/32 disabled=no list=route-azure
 add address=20.77.0.0/17 disabled=no list=route-azure
 add address=20.77.128.0/18 disabled=no list=route-azure
 add address=20.77.192.0/18 disabled=no list=route-azure
+add address=20.77.240.43/32 disabled=no list=route-azure
 add address=20.77.241.140/32 disabled=no list=route-azure
 add address=20.77.242.0/32 disabled=no list=route-azure
 add address=20.77.242.207/32 disabled=no list=route-azure
@@ -10225,6 +10306,7 @@ add address=20.79.108.120/29 disabled=no list=route-azure
 add address=20.79.108.99/32 disabled=no list=route-azure
 add address=20.79.109.0/25 disabled=no list=route-azure
 add address=20.79.109.128/26 disabled=no list=route-azure
+add address=20.79.109.192/26 disabled=no list=route-azure
 add address=20.79.226.84/32 disabled=no list=route-azure
 add address=20.79.75.252/32 disabled=no list=route-azure
 add address=20.79.80.75/32 disabled=no list=route-azure
@@ -10243,6 +10325,7 @@ add address=20.81.0.0/17 disabled=no list=route-azure
 add address=20.81.0.146/32 disabled=no list=route-azure
 add address=20.81.113.146/32 disabled=no list=route-azure
 add address=20.81.128.0/17 disabled=no list=route-azure
+add address=20.81.55.62/32 disabled=no list=route-azure
 add address=20.81.57.80/32 disabled=no list=route-azure
 add address=20.82.0.0/17 disabled=no list=route-azure
 add address=20.82.128.0/17 disabled=no list=route-azure
@@ -10251,6 +10334,7 @@ add address=20.82.171.158/32 disabled=no list=route-azure
 add address=20.82.205.5/32 disabled=no list=route-azure
 add address=20.82.206.140/32 disabled=no list=route-azure
 add address=20.82.206.153/32 disabled=no list=route-azure
+add address=20.82.224.216/32 disabled=no list=route-azure
 add address=20.82.224.59/32 disabled=no list=route-azure
 add address=20.82.226.52/32 disabled=no list=route-azure
 add address=20.82.227.170/32 disabled=no list=route-azure
@@ -10365,6 +10449,7 @@ add address=20.87.83.112/29 disabled=no list=route-azure
 add address=20.87.83.120/29 disabled=no list=route-azure
 add address=20.87.83.192/26 disabled=no list=route-azure
 add address=20.87.86.0/25 disabled=no list=route-azure
+add address=20.87.86.128/27 disabled=no list=route-azure
 add address=20.87.86.193/32 disabled=no list=route-azure
 add address=20.87.86.194/31 disabled=no list=route-azure
 add address=20.87.86.208/28 disabled=no list=route-azure
@@ -10502,6 +10587,7 @@ add address=20.90.169.112/32 disabled=no list=route-azure
 add address=20.90.204.188/32 disabled=no list=route-azure
 add address=20.90.204.228/32 disabled=no list=route-azure
 add address=20.90.204.232/32 disabled=no list=route-azure
+add address=20.90.240.169/32 disabled=no list=route-azure
 add address=20.90.254.101/32 disabled=no list=route-azure
 add address=20.90.255.42/32 disabled=no list=route-azure
 add address=20.90.32.128/29 disabled=no list=route-azure
@@ -10540,6 +10626,7 @@ add address=20.91.12.240/29 disabled=no list=route-azure
 add address=20.91.128.0/17 disabled=no list=route-azure
 add address=20.91.13.0/27 disabled=no list=route-azure
 add address=20.91.13.128/26 disabled=no list=route-azure
+add address=20.91.13.192/26 disabled=no list=route-azure
 add address=20.91.14.96/31 disabled=no list=route-azure
 add address=20.91.14.98/31 disabled=no list=route-azure
 add address=20.91.145.128/25 disabled=no list=route-azure
@@ -10554,6 +10641,7 @@ add address=20.91.146.8/31 disabled=no list=route-azure
 add address=20.91.147.0/26 disabled=no list=route-azure
 add address=20.91.147.192/26 disabled=no list=route-azure
 add address=20.91.147.64/32 disabled=no list=route-azure
+add address=20.91.148.0/26 disabled=no list=route-azure
 add address=20.91.148.128/25 disabled=no list=route-azure
 add address=20.91.149.128/25 disabled=no list=route-azure
 add address=20.91.15.0/25 disabled=no list=route-azure
@@ -10572,6 +10660,8 @@ add address=20.92.128.0/17 disabled=no list=route-azure
 add address=20.92.136.11/32 disabled=no list=route-azure
 add address=20.92.138.2/32 disabled=no list=route-azure
 add address=20.92.138.60/32 disabled=no list=route-azure
+add address=20.92.139.178/32 disabled=no list=route-azure
+add address=20.92.17.147/32 disabled=no list=route-azure
 add address=20.92.2.0/24 disabled=no list=route-azure
 add address=20.92.3.128/26 disabled=no list=route-azure
 add address=20.92.3.192/27 disabled=no list=route-azure
@@ -10606,6 +10696,8 @@ add address=20.92.6.8/29 disabled=no list=route-azure
 add address=20.92.64.0/18 disabled=no list=route-azure
 add address=20.92.7.0/25 disabled=no list=route-azure
 add address=20.92.7.128/26 disabled=no list=route-azure
+add address=20.92.7.192/26 disabled=no list=route-azure
+add address=20.92.96.30/32 disabled=no list=route-azure
 add address=20.93.0.0/17 disabled=no list=route-azure
 add address=20.93.128.0/17 disabled=no list=route-azure
 add address=20.93.176.101/32 disabled=no list=route-azure
@@ -10757,6 +10849,7 @@ add address=20.98.149.8/29 disabled=no list=route-azure
 add address=20.98.150.0/29 disabled=no list=route-azure
 add address=20.98.150.192/26 disabled=no list=route-azure
 add address=20.98.151.0/25 disabled=no list=route-azure
+add address=20.98.151.128/26 disabled=no list=route-azure
 add address=20.98.192.0/18 disabled=no list=route-azure
 add address=20.98.192.0/27 disabled=no list=route-azure
 add address=20.98.192.168/30 disabled=no list=route-azure
@@ -10939,6 +11032,7 @@ add address=23.101.220.135/32 disabled=no list=route-azure
 add address=23.101.224.0/19 disabled=no list=route-azure
 add address=23.101.224.24/32 disabled=no list=route-azure
 add address=23.101.225.155/32 disabled=no list=route-azure
+add address=23.101.227.38/32 disabled=no list=route-azure
 add address=23.101.23.190/32 disabled=no list=route-azure
 add address=23.101.23.192/32 disabled=no list=route-azure
 add address=23.101.230.162/32 disabled=no list=route-azure
@@ -11472,6 +11566,7 @@ add address=40.114.152.48/28 disabled=no list=route-azure
 add address=40.114.160.176/28 disabled=no list=route-azure
 add address=40.114.160.192/28 disabled=no list=route-azure
 add address=40.114.169.0/28 disabled=no list=route-azure
+add address=40.114.176.79/32 disabled=no list=route-azure
 add address=40.114.177.51/32 disabled=no list=route-azure
 add address=40.114.178.70/32 disabled=no list=route-azure
 add address=40.114.194.188/32 disabled=no list=route-azure
@@ -11533,6 +11628,7 @@ add address=40.115.54.120/32 disabled=no list=route-azure
 add address=40.115.55.251/32 disabled=no list=route-azure
 add address=40.115.64.0/19 disabled=no list=route-azure
 add address=40.115.64.123/32 disabled=no list=route-azure
+add address=40.115.67.240/32 disabled=no list=route-azure
 add address=40.115.71.111/32 disabled=no list=route-azure
 add address=40.115.75.235/32 disabled=no list=route-azure
 add address=40.115.78.237/32 disabled=no list=route-azure
@@ -11563,6 +11659,7 @@ add address=40.117.232.90/32 disabled=no list=route-azure
 add address=40.117.237.78/32 disabled=no list=route-azure
 add address=40.117.24.128/27 disabled=no list=route-azure
 add address=40.117.24.160/29 disabled=no list=route-azure
+add address=40.117.24.96/27 disabled=no list=route-azure
 add address=40.117.25.224/28 disabled=no list=route-azure
 add address=40.117.25.64/26 disabled=no list=route-azure
 add address=40.117.26.128/25 disabled=no list=route-azure
@@ -12615,7 +12712,7 @@ add address=40.127.227.23/32 disabled=no list=route-azure
 add address=40.127.229.37/32 disabled=no list=route-azure
 add address=40.127.23.12/32 disabled=no list=route-azure
 add address=40.127.234.252/32 disabled=no list=route-azure
-add address=40.127.235.20/32 disabled=no list=route-azure
+add address=40.127.235.20/31 disabled=no list=route-azure
 add address=40.127.235.247/32 disabled=no list=route-azure
 add address=40.127.240.183/32 disabled=no list=route-azure
 add address=40.127.241.36/32 disabled=no list=route-azure
@@ -12835,6 +12932,7 @@ add address=40.67.188.68/32 disabled=no list=route-azure
 add address=40.67.192.0/19 disabled=no list=route-azure
 add address=40.67.216.253/32 disabled=no list=route-azure
 add address=40.67.219.133/32 disabled=no list=route-azure
+add address=40.67.221.30/32 disabled=no list=route-azure
 add address=40.67.224.0/19 disabled=no list=route-azure
 add address=40.67.251.0/32 disabled=no list=route-azure
 add address=40.67.254.233/32 disabled=no list=route-azure
@@ -14602,6 +14700,7 @@ add address=40.80.96.36/30 disabled=no list=route-azure
 add address=40.80.96.40/29 disabled=no list=route-azure
 add address=40.80.97.0/25 disabled=no list=route-azure
 add address=40.80.97.128/26 disabled=no list=route-azure
+add address=40.80.97.192/26 disabled=no list=route-azure
 add address=40.81.0.0/20 disabled=no list=route-azure
 add address=40.81.10.36/32 disabled=no list=route-azure
 add address=40.81.112.0/20 disabled=no list=route-azure
@@ -15005,6 +15104,7 @@ add address=40.86.176.23/32 disabled=no list=route-azure
 add address=40.86.192.0/18 disabled=no list=route-azure
 add address=40.86.201.128/32 disabled=no list=route-azure
 add address=40.86.202.42/32 disabled=no list=route-azure
+add address=40.86.203.16/32 disabled=no list=route-azure
 add address=40.86.203.228/32 disabled=no list=route-azure
 add address=40.86.204.245/32 disabled=no list=route-azure
 add address=40.86.205.216/32 disabled=no list=route-azure
@@ -15032,6 +15132,7 @@ add address=40.86.232.176/28 disabled=no list=route-azure
 add address=40.86.232.192/28 disabled=no list=route-azure
 add address=40.86.232.64/28 disabled=no list=route-azure
 add address=40.86.232.96/28 disabled=no list=route-azure
+add address=40.86.247.171/32 disabled=no list=route-azure
 add address=40.86.254.125/32 disabled=no list=route-azure
 add address=40.86.77.12/32 disabled=no list=route-azure
 add address=40.86.86.144/32 disabled=no list=route-azure
@@ -15929,6 +16030,7 @@ add address=51.104.15.255/32 disabled=no list=route-azure
 add address=51.104.150.127/32 disabled=no list=route-azure
 add address=51.104.150.153/32 disabled=no list=route-azure
 add address=51.104.152.162/32 disabled=no list=route-azure
+add address=51.104.152.252/32 disabled=no list=route-azure
 add address=51.104.155.15/32 disabled=no list=route-azure
 add address=51.104.155.233/32 disabled=no list=route-azure
 add address=51.104.156.26/32 disabled=no list=route-azure
@@ -17011,6 +17113,7 @@ add address=51.116.78.36/30 disabled=no list=route-azure
 add address=51.116.78.40/29 disabled=no list=route-azure
 add address=51.116.79.0/25 disabled=no list=route-azure
 add address=51.116.79.128/26 disabled=no list=route-azure
+add address=51.116.79.192/26 disabled=no list=route-azure
 add address=51.116.80.233/32 disabled=no list=route-azure
 add address=51.116.96.0/19 disabled=no list=route-azure
 add address=51.116.96.0/32 disabled=no list=route-azure
@@ -17443,6 +17546,7 @@ add address=51.120.178.0/26 disabled=no list=route-azure
 add address=51.120.178.136/31 disabled=no list=route-azure
 add address=51.120.178.138/32 disabled=no list=route-azure
 add address=51.120.178.144/29 disabled=no list=route-azure
+add address=51.120.178.64/27 disabled=no list=route-azure
 add address=51.120.179.0/26 disabled=no list=route-azure
 add address=51.120.179.192/26 disabled=no list=route-azure
 add address=51.120.179.64/26 disabled=no list=route-azure
@@ -18217,12 +18321,16 @@ add address=51.141.90.252/32 disabled=no list=route-azure
 add address=51.142.128.0/18 disabled=no list=route-azure
 add address=51.142.128.192/26 disabled=no list=route-azure
 add address=51.142.129.0/25 disabled=no list=route-azure
+add address=51.142.129.128/26 disabled=no list=route-azure
 add address=51.142.130.192/26 disabled=no list=route-azure
 add address=51.142.130.4/31 disabled=no list=route-azure
 add address=51.142.130.8/29 disabled=no list=route-azure
+add address=51.142.131.128/26 disabled=no list=route-azure
 add address=51.142.132.128/25 disabled=no list=route-azure
 add address=51.142.133.0/26 disabled=no list=route-azure
+add address=51.142.162.40/32 disabled=no list=route-azure
 add address=51.142.192.0/18 disabled=no list=route-azure
+add address=51.142.209.113/32 disabled=no list=route-azure
 add address=51.142.40.11/32 disabled=no list=route-azure
 add address=51.142.47.249/32 disabled=no list=route-azure
 add address=51.142.47.252/32 disabled=no list=route-azure
@@ -19899,8 +20007,10 @@ add address=52.146.141.244/31 disabled=no list=route-azure
 add address=52.146.141.248/31 disabled=no list=route-azure
 add address=52.146.141.252/31 disabled=no list=route-azure
 add address=52.146.141.254/31 disabled=no list=route-azure
+add address=52.146.24.0/32 disabled=no list=route-azure
 add address=52.146.24.106/32 disabled=no list=route-azure
 add address=52.146.24.114/32 disabled=no list=route-azure
+add address=52.146.24.226/32 disabled=no list=route-azure
 add address=52.146.24.96/32 disabled=no list=route-azure
 add address=52.146.26.125/32 disabled=no list=route-azure
 add address=52.146.26.218/32 disabled=no list=route-azure
@@ -20105,6 +20215,7 @@ add address=52.151.11.176/32 disabled=no list=route-azure
 add address=52.151.111.249/32 disabled=no list=route-azure
 add address=52.151.128.0/17 disabled=no list=route-azure
 add address=52.151.16.118/32 disabled=no list=route-azure
+add address=52.151.213.195/32 disabled=no list=route-azure
 add address=52.151.221.119/32 disabled=no list=route-azure
 add address=52.151.221.184/32 disabled=no list=route-azure
 add address=52.151.231.104/32 disabled=no list=route-azure
@@ -20319,6 +20430,7 @@ add address=52.158.112.171/32 disabled=no list=route-azure
 add address=52.158.121.190/32 disabled=no list=route-azure
 add address=52.158.128.0/19 disabled=no list=route-azure
 add address=52.158.133.57/32 disabled=no list=route-azure
+add address=52.158.134.239/32 disabled=no list=route-azure
 add address=52.158.160.0/20 disabled=no list=route-azure
 add address=52.158.176.0/20 disabled=no list=route-azure
 add address=52.158.192.0/19 disabled=no list=route-azure
@@ -21506,6 +21618,7 @@ add address=52.187.65.155/32 disabled=no list=route-azure
 add address=52.187.65.81/32 disabled=no list=route-azure
 add address=52.187.68.19/32 disabled=no list=route-azure
 add address=52.188.0.0/16 disabled=no list=route-azure
+add address=52.188.143.191/32 disabled=no list=route-azure
 add address=52.188.177.124/32 disabled=no list=route-azure
 add address=52.188.181.97/32 disabled=no list=route-azure
 add address=52.188.183.159/32 disabled=no list=route-azure
@@ -21685,6 +21798,7 @@ add address=52.226.169.45/32 disabled=no list=route-azure
 add address=52.226.169.53/32 disabled=no list=route-azure
 add address=52.226.175.58/32 disabled=no list=route-azure
 add address=52.226.18.140/32 disabled=no list=route-azure
+add address=52.226.201.162/32 disabled=no list=route-azure
 add address=52.226.21.178/32 disabled=no list=route-azure
 add address=52.226.216.187/32 disabled=no list=route-azure
 add address=52.226.216.197/32 disabled=no list=route-azure
@@ -22136,6 +22250,7 @@ add address=52.236.189.74/32 disabled=no list=route-azure
 add address=52.236.189.76/30 disabled=no list=route-azure
 add address=52.236.189.80/30 disabled=no list=route-azure
 add address=52.236.189.88/29 disabled=no list=route-azure
+add address=52.236.190.0/24 disabled=no list=route-azure
 add address=52.236.191.0/24 disabled=no list=route-azure
 add address=52.236.240.48/28 disabled=no list=route-azure
 add address=52.236.240.64/28 disabled=no list=route-azure
@@ -22395,6 +22510,7 @@ add address=52.242.45.192/26 disabled=no list=route-azure
 add address=52.242.45.48/29 disabled=no list=route-azure
 add address=52.242.45.56/29 disabled=no list=route-azure
 add address=52.242.46.0/25 disabled=no list=route-azure
+add address=52.242.46.128/26 disabled=no list=route-azure
 add address=52.242.46.238/31 disabled=no list=route-azure
 add address=52.242.47.0/32 disabled=no list=route-azure
 add address=52.242.47.128/28 disabled=no list=route-azure
@@ -24015,6 +24131,7 @@ add address=104.40.169.128/25 disabled=no list=route-azure
 add address=104.40.169.32/29 disabled=no list=route-azure
 add address=104.40.179.185/32 disabled=no list=route-azure
 add address=104.40.179.243/32 disabled=no list=route-azure
+add address=104.40.18.140/32 disabled=no list=route-azure
 add address=104.40.183.236/32 disabled=no list=route-azure
 add address=104.40.183.25/32 disabled=no list=route-azure
 add address=104.40.185.192/32 disabled=no list=route-azure
@@ -25649,6 +25766,7 @@ add address=191.237.194.0/24 disabled=no list=route-azure
 add address=191.237.195.0/24 disabled=no list=route-azure
 add address=191.237.196.0/24 disabled=no list=route-azure
 add address=191.237.200.0/21 disabled=no list=route-azure
+add address=191.237.200.26/32 disabled=no list=route-azure
 add address=191.237.207.21/32 disabled=no list=route-azure
 add address=191.237.208.0/20 disabled=no list=route-azure
 add address=191.237.222.191/32 disabled=no list=route-azure
