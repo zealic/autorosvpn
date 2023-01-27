@@ -14,6 +14,7 @@ add address=3.28.70.112/28 disabled=no list=route-aws@me
 add address=3.28.70.48/28 disabled=no list=route-aws@me
 add address=3.28.70.96/28 disabled=no list=route-aws@me
 add address=3.28.72.0/23 disabled=no list=route-aws@me
+add address=3.29.17.128/25 disabled=no list=route-aws@me
 add address=3.29.3.128/25 disabled=no list=route-aws@me
 add address=3.5.220.0/22 disabled=no list=route-aws@me
 add address=3.5.48.0/22 disabled=no list=route-aws@me
