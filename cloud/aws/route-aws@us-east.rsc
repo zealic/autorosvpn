@@ -841,12 +841,6 @@ add address=52.93.59.0/24 disabled=no list=route-aws@us-east
 add address=52.93.60.0/24 disabled=no list=route-aws@us-east
 add address=52.93.62.0/24 disabled=no list=route-aws@us-east
 add address=52.93.64.0/24 disabled=no list=route-aws@us-east
-add address=52.93.71.27/32 disabled=no list=route-aws@us-east
-add address=52.93.71.28/32 disabled=no list=route-aws@us-east
-add address=52.93.71.29/32 disabled=no list=route-aws@us-east
-add address=52.93.71.30/32 disabled=no list=route-aws@us-east
-add address=52.93.71.31/32 disabled=no list=route-aws@us-east
-add address=52.93.71.32/32 disabled=no list=route-aws@us-east
 add address=52.93.76.0/24 disabled=no list=route-aws@us-east
 add address=52.93.87.96/27 disabled=no list=route-aws@us-east
 add address=52.93.91.100/32 disabled=no list=route-aws@us-east

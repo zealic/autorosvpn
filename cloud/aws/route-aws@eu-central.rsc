@@ -312,6 +312,7 @@ add address=150.222.230.124/31 disabled=no list=route-aws@eu-central
 add address=150.222.230.126/31 disabled=no list=route-aws@eu-central
 add address=150.222.230.128/31 disabled=no list=route-aws@eu-central
 add address=150.222.230.130/31 disabled=no list=route-aws@eu-central
+add address=150.222.230.132/31 disabled=no list=route-aws@eu-central
 add address=150.222.230.51/32 disabled=no list=route-aws@eu-central
 add address=150.222.230.92/32 disabled=no list=route-aws@eu-central
 add address=150.222.230.93/32 disabled=no list=route-aws@eu-central
