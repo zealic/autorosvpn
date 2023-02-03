@@ -194,6 +194,7 @@ add address=150.222.28.142/31 disabled=no list=route-aws@sa-east
 add address=150.222.28.17/32 disabled=no list=route-aws@sa-east
 add address=150.222.28.18/31 disabled=no list=route-aws@sa-east
 add address=150.222.28.20/31 disabled=no list=route-aws@sa-east
+add address=150.222.28.22/31 disabled=no list=route-aws@sa-east
 add address=150.222.6.0/24 disabled=no list=route-aws@sa-east
 add address=150.222.69.0/24 disabled=no list=route-aws@sa-east
 add address=150.222.70.0/24 disabled=no list=route-aws@sa-east
