@@ -208,6 +208,9 @@ add address=69.107.7.0/29 disabled=no list=route-aws@ap-southeast-1
 add address=69.107.7.8/29 disabled=no list=route-aws@ap-southeast-1
 add address=96.0.108.0/24 disabled=no list=route-aws@ap-southeast-1
 add address=96.0.112.0/21 disabled=no list=route-aws@ap-southeast-1
+add address=96.0.120.0/21 disabled=no list=route-aws@ap-southeast-1
+add address=96.0.128.0/23 disabled=no list=route-aws@ap-southeast-1
+add address=96.0.130.0/24 disabled=no list=route-aws@ap-southeast-1
 add address=96.0.94.0/23 disabled=no list=route-aws@ap-southeast-1
 add address=99.151.104.0/21 disabled=no list=route-aws@ap-southeast-1
 add address=99.77.143.0/24 disabled=no list=route-aws@ap-southeast-1
