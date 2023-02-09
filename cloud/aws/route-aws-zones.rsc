@@ -1013,7 +1013,6 @@ add address=13.34.37.224/27 disabled=no list=route-aws@ap-southeast
 add address=13.34.37.32/27 disabled=no list=route-aws@ap-southeast
 add address=13.34.37.64/27 disabled=no list=route-aws@ap-southeast
 add address=13.34.37.96/27 disabled=no list=route-aws@ap-southeast
-add address=13.34.4.10/32 disabled=no list=route-aws@ap-southeast
 add address=13.34.41.128/27 disabled=no list=route-aws@ap-southeast
 add address=13.34.41.160/27 disabled=no list=route-aws@ap-southeast
 add address=13.34.41.192/27 disabled=no list=route-aws@ap-southeast
