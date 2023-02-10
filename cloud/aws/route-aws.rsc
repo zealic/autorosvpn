@@ -4599,7 +4599,7 @@ add address=96.0.12.0/22 disabled=no list=route-aws
 add address=96.0.120.0/21 disabled=no list=route-aws
 add address=96.0.128.0/23 disabled=no list=route-aws
 add address=96.0.130.0/24 disabled=no list=route-aws
-add address=96.0.132.0/24 disabled=no list=route-aws
+add address=96.0.131.0/24 disabled=no list=route-aws
 add address=96.0.16.0/21 disabled=no list=route-aws
 add address=96.0.24.0/21 disabled=no list=route-aws
 add address=96.0.32.0/22 disabled=no list=route-aws
