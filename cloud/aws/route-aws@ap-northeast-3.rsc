@@ -35,6 +35,10 @@ add address=13.248.24.0/22 disabled=no list=route-aws@ap-northeast-3
 add address=13.248.28.0/22 disabled=no list=route-aws@ap-northeast-3
 add address=13.34.20.192/27 disabled=no list=route-aws@ap-northeast-3
 add address=13.34.20.224/27 disabled=no list=route-aws@ap-northeast-3
+add address=13.34.92.128/27 disabled=no list=route-aws@ap-northeast-3
+add address=13.34.92.160/27 disabled=no list=route-aws@ap-northeast-3
+add address=13.34.97.128/27 disabled=no list=route-aws@ap-northeast-3
+add address=13.34.97.160/27 disabled=no list=route-aws@ap-northeast-3
 add address=15.152.0.0/16 disabled=no list=route-aws@ap-northeast-3
 add address=15.152.10.0/24 disabled=no list=route-aws@ap-northeast-3
 add address=15.152.133.112/28 disabled=no list=route-aws@ap-northeast-3
@@ -48,8 +52,13 @@ add address=15.152.24.32/27 disabled=no list=route-aws@ap-northeast-3
 add address=15.152.24.64/26 disabled=no list=route-aws@ap-northeast-3
 add address=15.152.8.192/26 disabled=no list=route-aws@ap-northeast-3
 add address=15.168.0.0/16 disabled=no list=route-aws@ap-northeast-3
+add address=15.168.100.0/23 disabled=no list=route-aws@ap-northeast-3
+add address=15.168.105.144/29 disabled=no list=route-aws@ap-northeast-3
+add address=15.168.105.152/29 disabled=no list=route-aws@ap-northeast-3
+add address=15.168.105.160/29 disabled=no list=route-aws@ap-northeast-3
 add address=15.168.40.0/25 disabled=no list=route-aws@ap-northeast-3
 add address=15.168.40.128/25 disabled=no list=route-aws@ap-northeast-3
+add address=15.168.96.0/22 disabled=no list=route-aws@ap-northeast-3
 add address=15.177.77.0/24 disabled=no list=route-aws@ap-northeast-3
 add address=15.230.181.0/24 disabled=no list=route-aws@ap-northeast-3
 add address=15.230.24.0/22 disabled=no list=route-aws@ap-northeast-3
@@ -84,3 +93,7 @@ add address=99.77.243.0/24 disabled=no list=route-aws@ap-northeast-3
 add address=99.83.100.0/24 disabled=no list=route-aws@ap-northeast-3
 add address=104.255.59.114/32 disabled=no list=route-aws@ap-northeast-3
 add address=104.255.59.115/32 disabled=no list=route-aws@ap-northeast-3
+add address=150.222.49.0/27 disabled=no list=route-aws@ap-northeast-3
+add address=150.222.49.32/27 disabled=no list=route-aws@ap-northeast-3
+add address=150.222.49.64/27 disabled=no list=route-aws@ap-northeast-3
+add address=173.83.218.0/24 disabled=no list=route-aws@ap-northeast-3

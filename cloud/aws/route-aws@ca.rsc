@@ -2,6 +2,7 @@
 /ip firewall address-list
 add address=3.2.42.192/26 disabled=no list=route-aws@ca
 add address=3.2.42.64/26 disabled=no list=route-aws@ca
+add address=3.5.172.0/22 disabled=no list=route-aws@ca
 add address=3.5.252.0/22 disabled=no list=route-aws@ca
 add address=3.96.0.0/15 disabled=no list=route-aws@ca
 add address=3.96.143.128/26 disabled=no list=route-aws@ca
@@ -54,6 +55,10 @@ add address=13.34.89.96/27 disabled=no list=route-aws@ca
 add address=13.34.90.0/27 disabled=no list=route-aws@ca
 add address=13.34.90.32/27 disabled=no list=route-aws@ca
 add address=15.156.0.0/15 disabled=no list=route-aws@ca
+add address=15.156.152.184/29 disabled=no list=route-aws@ca
+add address=15.156.152.192/29 disabled=no list=route-aws@ca
+add address=15.156.212.0/22 disabled=no list=route-aws@ca
+add address=15.156.216.0/23 disabled=no list=route-aws@ca
 add address=15.156.38.0/27 disabled=no list=route-aws@ca
 add address=15.156.38.64/26 disabled=no list=route-aws@ca
 add address=15.177.100.0/24 disabled=no list=route-aws@ca
@@ -73,6 +78,7 @@ add address=15.222.43.64/26 disabled=no list=route-aws@ca
 add address=15.223.100.0/24 disabled=no list=route-aws@ca
 add address=15.223.102.0/23 disabled=no list=route-aws@ca
 add address=15.223.52.0/23 disabled=no list=route-aws@ca
+add address=15.230.110.0/24 disabled=no list=route-aws@ca
 add address=15.230.21.0/24 disabled=no list=route-aws@ca
 add address=15.230.79.0/26 disabled=no list=route-aws@ca
 add address=15.230.79.128/26 disabled=no list=route-aws@ca
@@ -117,6 +123,7 @@ add address=52.93.193.200/32 disabled=no list=route-aws@ca
 add address=52.93.193.201/32 disabled=no list=route-aws@ca
 add address=52.93.193.202/32 disabled=no list=route-aws@ca
 add address=52.93.193.203/32 disabled=no list=route-aws@ca
+add address=52.93.45.128/25 disabled=no list=route-aws@ca
 add address=52.93.5.0/24 disabled=no list=route-aws@ca
 add address=52.93.75.0/24 disabled=no list=route-aws@ca
 add address=52.94.14.0/24 disabled=no list=route-aws@ca
@@ -144,4 +151,16 @@ add address=99.79.20.192/27 disabled=no list=route-aws@ca
 add address=99.79.20.224/27 disabled=no list=route-aws@ca
 add address=99.79.34.0/23 disabled=no list=route-aws@ca
 add address=99.82.174.0/24 disabled=no list=route-aws@ca
+add address=130.171.0.0/26 disabled=no list=route-aws@ca
+add address=130.171.0.128/26 disabled=no list=route-aws@ca
+add address=130.171.0.64/26 disabled=no list=route-aws@ca
+add address=136.18.134.0/23 disabled=no list=route-aws@ca
 add address=150.222.109.0/24 disabled=no list=route-aws@ca
+add address=150.222.43.160/27 disabled=no list=route-aws@ca
+add address=150.222.43.192/27 disabled=no list=route-aws@ca
+add address=150.222.43.224/27 disabled=no list=route-aws@ca
+add address=150.222.52.128/27 disabled=no list=route-aws@ca
+add address=150.222.52.160/27 disabled=no list=route-aws@ca
+add address=150.222.52.96/27 disabled=no list=route-aws@ca
+add address=161.193.128.0/18 disabled=no list=route-aws@ca
+add address=173.83.217.0/24 disabled=no list=route-aws@ca

@@ -1,7 +1,10 @@
 /ip firewall address-list remove [/ip firewall address-list find list="route-aws@eu-west-3"]
 /ip firewall address-list
 add address=3.2.33.64/26 disabled=no list=route-aws@eu-west-3
+add address=3.5.204.0/22 disabled=no list=route-aws@eu-west-3
 add address=3.5.224.0/22 disabled=no list=route-aws@eu-west-3
+add address=13.34.101.192/27 disabled=no list=route-aws@eu-west-3
+add address=13.34.101.224/27 disabled=no list=route-aws@eu-west-3
 add address=13.34.36.128/27 disabled=no list=route-aws@eu-west-3
 add address=13.34.36.160/27 disabled=no list=route-aws@eu-west-3
 add address=13.34.36.64/27 disabled=no list=route-aws@eu-west-3
@@ -12,6 +15,8 @@ add address=13.34.64.0/27 disabled=no list=route-aws@eu-west-3
 add address=13.34.64.32/27 disabled=no list=route-aws@eu-west-3
 add address=13.34.64.64/27 disabled=no list=route-aws@eu-west-3
 add address=13.34.64.96/27 disabled=no list=route-aws@eu-west-3
+add address=13.34.92.192/27 disabled=no list=route-aws@eu-west-3
+add address=13.34.92.224/27 disabled=no list=route-aws@eu-west-3
 add address=13.36.0.0/14 disabled=no list=route-aws@eu-west-3
 add address=13.36.155.0/24 disabled=no list=route-aws@eu-west-3
 add address=13.36.18.0/28 disabled=no list=route-aws@eu-west-3
@@ -30,6 +35,10 @@ add address=13.37.1.64/26 disabled=no list=route-aws@eu-west-3
 add address=13.38.132.0/22 disabled=no list=route-aws@eu-west-3
 add address=13.38.140.0/23 disabled=no list=route-aws@eu-west-3
 add address=13.38.202.64/26 disabled=no list=route-aws@eu-west-3
+add address=13.39.141.160/29 disabled=no list=route-aws@eu-west-3
+add address=13.39.141.168/29 disabled=no list=route-aws@eu-west-3
+add address=13.39.220.0/22 disabled=no list=route-aws@eu-west-3
+add address=13.39.224.0/23 disabled=no list=route-aws@eu-west-3
 add address=15.177.74.0/24 disabled=no list=route-aws@eu-west-3
 add address=15.188.0.0/16 disabled=no list=route-aws@eu-west-3
 add address=15.188.102.0/27 disabled=no list=route-aws@eu-west-3
@@ -41,6 +50,7 @@ add address=15.188.210.200/30 disabled=no list=route-aws@eu-west-3
 add address=15.188.210.32/27 disabled=no list=route-aws@eu-west-3
 add address=15.188.210.64/27 disabled=no list=route-aws@eu-west-3
 add address=15.221.50.0/24 disabled=no list=route-aws@eu-west-3
+add address=15.230.101.0/24 disabled=no list=route-aws@eu-west-3
 add address=15.230.156.0/24 disabled=no list=route-aws@eu-west-3
 add address=15.230.70.192/26 disabled=no list=route-aws@eu-west-3
 add address=15.230.71.0/26 disabled=no list=route-aws@eu-west-3
@@ -51,6 +61,7 @@ add address=15.236.155.192/26 disabled=no list=route-aws@eu-west-3
 add address=15.236.231.0/26 disabled=no list=route-aws@eu-west-3
 add address=15.236.231.64/26 disabled=no list=route-aws@eu-west-3
 add address=15.236.80.0/23 disabled=no list=route-aws@eu-west-3
+add address=15.248.104.0/24 disabled=no list=route-aws@eu-west-3
 add address=15.248.16.0/22 disabled=no list=route-aws@eu-west-3
 add address=16.12.18.0/23 disabled=no list=route-aws@eu-west-3
 add address=16.12.20.0/24 disabled=no list=route-aws@eu-west-3
@@ -69,6 +80,7 @@ add address=35.180.244.0/23 disabled=no list=route-aws@eu-west-3
 add address=35.181.0.0/16 disabled=no list=route-aws@eu-west-3
 add address=35.181.128.0/24 disabled=no list=route-aws@eu-west-3
 add address=35.71.101.0/24 disabled=no list=route-aws@eu-west-3
+add address=51.0.96.0/21 disabled=no list=route-aws@eu-west-3
 add address=51.44.0.0/14 disabled=no list=route-aws@eu-west-3
 add address=52.144.209.128/26 disabled=no list=route-aws@eu-west-3
 add address=52.144.210.64/26 disabled=no list=route-aws@eu-west-3
@@ -104,3 +116,7 @@ add address=99.77.248.0/24 disabled=no list=route-aws@eu-west-3
 add address=99.82.161.0/24 disabled=no list=route-aws@eu-west-3
 add address=150.222.242.214/31 disabled=no list=route-aws@eu-west-3
 add address=150.222.242.84/31 disabled=no list=route-aws@eu-west-3
+add address=150.222.39.128/26 disabled=no list=route-aws@eu-west-3
+add address=150.222.39.192/26 disabled=no list=route-aws@eu-west-3
+add address=150.222.40.0/26 disabled=no list=route-aws@eu-west-3
+add address=173.83.216.0/24 disabled=no list=route-aws@eu-west-3

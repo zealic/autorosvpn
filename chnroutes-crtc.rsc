@@ -1,5 +1,8 @@
 /ip firewall address-list remove [/ip firewall address-list find list=chnroutes-crtc]
 /ip firewall address-list
+add address=110.100.0.0/16 disabled=no list=chnroutes-crtc
+add address=122.90.0.0/16 disabled=no list=chnroutes-crtc
+add address=122.91.0.0/16 disabled=no list=chnroutes-crtc
 add address=123.88.0.0/15 disabled=no list=chnroutes-crtc
 add address=211.98.10.0/27 disabled=no list=chnroutes-crtc
 add address=211.98.10.128/28 disabled=no list=chnroutes-crtc
@@ -63,7 +66,3 @@ add address=211.98.128.0/30 disabled=no list=chnroutes-crtc
 add address=211.98.128.112/29 disabled=no list=chnroutes-crtc
 add address=211.98.128.120/29 disabled=no list=chnroutes-crtc
 add address=211.98.128.128/25 disabled=no list=chnroutes-crtc
-add address=211.98.128.16/29 disabled=no list=chnroutes-crtc
-add address=211.98.128.24/30 disabled=no list=chnroutes-crtc
-add address=211.98.128.28/30 disabled=no list=chnroutes-crtc
-add address=211.98.128.32/28 disabled=no list=chnroutes-crtc
