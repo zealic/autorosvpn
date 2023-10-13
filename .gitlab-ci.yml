@@ -1,5 +1,5 @@
 include:
-  - remote: https://arp.to/@ci/docker.yml
+  - remote: https://raw.githubusercontent.com/zealic/ci/master/docker.yml
 
 update-by-schedules:
   only:
