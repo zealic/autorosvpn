@@ -923,7 +923,6 @@ add address=2403:3d80::/32 disabled=no list=chnroutes.ipv6
 add address=2403:3dc0::/32 disabled=no list=chnroutes.ipv6
 add address=2403:3e80::/32 disabled=no list=chnroutes.ipv6
 add address=2403:3ec0::/32 disabled=no list=chnroutes.ipv6
-add address=2403:3f40::/32 disabled=no list=chnroutes.ipv6
 add address=2403:3f80::/32 disabled=no list=chnroutes.ipv6
 add address=2403:4080::/32 disabled=no list=chnroutes.ipv6
 add address=2403:4180::/32 disabled=no list=chnroutes.ipv6

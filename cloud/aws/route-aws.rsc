@@ -5954,7 +5954,6 @@ add address=185.48.120.0/22 disabled=no list=route-aws
 add address=192.157.32.0/24 disabled=no list=route-aws
 add address=192.157.33.0/24 disabled=no list=route-aws
 add address=192.157.34.0/24 disabled=no list=route-aws
-add address=192.157.64.0/21 disabled=no list=route-aws
 add address=192.189.196.0/24 disabled=no list=route-aws
 add address=192.43.175.0/24 disabled=no list=route-aws
 add address=192.43.184.0/24 disabled=no list=route-aws
