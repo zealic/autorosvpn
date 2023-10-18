@@ -5431,6 +5431,7 @@ add address=130.176.80.0/22 disabled=no list=route-aws
 add address=130.176.86.0/23 disabled=no list=route-aws
 add address=130.176.88.0/21 disabled=no list=route-aws
 add address=130.176.96.0/19 disabled=no list=route-aws
+add address=136.18.0.0/23 disabled=no list=route-aws
 add address=136.18.128.0/23 disabled=no list=route-aws
 add address=136.18.132.0/23 disabled=no list=route-aws
 add address=136.18.134.0/23 disabled=no list=route-aws
