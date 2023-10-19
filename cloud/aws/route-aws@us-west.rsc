@@ -285,6 +285,9 @@ add address=18.246.178.0/23 disabled=no list=route-aws@us-west
 add address=18.246.181.0/24 disabled=no list=route-aws@us-west
 add address=18.246.182.0/23 disabled=no list=route-aws@us-west
 add address=18.246.184.0/23 disabled=no list=route-aws@us-west
+add address=18.246.190.128/25 disabled=no list=route-aws@us-west
+add address=18.246.220.0/25 disabled=no list=route-aws@us-west
+add address=18.246.220.128/25 disabled=no list=route-aws@us-west
 add address=18.246.88.0/23 disabled=no list=route-aws@us-west
 add address=18.246.92.0/22 disabled=no list=route-aws@us-west
 add address=18.246.96.0/22 disabled=no list=route-aws@us-west
