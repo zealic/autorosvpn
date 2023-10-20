@@ -4714,6 +4714,8 @@ add address=44.220.25.0/25 disabled=no list=route-aws@us-east
 add address=44.220.28.0/22 disabled=no list=route-aws@us-east
 add address=44.220.67.128/25 disabled=no list=route-aws@us-east
 add address=44.220.68.0/25 disabled=no list=route-aws@us-east
+add address=44.220.72.0/22 disabled=no list=route-aws@us-east
+add address=44.220.76.0/22 disabled=no list=route-aws@us-east
 add address=46.51.208.0/22 disabled=no list=route-aws@us-east
 add address=50.16.0.0/15 disabled=no list=route-aws@us-east
 add address=50.19.0.0/16 disabled=no list=route-aws@us-east
