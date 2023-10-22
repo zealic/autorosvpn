@@ -73,4 +73,3 @@ add address=61.162.0.0/16 disabled=no list=chnroutes-cnc
 add address=61.167.0.0/16 disabled=no list=chnroutes-cnc
 add address=61.168.0.0/16 disabled=no list=chnroutes-cnc
 add address=61.179.0.0/16 disabled=no list=chnroutes-cnc
-add address=61.180.128.0/17 disabled=no list=chnroutes-cnc
