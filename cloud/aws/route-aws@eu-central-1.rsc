@@ -58,6 +58,8 @@ add address=13.34.101.96/27 disabled=no list=route-aws@eu-central-1
 add address=13.34.105.64/27 disabled=no list=route-aws@eu-central-1
 add address=13.34.105.96/27 disabled=no list=route-aws@eu-central-1
 add address=13.34.106.0/27 disabled=no list=route-aws@eu-central-1
+add address=13.34.106.128/27 disabled=no list=route-aws@eu-central-1
+add address=13.34.106.160/27 disabled=no list=route-aws@eu-central-1
 add address=13.34.106.32/27 disabled=no list=route-aws@eu-central-1
 add address=13.34.106.64/27 disabled=no list=route-aws@eu-central-1
 add address=13.34.106.96/27 disabled=no list=route-aws@eu-central-1
