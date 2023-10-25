@@ -955,6 +955,8 @@ add address=13.34.105.96/27 disabled=no list=route-aws
 add address=13.34.106.0/27 disabled=no list=route-aws
 add address=13.34.106.128/27 disabled=no list=route-aws
 add address=13.34.106.160/27 disabled=no list=route-aws
+add address=13.34.106.192/27 disabled=no list=route-aws
+add address=13.34.106.224/27 disabled=no list=route-aws
 add address=13.34.106.32/27 disabled=no list=route-aws
 add address=13.34.106.64/27 disabled=no list=route-aws
 add address=13.34.106.96/27 disabled=no list=route-aws
