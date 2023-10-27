@@ -960,6 +960,10 @@ add address=13.34.106.224/27 disabled=no list=route-aws
 add address=13.34.106.32/27 disabled=no list=route-aws
 add address=13.34.106.64/27 disabled=no list=route-aws
 add address=13.34.106.96/27 disabled=no list=route-aws
+add address=13.34.107.0/27 disabled=no list=route-aws
+add address=13.34.107.32/27 disabled=no list=route-aws
+add address=13.34.107.64/27 disabled=no list=route-aws
+add address=13.34.107.96/27 disabled=no list=route-aws
 add address=13.34.11.0/27 disabled=no list=route-aws
 add address=13.34.11.128/27 disabled=no list=route-aws
 add address=13.34.11.160/27 disabled=no list=route-aws
