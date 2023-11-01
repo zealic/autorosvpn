@@ -7,8 +7,6 @@ add address=34.124.16.0/21 disabled=no list=route-gcp@southamerica
 add address=34.127.178.0/23 disabled=no list=route-gcp@southamerica
 add address=34.151.0.0/18 disabled=no list=route-gcp@southamerica
 add address=34.151.192.0/18 disabled=no list=route-gcp@southamerica
-add address=34.153.225.0/24 disabled=no list=route-gcp@southamerica
-add address=34.153.33.0/24 disabled=no list=route-gcp@southamerica
 add address=34.176.0.0/16 disabled=no list=route-gcp@southamerica
 add address=34.39.128.0/17 disabled=no list=route-gcp@southamerica
 add address=34.95.128.0/17 disabled=no list=route-gcp@southamerica
