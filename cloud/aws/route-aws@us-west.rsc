@@ -710,6 +710,10 @@ add address=150.222.140.0/24 disabled=no list=route-aws@us-west
 add address=150.222.15.132/31 disabled=no list=route-aws@us-west
 add address=150.222.176.0/22 disabled=no list=route-aws@us-west
 add address=150.222.180.0/24 disabled=no list=route-aws@us-west
+add address=150.222.182.14/32 disabled=no list=route-aws@us-west
+add address=150.222.182.15/32 disabled=no list=route-aws@us-west
+add address=150.222.182.16/32 disabled=no list=route-aws@us-west
+add address=150.222.182.17/32 disabled=no list=route-aws@us-west
 add address=150.222.196.0/24 disabled=no list=route-aws@us-west
 add address=150.222.199.0/25 disabled=no list=route-aws@us-west
 add address=150.222.214.0/24 disabled=no list=route-aws@us-west
