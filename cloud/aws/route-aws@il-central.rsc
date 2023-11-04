@@ -37,6 +37,8 @@ add address=51.16.240.0/22 disabled=no list=route-aws@il-central
 add address=51.16.255.0/24 disabled=no list=route-aws@il-central
 add address=51.17.0.0/24 disabled=no list=route-aws@il-central
 add address=51.17.1.0/24 disabled=no list=route-aws@il-central
+add address=51.17.129.160/28 disabled=no list=route-aws@il-central
+add address=51.17.129.176/28 disabled=no list=route-aws@il-central
 add address=51.17.72.0/22 disabled=no list=route-aws@il-central
 add address=51.84.0.0/16 disabled=no list=route-aws@il-central
 add address=51.85.0.0/16 disabled=no list=route-aws@il-central
