@@ -126,6 +126,7 @@ add address=3.5.168.0/23 disabled=no list=route-aws@ap
 add address=3.5.184.0/21 disabled=no list=route-aws@ap
 add address=3.5.208.0/22 disabled=no list=route-aws@ap
 add address=3.5.212.0/23 disabled=no list=route-aws@ap
+add address=3.5.214.0/23 disabled=no list=route-aws@ap
 add address=3.5.236.0/22 disabled=no list=route-aws@ap
 add address=3.5.240.0/22 disabled=no list=route-aws@ap
 add address=3.5.36.0/22 disabled=no list=route-aws@ap
