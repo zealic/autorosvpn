@@ -29,6 +29,8 @@ add address=51.16.103.128/25 disabled=no list=route-aws@il
 add address=51.16.103.16/28 disabled=no list=route-aws@il
 add address=51.16.103.32/27 disabled=no list=route-aws@il
 add address=51.16.104.0/23 disabled=no list=route-aws@il
+add address=51.16.149.0/24 disabled=no list=route-aws@il
+add address=51.16.150.0/24 disabled=no list=route-aws@il
 add address=51.16.183.64/27 disabled=no list=route-aws@il
 add address=51.16.204.0/24 disabled=no list=route-aws@il
 add address=51.16.205.0/24 disabled=no list=route-aws@il

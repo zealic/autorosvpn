@@ -43,6 +43,7 @@ add address=101.120.0.0/14 disabled=no list=chnroutes-cnnic
 add address=101.124.0.0/16 disabled=no list=chnroutes-cnnic
 add address=101.125.0.0/16 disabled=no list=chnroutes-cnnic
 add address=101.126.0.0/16 disabled=no list=chnroutes-cnnic
+add address=101.126.56.0/21 disabled=no list=chnroutes-cnnic
 add address=101.129.0.0/16 disabled=no list=chnroutes-cnnic
 add address=101.130.0.0/17 disabled=no list=chnroutes-cnnic
 add address=101.130.0.0/16 disabled=no list=chnroutes-cnnic
@@ -51,4 +52,3 @@ add address=101.130.160.0/19 disabled=no list=chnroutes-cnnic
 add address=101.130.224.0/19 disabled=no list=chnroutes-cnnic
 add address=101.131.0.0/16 disabled=no list=chnroutes-cnnic
 add address=101.132.0.0/15 disabled=no list=chnroutes-cnnic
-add address=101.134.0.0/15 disabled=no list=chnroutes-cnnic
