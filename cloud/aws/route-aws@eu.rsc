@@ -885,6 +885,7 @@ add address=51.118.0.0/15 disabled=no list=route-aws@eu
 add address=51.20.0.0/16 disabled=no list=route-aws@eu
 add address=51.21.0.0/16 disabled=no list=route-aws@eu
 add address=51.24.0.0/13 disabled=no list=route-aws@eu
+add address=51.34.0.0/15 disabled=no list=route-aws@eu
 add address=51.44.0.0/16 disabled=no list=route-aws@eu
 add address=51.45.0.0/16 disabled=no list=route-aws@eu
 add address=51.46.0.0/15 disabled=no list=route-aws@eu

@@ -2210,6 +2210,7 @@ add address=35.158.127.64/26 disabled=no list=route-aws@eu-central
 add address=35.158.136.0/24 disabled=no list=route-aws@eu-central
 add address=35.71.105.0/24 disabled=no list=route-aws@eu-central
 add address=35.71.121.0/24 disabled=no list=route-aws@eu-central
+add address=51.34.0.0/15 disabled=no list=route-aws@eu-central
 add address=51.96.0.0/16 disabled=no list=route-aws@eu-central
 add address=52.119.188.0/22 disabled=no list=route-aws@eu-central
 add address=52.144.209.0/26 disabled=no list=route-aws@eu-central
@@ -3375,6 +3376,11 @@ add address=208.86.90.0/23 disabled=no list=route-aws@eu-west
 add address=209.54.184.0/21 disabled=no list=route-aws@eu-west
 add address=216.39.136.0/21 disabled=no list=route-aws@eu-west
 add address=216.39.152.0/21 disabled=no list=route-aws@eu-west
+/ip firewall address-list remove [/ip firewall address-list find list="route-aws@eusc-de-east"]
+/ip firewall address-list
+add address=15.190.252.0/22 disabled=no list=route-aws@eusc-de-east
+add address=15.190.80.0/20 disabled=no list=route-aws@eusc-de-east
+add address=51.226.0.0/15 disabled=no list=route-aws@eusc-de-east
 /ip firewall address-list remove [/ip firewall address-list find list="route-aws@global"]
 /ip firewall address-list
 add address=3.160.0.0/14 disabled=no list=route-aws@global
@@ -4205,6 +4211,7 @@ add address=3.3.2.0/24 disabled=no list=route-aws@us-east
 add address=3.3.28.0/22 disabled=no list=route-aws@us-east
 add address=3.3.5.0/24 disabled=no list=route-aws@us-east
 add address=3.33.34.0/24 disabled=no list=route-aws@us-east
+add address=3.33.43.0/24 disabled=no list=route-aws@us-east
 add address=3.33.44.0/22 disabled=no list=route-aws@us-east
 add address=3.4.0.0/24 disabled=no list=route-aws@us-east
 add address=3.4.1.0/24 disabled=no list=route-aws@us-east
@@ -5264,6 +5271,8 @@ add address=99.151.96.0/21 disabled=no list=route-aws@us-gov-east
 add address=99.77.183.0/24 disabled=no list=route-aws@us-gov-east
 add address=108.175.52.0/22 disabled=no list=route-aws@us-gov-east
 add address=108.175.60.0/22 disabled=no list=route-aws@us-gov-east
+add address=182.28.0.0/16 disabled=no list=route-aws@us-gov-east
+add address=182.29.0.0/16 disabled=no list=route-aws@us-gov-east
 add address=182.30.0.0/16 disabled=no list=route-aws@us-gov-east
 /ip firewall address-list remove [/ip firewall address-list find list="route-aws@us-gov-west"]
 /ip firewall address-list

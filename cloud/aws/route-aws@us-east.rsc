@@ -214,6 +214,7 @@ add address=3.3.2.0/24 disabled=no list=route-aws@us-east
 add address=3.3.28.0/22 disabled=no list=route-aws@us-east
 add address=3.3.5.0/24 disabled=no list=route-aws@us-east
 add address=3.33.34.0/24 disabled=no list=route-aws@us-east
+add address=3.33.43.0/24 disabled=no list=route-aws@us-east
 add address=3.33.44.0/22 disabled=no list=route-aws@us-east
 add address=3.4.0.0/24 disabled=no list=route-aws@us-east
 add address=3.4.1.0/24 disabled=no list=route-aws@us-east
