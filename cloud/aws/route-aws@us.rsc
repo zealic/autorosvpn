@@ -1948,6 +1948,9 @@ add address=142.4.161.80/29 disabled=no list=route-aws@us
 add address=142.4.161.88/29 disabled=no list=route-aws@us
 add address=142.4.161.96/29 disabled=no list=route-aws@us
 add address=142.4.162.0/29 disabled=no list=route-aws@us
+add address=142.4.162.24/29 disabled=no list=route-aws@us
+add address=142.4.162.32/29 disabled=no list=route-aws@us
+add address=142.4.162.40/29 disabled=no list=route-aws@us
 add address=142.4.178.0/24 disabled=no list=route-aws@us
 add address=150.222.100.0/24 disabled=no list=route-aws@us
 add address=150.222.101.0/24 disabled=no list=route-aws@us
