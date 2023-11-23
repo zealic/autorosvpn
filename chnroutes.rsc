@@ -269,7 +269,9 @@ add address=42.248.0.0/13 disabled=no list=chnroutes
 add address=43.136.0.0/13 disabled=no list=chnroutes
 add address=43.144.0.0/13 disabled=no list=chnroutes
 add address=43.176.0.0/12 disabled=no list=chnroutes
-add address=43.192.0.0/14 disabled=no list=chnroutes
+add address=43.192.0.0/15 disabled=no list=chnroutes
+add address=43.194.0.0/16 disabled=no list=chnroutes
+add address=43.195.0.0/16 disabled=no list=chnroutes
 add address=43.196.0.0/15 disabled=no list=chnroutes
 add address=43.224.12.0/22 disabled=no list=chnroutes
 add address=43.224.24.0/22 disabled=no list=chnroutes
