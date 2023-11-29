@@ -1,5 +1,7 @@
 /ip firewall address-list remove [/ip firewall address-list find list=chnroutes-cmcc]
 /ip firewall address-list
+add address=117.135.210.0/27 disabled=no list=chnroutes-cmcc
+add address=117.135.214.0/27 disabled=no list=chnroutes-cmcc
 add address=211.103.10.128/29 disabled=no list=chnroutes-cmcc
 add address=211.103.10.136/29 disabled=no list=chnroutes-cmcc
 add address=211.103.10.144/30 disabled=no list=chnroutes-cmcc
@@ -50,5 +52,3 @@ add address=211.103.51.40/29 disabled=no list=chnroutes-cmcc
 add address=211.103.51.48/29 disabled=no list=chnroutes-cmcc
 add address=211.103.51.56/29 disabled=no list=chnroutes-cmcc
 add address=211.103.51.64/29 disabled=no list=chnroutes-cmcc
-add address=211.103.51.72/29 disabled=no list=chnroutes-cmcc
-add address=211.103.51.8/29 disabled=no list=chnroutes-cmcc
