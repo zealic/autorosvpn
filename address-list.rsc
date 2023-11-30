@@ -6633,6 +6633,7 @@ add address=202.38.135.0/24 disabled=no list=novpn
 add address=202.38.136.0/23 disabled=no list=novpn
 add address=202.38.140.0/23 disabled=no list=novpn
 add address=202.38.142.0/23 disabled=no list=novpn
+add address=202.38.146.0/23 disabled=no list=novpn
 add address=202.38.149.0/24 disabled=no list=novpn
 add address=202.38.150.0/23 disabled=no list=novpn
 add address=202.38.152.0/23 disabled=no list=novpn
