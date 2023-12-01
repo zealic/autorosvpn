@@ -488,7 +488,6 @@ add address=150.222.41.64/26 disabled=no list=route-aws@ap-northeast
 add address=150.222.49.0/27 disabled=no list=route-aws@ap-northeast
 add address=150.222.49.32/27 disabled=no list=route-aws@ap-northeast
 add address=150.222.49.64/27 disabled=no list=route-aws@ap-northeast
-add address=150.222.64.0/24 disabled=no list=route-aws@ap-northeast
 add address=150.222.77.0/24 disabled=no list=route-aws@ap-northeast
 add address=150.222.90.0/24 disabled=no list=route-aws@ap-northeast
 add address=150.222.91.0/24 disabled=no list=route-aws@ap-northeast

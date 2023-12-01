@@ -962,6 +962,7 @@ add address=52.94.152.9/32 disabled=no list=route-aws@us-east
 add address=52.94.192.0/22 disabled=no list=route-aws@us-east
 add address=52.94.199.0/24 disabled=no list=route-aws@us-east
 add address=52.94.201.0/26 disabled=no list=route-aws@us-east
+add address=52.94.201.64/26 disabled=no list=route-aws@us-east
 add address=52.94.224.0/20 disabled=no list=route-aws@us-east
 add address=52.94.240.0/22 disabled=no list=route-aws@us-east
 add address=52.94.244.0/22 disabled=no list=route-aws@us-east

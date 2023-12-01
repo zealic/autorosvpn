@@ -1427,7 +1427,6 @@ add address=150.222.50.192/27 disabled=no list=route-aws@ap
 add address=150.222.51.160/27 disabled=no list=route-aws@ap
 add address=150.222.51.192/27 disabled=no list=route-aws@ap
 add address=150.222.51.224/27 disabled=no list=route-aws@ap
-add address=150.222.64.0/24 disabled=no list=route-aws@ap
 add address=150.222.72.0/24 disabled=no list=route-aws@ap
 add address=150.222.77.0/24 disabled=no list=route-aws@ap
 add address=150.222.78.0/24 disabled=no list=route-aws@ap

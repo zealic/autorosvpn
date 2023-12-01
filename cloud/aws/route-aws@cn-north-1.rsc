@@ -91,5 +91,6 @@ add address=140.179.79.160/27 disabled=no list=route-aws@cn-north-1
 add address=140.179.79.192/27 disabled=no list=route-aws@cn-north-1
 add address=140.179.79.244/30 disabled=no list=route-aws@cn-north-1
 add address=140.179.79.64/26 disabled=no list=route-aws@cn-north-1
+add address=150.222.64.0/24 disabled=no list=route-aws@cn-north-1
 add address=150.222.88.0/24 disabled=no list=route-aws@cn-north-1
 add address=150.222.89.0/24 disabled=no list=route-aws@cn-north-1

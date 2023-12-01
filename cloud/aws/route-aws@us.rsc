@@ -1637,6 +1637,7 @@ add address=52.94.198.0/28 disabled=no list=route-aws@us
 add address=52.94.198.32/28 disabled=no list=route-aws@us
 add address=52.94.199.0/24 disabled=no list=route-aws@us
 add address=52.94.201.0/26 disabled=no list=route-aws@us
+add address=52.94.201.64/26 disabled=no list=route-aws@us
 add address=52.94.208.0/21 disabled=no list=route-aws@us
 add address=52.94.22.0/24 disabled=no list=route-aws@us
 add address=52.94.224.0/20 disabled=no list=route-aws@us
