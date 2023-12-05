@@ -344,6 +344,7 @@ add address=34.144.192.0/18 disabled=no list=route-gcp@global
 add address=34.149.0.0/16 disabled=no list=route-gcp@global
 add address=34.160.0.0/16 disabled=no list=route-gcp@global
 add address=34.36.0.0/16 disabled=no list=route-gcp@global
+add address=34.49.0.0/16 disabled=no list=route-gcp@global
 add address=34.95.64.0/18 disabled=no list=route-gcp@global
 add address=34.96.64.0/18 disabled=no list=route-gcp@global
 add address=34.98.64.0/18 disabled=no list=route-gcp@global
