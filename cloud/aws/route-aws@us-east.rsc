@@ -1012,6 +1012,7 @@ add address=52.95.48.0/22 disabled=no list=route-aws@us-east
 add address=52.95.52.0/22 disabled=no list=route-aws@us-east
 add address=52.95.62.0/24 disabled=no list=route-aws@us-east
 add address=52.95.63.0/24 disabled=no list=route-aws@us-east
+add address=54.112.0.0/18 disabled=no list=route-aws@us-east
 add address=54.144.0.0/14 disabled=no list=route-aws@us-east
 add address=54.152.0.0/16 disabled=no list=route-aws@us-east
 add address=54.156.0.0/14 disabled=no list=route-aws@us-east
