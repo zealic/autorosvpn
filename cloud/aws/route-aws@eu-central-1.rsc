@@ -350,5 +350,6 @@ add address=150.222.36.0/25 disabled=no list=route-aws@eu-central-1
 add address=150.222.4.0/24 disabled=no list=route-aws@eu-central-1
 add address=150.222.5.0/24 disabled=no list=route-aws@eu-central-1
 add address=150.222.86.0/24 disabled=no list=route-aws@eu-central-1
+add address=151.148.17.0/24 disabled=no list=route-aws@eu-central-1
 add address=151.148.35.0/24 disabled=no list=route-aws@eu-central-1
 add address=173.83.196.0/23 disabled=no list=route-aws@eu-central-1

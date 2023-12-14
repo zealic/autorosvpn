@@ -6033,6 +6033,7 @@ add address=150.222.98.0/24 disabled=no list=route-aws
 add address=150.222.99.0/24 disabled=no list=route-aws
 add address=151.148.16.0/31 disabled=no list=route-aws
 add address=151.148.16.2/32 disabled=no list=route-aws
+add address=151.148.17.0/24 disabled=no list=route-aws
 add address=151.148.32.0/24 disabled=no list=route-aws
 add address=151.148.33.0/24 disabled=no list=route-aws
 add address=151.148.34.0/24 disabled=no list=route-aws
