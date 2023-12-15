@@ -1722,6 +1722,7 @@ add address=16.12.56.0/23 disabled=no list=route-aws@ca-west
 add address=16.12.58.0/24 disabled=no list=route-aws@ca-west
 add address=40.176.0.0/15 disabled=no list=route-aws@ca-west
 add address=40.176.101.0/26 disabled=no list=route-aws@ca-west
+add address=40.176.101.64/28 disabled=no list=route-aws@ca-west
 add address=40.176.65.0/24 disabled=no list=route-aws@ca-west
 add address=40.176.82.0/24 disabled=no list=route-aws@ca-west
 add address=40.176.83.0/24 disabled=no list=route-aws@ca-west
@@ -1730,6 +1731,7 @@ add address=40.176.85.128/26 disabled=no list=route-aws@ca-west
 add address=40.176.85.192/26 disabled=no list=route-aws@ca-west
 add address=40.176.86.0/26 disabled=no list=route-aws@ca-west
 add address=40.176.86.64/26 disabled=no list=route-aws@ca-west
+add address=40.176.98.240/28 disabled=no list=route-aws@ca-west
 add address=40.178.0.0/15 disabled=no list=route-aws@ca-west
 add address=52.94.250.48/28 disabled=no list=route-aws@ca-west
 add address=76.223.170.0/28 disabled=no list=route-aws@ca-west
@@ -3598,7 +3600,11 @@ add address=204.246.173.0/24 disabled=no list=route-aws@global
 add address=204.246.174.0/23 disabled=no list=route-aws@global
 add address=204.246.176.0/20 disabled=no list=route-aws@global
 add address=205.251.192.0/21 disabled=no list=route-aws@global
-add address=205.251.200.0/21 disabled=no list=route-aws@global
+add address=205.251.200.0/24 disabled=no list=route-aws@global
+add address=205.251.201.0/24 disabled=no list=route-aws@global
+add address=205.251.202.0/23 disabled=no list=route-aws@global
+add address=205.251.204.0/23 disabled=no list=route-aws@global
+add address=205.251.206.0/23 disabled=no list=route-aws@global
 add address=205.251.208.0/20 disabled=no list=route-aws@global
 add address=205.251.218.0/24 disabled=no list=route-aws@global
 add address=205.251.249.0/24 disabled=no list=route-aws@global
@@ -3606,6 +3612,7 @@ add address=205.251.250.0/23 disabled=no list=route-aws@global
 add address=205.251.252.0/23 disabled=no list=route-aws@global
 add address=205.251.254.0/24 disabled=no list=route-aws@global
 add address=216.137.32.0/19 disabled=no list=route-aws@global
+add address=216.221.160.0/19 disabled=no list=route-aws@global
 add address=216.39.168.0/21 disabled=no list=route-aws@global
 /ip firewall address-list remove [/ip firewall address-list find list="route-aws@il-central"]
 /ip firewall address-list
