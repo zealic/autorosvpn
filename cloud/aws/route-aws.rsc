@@ -144,6 +144,8 @@ add address=3.16.0.0/14 disabled=no list=route-aws
 add address=3.16.146.0/29 disabled=no list=route-aws
 add address=3.160.0.0/14 disabled=no list=route-aws
 add address=3.164.0.0/18 disabled=no list=route-aws
+add address=3.164.128.0/17 disabled=no list=route-aws
+add address=3.164.64.0/18 disabled=no list=route-aws
 add address=3.17.136.0/23 disabled=no list=route-aws
 add address=3.172.0.0/18 disabled=no list=route-aws
 add address=3.18.132.0/26 disabled=no list=route-aws
