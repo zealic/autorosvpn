@@ -704,6 +704,7 @@ add address=142.4.160.32/29 disabled=no list=route-aws@us-west
 add address=142.4.160.56/29 disabled=no list=route-aws@us-west
 add address=142.4.160.64/29 disabled=no list=route-aws@us-west
 add address=142.4.160.96/29 disabled=no list=route-aws@us-west
+add address=142.4.162.48/29 disabled=no list=route-aws@us-west
 add address=150.222.101.0/24 disabled=no list=route-aws@us-west
 add address=150.222.102.0/24 disabled=no list=route-aws@us-west
 add address=150.222.106.0/24 disabled=no list=route-aws@us-west
