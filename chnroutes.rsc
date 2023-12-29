@@ -148,6 +148,7 @@ add address=36.37.48.0/20 disabled=no list=chnroutes
 add address=36.40.0.0/13 disabled=no list=chnroutes
 add address=36.48.0.0/15 disabled=no list=chnroutes
 add address=36.50.226.0/23 disabled=no list=chnroutes
+add address=36.50.254.0/23 disabled=no list=chnroutes
 add address=36.51.0.0/16 disabled=no list=chnroutes
 add address=36.56.0.0/13 disabled=no list=chnroutes
 add address=36.96.0.0/11 disabled=no list=chnroutes
