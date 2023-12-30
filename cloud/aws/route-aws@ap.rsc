@@ -80,7 +80,6 @@ add address=3.26.88.16/28 disabled=no list=route-aws@ap
 add address=3.27.127.176/29 disabled=no list=route-aws@ap
 add address=3.27.127.184/29 disabled=no list=route-aws@ap
 add address=3.27.176.0/22 disabled=no list=route-aws@ap
-add address=3.33.40.0/23 disabled=no list=route-aws@ap
 add address=3.34.0.0/15 disabled=no list=route-aws@ap
 add address=3.34.101.192/26 disabled=no list=route-aws@ap
 add address=3.34.228.0/26 disabled=no list=route-aws@ap
