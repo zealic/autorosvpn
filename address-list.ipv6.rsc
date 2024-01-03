@@ -505,6 +505,7 @@ add address=2401:5c20::/32 disabled=no list=novpn.ipv6
 add address=2401:5c60::/32 disabled=no list=novpn.ipv6
 add address=2401:5c80::/32 disabled=no list=novpn.ipv6
 add address=2401:5fa0::/32 disabled=no list=novpn.ipv6
+add address=2401:70e0::/32 disabled=no list=novpn.ipv6
 add address=2401:7180::/32 disabled=no list=novpn.ipv6
 add address=2401:71c0::/32 disabled=no list=novpn.ipv6
 add address=2401:7240::/32 disabled=no list=novpn.ipv6
