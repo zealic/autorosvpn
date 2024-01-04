@@ -3473,6 +3473,7 @@ add address=44.220.67.128/25 disabled=no list=route-aws
 add address=44.220.68.0/25 disabled=no list=route-aws
 add address=44.220.72.0/22 disabled=no list=route-aws
 add address=44.220.76.0/22 disabled=no list=route-aws
+add address=44.222.66.0/24 disabled=no list=route-aws
 add address=44.224.0.0/11 disabled=no list=route-aws
 add address=44.227.178.0/24 disabled=no list=route-aws
 add address=44.233.54.0/23 disabled=no list=route-aws
