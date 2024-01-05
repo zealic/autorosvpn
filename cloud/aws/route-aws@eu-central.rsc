@@ -66,6 +66,8 @@ add address=13.34.106.160/27 disabled=no list=route-aws@eu-central
 add address=13.34.106.32/27 disabled=no list=route-aws@eu-central
 add address=13.34.106.64/27 disabled=no list=route-aws@eu-central
 add address=13.34.106.96/27 disabled=no list=route-aws@eu-central
+add address=13.34.109.128/27 disabled=no list=route-aws@eu-central
+add address=13.34.109.160/27 disabled=no list=route-aws@eu-central
 add address=13.34.33.0/27 disabled=no list=route-aws@eu-central
 add address=13.34.33.128/27 disabled=no list=route-aws@eu-central
 add address=13.34.33.160/27 disabled=no list=route-aws@eu-central
