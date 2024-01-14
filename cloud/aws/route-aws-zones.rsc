@@ -403,6 +403,8 @@ add address=15.230.77.64/26 disabled=no list=route-aws@ap-northeast
 add address=15.230.81.0/24 disabled=no list=route-aws@ap-northeast
 add address=15.230.99.0/24 disabled=no list=route-aws@ap-northeast
 add address=15.248.36.0/22 disabled=no list=route-aws@ap-northeast
+add address=15.251.0.33/32 disabled=no list=route-aws@ap-northeast
+add address=15.251.0.34/32 disabled=no list=route-aws@ap-northeast
 add address=18.176.0.0/15 disabled=no list=route-aws@ap-northeast
 add address=18.176.203.120/30 disabled=no list=route-aws@ap-northeast
 add address=18.177.156.192/26 disabled=no list=route-aws@ap-northeast
