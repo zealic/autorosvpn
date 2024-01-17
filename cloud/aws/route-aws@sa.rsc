@@ -194,6 +194,7 @@ add address=150.222.6.0/24 disabled=no list=route-aws@sa
 add address=150.222.69.0/24 disabled=no list=route-aws@sa
 add address=150.222.70.0/24 disabled=no list=route-aws@sa
 add address=150.222.9.0/24 disabled=no list=route-aws@sa
+add address=151.148.18.0/24 disabled=no list=route-aws@sa
 add address=173.83.213.0/24 disabled=no list=route-aws@sa
 add address=177.71.128.0/17 disabled=no list=route-aws@sa
 add address=177.71.207.128/26 disabled=no list=route-aws@sa
