@@ -107,6 +107,7 @@ add address=54.222.57.0/24 disabled=no list=route-aws@cn
 add address=54.222.58.0/28 disabled=no list=route-aws@cn
 add address=54.222.58.32/28 disabled=no list=route-aws@cn
 add address=54.222.58.48/28 disabled=no list=route-aws@cn
+add address=54.222.64.0/24 disabled=no list=route-aws@cn
 add address=54.222.66.0/23 disabled=no list=route-aws@cn
 add address=54.222.68.0/23 disabled=no list=route-aws@cn
 add address=54.222.70.0/24 disabled=no list=route-aws@cn
