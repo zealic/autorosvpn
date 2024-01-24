@@ -50,6 +50,10 @@ add address=52.94.248.224/28 disabled=no list=route-aws@us-gov-west-1
 add address=52.94.9.0/24 disabled=no list=route-aws@us-gov-west-1
 add address=52.95.100.0/22 disabled=no list=route-aws@us-gov-west-1
 add address=54.239.0.128/28 disabled=no list=route-aws@us-gov-west-1
+add address=56.136.0.0/16 disabled=no list=route-aws@us-gov-west-1
+add address=56.137.0.0/16 disabled=no list=route-aws@us-gov-west-1
+add address=56.138.0.0/16 disabled=no list=route-aws@us-gov-west-1
+add address=56.139.0.0/16 disabled=no list=route-aws@us-gov-west-1
 add address=75.79.0.0/16 disabled=no list=route-aws@us-gov-west-1
 add address=76.223.168.0/24 disabled=no list=route-aws@us-gov-west-1
 add address=96.127.0.0/17 disabled=no list=route-aws@us-gov-west-1

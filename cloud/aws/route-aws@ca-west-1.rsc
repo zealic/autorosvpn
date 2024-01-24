@@ -33,6 +33,10 @@ add address=40.176.86.64/26 disabled=no list=route-aws@ca-west-1
 add address=40.176.98.240/28 disabled=no list=route-aws@ca-west-1
 add address=40.178.0.0/15 disabled=no list=route-aws@ca-west-1
 add address=52.94.250.48/28 disabled=no list=route-aws@ca-west-1
+add address=56.112.0.0/16 disabled=no list=route-aws@ca-west-1
+add address=56.113.0.0/16 disabled=no list=route-aws@ca-west-1
+add address=56.114.0.0/16 disabled=no list=route-aws@ca-west-1
+add address=56.115.0.0/16 disabled=no list=route-aws@ca-west-1
 add address=76.223.170.0/28 disabled=no list=route-aws@ca-west-1
 add address=99.151.168.0/21 disabled=no list=route-aws@ca-west-1
 add address=150.222.52.128/27 disabled=no list=route-aws@ca-west-1

@@ -57,6 +57,8 @@ add address=13.53.63.128/27 disabled=no list=route-aws@eu-north-1
 add address=13.53.63.160/27 disabled=no list=route-aws@eu-north-1
 add address=13.53.63.192/27 disabled=no list=route-aws@eu-north-1
 add address=13.60.0.0/15 disabled=no list=route-aws@eu-north-1
+add address=13.60.1.84/31 disabled=no list=route-aws@eu-north-1
+add address=13.60.1.88/30 disabled=no list=route-aws@eu-north-1
 add address=13.62.0.0/15 disabled=no list=route-aws@eu-north-1
 add address=15.177.72.0/24 disabled=no list=route-aws@eu-north-1
 add address=15.220.148.0/22 disabled=no list=route-aws@eu-north-1
@@ -107,6 +109,10 @@ add address=52.95.169.0/24 disabled=no list=route-aws@eu-north-1
 add address=52.95.170.0/23 disabled=no list=route-aws@eu-north-1
 add address=52.95.227.0/24 disabled=no list=route-aws@eu-north-1
 add address=54.239.1.96/28 disabled=no list=route-aws@eu-north-1
+add address=56.228.0.0/16 disabled=no list=route-aws@eu-north-1
+add address=56.229.0.0/16 disabled=no list=route-aws@eu-north-1
+add address=56.230.0.0/16 disabled=no list=route-aws@eu-north-1
+add address=56.231.0.0/16 disabled=no list=route-aws@eu-north-1
 add address=63.246.112.0/24 disabled=no list=route-aws@eu-north-1
 add address=96.0.24.0/21 disabled=no list=route-aws@eu-north-1
 add address=96.0.32.0/22 disabled=no list=route-aws@eu-north-1
