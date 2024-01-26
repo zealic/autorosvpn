@@ -4210,6 +4210,7 @@ add address=3.145.31.0/26 disabled=no list=route-aws@us
 add address=3.145.31.128/26 disabled=no list=route-aws@us
 add address=3.146.12.0/22 disabled=no list=route-aws@us
 add address=3.146.22.0/26 disabled=no list=route-aws@us
+add address=3.146.232.0/22 disabled=no list=route-aws@us
 add address=3.146.29.66/31 disabled=no list=route-aws@us
 add address=3.146.36.192/26 disabled=no list=route-aws@us
 add address=3.146.42.64/30 disabled=no list=route-aws@us
