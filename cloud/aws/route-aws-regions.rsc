@@ -3485,6 +3485,7 @@ add address=15.190.80.0/20 disabled=no list=route-aws@eusc
 add address=51.224.0.0/15 disabled=no list=route-aws@eusc
 add address=51.226.0.0/15 disabled=no list=route-aws@eusc
 add address=65.176.0.0/14 disabled=no list=route-aws@eusc
+add address=83.118.240.0/21 disabled=no list=route-aws@eusc
 add address=136.18.144.0/21 disabled=no list=route-aws@eusc
 /ip firewall address-list remove [/ip firewall address-list find list="route-aws@global"]
 /ip firewall address-list
