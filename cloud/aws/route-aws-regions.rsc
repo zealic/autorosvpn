@@ -654,6 +654,7 @@ add address=15.230.1.0/24 disabled=no list=route-aws@ap
 add address=15.230.104.0/24 disabled=no list=route-aws@ap
 add address=15.230.107.0/32 disabled=no list=route-aws@ap
 add address=15.230.107.2/31 disabled=no list=route-aws@ap
+add address=15.230.115.0/24 disabled=no list=route-aws@ap
 add address=15.230.129.0/24 disabled=no list=route-aws@ap
 add address=15.230.133.0/24 disabled=no list=route-aws@ap
 add address=15.230.149.0/31 disabled=no list=route-aws@ap
