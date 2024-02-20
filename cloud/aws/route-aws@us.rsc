@@ -1943,6 +1943,10 @@ add address=54.244.46.0/23 disabled=no list=route-aws@us
 add address=54.244.52.192/26 disabled=no list=route-aws@us
 add address=54.245.0.0/16 disabled=no list=route-aws@us
 add address=54.245.168.0/26 disabled=no list=route-aws@us
+add address=54.25.15.0/24 disabled=no list=route-aws@us
+add address=54.25.20.0/24 disabled=no list=route-aws@us
+add address=54.25.82.0/24 disabled=no list=route-aws@us
+add address=54.26.166.0/24 disabled=no list=route-aws@us
 add address=54.67.0.0/16 disabled=no list=route-aws@us
 add address=54.68.0.0/14 disabled=no list=route-aws@us
 add address=54.80.0.0/13 disabled=no list=route-aws@us

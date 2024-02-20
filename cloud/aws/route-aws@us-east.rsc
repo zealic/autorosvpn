@@ -1186,6 +1186,10 @@ add address=54.240.228.0/23 disabled=no list=route-aws@us-east
 add address=54.240.232.0/22 disabled=no list=route-aws@us-east
 add address=54.242.0.0/15 disabled=no list=route-aws@us-east
 add address=54.243.31.192/26 disabled=no list=route-aws@us-east
+add address=54.25.15.0/24 disabled=no list=route-aws@us-east
+add address=54.25.20.0/24 disabled=no list=route-aws@us-east
+add address=54.25.82.0/24 disabled=no list=route-aws@us-east
+add address=54.26.166.0/24 disabled=no list=route-aws@us-east
 add address=54.80.0.0/13 disabled=no list=route-aws@us-east
 add address=54.88.0.0/14 disabled=no list=route-aws@us-east
 add address=54.92.128.0/17 disabled=no list=route-aws@us-east
