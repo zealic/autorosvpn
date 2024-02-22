@@ -443,7 +443,8 @@ add address=54.250.253.192/26 disabled=no list=route-aws@ap-northeast
 add address=54.64.0.0/15 disabled=no list=route-aws@ap-northeast
 add address=54.92.0.0/17 disabled=no list=route-aws@ap-northeast
 add address=54.95.0.0/16 disabled=no list=route-aws@ap-northeast
-add address=56.155.0.0/16 disabled=no list=route-aws@ap-northeast
+add address=56.155.0.0/17 disabled=no list=route-aws@ap-northeast
+add address=56.155.128.0/17 disabled=no list=route-aws@ap-northeast
 add address=56.156.0.0/15 disabled=no list=route-aws@ap-northeast
 add address=56.159.0.0/16 disabled=no list=route-aws@ap-northeast
 add address=56.162.0.0/16 disabled=no list=route-aws@ap-northeast

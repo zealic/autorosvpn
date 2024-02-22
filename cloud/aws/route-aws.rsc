@@ -5310,7 +5310,8 @@ add address=56.136.0.0/16 disabled=no list=route-aws
 add address=56.137.0.0/16 disabled=no list=route-aws
 add address=56.138.0.0/16 disabled=no list=route-aws
 add address=56.139.0.0/16 disabled=no list=route-aws
-add address=56.155.0.0/16 disabled=no list=route-aws
+add address=56.155.0.0/17 disabled=no list=route-aws
+add address=56.155.128.0/17 disabled=no list=route-aws
 add address=56.156.0.0/15 disabled=no list=route-aws
 add address=56.159.0.0/16 disabled=no list=route-aws
 add address=56.162.0.0/16 disabled=no list=route-aws
@@ -5572,7 +5573,8 @@ add address=96.0.96.0/22 disabled=no list=route-aws
 add address=96.127.0.0/17 disabled=no list=route-aws
 add address=98.130.0.0/16 disabled=no list=route-aws
 add address=98.131.0.0/16 disabled=no list=route-aws
-add address=98.80.0.0/12 disabled=no list=route-aws
+add address=98.80.0.0/13 disabled=no list=route-aws
+add address=98.88.0.0/13 disabled=no list=route-aws
 add address=99.150.0.0/21 disabled=no list=route-aws
 add address=99.150.104.0/21 disabled=no list=route-aws
 add address=99.150.112.0/21 disabled=no list=route-aws
