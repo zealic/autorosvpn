@@ -5105,6 +5105,11 @@ add address=44.216.200.0/22 disabled=no list=route-aws@us-east
 add address=44.216.41.152/29 disabled=no list=route-aws@us-east
 add address=44.216.41.160/29 disabled=no list=route-aws@us-east
 add address=44.218.96.0/23 disabled=no list=route-aws@us-east
+add address=44.220.194.0/23 disabled=no list=route-aws@us-east
+add address=44.220.196.0/23 disabled=no list=route-aws@us-east
+add address=44.220.198.0/23 disabled=no list=route-aws@us-east
+add address=44.220.200.0/23 disabled=no list=route-aws@us-east
+add address=44.220.202.0/23 disabled=no list=route-aws@us-east
 add address=44.220.25.0/25 disabled=no list=route-aws@us-east
 add address=44.220.28.0/22 disabled=no list=route-aws@us-east
 add address=44.220.67.128/25 disabled=no list=route-aws@us-east
