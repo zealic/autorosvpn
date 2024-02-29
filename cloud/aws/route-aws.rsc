@@ -6480,6 +6480,7 @@ add address=192.31.212.0/24 disabled=no list=route-aws
 add address=192.31.213.0/24 disabled=no list=route-aws
 add address=192.43.175.0/24 disabled=no list=route-aws
 add address=192.43.184.0/24 disabled=no list=route-aws
+add address=193.57.170.0/23 disabled=no list=route-aws
 add address=195.17.0.0/24 disabled=no list=route-aws
 add address=198.99.2.0/24 disabled=no list=route-aws
 add address=199.127.232.0/22 disabled=no list=route-aws
