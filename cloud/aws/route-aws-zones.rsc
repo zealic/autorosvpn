@@ -1,6 +1,5 @@
 /ip firewall address-list remove [/ip firewall address-list find list="route-aws@af-south"]
 /ip firewall address-list
-add address=3.2.34.0/26 disabled=no list=route-aws@af-south
 add address=3.5.202.0/23 disabled=no list=route-aws@af-south
 add address=3.5.228.0/22 disabled=no list=route-aws@af-south
 add address=13.244.0.0/15 disabled=no list=route-aws@af-south
@@ -82,7 +81,6 @@ add address=99.77.235.0/24 disabled=no list=route-aws@af-south
 add address=99.78.128.0/20 disabled=no list=route-aws@af-south
 add address=99.78.144.0/21 disabled=no list=route-aws@af-south
 add address=99.78.152.0/22 disabled=no list=route-aws@af-south
-add address=142.4.161.40/29 disabled=no list=route-aws@af-south
 add address=150.222.208.0/24 disabled=no list=route-aws@af-south
 add address=150.222.48.160/27 disabled=no list=route-aws@af-south
 add address=150.222.48.192/27 disabled=no list=route-aws@af-south
@@ -90,7 +88,6 @@ add address=150.222.48.224/27 disabled=no list=route-aws@af-south
 add address=150.222.92.0/22 disabled=no list=route-aws@af-south
 /ip firewall address-list remove [/ip firewall address-list find list="route-aws@ap-east"]
 /ip firewall address-list
-add address=3.2.35.128/26 disabled=no list=route-aws@ap-east
 add address=3.5.214.0/23 disabled=no list=route-aws@ap-east
 add address=3.5.236.0/22 disabled=no list=route-aws@ap-east
 add address=13.248.32.0/20 disabled=no list=route-aws@ap-east
@@ -197,9 +194,6 @@ add address=3.113.218.68/30 disabled=no list=route-aws@ap-northeast
 add address=3.113.218.72/30 disabled=no list=route-aws@ap-northeast
 add address=3.113.218.76/30 disabled=no list=route-aws@ap-northeast
 add address=3.114.164.0/22 disabled=no list=route-aws@ap-northeast
-add address=3.2.37.0/26 disabled=no list=route-aws@ap-northeast
-add address=3.2.37.128/26 disabled=no list=route-aws@ap-northeast
-add address=3.2.39.0/26 disabled=no list=route-aws@ap-northeast
 add address=3.34.0.0/15 disabled=no list=route-aws@ap-northeast
 add address=3.34.101.192/26 disabled=no list=route-aws@ap-northeast
 add address=3.34.228.0/26 disabled=no list=route-aws@ap-northeast
@@ -677,11 +671,6 @@ add address=104.255.59.81/32 disabled=no list=route-aws@ap-northeast
 add address=104.255.59.82/32 disabled=no list=route-aws@ap-northeast
 add address=104.255.59.83/32 disabled=no list=route-aws@ap-northeast
 add address=136.18.20.0/24 disabled=no list=route-aws@ap-northeast
-add address=142.4.160.144/29 disabled=no list=route-aws@ap-northeast
-add address=142.4.160.208/29 disabled=no list=route-aws@ap-northeast
-add address=142.4.161.48/29 disabled=no list=route-aws@ap-northeast
-add address=142.4.162.16/29 disabled=no list=route-aws@ap-northeast
-add address=142.4.162.8/29 disabled=no list=route-aws@ap-northeast
 add address=150.222.105.0/24 disabled=no list=route-aws@ap-northeast
 add address=150.222.116.0/24 disabled=no list=route-aws@ap-northeast
 add address=150.222.133.0/24 disabled=no list=route-aws@ap-northeast
@@ -724,8 +713,6 @@ add address=3.110.71.0/26 disabled=no list=route-aws@ap-south
 add address=3.111.110.0/23 disabled=no list=route-aws@ap-south
 add address=3.111.251.0/24 disabled=no list=route-aws@ap-south
 add address=3.111.90.0/23 disabled=no list=route-aws@ap-south
-add address=3.2.32.192/26 disabled=no list=route-aws@ap-south
-add address=3.2.35.192/26 disabled=no list=route-aws@ap-south
 add address=3.5.208.0/22 disabled=no list=route-aws@ap-south
 add address=3.5.212.0/23 disabled=no list=route-aws@ap-south
 add address=3.5.44.0/22 disabled=no list=route-aws@ap-south
@@ -971,8 +958,6 @@ add address=104.255.59.127/32 disabled=no list=route-aws@ap-south
 add address=104.255.59.85/32 disabled=no list=route-aws@ap-south
 add address=104.255.59.86/32 disabled=no list=route-aws@ap-south
 add address=104.255.59.91/32 disabled=no list=route-aws@ap-south
-add address=142.4.160.160/29 disabled=no list=route-aws@ap-south
-add address=142.4.160.248/29 disabled=no list=route-aws@ap-south
 add address=142.4.177.0/24 disabled=no list=route-aws@ap-south
 add address=142.4.179.0/24 disabled=no list=route-aws@ap-south
 add address=142.4.180.0/24 disabled=no list=route-aws@ap-south
@@ -1002,12 +987,6 @@ add address=3.105.5.0/27 disabled=no list=route-aws@ap-southeast
 add address=3.105.5.32/27 disabled=no list=route-aws@ap-southeast
 add address=3.107.11.160/31 disabled=no list=route-aws@ap-southeast
 add address=3.107.11.164/30 disabled=no list=route-aws@ap-southeast
-add address=3.2.32.0/26 disabled=no list=route-aws@ap-southeast
-add address=3.2.33.128/26 disabled=no list=route-aws@ap-southeast
-add address=3.2.37.192/26 disabled=no list=route-aws@ap-southeast
-add address=3.2.38.128/26 disabled=no list=route-aws@ap-southeast
-add address=3.2.41.128/26 disabled=no list=route-aws@ap-southeast
-add address=3.2.41.192/26 disabled=no list=route-aws@ap-southeast
 add address=3.24.0.0/14 disabled=no list=route-aws@ap-southeast
 add address=3.24.1.208/28 disabled=no list=route-aws@ap-southeast
 add address=3.24.227.192/26 disabled=no list=route-aws@ap-southeast
@@ -1611,13 +1590,6 @@ add address=108.137.58.64/26 disabled=no list=route-aws@ap-southeast
 add address=122.248.192.0/18 disabled=no list=route-aws@ap-southeast
 add address=136.18.22.0/24 disabled=no list=route-aws@ap-southeast
 add address=136.18.23.0/24 disabled=no list=route-aws@ap-southeast
-add address=142.4.160.216/29 disabled=no list=route-aws@ap-southeast
-add address=142.4.161.0/29 disabled=no list=route-aws@ap-southeast
-add address=142.4.161.104/29 disabled=no list=route-aws@ap-southeast
-add address=142.4.161.112/29 disabled=no list=route-aws@ap-southeast
-add address=142.4.161.120/29 disabled=no list=route-aws@ap-southeast
-add address=142.4.161.16/29 disabled=no list=route-aws@ap-southeast
-add address=142.4.161.216/29 disabled=no list=route-aws@ap-southeast
 add address=150.222.108.0/24 disabled=no list=route-aws@ap-southeast
 add address=150.222.112.0/24 disabled=no list=route-aws@ap-southeast
 add address=150.222.119.0/24 disabled=no list=route-aws@ap-southeast
@@ -1654,7 +1626,6 @@ add address=192.157.34.0/24 disabled=no list=route-aws@ap-southeast
 add address=203.83.220.0/22 disabled=no list=route-aws@ap-southeast
 /ip firewall address-list remove [/ip firewall address-list find list="route-aws@ca-central"]
 /ip firewall address-list
-add address=3.2.42.64/26 disabled=no list=route-aws@ca-central
 add address=3.5.252.0/22 disabled=no list=route-aws@ca-central
 add address=3.96.0.0/15 disabled=no list=route-aws@ca-central
 add address=3.96.143.128/26 disabled=no list=route-aws@ca-central
@@ -1800,7 +1771,6 @@ add address=161.193.128.0/18 disabled=no list=route-aws@ca-central
 add address=173.83.217.0/24 disabled=no list=route-aws@ca-central
 /ip firewall address-list remove [/ip firewall address-list find list="route-aws@ca-west"]
 /ip firewall address-list
-add address=3.2.42.192/26 disabled=no list=route-aws@ca-west
 add address=3.5.172.0/22 disabled=no list=route-aws@ca-west
 add address=13.248.73.0/24 disabled=no list=route-aws@ca-west
 add address=13.34.89.0/27 disabled=no list=route-aws@ca-west
@@ -2050,8 +2020,6 @@ add address=3.127.48.128/26 disabled=no list=route-aws@eu-central
 add address=3.127.48.244/30 disabled=no list=route-aws@eu-central
 add address=3.127.48.248/30 disabled=no list=route-aws@eu-central
 add address=3.127.74.0/23 disabled=no list=route-aws@eu-central
-add address=3.2.35.0/26 disabled=no list=route-aws@eu-central
-add address=3.2.43.64/26 disabled=no list=route-aws@eu-central
 add address=3.2.53.0/24 disabled=no list=route-aws@eu-central
 add address=3.33.35.0/24 disabled=no list=route-aws@eu-central
 add address=3.5.134.0/23 disabled=no list=route-aws@eu-central
@@ -2427,11 +2395,6 @@ add address=99.83.103.0/24 disabled=no list=route-aws@eu-central
 add address=99.83.99.0/24 disabled=no list=route-aws@eu-central
 add address=104.153.114.0/24 disabled=no list=route-aws@eu-central
 add address=136.18.18.0/24 disabled=no list=route-aws@eu-central
-add address=142.4.160.152/29 disabled=no list=route-aws@eu-central
-add address=142.4.160.192/29 disabled=no list=route-aws@eu-central
-add address=142.4.161.160/29 disabled=no list=route-aws@eu-central
-add address=142.4.161.168/29 disabled=no list=route-aws@eu-central
-add address=142.4.161.176/29 disabled=no list=route-aws@eu-central
 add address=150.222.10.0/24 disabled=no list=route-aws@eu-central
 add address=150.222.104.0/24 disabled=no list=route-aws@eu-central
 add address=150.222.120.0/24 disabled=no list=route-aws@eu-central
@@ -2458,7 +2421,6 @@ add address=151.148.35.0/24 disabled=no list=route-aws@eu-central
 add address=173.83.196.0/23 disabled=no list=route-aws@eu-central
 /ip firewall address-list remove [/ip firewall address-list find list="route-aws@eu-north"]
 /ip firewall address-list
-add address=3.2.32.64/26 disabled=no list=route-aws@eu-north
 add address=3.5.216.0/22 disabled=no list=route-aws@eu-north
 add address=13.248.100.0/24 disabled=no list=route-aws@eu-north
 add address=13.248.122.0/24 disabled=no list=route-aws@eu-north
@@ -2578,8 +2540,6 @@ add address=96.0.32.0/22 disabled=no list=route-aws@eu-north
 add address=99.150.64.0/21 disabled=no list=route-aws@eu-north
 add address=99.77.137.0/24 disabled=no list=route-aws@eu-north
 add address=99.77.246.0/24 disabled=no list=route-aws@eu-north
-add address=142.4.160.232/29 disabled=no list=route-aws@eu-north
-add address=142.4.160.240/29 disabled=no list=route-aws@eu-north
 add address=150.222.117.0/24 disabled=no list=route-aws@eu-north
 add address=150.222.118.0/24 disabled=no list=route-aws@eu-north
 add address=150.222.203.0/24 disabled=no list=route-aws@eu-north
@@ -2590,8 +2550,6 @@ add address=173.83.220.0/24 disabled=no list=route-aws@eu-north
 add address=204.87.185.0/24 disabled=no list=route-aws@eu-north
 /ip firewall address-list remove [/ip firewall address-list find list="route-aws@eu-south"]
 /ip firewall address-list
-add address=3.2.38.192/26 disabled=no list=route-aws@eu-south
-add address=3.2.43.0/26 disabled=no list=route-aws@eu-south
 add address=3.5.248.0/22 disabled=no list=route-aws@eu-south
 add address=3.5.32.0/22 disabled=no list=route-aws@eu-south
 add address=13.248.65.0/24 disabled=no list=route-aws@eu-south
@@ -2817,9 +2775,6 @@ add address=3.10.201.128/27 disabled=no list=route-aws@eu-west
 add address=3.10.201.192/26 disabled=no list=route-aws@eu-west
 add address=3.10.201.64/27 disabled=no list=route-aws@eu-west
 add address=3.11.53.0/24 disabled=no list=route-aws@eu-west
-add address=3.2.33.64/26 disabled=no list=route-aws@eu-west
-add address=3.2.34.128/26 disabled=no list=route-aws@eu-west
-add address=3.2.38.0/26 disabled=no list=route-aws@eu-west
 add address=3.2.48.0/24 disabled=no list=route-aws@eu-west
 add address=3.248.0.0/13 disabled=no list=route-aws@eu-west
 add address=3.248.176.0/22 disabled=no list=route-aws@eu-west
@@ -3784,7 +3739,6 @@ add address=216.137.32.0/19 disabled=no list=route-aws@global
 add address=216.39.168.0/21 disabled=no list=route-aws@global
 /ip firewall address-list remove [/ip firewall address-list find list="route-aws@il-central"]
 /ip firewall address-list
-add address=3.2.42.0/26 disabled=no list=route-aws@il-central
 add address=3.5.56.0/22 disabled=no list=route-aws@il-central
 add address=13.248.72.0/24 disabled=no list=route-aws@il-central
 add address=13.34.64.192/27 disabled=no list=route-aws@il-central
@@ -3840,7 +3794,6 @@ add address=150.222.52.32/27 disabled=no list=route-aws@il-central
 add address=150.222.52.64/27 disabled=no list=route-aws@il-central
 /ip firewall address-list remove [/ip firewall address-list find list="route-aws@me-central"]
 /ip firewall address-list
-add address=3.2.34.192/26 disabled=no list=route-aws@me-central
 add address=3.28.0.0/15 disabled=no list=route-aws@me-central
 add address=3.28.211.128/25 disabled=no list=route-aws@me-central
 add address=3.28.229.0/24 disabled=no list=route-aws@me-central
@@ -3905,7 +3858,6 @@ add address=150.222.49.224/27 disabled=no list=route-aws@me-central
 add address=150.222.50.0/27 disabled=no list=route-aws@me-central
 /ip firewall address-list remove [/ip firewall address-list find list="route-aws@me-south"]
 /ip firewall address-list
-add address=3.2.32.128/26 disabled=no list=route-aws@me-south
 add address=3.5.220.0/22 disabled=no list=route-aws@me-south
 add address=13.248.106.0/24 disabled=no list=route-aws@me-south
 add address=13.34.15.128/27 disabled=no list=route-aws@me-south
@@ -3981,7 +3933,6 @@ add address=99.78.220.0/22 disabled=no list=route-aws@me-south
 add address=99.82.128.0/20 disabled=no list=route-aws@me-south
 add address=99.82.144.0/21 disabled=no list=route-aws@me-south
 add address=99.82.152.0/22 disabled=no list=route-aws@me-south
-add address=142.4.160.168/29 disabled=no list=route-aws@me-south
 add address=150.222.45.0/27 disabled=no list=route-aws@me-south
 add address=150.222.45.32/27 disabled=no list=route-aws@me-south
 add address=150.222.45.64/27 disabled=no list=route-aws@me-south
@@ -3997,7 +3948,6 @@ add address=157.241.2.0/23 disabled=no list=route-aws@me-south
 add address=157.241.25.0/24 disabled=no list=route-aws@me-south
 /ip firewall address-list remove [/ip firewall address-list find list="route-aws@sa-east"]
 /ip firewall address-list
-add address=3.2.35.64/26 disabled=no list=route-aws@sa-east
 add address=3.2.49.0/24 disabled=no list=route-aws@sa-east
 add address=3.5.232.0/22 disabled=no list=route-aws@sa-east
 add address=13.248.104.0/24 disabled=no list=route-aws@sa-east
@@ -4267,11 +4217,6 @@ add address=3.19.147.128/25 disabled=no list=route-aws@us-east
 add address=3.2.0.0/24 disabled=no list=route-aws@us-east
 add address=3.2.2.0/24 disabled=no list=route-aws@us-east
 add address=3.2.3.0/24 disabled=no list=route-aws@us-east
-add address=3.2.33.192/26 disabled=no list=route-aws@us-east
-add address=3.2.36.0/25 disabled=no list=route-aws@us-east
-add address=3.2.41.0/26 disabled=no list=route-aws@us-east
-add address=3.2.47.0/25 disabled=no list=route-aws@us-east
-add address=3.2.47.192/26 disabled=no list=route-aws@us-east
 add address=3.2.50.0/24 disabled=no list=route-aws@us-east
 add address=3.2.51.0/24 disabled=no list=route-aws@us-east
 add address=3.2.52.0/24 disabled=no list=route-aws@us-east
@@ -5498,46 +5443,6 @@ add address=136.18.138.0/23 disabled=no list=route-aws@us-east
 add address=136.18.32.0/24 disabled=no list=route-aws@us-east
 add address=136.18.33.0/24 disabled=no list=route-aws@us-east
 add address=136.18.50.0/23 disabled=no list=route-aws@us-east
-add address=142.4.160.0/29 disabled=no list=route-aws@us-east
-add address=142.4.160.112/29 disabled=no list=route-aws@us-east
-add address=142.4.160.120/29 disabled=no list=route-aws@us-east
-add address=142.4.160.128/29 disabled=no list=route-aws@us-east
-add address=142.4.160.136/29 disabled=no list=route-aws@us-east
-add address=142.4.160.176/29 disabled=no list=route-aws@us-east
-add address=142.4.160.184/29 disabled=no list=route-aws@us-east
-add address=142.4.160.200/29 disabled=no list=route-aws@us-east
-add address=142.4.160.24/29 disabled=no list=route-aws@us-east
-add address=142.4.160.40/29 disabled=no list=route-aws@us-east
-add address=142.4.160.48/29 disabled=no list=route-aws@us-east
-add address=142.4.160.72/29 disabled=no list=route-aws@us-east
-add address=142.4.160.8/29 disabled=no list=route-aws@us-east
-add address=142.4.160.80/29 disabled=no list=route-aws@us-east
-add address=142.4.160.88/29 disabled=no list=route-aws@us-east
-add address=142.4.161.128/29 disabled=no list=route-aws@us-east
-add address=142.4.161.136/29 disabled=no list=route-aws@us-east
-add address=142.4.161.144/29 disabled=no list=route-aws@us-east
-add address=142.4.161.152/29 disabled=no list=route-aws@us-east
-add address=142.4.161.184/29 disabled=no list=route-aws@us-east
-add address=142.4.161.192/29 disabled=no list=route-aws@us-east
-add address=142.4.161.200/29 disabled=no list=route-aws@us-east
-add address=142.4.161.208/29 disabled=no list=route-aws@us-east
-add address=142.4.161.224/29 disabled=no list=route-aws@us-east
-add address=142.4.161.232/29 disabled=no list=route-aws@us-east
-add address=142.4.161.24/29 disabled=no list=route-aws@us-east
-add address=142.4.161.240/29 disabled=no list=route-aws@us-east
-add address=142.4.161.248/29 disabled=no list=route-aws@us-east
-add address=142.4.161.32/29 disabled=no list=route-aws@us-east
-add address=142.4.161.56/29 disabled=no list=route-aws@us-east
-add address=142.4.161.64/29 disabled=no list=route-aws@us-east
-add address=142.4.161.72/29 disabled=no list=route-aws@us-east
-add address=142.4.161.8/29 disabled=no list=route-aws@us-east
-add address=142.4.161.80/29 disabled=no list=route-aws@us-east
-add address=142.4.161.88/29 disabled=no list=route-aws@us-east
-add address=142.4.161.96/29 disabled=no list=route-aws@us-east
-add address=142.4.162.0/29 disabled=no list=route-aws@us-east
-add address=142.4.162.24/29 disabled=no list=route-aws@us-east
-add address=142.4.162.32/29 disabled=no list=route-aws@us-east
-add address=142.4.162.40/29 disabled=no list=route-aws@us-east
 add address=142.4.178.0/24 disabled=no list=route-aws@us-east
 add address=150.222.100.0/24 disabled=no list=route-aws@us-east
 add address=150.222.103.0/24 disabled=no list=route-aws@us-east
@@ -5622,7 +5527,6 @@ add address=216.182.232.0/22 disabled=no list=route-aws@us-east
 add address=216.182.238.0/23 disabled=no list=route-aws@us-east
 /ip firewall address-list remove [/ip firewall address-list find list="route-aws@us-gov-east"]
 /ip firewall address-list
-add address=3.2.39.64/26 disabled=no list=route-aws@us-gov-east
 add address=3.4.24.0/21 disabled=no list=route-aws@us-gov-east
 add address=16.64.0.0/16 disabled=no list=route-aws@us-gov-east
 add address=16.65.0.0/16 disabled=no list=route-aws@us-gov-east
@@ -5663,7 +5567,6 @@ add address=182.29.0.0/16 disabled=no list=route-aws@us-gov-east
 add address=182.30.0.0/16 disabled=no list=route-aws@us-gov-east
 /ip firewall address-list remove [/ip firewall address-list find list="route-aws@us-gov-west"]
 /ip firewall address-list
-add address=3.2.39.128/26 disabled=no list=route-aws@us-gov-west
 add address=3.30.0.0/15 disabled=no list=route-aws@us-gov-west
 add address=3.30.129.0/24 disabled=no list=route-aws@us-gov-west
 add address=3.30.130.0/23 disabled=no list=route-aws@us-gov-west
@@ -5766,8 +5669,6 @@ add address=3.101.239.36/30 disabled=no list=route-aws@us-west
 add address=3.101.52.208/30 disabled=no list=route-aws@us-west
 add address=3.101.52.212/30 disabled=no list=route-aws@us-west
 add address=3.101.87.0/26 disabled=no list=route-aws@us-west
-add address=3.2.40.0/25 disabled=no list=route-aws@us-west
-add address=3.2.41.64/26 disabled=no list=route-aws@us-west
 add address=3.2.54.0/24 disabled=no list=route-aws@us-west
 add address=3.3.24.0/22 disabled=no list=route-aws@us-west
 add address=3.33.40.0/24 disabled=no list=route-aws@us-west
@@ -6443,14 +6344,6 @@ add address=108.166.224.0/21 disabled=no list=route-aws@us-west
 add address=108.166.240.0/21 disabled=no list=route-aws@us-west
 add address=136.18.21.0/24 disabled=no list=route-aws@us-west
 add address=136.8.0.0/15 disabled=no list=route-aws@us-west
-add address=142.4.160.104/29 disabled=no list=route-aws@us-west
-add address=142.4.160.16/29 disabled=no list=route-aws@us-west
-add address=142.4.160.224/29 disabled=no list=route-aws@us-west
-add address=142.4.160.32/29 disabled=no list=route-aws@us-west
-add address=142.4.160.56/29 disabled=no list=route-aws@us-west
-add address=142.4.160.64/29 disabled=no list=route-aws@us-west
-add address=142.4.160.96/29 disabled=no list=route-aws@us-west
-add address=142.4.162.48/29 disabled=no list=route-aws@us-west
 add address=150.222.101.0/24 disabled=no list=route-aws@us-west
 add address=150.222.102.0/24 disabled=no list=route-aws@us-west
 add address=150.222.106.0/24 disabled=no list=route-aws@us-west

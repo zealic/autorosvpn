@@ -37,7 +37,6 @@ add address=3.101.239.36/30 disabled=no list=route-aws@us-west-1
 add address=3.101.52.208/30 disabled=no list=route-aws@us-west-1
 add address=3.101.52.212/30 disabled=no list=route-aws@us-west-1
 add address=3.101.87.0/26 disabled=no list=route-aws@us-west-1
-add address=3.2.41.64/26 disabled=no list=route-aws@us-west-1
 add address=3.2.54.0/24 disabled=no list=route-aws@us-west-1
 add address=3.3.24.0/22 disabled=no list=route-aws@us-west-1
 add address=3.5.160.0/22 disabled=no list=route-aws@us-west-1
