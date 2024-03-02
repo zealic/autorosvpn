@@ -5778,6 +5778,8 @@ add address=104.255.56.19/32 disabled=no list=route-aws
 add address=104.255.56.20/32 disabled=no list=route-aws
 add address=104.255.56.23/32 disabled=no list=route-aws
 add address=104.255.56.24/32 disabled=no list=route-aws
+add address=104.255.56.25/32 disabled=no list=route-aws
+add address=104.255.56.26/32 disabled=no list=route-aws
 add address=104.255.59.101/32 disabled=no list=route-aws
 add address=104.255.59.102/32 disabled=no list=route-aws
 add address=104.255.59.103/32 disabled=no list=route-aws
