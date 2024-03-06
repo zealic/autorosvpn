@@ -20,6 +20,8 @@ add address=43.196.18.0/24 disabled=no list=route-aws@cn
 add address=43.196.19.0/24 disabled=no list=route-aws@cn
 add address=43.196.20.176/30 disabled=no list=route-aws@cn
 add address=43.196.20.40/29 disabled=no list=route-aws@cn
+add address=43.196.24.4/31 disabled=no list=route-aws@cn
+add address=43.196.24.8/30 disabled=no list=route-aws@cn
 add address=43.196.3.64/26 disabled=no list=route-aws@cn
 add address=52.80.0.0/16 disabled=no list=route-aws@cn
 add address=52.80.197.0/25 disabled=no list=route-aws@cn
