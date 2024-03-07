@@ -307,7 +307,8 @@ add address=16.12.48.0/21 disabled=no list=route-aws@ap-southeast
 add address=16.12.74.0/24 disabled=no list=route-aws@ap-southeast
 add address=16.156.0.0/14 disabled=no list=route-aws@ap-southeast
 add address=16.176.0.0/14 disabled=no list=route-aws@ap-southeast
-add address=16.26.0.0/15 disabled=no list=route-aws@ap-southeast
+add address=16.26.0.0/16 disabled=no list=route-aws@ap-southeast
+add address=16.27.0.0/16 disabled=no list=route-aws@ap-southeast
 add address=16.50.0.0/15 disabled=no list=route-aws@ap-southeast
 add address=16.50.144.0/25 disabled=no list=route-aws@ap-southeast
 add address=16.50.144.128/25 disabled=no list=route-aws@ap-southeast
