@@ -2730,6 +2730,7 @@ add address=15.230.113.0/24 disabled=no list=route-aws
 add address=15.230.114.0/24 disabled=no list=route-aws
 add address=15.230.115.0/24 disabled=no list=route-aws
 add address=15.230.116.0/24 disabled=no list=route-aws
+add address=15.230.117.0/31 disabled=no list=route-aws
 add address=15.230.129.0/24 disabled=no list=route-aws
 add address=15.230.130.0/24 disabled=no list=route-aws
 add address=15.230.131.0/24 disabled=no list=route-aws
