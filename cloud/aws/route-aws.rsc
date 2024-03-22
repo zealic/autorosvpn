@@ -5088,6 +5088,12 @@ add address=52.93.242.0/24 disabled=no list=route-aws
 add address=52.93.243.0/24 disabled=no list=route-aws
 add address=52.93.244.0/24 disabled=no list=route-aws
 add address=52.93.245.0/24 disabled=no list=route-aws
+add address=52.93.246.216/31 disabled=no list=route-aws
+add address=52.93.246.218/31 disabled=no list=route-aws
+add address=52.93.246.220/32 disabled=no list=route-aws
+add address=52.93.246.221/32 disabled=no list=route-aws
+add address=52.93.246.222/32 disabled=no list=route-aws
+add address=52.93.246.223/32 disabled=no list=route-aws
 add address=52.93.247.0/25 disabled=no list=route-aws
 add address=52.93.248.0/24 disabled=no list=route-aws
 add address=52.93.249.0/24 disabled=no list=route-aws
