@@ -177,6 +177,7 @@ add address=39.128.0.0/10 disabled=no list=chnroutes
 add address=40.72.0.0/15 disabled=no list=chnroutes
 add address=40.125.128.0/17 disabled=no list=chnroutes
 add address=40.126.64.0/18 disabled=no list=chnroutes
+add address=40.162.0.0/16 disabled=no list=chnroutes
 add address=42.0.0.0/22 disabled=no list=chnroutes
 add address=42.0.8.0/21 disabled=no list=chnroutes
 add address=42.0.16.0/21 disabled=no list=chnroutes
