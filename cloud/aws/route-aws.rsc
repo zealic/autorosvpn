@@ -6183,6 +6183,14 @@ add address=99.77.55.44/32 disabled=no list=route-aws
 add address=99.77.55.45/32 disabled=no list=route-aws
 add address=99.77.55.46/32 disabled=no list=route-aws
 add address=99.77.55.47/32 disabled=no list=route-aws
+add address=99.77.55.49/32 disabled=no list=route-aws
+add address=99.77.55.50/32 disabled=no list=route-aws
+add address=99.77.55.51/32 disabled=no list=route-aws
+add address=99.77.55.52/32 disabled=no list=route-aws
+add address=99.77.55.53/32 disabled=no list=route-aws
+add address=99.77.55.54/32 disabled=no list=route-aws
+add address=99.77.55.55/32 disabled=no list=route-aws
+add address=99.77.55.56/32 disabled=no list=route-aws
 add address=99.77.56.0/21 disabled=no list=route-aws
 add address=99.78.128.0/20 disabled=no list=route-aws
 add address=99.78.144.0/21 disabled=no list=route-aws

@@ -3044,6 +3044,14 @@ add address=99.77.55.44/32 disabled=no list=route-aws@eu-south
 add address=99.77.55.45/32 disabled=no list=route-aws@eu-south
 add address=99.77.55.46/32 disabled=no list=route-aws@eu-south
 add address=99.77.55.47/32 disabled=no list=route-aws@eu-south
+add address=99.77.55.49/32 disabled=no list=route-aws@eu-south
+add address=99.77.55.50/32 disabled=no list=route-aws@eu-south
+add address=99.77.55.51/32 disabled=no list=route-aws@eu-south
+add address=99.77.55.52/32 disabled=no list=route-aws@eu-south
+add address=99.77.55.53/32 disabled=no list=route-aws@eu-south
+add address=99.77.55.54/32 disabled=no list=route-aws@eu-south
+add address=99.77.55.55/32 disabled=no list=route-aws@eu-south
+add address=99.77.55.56/32 disabled=no list=route-aws@eu-south
 add address=150.222.229.0/24 disabled=no list=route-aws@eu-south
 add address=150.222.48.128/27 disabled=no list=route-aws@eu-south
 add address=150.222.48.64/27 disabled=no list=route-aws@eu-south
