@@ -547,6 +547,7 @@ add address=2401:8820::/31 disabled=no list=chnroutes.ipv6
 add address=2401:8840::/32 disabled=no list=chnroutes.ipv6
 add address=2401:8be0::/32 disabled=no list=chnroutes.ipv6
 add address=2401:8d00::/32 disabled=no list=chnroutes.ipv6
+add address=2401:8da0::/32 disabled=no list=chnroutes.ipv6
 add address=2401:8f40::/32 disabled=no list=chnroutes.ipv6
 add address=2401:8fc0::/32 disabled=no list=chnroutes.ipv6
 add address=2401:9340::/32 disabled=no list=chnroutes.ipv6
