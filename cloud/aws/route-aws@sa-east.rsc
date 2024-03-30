@@ -121,6 +121,8 @@ add address=18.229.99.0/24 disabled=no list=route-aws@sa-east
 add address=18.230.0.0/16 disabled=no list=route-aws@sa-east
 add address=18.230.103.0/24 disabled=no list=route-aws@sa-east
 add address=18.230.104.0/23 disabled=no list=route-aws@sa-east
+add address=18.230.229.0/24 disabled=no list=route-aws@sa-east
+add address=18.230.230.0/25 disabled=no list=route-aws@sa-east
 add address=18.230.46.0/27 disabled=no list=route-aws@sa-east
 add address=18.230.46.128/26 disabled=no list=route-aws@sa-east
 add address=18.230.46.32/27 disabled=no list=route-aws@sa-east
