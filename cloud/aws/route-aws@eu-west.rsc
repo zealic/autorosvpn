@@ -446,6 +446,7 @@ add address=18.171.63.36/30 disabled=no list=route-aws@eu-west
 add address=18.175.0.0/16 disabled=no list=route-aws@eu-west
 add address=18.175.65.0/24 disabled=no list=route-aws@eu-west
 add address=18.175.66.0/24 disabled=no list=route-aws@eu-west
+add address=18.175.67.0/24 disabled=no list=route-aws@eu-west
 add address=18.200.0.0/16 disabled=no list=route-aws@eu-west
 add address=18.200.212.0/23 disabled=no list=route-aws@eu-west
 add address=18.200.73.58/31 disabled=no list=route-aws@eu-west
