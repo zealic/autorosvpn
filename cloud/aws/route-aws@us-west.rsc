@@ -93,6 +93,8 @@ add address=13.34.105.0/27 disabled=no list=route-aws@us-west
 add address=13.34.105.32/27 disabled=no list=route-aws@us-west
 add address=13.34.109.192/27 disabled=no list=route-aws@us-west
 add address=13.34.109.224/27 disabled=no list=route-aws@us-west
+add address=13.34.117.128/27 disabled=no list=route-aws@us-west
+add address=13.34.117.160/27 disabled=no list=route-aws@us-west
 add address=13.34.12.1/32 disabled=no list=route-aws@us-west
 add address=13.34.12.10/32 disabled=no list=route-aws@us-west
 add address=13.34.12.11/32 disabled=no list=route-aws@us-west
