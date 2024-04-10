@@ -6226,6 +6226,9 @@ add address=157.20.246.0/23 disabled=no list=chnroutes
 add address=157.61.0.0/16 disabled=no list=chnroutes
 add address=157.66.42.0/23 disabled=no list=chnroutes
 add address=157.66.70.0/23 disabled=no list=chnroutes
+add address=157.66.88.0/23 disabled=no list=chnroutes
+add address=157.66.90.0/23 disabled=no list=chnroutes
+add address=157.66.92.0/23 disabled=no list=chnroutes
 add address=157.119.8.0/22 disabled=no list=chnroutes
 add address=157.119.12.0/22 disabled=no list=chnroutes
 add address=157.119.16.0/22 disabled=no list=chnroutes
