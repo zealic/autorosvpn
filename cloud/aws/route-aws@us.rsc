@@ -1122,6 +1122,7 @@ add address=15.230.105.0/24 disabled=no list=route-aws@us
 add address=15.230.108.0/24 disabled=no list=route-aws@us
 add address=15.230.109.0/24 disabled=no list=route-aws@us
 add address=15.230.114.0/24 disabled=no list=route-aws@us
+add address=15.230.119.0/31 disabled=no list=route-aws@us
 add address=15.230.130.0/24 disabled=no list=route-aws@us
 add address=15.230.134.0/24 disabled=no list=route-aws@us
 add address=15.230.135.0/24 disabled=no list=route-aws@us
