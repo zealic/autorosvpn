@@ -555,6 +555,7 @@ add address=2401:9260::/32 disabled=no list=chnroutes.ipv6
 add address=2401:92a0::/32 disabled=no list=chnroutes.ipv6
 add address=2401:92e0::/32 disabled=no list=chnroutes.ipv6
 add address=2401:9340::/32 disabled=no list=chnroutes.ipv6
+add address=2401:95e0::/32 disabled=no list=chnroutes.ipv6
 add address=2401:9600::/32 disabled=no list=chnroutes.ipv6
 add address=2401:96c0::/32 disabled=no list=chnroutes.ipv6
 add address=2401:9740::/32 disabled=no list=chnroutes.ipv6
