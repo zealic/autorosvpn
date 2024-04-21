@@ -5630,6 +5630,8 @@ add address=52.93.178.234/32 disabled=no list=route-aws
 add address=52.93.178.235/32 disabled=no list=route-aws
 add address=52.93.18.0/24 disabled=no list=route-aws
 add address=52.93.182.128/26 disabled=no list=route-aws
+add address=52.93.183.64/28 disabled=no list=route-aws
+add address=52.93.183.80/28 disabled=no list=route-aws
 add address=52.93.19.0/24 disabled=no list=route-aws
 add address=52.93.193.192/32 disabled=no list=route-aws
 add address=52.93.193.193/32 disabled=no list=route-aws

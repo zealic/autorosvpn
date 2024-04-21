@@ -8,6 +8,7 @@ add address=34.35.0.0/16 disabled=no list=route-gcp@africa
 add address=34.0.0.0/20 disabled=no list=route-gcp@asia
 add address=34.0.227.0/24 disabled=no list=route-gcp@asia
 add address=34.0.96.0/19 disabled=no list=route-gcp@asia
+add address=34.1.128.0/20 disabled=no list=route-gcp@asia
 add address=34.100.128.0/17 disabled=no list=route-gcp@asia
 add address=34.101.128.0/17 disabled=no list=route-gcp@asia
 add address=34.101.18.0/24 disabled=no list=route-gcp@asia
@@ -213,6 +214,8 @@ add address=34.142.0.0/17 disabled=no list=route-gcp@europe
 add address=34.147.0.0/17 disabled=no list=route-gcp@europe
 add address=34.147.128.0/17 disabled=no list=route-gcp@europe
 add address=34.152.80.0/23 disabled=no list=route-gcp@europe
+add address=34.153.230.0/24 disabled=no list=route-gcp@europe
+add address=34.153.38.0/24 disabled=no list=route-gcp@europe
 add address=34.154.0.0/16 disabled=no list=route-gcp@europe
 add address=34.155.0.0/16 disabled=no list=route-gcp@europe
 add address=34.157.12.0/22 disabled=no list=route-gcp@europe

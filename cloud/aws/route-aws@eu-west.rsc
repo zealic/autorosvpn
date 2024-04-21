@@ -720,6 +720,8 @@ add address=52.93.153.80/32 disabled=no list=route-aws@eu-west
 add address=52.93.16.0/24 disabled=no list=route-aws@eu-west
 add address=52.93.17.0/24 disabled=no list=route-aws@eu-west
 add address=52.93.18.0/24 disabled=no list=route-aws@eu-west
+add address=52.93.183.64/28 disabled=no list=route-aws@eu-west
+add address=52.93.183.80/28 disabled=no list=route-aws@eu-west
 add address=52.93.198.0/25 disabled=no list=route-aws@eu-west
 add address=52.93.2.0/24 disabled=no list=route-aws@eu-west
 add address=52.93.21.0/24 disabled=no list=route-aws@eu-west
