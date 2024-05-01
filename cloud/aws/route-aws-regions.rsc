@@ -6129,6 +6129,7 @@ add address=15.230.214.0/24 disabled=no list=route-aws@us
 add address=15.230.216.0/31 disabled=no list=route-aws@us
 add address=15.230.216.10/32 disabled=no list=route-aws@us
 add address=15.230.216.11/32 disabled=no list=route-aws@us
+add address=15.230.216.12/31 disabled=no list=route-aws@us
 add address=15.230.216.2/31 disabled=no list=route-aws@us
 add address=15.230.216.4/31 disabled=no list=route-aws@us
 add address=15.230.216.6/31 disabled=no list=route-aws@us
