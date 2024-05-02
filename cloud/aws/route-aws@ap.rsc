@@ -470,6 +470,8 @@ add address=13.34.120.128/27 disabled=no list=route-aws@ap
 add address=13.34.120.160/27 disabled=no list=route-aws@ap
 add address=13.34.120.64/27 disabled=no list=route-aws@ap
 add address=13.34.120.96/27 disabled=no list=route-aws@ap
+add address=13.34.121.128/27 disabled=no list=route-aws@ap
+add address=13.34.121.160/27 disabled=no list=route-aws@ap
 add address=13.34.13.128/27 disabled=no list=route-aws@ap
 add address=13.34.13.160/27 disabled=no list=route-aws@ap
 add address=13.34.13.193/32 disabled=no list=route-aws@ap
