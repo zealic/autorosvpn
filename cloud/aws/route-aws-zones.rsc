@@ -358,6 +358,8 @@ add address=13.34.12.174/32 disabled=no list=route-aws@ap-northeast
 add address=13.34.12.175/32 disabled=no list=route-aws@ap-northeast
 add address=13.34.120.128/27 disabled=no list=route-aws@ap-northeast
 add address=13.34.120.160/27 disabled=no list=route-aws@ap-northeast
+add address=13.34.121.192/27 disabled=no list=route-aws@ap-northeast
+add address=13.34.121.224/27 disabled=no list=route-aws@ap-northeast
 add address=13.34.15.0/27 disabled=no list=route-aws@ap-northeast
 add address=13.34.15.32/27 disabled=no list=route-aws@ap-northeast
 add address=13.34.20.129/32 disabled=no list=route-aws@ap-northeast
