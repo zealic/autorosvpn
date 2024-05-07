@@ -3106,6 +3106,7 @@ add address=204.87.185.0/24 disabled=no list=route-aws@eu-north
 /ip firewall address-list
 add address=3.5.248.0/22 disabled=no list=route-aws@eu-south
 add address=3.5.32.0/22 disabled=no list=route-aws@eu-south
+add address=3.5.88.0/22 disabled=no list=route-aws@eu-south
 add address=13.248.65.0/24 disabled=no list=route-aws@eu-south
 add address=13.34.21.128/27 disabled=no list=route-aws@eu-south
 add address=13.34.21.160/27 disabled=no list=route-aws@eu-south
@@ -4547,6 +4548,8 @@ add address=15.251.0.28/32 disabled=no list=route-aws@il-central
 add address=15.251.0.29/32 disabled=no list=route-aws@il-central
 add address=16.12.12.0/23 disabled=no list=route-aws@il-central
 add address=16.12.14.0/24 disabled=no list=route-aws@il-central
+add address=16.12.81.0/24 disabled=no list=route-aws@il-central
+add address=16.12.82.0/23 disabled=no list=route-aws@il-central
 add address=51.16.0.0/15 disabled=no list=route-aws@il-central
 add address=51.16.103.128/25 disabled=no list=route-aws@il-central
 add address=51.16.103.16/28 disabled=no list=route-aws@il-central
@@ -5070,14 +5073,6 @@ add address=3.216.148.0/22 disabled=no list=route-aws@us-east
 add address=3.216.99.160/27 disabled=no list=route-aws@us-east
 add address=3.217.228.0/22 disabled=no list=route-aws@us-east
 add address=3.218.180.0/22 disabled=no list=route-aws@us-east
-add address=3.218.180.0/25 disabled=no list=route-aws@us-east
-add address=3.218.180.128/25 disabled=no list=route-aws@us-east
-add address=3.218.181.0/25 disabled=no list=route-aws@us-east
-add address=3.218.181.128/25 disabled=no list=route-aws@us-east
-add address=3.218.182.0/25 disabled=no list=route-aws@us-east
-add address=3.218.182.128/25 disabled=no list=route-aws@us-east
-add address=3.218.183.0/25 disabled=no list=route-aws@us-east
-add address=3.218.183.128/25 disabled=no list=route-aws@us-east
 add address=3.224.0.0/12 disabled=no list=route-aws@us-east
 add address=3.227.250.128/25 disabled=no list=route-aws@us-east
 add address=3.227.4.0/22 disabled=no list=route-aws@us-east

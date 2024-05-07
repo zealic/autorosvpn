@@ -95,14 +95,6 @@ add address=3.216.148.0/22 disabled=no list=route-aws@us-east
 add address=3.216.99.160/27 disabled=no list=route-aws@us-east
 add address=3.217.228.0/22 disabled=no list=route-aws@us-east
 add address=3.218.180.0/22 disabled=no list=route-aws@us-east
-add address=3.218.180.0/25 disabled=no list=route-aws@us-east
-add address=3.218.180.128/25 disabled=no list=route-aws@us-east
-add address=3.218.181.0/25 disabled=no list=route-aws@us-east
-add address=3.218.181.128/25 disabled=no list=route-aws@us-east
-add address=3.218.182.0/25 disabled=no list=route-aws@us-east
-add address=3.218.182.128/25 disabled=no list=route-aws@us-east
-add address=3.218.183.0/25 disabled=no list=route-aws@us-east
-add address=3.218.183.128/25 disabled=no list=route-aws@us-east
 add address=3.224.0.0/12 disabled=no list=route-aws@us-east
 add address=3.227.250.128/25 disabled=no list=route-aws@us-east
 add address=3.227.4.0/22 disabled=no list=route-aws@us-east

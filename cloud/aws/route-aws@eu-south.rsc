@@ -2,6 +2,7 @@
 /ip firewall address-list
 add address=3.5.248.0/22 disabled=no list=route-aws@eu-south
 add address=3.5.32.0/22 disabled=no list=route-aws@eu-south
+add address=3.5.88.0/22 disabled=no list=route-aws@eu-south
 add address=13.248.65.0/24 disabled=no list=route-aws@eu-south
 add address=13.34.21.128/27 disabled=no list=route-aws@eu-south
 add address=13.34.21.160/27 disabled=no list=route-aws@eu-south
