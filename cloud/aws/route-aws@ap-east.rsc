@@ -10,6 +10,8 @@ add address=13.34.11.0/27 disabled=no list=route-aws@ap-east
 add address=13.34.11.32/27 disabled=no list=route-aws@ap-east
 add address=13.34.117.0/27 disabled=no list=route-aws@ap-east
 add address=13.34.117.32/27 disabled=no list=route-aws@ap-east
+add address=13.34.122.0/27 disabled=no list=route-aws@ap-east
+add address=13.34.122.32/27 disabled=no list=route-aws@ap-east
 add address=13.34.16.64/27 disabled=no list=route-aws@ap-east
 add address=13.34.16.96/27 disabled=no list=route-aws@ap-east
 add address=13.34.62.0/27 disabled=no list=route-aws@ap-east
