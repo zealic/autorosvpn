@@ -2638,7 +2638,6 @@ add address=199.127.232.0/22 disabled=no list=route-aws@us
 add address=204.236.128.0/18 disabled=no list=route-aws@us
 add address=204.236.192.0/18 disabled=no list=route-aws@us
 add address=204.246.160.0/22 disabled=no list=route-aws@us
-add address=204.45.0.0/16 disabled=no list=route-aws@us
 add address=205.251.225.0/24 disabled=no list=route-aws@us
 add address=205.251.226.0/24 disabled=no list=route-aws@us
 add address=205.251.228.0/22 disabled=no list=route-aws@us
