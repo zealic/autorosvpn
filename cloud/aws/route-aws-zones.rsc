@@ -1766,6 +1766,9 @@ add address=47.128.82.102/31 disabled=no list=route-aws@ap-southeast
 add address=47.129.23.128/30 disabled=no list=route-aws@ap-southeast
 add address=47.129.23.132/30 disabled=no list=route-aws@ap-southeast
 add address=47.129.81.64/26 disabled=no list=route-aws@ap-southeast
+add address=47.129.82.0/24 disabled=no list=route-aws@ap-southeast
+add address=47.129.83.0/24 disabled=no list=route-aws@ap-southeast
+add address=47.129.84.0/24 disabled=no list=route-aws@ap-southeast
 add address=52.119.184.0/22 disabled=no list=route-aws@ap-southeast
 add address=52.119.205.0/24 disabled=no list=route-aws@ap-southeast
 add address=52.119.210.0/23 disabled=no list=route-aws@ap-southeast
@@ -3112,7 +3115,6 @@ add address=204.87.185.0/24 disabled=no list=route-aws@eu-north
 /ip firewall address-list
 add address=3.5.248.0/22 disabled=no list=route-aws@eu-south
 add address=3.5.32.0/22 disabled=no list=route-aws@eu-south
-add address=3.5.88.0/22 disabled=no list=route-aws@eu-south
 add address=13.248.65.0/24 disabled=no list=route-aws@eu-south
 add address=13.34.21.128/27 disabled=no list=route-aws@eu-south
 add address=13.34.21.160/27 disabled=no list=route-aws@eu-south
@@ -4554,8 +4556,6 @@ add address=15.251.0.28/32 disabled=no list=route-aws@il-central
 add address=15.251.0.29/32 disabled=no list=route-aws@il-central
 add address=16.12.12.0/23 disabled=no list=route-aws@il-central
 add address=16.12.14.0/24 disabled=no list=route-aws@il-central
-add address=16.12.81.0/24 disabled=no list=route-aws@il-central
-add address=16.12.82.0/23 disabled=no list=route-aws@il-central
 add address=51.16.0.0/15 disabled=no list=route-aws@il-central
 add address=51.16.103.128/25 disabled=no list=route-aws@il-central
 add address=51.16.103.16/28 disabled=no list=route-aws@il-central

@@ -380,7 +380,6 @@ add address=2400:dd00::/28 disabled=no list=novpn.ipv6
 add address=2400:dd40::/32 disabled=no list=novpn.ipv6
 add address=2400:dda0::/32 disabled=no list=novpn.ipv6
 add address=2400:de00::/32 disabled=no list=novpn.ipv6
-add address=2400:de20::/32 disabled=no list=novpn.ipv6
 add address=2400:de80::/32 disabled=no list=novpn.ipv6
 add address=2400:dee0::/32 disabled=no list=novpn.ipv6
 add address=2400:e0c0::/32 disabled=no list=novpn.ipv6
@@ -570,6 +569,7 @@ add address=2401:9b40::/32 disabled=no list=novpn.ipv6
 add address=2401:9b60::/32 disabled=no list=novpn.ipv6
 add address=2401:9bc0::/32 disabled=no list=novpn.ipv6
 add address=2401:9ca0::/32 disabled=no list=novpn.ipv6
+add address=2401:9d20::/32 disabled=no list=novpn.ipv6
 add address=2401:9dc0::/32 disabled=no list=novpn.ipv6
 add address=2401:9e40::/32 disabled=no list=novpn.ipv6
 add address=2401:9f80::/32 disabled=no list=novpn.ipv6
