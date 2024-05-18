@@ -457,6 +457,8 @@ add address=18.246.96.0/22 disabled=no list=route-aws@us-west
 add address=18.34.244.0/22 disabled=no list=route-aws@us-west
 add address=18.34.48.0/20 disabled=no list=route-aws@us-west
 add address=18.88.128.0/18 disabled=no list=route-aws@us-west
+add address=18.96.128.0/19 disabled=no list=route-aws@us-west
+add address=18.98.0.0/18 disabled=no list=route-aws@us-west
 add address=34.208.0.0/12 disabled=no list=route-aws@us-west
 add address=34.216.226.136/29 disabled=no list=route-aws@us-west
 add address=34.216.226.144/28 disabled=no list=route-aws@us-west

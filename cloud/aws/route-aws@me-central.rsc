@@ -43,6 +43,7 @@ add address=15.230.177.0/31 disabled=no list=route-aws@me-central
 add address=15.230.177.2/31 disabled=no list=route-aws@me-central
 add address=15.230.177.4/32 disabled=no list=route-aws@me-central
 add address=15.230.219.0/24 disabled=no list=route-aws@me-central
+add address=18.96.96.0/19 disabled=no list=route-aws@me-central
 add address=35.71.104.0/24 disabled=no list=route-aws@me-central
 add address=40.172.0.0/16 disabled=no list=route-aws@me-central
 add address=40.173.0.0/16 disabled=no list=route-aws@me-central
