@@ -1970,6 +1970,7 @@ add address=136.18.140.0/23 disabled=no list=route-aws@ap
 add address=136.18.20.0/24 disabled=no list=route-aws@ap
 add address=136.18.22.0/24 disabled=no list=route-aws@ap
 add address=136.18.23.0/24 disabled=no list=route-aws@ap
+add address=136.18.34.0/24 disabled=no list=route-aws@ap
 add address=142.4.177.0/24 disabled=no list=route-aws@ap
 add address=142.4.179.0/24 disabled=no list=route-aws@ap
 add address=142.4.180.0/24 disabled=no list=route-aws@ap
