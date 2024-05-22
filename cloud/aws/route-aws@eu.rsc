@@ -1212,6 +1212,7 @@ add address=35.156.0.0/14 disabled=no list=route-aws@eu
 add address=35.157.127.248/29 disabled=no list=route-aws@eu
 add address=35.158.127.64/26 disabled=no list=route-aws@eu
 add address=35.158.136.0/24 disabled=no list=route-aws@eu
+add address=35.159.158.0/23 disabled=no list=route-aws@eu
 add address=35.176.0.0/15 disabled=no list=route-aws@eu
 add address=35.176.32.0/24 disabled=no list=route-aws@eu
 add address=35.176.92.32/29 disabled=no list=route-aws@eu
