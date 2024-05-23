@@ -18,6 +18,13 @@ prepare_mikrotik_route(){
   ${WHOIS3} -h $whois_host -i $asn | grep route: | awk '{print $2}' | sort -t . -n > $iplist
 }
 
+prepare_valve_route(){
+  local whois_host=riswhois.ripe.net
+  local asn=32590
+  local iplist=$2
+  ${WHOIS3} -h $whois_host -i $asn | grep route: | awk '{print $2}' | sort -t . -n > $iplist
+}
+
 generate(){
   local site=$1
   local name=route-$site
@@ -65,3 +72,4 @@ trim_ipv6() {
 
 generate cloudflare
 generate mikrotik
+generate valve
