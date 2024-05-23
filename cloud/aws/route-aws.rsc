@@ -1919,8 +1919,10 @@ add address=13.34.25.13/32 disabled=no list=route-aws
 add address=13.34.25.14/32 disabled=no list=route-aws
 add address=13.34.25.15/32 disabled=no list=route-aws
 add address=13.34.25.160/27 disabled=no list=route-aws
-add address=13.34.25.192/27 disabled=no list=route-aws
 add address=13.34.25.2/32 disabled=no list=route-aws
+add address=13.34.25.204/32 disabled=no list=route-aws
+add address=13.34.25.205/32 disabled=no list=route-aws
+add address=13.34.25.216/29 disabled=no list=route-aws
 add address=13.34.25.248/29 disabled=no list=route-aws
 add address=13.34.25.3/32 disabled=no list=route-aws
 add address=13.34.25.33/32 disabled=no list=route-aws
