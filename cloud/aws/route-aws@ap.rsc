@@ -487,6 +487,8 @@ add address=13.34.123.0/27 disabled=no list=route-aws@ap
 add address=13.34.123.32/27 disabled=no list=route-aws@ap
 add address=13.34.124.0/27 disabled=no list=route-aws@ap
 add address=13.34.124.32/27 disabled=no list=route-aws@ap
+add address=13.34.125.64/27 disabled=no list=route-aws@ap
+add address=13.34.125.96/27 disabled=no list=route-aws@ap
 add address=13.34.13.128/27 disabled=no list=route-aws@ap
 add address=13.34.13.160/27 disabled=no list=route-aws@ap
 add address=13.34.13.193/32 disabled=no list=route-aws@ap
