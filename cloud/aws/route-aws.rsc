@@ -7460,9 +7460,12 @@ add address=150.222.51.96/27 disabled=no list=route-aws
 add address=150.222.52.0/27 disabled=no list=route-aws
 add address=150.222.52.128/27 disabled=no list=route-aws
 add address=150.222.52.160/27 disabled=no list=route-aws
+add address=150.222.52.192/27 disabled=no list=route-aws
+add address=150.222.52.224/27 disabled=no list=route-aws
 add address=150.222.52.32/27 disabled=no list=route-aws
 add address=150.222.52.64/27 disabled=no list=route-aws
 add address=150.222.52.96/27 disabled=no list=route-aws
+add address=150.222.53.0/27 disabled=no list=route-aws
 add address=150.222.6.0/24 disabled=no list=route-aws
 add address=150.222.64.0/24 disabled=no list=route-aws
 add address=150.222.65.0/24 disabled=no list=route-aws
