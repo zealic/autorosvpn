@@ -131,6 +131,8 @@ add address=13.34.120.192/27 disabled=no list=route-aws@us-west
 add address=13.34.120.224/27 disabled=no list=route-aws@us-west
 add address=13.34.123.128/27 disabled=no list=route-aws@us-west
 add address=13.34.123.160/27 disabled=no list=route-aws@us-west
+add address=13.34.125.128/27 disabled=no list=route-aws@us-west
+add address=13.34.125.160/27 disabled=no list=route-aws@us-west
 add address=13.34.14.128/27 disabled=no list=route-aws@us-west
 add address=13.34.14.160/27 disabled=no list=route-aws@us-west
 add address=13.34.18.100/32 disabled=no list=route-aws@us-west
