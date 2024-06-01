@@ -302,6 +302,7 @@ add address=35.94.128.244/31 disabled=no list=route-aws@us-west-2
 add address=35.94.128.248/30 disabled=no list=route-aws@us-west-2
 add address=35.94.72.0/22 disabled=no list=route-aws@us-west-2
 add address=35.95.152.0/25 disabled=no list=route-aws@us-west-2
+add address=35.96.0.0/24 disabled=no list=route-aws@us-west-2
 add address=44.224.0.0/11 disabled=no list=route-aws@us-west-2
 add address=44.227.178.0/24 disabled=no list=route-aws@us-west-2
 add address=44.233.54.0/23 disabled=no list=route-aws@us-west-2
