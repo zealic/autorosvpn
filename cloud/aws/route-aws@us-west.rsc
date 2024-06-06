@@ -998,7 +998,6 @@ add address=151.148.16.6/32 disabled=no list=route-aws@us-west
 add address=151.148.16.8/31 disabled=no list=route-aws@us-west
 add address=151.148.33.0/24 disabled=no list=route-aws@us-west
 add address=162.222.148.0/22 disabled=no list=route-aws@us-west
-add address=173.82.255.0/24 disabled=no list=route-aws@us-west
 add address=173.83.204.0/23 disabled=no list=route-aws@us-west
 add address=173.83.209.0/24 disabled=no list=route-aws@us-west
 add address=176.32.112.0/21 disabled=no list=route-aws@us-west
