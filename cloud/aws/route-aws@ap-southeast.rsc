@@ -690,6 +690,7 @@ add address=47.129.81.64/26 disabled=no list=route-aws@ap-southeast
 add address=47.129.82.0/24 disabled=no list=route-aws@ap-southeast
 add address=47.129.83.0/24 disabled=no list=route-aws@ap-southeast
 add address=47.129.84.0/24 disabled=no list=route-aws@ap-southeast
+add address=47.129.90.0/24 disabled=no list=route-aws@ap-southeast
 add address=52.119.184.0/22 disabled=no list=route-aws@ap-southeast
 add address=52.119.205.0/24 disabled=no list=route-aws@ap-southeast
 add address=52.119.210.0/23 disabled=no list=route-aws@ap-southeast
