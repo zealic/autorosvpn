@@ -64,6 +64,8 @@ add address=13.34.122.128/27 disabled=no list=route-aws@ap-south
 add address=13.34.122.160/27 disabled=no list=route-aws@ap-south
 add address=13.34.122.64/27 disabled=no list=route-aws@ap-south
 add address=13.34.122.96/27 disabled=no list=route-aws@ap-south
+add address=13.34.126.128/27 disabled=no list=route-aws@ap-south
+add address=13.34.126.160/27 disabled=no list=route-aws@ap-south
 add address=13.34.13.128/27 disabled=no list=route-aws@ap-south
 add address=13.34.13.160/27 disabled=no list=route-aws@ap-south
 add address=13.34.13.193/32 disabled=no list=route-aws@ap-south

@@ -592,6 +592,8 @@ add address=13.34.125.128/27 disabled=no list=route-aws@us
 add address=13.34.125.160/27 disabled=no list=route-aws@us
 add address=13.34.125.192/27 disabled=no list=route-aws@us
 add address=13.34.125.224/27 disabled=no list=route-aws@us
+add address=13.34.126.64/27 disabled=no list=route-aws@us
+add address=13.34.126.96/27 disabled=no list=route-aws@us
 add address=13.34.13.0/27 disabled=no list=route-aws@us
 add address=13.34.13.32/27 disabled=no list=route-aws@us
 add address=13.34.14.128/27 disabled=no list=route-aws@us
