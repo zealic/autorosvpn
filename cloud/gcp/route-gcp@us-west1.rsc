@@ -8,6 +8,7 @@ add address=34.157.112.0/21 disabled=no list=route-gcp@us-west1
 add address=34.157.240.0/21 disabled=no list=route-gcp@us-west1
 add address=34.168.0.0/15 disabled=no list=route-gcp@us-west1
 add address=34.19.0.0/17 disabled=no list=route-gcp@us-west1
+add address=34.53.0.0/17 disabled=no list=route-gcp@us-west1
 add address=34.82.0.0/15 disabled=no list=route-gcp@us-west1
 add address=35.185.192.0/18 disabled=no list=route-gcp@us-west1
 add address=35.197.0.0/17 disabled=no list=route-gcp@us-west1
