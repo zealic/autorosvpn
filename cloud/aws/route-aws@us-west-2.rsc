@@ -305,6 +305,7 @@ add address=35.94.128.248/30 disabled=no list=route-aws@us-west-2
 add address=35.94.72.0/22 disabled=no list=route-aws@us-west-2
 add address=35.95.152.0/25 disabled=no list=route-aws@us-west-2
 add address=35.96.0.0/24 disabled=no list=route-aws@us-west-2
+add address=35.96.16.0/20 disabled=no list=route-aws@us-west-2
 add address=44.224.0.0/11 disabled=no list=route-aws@us-west-2
 add address=44.227.178.0/24 disabled=no list=route-aws@us-west-2
 add address=44.233.54.0/23 disabled=no list=route-aws@us-west-2
@@ -432,6 +433,8 @@ add address=104.153.113.0/24 disabled=no list=route-aws@us-west-2
 add address=108.166.224.0/21 disabled=no list=route-aws@us-west-2
 add address=108.166.232.0/21 disabled=no list=route-aws@us-west-2
 add address=108.166.240.0/21 disabled=no list=route-aws@us-west-2
+add address=139.56.16.0/23 disabled=no list=route-aws@us-west-2
+add address=139.56.32.0/23 disabled=no list=route-aws@us-west-2
 add address=150.222.102.0/24 disabled=no list=route-aws@us-west-2
 add address=150.222.136.0/24 disabled=no list=route-aws@us-west-2
 add address=150.222.15.132/31 disabled=no list=route-aws@us-west-2
@@ -449,6 +452,13 @@ add address=150.222.39.64/26 disabled=no list=route-aws@us-west-2
 add address=150.222.74.0/24 disabled=no list=route-aws@us-west-2
 add address=150.222.75.0/24 disabled=no list=route-aws@us-west-2
 add address=151.148.33.0/24 disabled=no list=route-aws@us-west-2
+add address=155.146.112.0/20 disabled=no list=route-aws@us-west-2
+add address=155.146.128.0/20 disabled=no list=route-aws@us-west-2
+add address=155.146.144.0/20 disabled=no list=route-aws@us-west-2
+add address=155.146.16.0/20 disabled=no list=route-aws@us-west-2
+add address=155.146.160.0/20 disabled=no list=route-aws@us-west-2
+add address=161.188.32.0/20 disabled=no list=route-aws@us-west-2
+add address=162.208.121.0/24 disabled=no list=route-aws@us-west-2
 add address=162.222.148.0/22 disabled=no list=route-aws@us-west-2
 add address=173.83.204.0/23 disabled=no list=route-aws@us-west-2
 add address=176.32.125.0/25 disabled=no list=route-aws@us-west-2
