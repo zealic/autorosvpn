@@ -4493,6 +4493,7 @@ add address=18.99.224.0/20 disabled=no list=route-aws
 add address=18.99.32.0/19 disabled=no list=route-aws
 add address=18.99.64.0/19 disabled=no list=route-aws
 add address=18.99.96.0/20 disabled=no list=route-aws
+add address=23.160.0.0/24 disabled=no list=route-aws
 add address=23.20.0.0/14 disabled=no list=route-aws
 add address=27.0.0.0/22 disabled=no list=route-aws
 add address=34.192.0.0/12 disabled=no list=route-aws
@@ -4935,6 +4936,7 @@ add address=44.242.180.0/24 disabled=no list=route-aws
 add address=44.242.181.0/27 disabled=no list=route-aws
 add address=44.242.181.32/28 disabled=no list=route-aws
 add address=44.242.184.128/25 disabled=no list=route-aws
+add address=45.113.128.0/22 disabled=no list=route-aws
 add address=46.137.0.0/17 disabled=no list=route-aws
 add address=46.137.128.0/18 disabled=no list=route-aws
 add address=46.137.192.0/19 disabled=no list=route-aws
@@ -5037,6 +5039,7 @@ add address=52.119.249.0/24 disabled=no list=route-aws
 add address=52.119.252.0/22 disabled=no list=route-aws
 add address=52.12.0.0/15 disabled=no list=route-aws
 add address=52.124.128.0/17 disabled=no list=route-aws
+add address=52.129.128.0/17 disabled=no list=route-aws
 add address=52.14.0.0/16 disabled=no list=route-aws
 add address=52.144.133.32/27 disabled=no list=route-aws
 add address=52.144.192.0/26 disabled=no list=route-aws
@@ -5223,6 +5226,7 @@ add address=52.221.221.128/29 disabled=no list=route-aws
 add address=52.222.0.0/17 disabled=no list=route-aws
 add address=52.222.128.0/17 disabled=no list=route-aws
 add address=52.223.0.0/17 disabled=no list=route-aws
+add address=52.223.192.0/18 disabled=no list=route-aws
 add address=52.23.61.0/24 disabled=no list=route-aws
 add address=52.23.62.0/24 disabled=no list=route-aws
 add address=52.24.0.0/14 disabled=no list=route-aws
@@ -6810,6 +6814,7 @@ add address=99.151.72.0/21 disabled=no list=route-aws
 add address=99.151.80.0/21 disabled=no list=route-aws
 add address=99.151.88.0/21 disabled=no list=route-aws
 add address=99.151.96.0/21 disabled=no list=route-aws
+add address=99.181.64.0/18 disabled=no list=route-aws
 add address=99.77.0.0/20 disabled=no list=route-aws
 add address=99.77.128.0/18 disabled=no list=route-aws
 add address=99.77.128.0/24 disabled=no list=route-aws
@@ -7016,6 +7021,7 @@ add address=100.28.208.0/23 disabled=no list=route-aws
 add address=103.246.148.0/23 disabled=no list=route-aws
 add address=103.246.150.0/23 disabled=no list=route-aws
 add address=103.4.8.0/21 disabled=no list=route-aws
+add address=103.53.48.0/22 disabled=no list=route-aws
 add address=103.8.172.0/22 disabled=no list=route-aws
 add address=104.153.112.0/24 disabled=no list=route-aws
 add address=104.153.113.0/24 disabled=no list=route-aws
@@ -7664,11 +7670,14 @@ add address=184.72.128.0/17 disabled=no list=route-aws
 add address=184.72.64.0/18 disabled=no list=route-aws
 add address=184.73.0.0/16 disabled=no list=route-aws
 add address=185.143.16.0/24 disabled=no list=route-aws
+add address=185.42.204.0/22 disabled=no list=route-aws
 add address=185.48.120.0/22 disabled=no list=route-aws
+add address=192.108.239.0/24 disabled=no list=route-aws
 add address=192.157.32.0/24 disabled=no list=route-aws
 add address=192.157.33.0/24 disabled=no list=route-aws
 add address=192.157.34.0/24 disabled=no list=route-aws
 add address=192.157.72.0/23 disabled=no list=route-aws
+add address=192.16.64.0/21 disabled=no list=route-aws
 add address=192.189.196.0/24 disabled=no list=route-aws
 add address=192.31.212.0/24 disabled=no list=route-aws
 add address=192.31.213.0/24 disabled=no list=route-aws
@@ -7678,6 +7687,7 @@ add address=193.57.170.0/24 disabled=no list=route-aws
 add address=195.17.0.0/24 disabled=no list=route-aws
 add address=198.99.2.0/24 disabled=no list=route-aws
 add address=199.127.232.0/22 disabled=no list=route-aws
+add address=199.9.248.0/21 disabled=no list=route-aws
 add address=203.83.220.0/22 disabled=no list=route-aws
 add address=204.236.128.0/18 disabled=no list=route-aws
 add address=204.236.192.0/18 disabled=no list=route-aws
