@@ -626,7 +626,7 @@ add address=46.137.128.0/18 disabled=no list=route-aws@eu-west
 add address=46.51.128.0/18 disabled=no list=route-aws@eu-west
 add address=46.51.192.0/20 disabled=no list=route-aws@eu-west
 add address=51.0.96.0/21 disabled=no list=route-aws@eu-west
-add address=51.24.0.0/13 disabled=no list=route-aws@eu-west
+add address=51.24.0.0/16 disabled=no list=route-aws@eu-west
 add address=51.44.0.0/16 disabled=no list=route-aws@eu-west
 add address=51.45.0.0/16 disabled=no list=route-aws@eu-west
 add address=51.46.0.0/15 disabled=no list=route-aws@eu-west
