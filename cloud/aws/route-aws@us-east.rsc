@@ -445,6 +445,8 @@ add address=13.34.124.192/27 disabled=no list=route-aws@us-east
 add address=13.34.124.224/27 disabled=no list=route-aws@us-east
 add address=13.34.127.128/27 disabled=no list=route-aws@us-east
 add address=13.34.127.160/27 disabled=no list=route-aws@us-east
+add address=13.34.128.0/27 disabled=no list=route-aws@us-east
+add address=13.34.128.32/27 disabled=no list=route-aws@us-east
 add address=13.34.13.0/27 disabled=no list=route-aws@us-east
 add address=13.34.13.32/27 disabled=no list=route-aws@us-east
 add address=13.34.17.64/27 disabled=no list=route-aws@us-east
