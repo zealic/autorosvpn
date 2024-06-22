@@ -1346,6 +1346,8 @@ add address=13.34.123.0/27 disabled=no list=route-aws@ap-southeast
 add address=13.34.123.32/27 disabled=no list=route-aws@ap-southeast
 add address=13.34.127.64/27 disabled=no list=route-aws@ap-southeast
 add address=13.34.127.96/27 disabled=no list=route-aws@ap-southeast
+add address=13.34.128.64/27 disabled=no list=route-aws@ap-southeast
+add address=13.34.128.96/27 disabled=no list=route-aws@ap-southeast
 add address=13.34.14.1/32 disabled=no list=route-aws@ap-southeast
 add address=13.34.14.10/32 disabled=no list=route-aws@ap-southeast
 add address=13.34.14.11/32 disabled=no list=route-aws@ap-southeast
@@ -6708,6 +6710,7 @@ add address=18.254.148.0/22 disabled=no list=route-aws@us-gov-east
 add address=18.254.23.64/26 disabled=no list=route-aws@us-gov-east
 add address=18.254.61.128/26 disabled=no list=route-aws@us-gov-east
 add address=18.254.68.0/23 disabled=no list=route-aws@us-gov-east
+add address=18.99.112.0/20 disabled=no list=route-aws@us-gov-east
 add address=35.71.115.0/24 disabled=no list=route-aws@us-gov-east
 add address=52.46.96.0/19 disabled=no list=route-aws@us-gov-east
 add address=52.94.22.0/24 disabled=no list=route-aws@us-gov-east
@@ -6755,6 +6758,7 @@ add address=15.200.28.88/29 disabled=no list=route-aws@us-gov-west
 add address=15.205.0.0/16 disabled=no list=route-aws@us-gov-west
 add address=15.205.82.0/23 disabled=no list=route-aws@us-gov-west
 add address=15.205.84.0/23 disabled=no list=route-aws@us-gov-west
+add address=18.99.240.0/20 disabled=no list=route-aws@us-gov-west
 add address=35.71.116.0/24 disabled=no list=route-aws@us-gov-west
 add address=52.119.208.0/23 disabled=no list=route-aws@us-gov-west
 add address=52.222.0.0/17 disabled=no list=route-aws@us-gov-west
