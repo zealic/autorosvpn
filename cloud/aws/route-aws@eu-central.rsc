@@ -375,6 +375,7 @@ add address=35.159.158.0/23 disabled=no list=route-aws@eu-central
 add address=35.71.105.0/24 disabled=no list=route-aws@eu-central
 add address=35.71.121.0/24 disabled=no list=route-aws@eu-central
 add address=35.96.48.0/20 disabled=no list=route-aws@eu-central
+add address=35.96.96.0/20 disabled=no list=route-aws@eu-central
 add address=51.34.0.0/15 disabled=no list=route-aws@eu-central
 add address=51.96.0.0/16 disabled=no list=route-aws@eu-central
 add address=52.119.188.0/22 disabled=no list=route-aws@eu-central
