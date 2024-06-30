@@ -429,6 +429,7 @@ add address=54.239.4.0/22 disabled=no list=route-aws@eu-central
 add address=54.239.54.0/23 disabled=no list=route-aws@eu-central
 add address=54.239.56.0/21 disabled=no list=route-aws@eu-central
 add address=54.239.64.0/21 disabled=no list=route-aws@eu-central
+add address=54.25.64.0/24 disabled=no list=route-aws@eu-central
 add address=54.93.0.0/16 disabled=no list=route-aws@eu-central
 add address=56.240.0.0/16 disabled=no list=route-aws@eu-central
 add address=56.241.0.0/16 disabled=no list=route-aws@eu-central

@@ -853,6 +853,9 @@ add address=54.244.46.0/23 disabled=no list=route-aws@us-west
 add address=54.244.52.192/26 disabled=no list=route-aws@us-west
 add address=54.245.0.0/16 disabled=no list=route-aws@us-west
 add address=54.245.168.0/26 disabled=no list=route-aws@us-west
+add address=54.25.74.0/24 disabled=no list=route-aws@us-west
+add address=54.25.75.0/24 disabled=no list=route-aws@us-west
+add address=54.25.76.0/24 disabled=no list=route-aws@us-west
 add address=54.67.0.0/16 disabled=no list=route-aws@us-west
 add address=54.68.0.0/14 disabled=no list=route-aws@us-west
 add address=64.252.118.0/24 disabled=no list=route-aws@us-west

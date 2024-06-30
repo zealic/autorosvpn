@@ -380,6 +380,7 @@ add address=54.239.4.0/22 disabled=no list=route-aws@eu-central-1
 add address=54.239.54.0/23 disabled=no list=route-aws@eu-central-1
 add address=54.239.56.0/21 disabled=no list=route-aws@eu-central-1
 add address=54.239.64.0/21 disabled=no list=route-aws@eu-central-1
+add address=54.25.64.0/24 disabled=no list=route-aws@eu-central-1
 add address=54.93.0.0/16 disabled=no list=route-aws@eu-central-1
 add address=63.176.0.0/14 disabled=no list=route-aws@eu-central-1
 add address=63.180.0.0/14 disabled=no list=route-aws@eu-central-1
