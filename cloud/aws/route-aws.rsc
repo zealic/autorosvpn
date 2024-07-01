@@ -6531,12 +6531,9 @@ add address=54.25.15.0/24 disabled=no list=route-aws
 add address=54.25.20.0/24 disabled=no list=route-aws
 add address=54.25.64.0/24 disabled=no list=route-aws
 add address=54.25.66.0/24 disabled=no list=route-aws
-add address=54.25.72.0/24 disabled=no list=route-aws
-add address=54.25.73.0/24 disabled=no list=route-aws
 add address=54.25.74.0/24 disabled=no list=route-aws
 add address=54.25.75.0/24 disabled=no list=route-aws
 add address=54.25.76.0/24 disabled=no list=route-aws
-add address=54.25.77.0/24 disabled=no list=route-aws
 add address=54.25.82.0/24 disabled=no list=route-aws
 add address=54.250.0.0/16 disabled=no list=route-aws
 add address=54.250.251.0/24 disabled=no list=route-aws
