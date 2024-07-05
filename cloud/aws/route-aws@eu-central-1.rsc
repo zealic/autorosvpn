@@ -330,6 +330,7 @@ add address=35.157.127.248/29 disabled=no list=route-aws@eu-central-1
 add address=35.158.127.64/26 disabled=no list=route-aws@eu-central-1
 add address=35.158.136.0/24 disabled=no list=route-aws@eu-central-1
 add address=35.159.158.0/23 disabled=no list=route-aws@eu-central-1
+add address=35.159.206.0/23 disabled=no list=route-aws@eu-central-1
 add address=35.71.105.0/24 disabled=no list=route-aws@eu-central-1
 add address=35.96.48.0/20 disabled=no list=route-aws@eu-central-1
 add address=35.96.96.0/20 disabled=no list=route-aws@eu-central-1
