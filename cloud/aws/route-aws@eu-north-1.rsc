@@ -195,7 +195,6 @@ add address=52.95.169.0/24 disabled=no list=route-aws@eu-north-1
 add address=52.95.170.0/23 disabled=no list=route-aws@eu-north-1
 add address=52.95.227.0/24 disabled=no list=route-aws@eu-north-1
 add address=54.239.1.96/28 disabled=no list=route-aws@eu-north-1
-add address=54.25.72.0/24 disabled=no list=route-aws@eu-north-1
 add address=56.228.0.0/16 disabled=no list=route-aws@eu-north-1
 add address=56.229.0.0/16 disabled=no list=route-aws@eu-north-1
 add address=56.230.0.0/16 disabled=no list=route-aws@eu-north-1
