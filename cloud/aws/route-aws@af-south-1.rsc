@@ -80,7 +80,6 @@ add address=52.95.176.0/24 disabled=no list=route-aws@af-south-1
 add address=52.95.180.0/24 disabled=no list=route-aws@af-south-1
 add address=52.95.229.0/24 disabled=no list=route-aws@af-south-1
 add address=54.239.1.128/28 disabled=no list=route-aws@af-south-1
-add address=54.25.77.0/24 disabled=no list=route-aws@af-south-1
 add address=96.0.36.0/22 disabled=no list=route-aws@af-south-1
 add address=96.0.40.0/21 disabled=no list=route-aws@af-south-1
 add address=99.150.104.0/21 disabled=no list=route-aws@af-south-1

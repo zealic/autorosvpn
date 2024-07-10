@@ -292,7 +292,6 @@ add address=54.239.0.112/28 disabled=no list=route-aws@ap-southeast-2
 add address=54.240.192.0/22 disabled=no list=route-aws@ap-southeast-2
 add address=54.240.203.0/24 disabled=no list=route-aws@ap-southeast-2
 add address=54.240.204.0/22 disabled=no list=route-aws@ap-southeast-2
-add address=54.25.66.0/24 disabled=no list=route-aws@ap-southeast-2
 add address=54.252.0.0/16 disabled=no list=route-aws@ap-southeast-2
 add address=54.252.254.192/26 disabled=no list=route-aws@ap-southeast-2
 add address=54.252.79.128/26 disabled=no list=route-aws@ap-southeast-2
