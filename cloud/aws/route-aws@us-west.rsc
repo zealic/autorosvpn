@@ -1019,6 +1019,7 @@ add address=161.188.32.0/20 disabled=no list=route-aws@us-west
 add address=162.208.121.0/24 disabled=no list=route-aws@us-west
 add address=162.222.148.0/22 disabled=no list=route-aws@us-west
 add address=168.185.4.0/24 disabled=no list=route-aws@us-west
+add address=173.82.7.0/24 disabled=no list=route-aws@us-west
 add address=173.83.204.0/23 disabled=no list=route-aws@us-west
 add address=173.83.209.0/24 disabled=no list=route-aws@us-west
 add address=176.32.112.0/21 disabled=no list=route-aws@us-west

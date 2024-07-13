@@ -7710,8 +7710,10 @@ add address=173.82.11.0/24 disabled=no list=route-aws
 add address=173.82.12.0/24 disabled=no list=route-aws
 add address=173.82.13.0/24 disabled=no list=route-aws
 add address=173.82.14.0/24 disabled=no list=route-aws
+add address=173.82.15.0/24 disabled=no list=route-aws
 add address=173.82.16.0/24 disabled=no list=route-aws
 add address=173.82.255.0/24 disabled=no list=route-aws
+add address=173.82.7.0/24 disabled=no list=route-aws
 add address=173.82.8.0/24 disabled=no list=route-aws
 add address=173.83.192.0/22 disabled=no list=route-aws
 add address=173.83.196.0/23 disabled=no list=route-aws
@@ -7827,7 +7829,6 @@ add address=208.86.88.0/23 disabled=no list=route-aws
 add address=208.86.90.0/23 disabled=no list=route-aws
 add address=209.54.176.0/21 disabled=no list=route-aws
 add address=209.54.184.0/21 disabled=no list=route-aws
-add address=209.92.6.0/24 disabled=no list=route-aws
 add address=216.137.32.0/19 disabled=no list=route-aws
 add address=216.182.224.0/21 disabled=no list=route-aws
 add address=216.182.232.0/22 disabled=no list=route-aws
