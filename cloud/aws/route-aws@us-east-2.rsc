@@ -488,7 +488,6 @@ add address=150.222.40.64/26 disabled=no list=route-aws@us-east-2
 add address=151.148.32.0/24 disabled=no list=route-aws@us-east-2
 add address=168.185.5.0/24 disabled=no list=route-aws@us-east-2
 add address=172.96.110.0/24 disabled=no list=route-aws@us-east-2
-add address=173.82.11.0/24 disabled=no list=route-aws@us-east-2
 add address=173.83.192.0/22 disabled=no list=route-aws@us-east-2
 add address=192.157.32.0/24 disabled=no list=route-aws@us-east-2
 add address=192.189.196.0/24 disabled=no list=route-aws@us-east-2

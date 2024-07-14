@@ -7706,15 +7706,11 @@ add address=172.96.110.0/24 disabled=no list=route-aws
 add address=172.96.97.0/24 disabled=no list=route-aws
 add address=172.96.98.0/24 disabled=no list=route-aws
 add address=173.82.10.0/24 disabled=no list=route-aws
-add address=173.82.11.0/24 disabled=no list=route-aws
-add address=173.82.12.0/24 disabled=no list=route-aws
 add address=173.82.13.0/24 disabled=no list=route-aws
-add address=173.82.14.0/24 disabled=no list=route-aws
-add address=173.82.15.0/24 disabled=no list=route-aws
 add address=173.82.16.0/24 disabled=no list=route-aws
 add address=173.82.255.0/24 disabled=no list=route-aws
+add address=173.82.4.0/24 disabled=no list=route-aws
 add address=173.82.7.0/24 disabled=no list=route-aws
-add address=173.82.8.0/24 disabled=no list=route-aws
 add address=173.83.192.0/22 disabled=no list=route-aws
 add address=173.83.196.0/23 disabled=no list=route-aws
 add address=173.83.198.0/24 disabled=no list=route-aws

@@ -93,4 +93,3 @@ add address=150.222.48.160/27 disabled=no list=route-aws@af
 add address=150.222.48.192/27 disabled=no list=route-aws@af
 add address=150.222.48.224/27 disabled=no list=route-aws@af
 add address=150.222.92.0/22 disabled=no list=route-aws@af
-add address=173.82.12.0/24 disabled=no list=route-aws@af

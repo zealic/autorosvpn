@@ -93,7 +93,6 @@ add address=150.222.48.160/27 disabled=no list=route-aws@af
 add address=150.222.48.192/27 disabled=no list=route-aws@af
 add address=150.222.48.224/27 disabled=no list=route-aws@af
 add address=150.222.92.0/22 disabled=no list=route-aws@af
-add address=173.82.12.0/24 disabled=no list=route-aws@af
 /ip firewall address-list remove [/ip firewall address-list find list="route-aws@ap"]
 /ip firewall address-list
 add address=3.0.0.0/15 disabled=no list=route-aws@ap
@@ -2061,8 +2060,6 @@ add address=159.248.200.0/21 disabled=no list=route-aws@ap
 add address=159.248.216.0/21 disabled=no list=route-aws@ap
 add address=159.248.224.0/21 disabled=no list=route-aws@ap
 add address=173.82.10.0/24 disabled=no list=route-aws@ap
-add address=173.82.14.0/24 disabled=no list=route-aws@ap
-add address=173.82.15.0/24 disabled=no list=route-aws@ap
 add address=173.82.16.0/24 disabled=no list=route-aws@ap
 add address=173.83.198.0/24 disabled=no list=route-aws@ap
 add address=173.83.210.0/24 disabled=no list=route-aws@ap
@@ -4834,7 +4831,6 @@ add address=157.175.255.0/24 disabled=no list=route-aws@me
 add address=157.241.0.0/16 disabled=no list=route-aws@me
 add address=157.241.2.0/23 disabled=no list=route-aws@me
 add address=157.241.25.0/24 disabled=no list=route-aws@me
-add address=173.82.8.0/24 disabled=no list=route-aws@me
 /ip firewall address-list remove [/ip firewall address-list find list="route-aws@sa"]
 /ip firewall address-list
 add address=3.2.49.0/24 disabled=no list=route-aws@sa
@@ -7804,7 +7800,7 @@ add address=168.185.4.0/24 disabled=no list=route-aws@us
 add address=168.185.5.0/24 disabled=no list=route-aws@us
 add address=172.96.110.0/24 disabled=no list=route-aws@us
 add address=172.96.97.0/24 disabled=no list=route-aws@us
-add address=173.82.11.0/24 disabled=no list=route-aws@us
+add address=173.82.4.0/24 disabled=no list=route-aws@us
 add address=173.82.7.0/24 disabled=no list=route-aws@us
 add address=173.83.192.0/22 disabled=no list=route-aws@us
 add address=173.83.200.0/22 disabled=no list=route-aws@us
