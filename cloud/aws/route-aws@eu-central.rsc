@@ -482,6 +482,5 @@ add address=150.222.51.96/27 disabled=no list=route-aws@eu-central
 add address=150.222.86.0/24 disabled=no list=route-aws@eu-central
 add address=151.148.17.0/24 disabled=no list=route-aws@eu-central
 add address=151.148.35.0/24 disabled=no list=route-aws@eu-central
-add address=173.82.13.0/24 disabled=no list=route-aws@eu-central
 add address=173.82.255.0/24 disabled=no list=route-aws@eu-central
 add address=173.83.196.0/23 disabled=no list=route-aws@eu-central
