@@ -608,6 +608,7 @@ add address=2401:b360::/32 disabled=no list=novpn.ipv6
 add address=2401:b400::/32 disabled=no list=novpn.ipv6
 add address=2401:b480::/32 disabled=no list=novpn.ipv6
 add address=2401:b4c0::/32 disabled=no list=novpn.ipv6
+add address=2401:b4e0::/32 disabled=no list=novpn.ipv6
 add address=2401:b540::/32 disabled=no list=novpn.ipv6
 add address=2401:b580::/32 disabled=no list=novpn.ipv6
 add address=2401:b600::/32 disabled=no list=novpn.ipv6
