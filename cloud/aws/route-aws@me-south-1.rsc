@@ -5,16 +5,6 @@ add address=3.5.220.0/22 disabled=no list=route-aws@me-south-1
 add address=13.248.106.0/24 disabled=no list=route-aws@me-south-1
 add address=13.34.125.0/27 disabled=no list=route-aws@me-south-1
 add address=13.34.125.32/27 disabled=no list=route-aws@me-south-1
-add address=13.34.15.128/27 disabled=no list=route-aws@me-south-1
-add address=13.34.15.160/27 disabled=no list=route-aws@me-south-1
-add address=13.34.20.0/27 disabled=no list=route-aws@me-south-1
-add address=13.34.20.32/27 disabled=no list=route-aws@me-south-1
-add address=13.34.20.64/27 disabled=no list=route-aws@me-south-1
-add address=13.34.20.96/27 disabled=no list=route-aws@me-south-1
-add address=13.34.78.192/27 disabled=no list=route-aws@me-south-1
-add address=13.34.78.224/27 disabled=no list=route-aws@me-south-1
-add address=13.34.82.0/27 disabled=no list=route-aws@me-south-1
-add address=13.34.82.32/27 disabled=no list=route-aws@me-south-1
 add address=15.177.87.0/24 disabled=no list=route-aws@me-south-1
 add address=15.184.0.0/16 disabled=no list=route-aws@me-south-1
 add address=15.184.1.128/26 disabled=no list=route-aws@me-south-1
