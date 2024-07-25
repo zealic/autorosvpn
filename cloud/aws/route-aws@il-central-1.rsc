@@ -2,16 +2,6 @@
 /ip firewall address-list
 add address=3.5.56.0/22 disabled=no list=route-aws@il-central-1
 add address=13.248.72.0/24 disabled=no list=route-aws@il-central-1
-add address=13.34.64.192/27 disabled=no list=route-aws@il-central-1
-add address=13.34.64.224/27 disabled=no list=route-aws@il-central-1
-add address=13.34.65.0/27 disabled=no list=route-aws@il-central-1
-add address=13.34.65.128/27 disabled=no list=route-aws@il-central-1
-add address=13.34.65.160/27 disabled=no list=route-aws@il-central-1
-add address=13.34.65.192/27 disabled=no list=route-aws@il-central-1
-add address=13.34.65.224/27 disabled=no list=route-aws@il-central-1
-add address=13.34.65.32/27 disabled=no list=route-aws@il-central-1
-add address=13.34.65.64/27 disabled=no list=route-aws@il-central-1
-add address=13.34.65.96/27 disabled=no list=route-aws@il-central-1
 add address=15.177.99.0/24 disabled=no list=route-aws@il-central-1
 add address=15.190.0.0/22 disabled=no list=route-aws@il-central-1
 add address=15.190.16.0/20 disabled=no list=route-aws@il-central-1

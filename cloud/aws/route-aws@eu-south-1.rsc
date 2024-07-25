@@ -1,22 +1,6 @@
 /ip firewall address-list remove [/ip firewall address-list find list="route-aws@eu-south-1"]
 /ip firewall address-list
 add address=3.5.248.0/22 disabled=no list=route-aws@eu-south-1
-add address=13.34.21.128/27 disabled=no list=route-aws@eu-south-1
-add address=13.34.21.160/27 disabled=no list=route-aws@eu-south-1
-add address=13.34.46.64/27 disabled=no list=route-aws@eu-south-1
-add address=13.34.46.96/27 disabled=no list=route-aws@eu-south-1
-add address=13.34.53.224/27 disabled=no list=route-aws@eu-south-1
-add address=13.34.53.64/27 disabled=no list=route-aws@eu-south-1
-add address=13.34.53.96/27 disabled=no list=route-aws@eu-south-1
-add address=13.34.54.0/27 disabled=no list=route-aws@eu-south-1
-add address=13.34.79.0/27 disabled=no list=route-aws@eu-south-1
-add address=13.34.79.32/27 disabled=no list=route-aws@eu-south-1
-add address=13.34.81.128/27 disabled=no list=route-aws@eu-south-1
-add address=13.34.81.160/27 disabled=no list=route-aws@eu-south-1
-add address=13.34.97.0/27 disabled=no list=route-aws@eu-south-1
-add address=13.34.97.32/27 disabled=no list=route-aws@eu-south-1
-add address=13.34.99.0/27 disabled=no list=route-aws@eu-south-1
-add address=13.34.99.32/27 disabled=no list=route-aws@eu-south-1
 add address=15.160.0.0/16 disabled=no list=route-aws@eu-south-1
 add address=15.160.55.112/29 disabled=no list=route-aws@eu-south-1
 add address=15.160.90.64/26 disabled=no list=route-aws@eu-south-1

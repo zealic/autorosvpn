@@ -2,16 +2,6 @@
 /ip firewall address-list
 add address=3.5.40.0/22 disabled=no list=route-aws@ap-southeast-4
 add address=13.248.67.0/24 disabled=no list=route-aws@ap-southeast-4
-add address=13.34.18.192/27 disabled=no list=route-aws@ap-southeast-4
-add address=13.34.18.224/27 disabled=no list=route-aws@ap-southeast-4
-add address=13.34.37.0/27 disabled=no list=route-aws@ap-southeast-4
-add address=13.34.37.128/27 disabled=no list=route-aws@ap-southeast-4
-add address=13.34.37.160/27 disabled=no list=route-aws@ap-southeast-4
-add address=13.34.37.192/27 disabled=no list=route-aws@ap-southeast-4
-add address=13.34.37.224/27 disabled=no list=route-aws@ap-southeast-4
-add address=13.34.37.32/27 disabled=no list=route-aws@ap-southeast-4
-add address=13.34.37.64/27 disabled=no list=route-aws@ap-southeast-4
-add address=13.34.37.96/27 disabled=no list=route-aws@ap-southeast-4
 add address=15.177.96.0/24 disabled=no list=route-aws@ap-southeast-4
 add address=15.230.118.0/24 disabled=no list=route-aws@ap-southeast-4
 add address=15.230.249.0/24 disabled=no list=route-aws@ap-southeast-4
