@@ -51,6 +51,7 @@ add address=3.39.113.0/24 disabled=no list=route-aws@ap-northeast
 add address=3.39.114.0/23 disabled=no list=route-aws@ap-northeast
 add address=3.39.116.0/26 disabled=no list=route-aws@ap-northeast
 add address=3.39.82.128/25 disabled=no list=route-aws@ap-northeast
+add address=3.4.15.0/28 disabled=no list=route-aws@ap-northeast
 add address=3.5.140.0/22 disabled=no list=route-aws@ap-northeast
 add address=3.5.144.0/23 disabled=no list=route-aws@ap-northeast
 add address=3.5.152.0/21 disabled=no list=route-aws@ap-northeast
