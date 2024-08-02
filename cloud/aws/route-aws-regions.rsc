@@ -5802,6 +5802,7 @@ add address=176.32.96.0/21 disabled=no list=route-aws@us
 add address=182.28.0.0/16 disabled=no list=route-aws@us
 add address=182.29.0.0/16 disabled=no list=route-aws@us
 add address=182.30.0.0/16 disabled=no list=route-aws@us
+add address=182.30.13.192/26 disabled=no list=route-aws@us
 add address=184.169.128.0/17 disabled=no list=route-aws@us
 add address=184.32.0.0/12 disabled=no list=route-aws@us
 add address=184.72.0.0/18 disabled=no list=route-aws@us

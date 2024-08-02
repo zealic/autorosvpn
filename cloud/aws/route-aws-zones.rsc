@@ -5012,6 +5012,7 @@ add address=108.175.60.0/22 disabled=no list=route-aws@us-gov-east
 add address=182.28.0.0/16 disabled=no list=route-aws@us-gov-east
 add address=182.29.0.0/16 disabled=no list=route-aws@us-gov-east
 add address=182.30.0.0/16 disabled=no list=route-aws@us-gov-east
+add address=182.30.13.192/26 disabled=no list=route-aws@us-gov-east
 /ip firewall address-list remove [/ip firewall address-list find list="route-aws@us-gov-west"]
 /ip firewall address-list
 add address=3.30.0.0/15 disabled=no list=route-aws@us-gov-west
