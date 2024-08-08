@@ -2767,6 +2767,7 @@ add address=35.96.112.0/20 disabled=no list=route-aws
 add address=35.96.128.0/20 disabled=no list=route-aws
 add address=35.96.144.0/20 disabled=no list=route-aws
 add address=35.96.16.0/20 disabled=no list=route-aws
+add address=35.96.2.0/24 disabled=no list=route-aws
 add address=35.96.32.0/20 disabled=no list=route-aws
 add address=35.96.48.0/20 disabled=no list=route-aws
 add address=35.96.64.0/20 disabled=no list=route-aws
