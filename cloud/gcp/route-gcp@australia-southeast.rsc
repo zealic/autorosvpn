@@ -2,6 +2,8 @@
 /ip firewall address-list
 add address=34.0.16.0/20 disabled=no list=route-gcp@australia-southeast
 add address=34.1.176.0/20 disabled=no list=route-gcp@australia-southeast
+add address=34.40.128.0/17 disabled=no list=route-gcp@australia-southeast
+add address=34.87.192.0/18 disabled=no list=route-gcp@australia-southeast
 add address=34.104.104.0/23 disabled=no list=route-gcp@australia-southeast
 add address=34.104.122.0/23 disabled=no list=route-gcp@australia-southeast
 add address=34.116.64.0/18 disabled=no list=route-gcp@australia-southeast
@@ -11,10 +13,8 @@ add address=34.126.192.0/20 disabled=no list=route-gcp@australia-southeast
 add address=34.128.36.0/24 disabled=no list=route-gcp@australia-southeast
 add address=34.128.48.0/24 disabled=no list=route-gcp@australia-southeast
 add address=34.129.0.0/16 disabled=no list=route-gcp@australia-southeast
-add address=34.151.128.0/18 disabled=no list=route-gcp@australia-southeast
 add address=34.151.64.0/18 disabled=no list=route-gcp@australia-southeast
-add address=34.40.128.0/17 disabled=no list=route-gcp@australia-southeast
-add address=34.87.192.0/18 disabled=no list=route-gcp@australia-southeast
+add address=34.151.128.0/18 disabled=no list=route-gcp@australia-southeast
 add address=35.189.0.0/18 disabled=no list=route-gcp@australia-southeast
 add address=35.197.160.0/19 disabled=no list=route-gcp@australia-southeast
 add address=35.201.0.0/19 disabled=no list=route-gcp@australia-southeast

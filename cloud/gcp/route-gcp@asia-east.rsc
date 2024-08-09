@@ -1,12 +1,12 @@
 /ip firewall address-list remove [/ip firewall address-list find list="route-gcp@asia-east"]
 /ip firewall address-list
+add address=34.80.0.0/15 disabled=no list=route-gcp@asia-east
+add address=34.92.0.0/16 disabled=no list=route-gcp@asia-east
+add address=34.96.128.0/17 disabled=no list=route-gcp@asia-east
 add address=34.104.88.0/21 disabled=no list=route-gcp@asia-east
 add address=34.124.24.0/21 disabled=no list=route-gcp@asia-east
 add address=34.137.0.0/16 disabled=no list=route-gcp@asia-east
 add address=34.150.0.0/17 disabled=no list=route-gcp@asia-east
-add address=34.80.0.0/15 disabled=no list=route-gcp@asia-east
-add address=34.92.0.0/16 disabled=no list=route-gcp@asia-east
-add address=34.96.128.0/17 disabled=no list=route-gcp@asia-east
 add address=35.185.128.0/19 disabled=no list=route-gcp@asia-east
 add address=35.185.160.0/20 disabled=no list=route-gcp@asia-east
 add address=35.187.144.0/20 disabled=no list=route-gcp@asia-east
@@ -15,9 +15,9 @@ add address=35.194.128.0/17 disabled=no list=route-gcp@asia-east
 add address=35.201.128.0/17 disabled=no list=route-gcp@asia-east
 add address=35.206.192.0/18 disabled=no list=route-gcp@asia-east
 add address=35.215.128.0/18 disabled=no list=route-gcp@asia-east
-add address=35.220.128.0/17 disabled=no list=route-gcp@asia-east
 add address=35.220.27.0/24 disabled=no list=route-gcp@asia-east
 add address=35.220.32.0/21 disabled=no list=route-gcp@asia-east
+add address=35.220.128.0/17 disabled=no list=route-gcp@asia-east
 add address=35.221.128.0/17 disabled=no list=route-gcp@asia-east
 add address=35.229.128.0/17 disabled=no list=route-gcp@asia-east
 add address=35.234.0.0/18 disabled=no list=route-gcp@asia-east
