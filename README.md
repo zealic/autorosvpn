@@ -33,10 +33,12 @@ Router OS only import script:
 
 ### Route - Sites
 
-* [cloudflare](https://github.com/zealic/autorosvpn/tree/master/sites/cloudflare)  
+* [route-cloudflare](https://github.com/zealic/autorosvpn/tree/master/sites/cloudflare)  
   [Cloudflare CDN Provider](https://www.cloudflare.com)
-* [mikrotik](https://github.com/zealic/autorosvpn/tree/master/sites/mikrotik)  
-  [Mikrotik](https://mikrotik.com/)
+* [route-mikrotik](https://github.com/zealic/autorosvpn/tree/master/sites/mikrotik)  
+  [Mikrotik](https://mikrotik.com)
+* [route-valve](https://github.com/zealic/autorosvpn/tree/master/sites/valve)  
+  [Valve](https://valvesoftware.com) and [Steam Store](https://sotre.steampowered.com)
 
 ### Route - chnroutes
 中国路由表

@@ -25,6 +25,19 @@ prepare_valve_route(){
   ${WHOIS3} -h $whois_host -i $asn | grep route: | awk '{print $2}' | sort -t . -n > $iplist
 }
 
+prepare_telegram_route(){
+  local whois_host=riswhois.ripe.net
+  # data source:
+  # - https://core.telegram.org/resources/cidr.txt
+  # - https://bgpview.io/search/Telegram
+  # - https://docs.pyrogram.org/faq/what-are-the-ip-addresses-of-telegram-data-centers
+  local asn_list=(44907 59930 62014 62041 211157)
+  local iplist=$2
+  for asn in ${asn_list[@]}; do
+    ${WHOIS3} -h $whois_host -i $asn | grep route: | awk '{print $2}' | sort -t . -n >> $iplist
+  done
+}
+
 generate(){
   local site=$1
   local name=route-$site
@@ -39,8 +52,8 @@ generate(){
   pushd sites/$site > /dev/null
   prepare_${site}_route ${site}.json $iplist
 
-  cat $iplist | write_rsc ${name} > ${name}.rsc
-  cat $iplist | write_txt ${name} > ${name}.txt
+  cat $iplist | sort -t . -n | write_rsc ${name} > ${name}.rsc
+  cat $iplist | sort -t . -n | write_txt ${name} > ${name}.txt
 
   rm $iplist
   popd > /dev/null
@@ -62,7 +75,7 @@ write_txt(){
     local fields=($(echo "$line"))
     local address=${fields[0]}
     echo "$address"
-  done | trim_ipv6 | sort -t . -n
+  done | trim_ipv6
 }
 
 trim_ipv6() {
@@ -72,4 +85,5 @@ trim_ipv6() {
 
 generate cloudflare
 generate mikrotik
+generate telegram
 generate valve
