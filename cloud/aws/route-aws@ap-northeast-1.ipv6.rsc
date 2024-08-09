@@ -1,15 +1,15 @@
 /ipv6 firewall address-list remove [/ipv6 firewall address-list find list="route-aws@ap-northeast-1"]
 /ipv6 firewall address-list
 add address=2400:6500:0:7100::/56 disabled=no list=route-aws@ap-northeast-1
-add address=2400:6700:ff00::/48 disabled=no list=route-aws@ap-northeast-1
 add address=2400:6700::/48 disabled=no list=route-aws@ap-northeast-1
+add address=2400:6700:ff00::/48 disabled=no list=route-aws@ap-northeast-1
 add address=2406:da00:4000::/40 disabled=no list=route-aws@ap-northeast-1
 add address=2406:da1d::/36 disabled=no list=route-aws@ap-northeast-1
 add address=2406:da2d::/36 disabled=no list=route-aws@ap-northeast-1
 add address=2406:da13::/36 disabled=no list=route-aws@ap-northeast-1
 add address=2406:da14:7ff:f800::/56 disabled=no list=route-aws@ap-northeast-1
-add address=2406:da14:fff:f800::/56 disabled=no list=route-aws@ap-northeast-1
 add address=2406:da14::/35 disabled=no list=route-aws@ap-northeast-1
+add address=2406:da14:fff:f800::/56 disabled=no list=route-aws@ap-northeast-1
 add address=2406:da23::/36 disabled=no list=route-aws@ap-northeast-1
 add address=2406:da24::/36 disabled=no list=route-aws@ap-northeast-1
 add address=2406:da38:4000::/40 disabled=no list=route-aws@ap-northeast-1
@@ -46,6 +46,6 @@ add address=2600:1ffd:8143::/48 disabled=no list=route-aws@ap-northeast-1
 add address=2600:1ffd:8149::/48 disabled=no list=route-aws@ap-northeast-1
 add address=2600:1ffd:8165::/48 disabled=no list=route-aws@ap-northeast-1
 add address=2600:9000:5207::/48 disabled=no list=route-aws@ap-northeast-1
+add address=2600:f00f::/40 disabled=no list=route-aws@ap-northeast-1
 add address=2600:f0f0:1:f00::/56 disabled=no list=route-aws@ap-northeast-1
 add address=2600:f0f0:82::/48 disabled=no list=route-aws@ap-northeast-1
-add address=2600:f00f::/40 disabled=no list=route-aws@ap-northeast-1

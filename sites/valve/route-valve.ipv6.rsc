@@ -17,12 +17,8 @@ add address=2404:3fc0:2::/48 disabled=no list=route-valve
 add address=2404:3fc0:3::/48 disabled=no list=route-valve
 add address=2404:3fc0:8::/48 disabled=no list=route-valve
 add address=2404:3fc0:9::/48 disabled=no list=route-valve
-add address=2404:3fc0:a::/48 disabled=no list=route-valve
 add address=2404:3fc0::/48 disabled=no list=route-valve
-add address=2602:801:f00a::/48 disabled=no list=route-valve
-add address=2602:801:f00b::/48 disabled=no list=route-valve
-add address=2602:801:f00d::/48 disabled=no list=route-valve
-add address=2602:801:f00e::/48 disabled=no list=route-valve
+add address=2404:3fc0:a::/48 disabled=no list=route-valve
 add address=2602:801:f000::/48 disabled=no list=route-valve
 add address=2602:801:f001::/48 disabled=no list=route-valve
 add address=2602:801:f002::/48 disabled=no list=route-valve
@@ -31,3 +27,7 @@ add address=2602:801:f006::/48 disabled=no list=route-valve
 add address=2602:801:f007::/48 disabled=no list=route-valve
 add address=2602:801:f008::/48 disabled=no list=route-valve
 add address=2602:801:f009::/48 disabled=no list=route-valve
+add address=2602:801:f00a::/48 disabled=no list=route-valve
+add address=2602:801:f00b::/48 disabled=no list=route-valve
+add address=2602:801:f00d::/48 disabled=no list=route-valve
+add address=2602:801:f00e::/48 disabled=no list=route-valve

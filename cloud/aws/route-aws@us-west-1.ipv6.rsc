@@ -1,10 +1,10 @@
 /ipv6 firewall address-list remove [/ipv6 firewall address-list find list="route-aws@us-west-1"]
 /ipv6 firewall address-list
 add address=2600:1f00:c000::/40 disabled=no list=route-aws@us-west-1
-add address=2600:1f1c:7ff:f800::/56 disabled=no list=route-aws@us-west-1
-add address=2600:1f1c:fff:f800::/56 disabled=no list=route-aws@us-west-1
-add address=2600:1f1c::/36 disabled=no list=route-aws@us-west-1
 add address=2600:1f01:48a0::/47 disabled=no list=route-aws@us-west-1
+add address=2600:1f1c:7ff:f800::/56 disabled=no list=route-aws@us-west-1
+add address=2600:1f1c::/36 disabled=no list=route-aws@us-west-1
+add address=2600:1f1c:fff:f800::/56 disabled=no list=route-aws@us-west-1
 add address=2600:1f2c::/36 disabled=no list=route-aws@us-west-1
 add address=2600:1f38:c000::/40 disabled=no list=route-aws@us-west-1
 add address=2600:1f60:c000::/40 disabled=no list=route-aws@us-west-1
