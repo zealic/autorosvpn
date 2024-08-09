@@ -1,26 +1,49 @@
+#!/usr/bin/env bash
+source $(dirname "$0")/common.sh
+WHOIS_HOST=whois.apnic.net
+WHOIS3="docker run -i --rm zealic/whois3 -h $WHOIS_HOST"
 
-# China Telecom
-WHOIS3="docker run -i --rm zealic/whois3"
-
-
-
-make_routes() {
-  local source=$1
-  ${WHOIS3} -h whois.apnic.net -l -i mb $source \
+prepare_route_by_id(){
+  local id=$1
+  local iplist=$2
+  ${WHOIS3} -l -i mb $id \
     | grep 'inetnum' | sed 's/inetnum:        //g' \
     | awk '{ print $1 $2 $3}' \
-    | xargs -I {} sh -c "ipcalc {} | tail -n +2"
+    | xargs -I {} sh -c "ipcalc {} | tail -n +2" > $iplist
+}
+
+generate(){
+  local country=$1
+  local id=$2
+  local name=`echo $id | sed -e "s/^MAINT-//" | tr '[:upper:]' '[:lower:]'`
+  local fullname=route-isp-$name
+  local iplist=${fullname}_ips.list
+
+  echo Generating $fullname routes...
+  if [[ -d isp/$country/$fullname ]]; then
+    rm -r isp/$country/$fullname
+  fi
+  mkdir -p isp/$country
+
+  pushd isp/$country > /dev/null
+  prepare_route_by_id $id $iplist
+
+  cat $iplist | sort -t . -n | write_rsc ${fullname} > ${fullname}.rsc
+  cat $iplist | sort -t . -n | write_txt ${fullname} > ${fullname}.txt
+
+  rm $iplist
+  popd > /dev/null
 }
 
 # 电信
-make_routes MAINT-CHINANET > chnroutes-chinanet.txt
+generate cn MAINT-CHINANET
 # 移动
-make_routes MAINT-CN-CMCC > chnroutes-cmcc.txt
+generate cn MAINT-CN-CMCC
 # 联通
-make_routes MAINT-CNCGROUP > chnroutes-cnc.txt
+generate cn MAINT-CNCGROUP
 # 铁通
-make_routes MAINT-CN-CRTC  > chnroutes-crtc.txt
+generate cn MAINT-CN-CRTC
 # 教育网
-make_routes MAINT-CERNET-AP > chnroutes-cernet.txt
+generate cn MAINT-CERNET-AP
 # CNNIC
-make_routes MAINT-CNNIC-AP > chnroutes-cnnic.txt
+generate cn MAINT-CNNIC-AP

@@ -1,5 +1,7 @@
-#!/bin/bash
-WHOIS3="docker run -i --rm zealic/whois3"
+#!/usr/bin/env bash
+source $(dirname "$0")/common.sh
+WHOIS_HOST=riswhois.ripe.net
+WHOIS3="docker run -i --rm zealic/whois3 -h $WHOIS_HOST"
 
 prepare_cloudflare_route(){
   local url="https://api.cloudflare.com/client/v4/ips"
@@ -22,21 +24,18 @@ prepare_github_route(){
 }
 
 prepare_mikrotik_route(){
-  local whois_host=riswhois.ripe.net
   local asn=51894
   local iplist=$2
-  ${WHOIS3} -h $whois_host -i $asn | grep route: | awk '{print $2}' | sort -t . -n > $iplist
+  ${WHOIS3} -i $asn | grep route: | awk '{print $2}' | sort -t . -n > $iplist
 }
 
 prepare_valve_route(){
-  local whois_host=riswhois.ripe.net
   local asn=32590
   local iplist=$2
-  ${WHOIS3} -h $whois_host -i $asn | grep route: | awk '{print $2}' | sort -t . -n > $iplist
+  ${WHOIS3} -i $asn | grep route: | awk '{print $2}' | sort -t . -n > $iplist
 }
 
 prepare_telegram_route(){
-  local whois_host=riswhois.ripe.net
   # data source:
   # - https://core.telegram.org/resources/cidr.txt
   # - https://bgpview.io/search/Telegram
@@ -44,7 +43,7 @@ prepare_telegram_route(){
   local asn_list=(44907 59930 62014 62041 211157)
   local iplist=$2
   for asn in ${asn_list[@]}; do
-    ${WHOIS3} -h $whois_host -i $asn | grep route: | awk '{print $2}' | sort -t . -n >> $iplist
+    ${WHOIS3} -i $asn | grep route: | awk '{print $2}' | sort -t . -n >> $iplist
   done
 }
 
@@ -67,30 +66,6 @@ generate(){
 
   rm $iplist
   popd > /dev/null
-}
-
-write_rsc(){
-  local name=$1
-  echo "/ip firewall address-list remove [/ip firewall address-list find list=\"${name}\"]"
-  echo "/ip firewall address-list"
-  while read line; do
-    local fields=($(echo "$line"))
-    local address=${fields[0]}
-    echo "add address=$address disabled=no list=$name"
-  done | trim_ipv6
-}
-
-write_txt(){
-  while read line; do
-    local fields=($(echo "$line"))
-    local address=${fields[0]}
-    echo "$address"
-  done | trim_ipv6
-}
-
-trim_ipv6() {
-  local source=$1
-  grep -v ":" $source
 }
 
 generate cloudflare
