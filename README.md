@@ -3,7 +3,7 @@ China Routes and Cloud Service Provider Routes.
 
 ## Usage
 
-### address-list.rsc
+### example import script
 Router OS only import script:
 
 ```shell
@@ -22,7 +22,23 @@ Router OS only import script:
 }
 ```
 
-### chnroutes
+### Route - Cloud Service Providers
+
+* [aws](https://github.com/zealic/autorosvpn/tree/master/cloud/aws)  
+  [Amazon Web Services](https://aws.amazon.com/cn/) Routes
+* [azure](https://github.com/zealic/autorosvpn/tree/master/cloud/azure)  
+  [Microsoft Azure](https://azure.microsoft.com/) Routes
+* [gcp](https://github.com/zealic/autorosvpn/tree/master/cloud/gcp)  
+  [Google Cloud Platform](https://cloud.google.com/) Routes
+
+### Route - Sites
+
+* [cloudflare](https://github.com/zealic/autorosvpn/tree/master/sites/cloudflare)  
+  [Cloudflare CDN Provider](https://www.cloudflare.com)
+* [mikrotik](https://github.com/zealic/autorosvpn/tree/master/sites/mikrotik)  
+  [Mikrotik](https://mikrotik.com/)
+
+### Route - chnroutes
 中国路由表
 
 * chnroutes  
@@ -40,21 +56,10 @@ Router OS only import script:
 * chnroutes-crtc  
   中国铁通路由表
 
-### Cloud Service Providers Routes
+## Automatic update schedule
+You can RouterOS schedule to auto update address list.
 
-* [aws](https://github.com/zealic/autorosvpn/tree/master/cloud/aws)  
-  [Amazon Web Services](https://aws.amazon.com/cn/) Routes
-* [azure](https://github.com/zealic/autorosvpn/tree/master/cloud/azure)  
-  [Microsoft Azure](https://azure.microsoft.com/) Routes
-* [gcp](https://github.com/zealic/autorosvpn/tree/master/cloud/gcp)  
-  [Google Cloud Platform](https://cloud.google.com/) Routes
-
-### Web Sites
-
-* [cloudflare](https://github.com/zealic/autorosvpn/tree/master/sites/cloudflare)  
-  [Cloudflare CDN Provider](https://www.cloudflare.com)
-* [mikrotik](https://github.com/zealic/autorosvpn/tree/master/sites/mikrotik)  
-  [Mikrotik](https://mikrotik.com/)
+Use the [Terraform RouterOS](https://registry.terraform.io/providers/terraform-routeros/routeros/latest/docs) orchestration I have already written [schedules.tf](./schedules.tf) to import the scheduled tasks.
 
 ### TODO
 Parse routes from:
@@ -62,3 +67,18 @@ Parse routes from:
 * https://bgp.he.net/country/CN
 * https://ftp.arin.net/pub/rr/arin.db
 * https://ftp.arin.net/pub/stats/
+
+## Donate
+
+Bitcoin: [`18mXNJyHdUSKfvQSrXCdQsuStp6eWFUVnh`][donate-url]
+
+[![Donate Bitcoin][donate-image]][donate-url]
+
+## License
+[MIT](./LICENSE)
+
+## References
+- https://bgp.he.net
+
+[donate-image]:   https://github.com/zealic/vanitygen-hd/blob/master/donate.png
+[donate-url]:     https://www.blockchain.com/btc/address/18mXNJyHdUSKfvQSrXCdQsuStp6eWFUVnh
