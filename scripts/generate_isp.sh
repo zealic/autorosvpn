@@ -9,7 +9,7 @@ prepare_route_by_id(){
   ${WHOIS3} -l -i mb $id \
     | grep 'inetnum' | sed 's/inetnum:        //g' \
     | awk '{ print $1 $2 $3}' \
-    | xargs -I {} sh -c "ipcalc {} | tail -n +2" > $iplist
+    | xargs -I {} sh -c "ipcalc -d {} | grep Network: | awk '{ print \$2}'" > $iplist
 }
 
 generate(){
