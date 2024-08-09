@@ -1,9 +1,5 @@
-#!/bin/bash
-if [[ "$(uname -s)" == "Darwin" ]]; then
-  grep(){
-  	ggrep "$@"
-  }
-fi
+#!/usr/bin/env bash
+source $(dirname "$0")/common.sh
 
 # Amazon Web Services
 prepare_aws_route(){
@@ -32,6 +28,7 @@ prepare_azure_route(){
 
   curl -fsSL -o $file ${url}
   cat $file | grep -Eo "([0-9]+\.+){3}[0-9]+\/[0-9]+" | sort -t . -n > $iplist
+  cat $file | match_ipv6 | sort -t : -n >> $iplist
   rm $file
 }
 
@@ -106,8 +103,10 @@ make_route_zones(){
   cat $zonelist_trimed | sort | uniq |
   {
     while read zone; do
-      grep -E "${zone}$" $merged_file | sort -t . -n | write_rsc $name@$zone > $name@$zone.rsc
-      grep -E "${zone}$" $merged_file | write_txt > $name@$zone.txt
+      grep -E "${zone}\$" $merged_file | trim_ipv6 | write_rsc $name@$zone > $name@$zone.rsc
+      grep -E "${zone}\$" $merged_file | only_ipv6 | write_rsc_ipv6 $name@$zone > $name@$zone.ipv6.rsc
+      grep -E "${zone}\$" $merged_file | trim_ipv6 | write_txt > $name@$zone.txt
+      grep -E "${zone}\$" $merged_file | only_ipv6 | write_txt > $name@$zone.ipv6.txt
     done
   }
 
@@ -115,13 +114,16 @@ make_route_zones(){
   cat $zonelist | sort | uniq |
   {
     while read subzone; do
-      grep "${subzone}" $merged_file | sort -t . -n | write_rsc $name@$subzone > $name@$subzone.rsc
-      grep "${subzone}" $merged_file | write_txt > $name@$subzone.txt
+      grep "${subzone}" $merged_file | trim_ipv6 | write_rsc $name@$subzone > $name@$subzone.rsc
+      grep "${subzone}" $merged_file | only_ipv6 | write_rsc_ipv6 $name@$subzone > $name@$subzone.ipv6.rsc
+      grep "${subzone}" $merged_file | trim_ipv6 | write_txt > $name@$subzone.txt
+      grep "${subzone}" $merged_file | only_ipv6 | write_txt > $name@$subzone.ipv6.txt
     done
   }
 
   # All
-  cat $zonelist_trimed | sort | uniq | awk -v name=$name '{ print name "@" $1 ".rsc" }' | xargs cat > $name-zones.rsc 
+  cat $zonelist_trimed | sort | uniq | awk -v "name=$name" '{ print name "@" $1 ".rsc" }' | xargs cat > $name-zones.rsc
+  cat $zonelist_trimed | sort | uniq | awk -v "name=$name" '{ print name "@" $1 ".ipv6.rsc" }' | xargs cat > $name-zones.ipv6.rsc
 
   rm $merged_file $zonelist_trimed
 }
@@ -155,39 +157,18 @@ make_route_regions(){
   cat $zonelist_trimed | sort | uniq |
   {
     while read region; do
-      grep -E "${region}$" $merged_file | sort -t . -n |write_rsc $name@$region > $name@$region.rsc
-      grep -E "${region}$" $merged_file | write_txt > $name@$region.txt
+      grep -E "${region}\$" $merged_file | trim_ipv6 | write_rsc $name@$region > $name@$region.rsc
+      grep -E "${region}\$" $merged_file | only_ipv6 | write_rsc_ipv6 $name@$region > $name@$region.ipv6.rsc
+      grep -E "${region}\$" $merged_file | trim_ipv6 | write_txt > $name@$region.txt
+      grep -E "${region}\$" $merged_file | only_ipv6 | write_txt > $name@$region.ipv6.txt
     done
   }
 
   # All
-  cat $zonelist_trimed | sort | uniq | awk -v name=$name '{ print name "@" $1 ".rsc" }' | xargs cat > $name-regions.rsc 
+  cat $zonelist_trimed | sort | uniq | awk -v "name=$name" '{ print name "@" $1 ".rsc" }' | xargs cat > $name-regions.rsc
+  cat $zonelist_trimed | sort | uniq | awk -v "name=$name" '{ print name "@" $1 ".ipv6.rsc" }' | xargs cat > $name-regions.ipv6.rsc
 
   rm $merged_file $zonelist_trimed
-}
-
-write_rsc(){
-  local name=$1
-  echo "/ip firewall address-list remove [/ip firewall address-list find list=\"${name}\"]"
-  echo "/ip firewall address-list"
-  while read line; do
-    local fields=($(echo "$line"))
-    local address=${fields[0]}
-    echo "add address=$address disabled=no list=$name"
-  done | uniq | trim_ipv6
-}
-
-write_txt(){
-  while read line; do
-    local fields=($(echo "$line"))
-    local address=${fields[0]}
-    echo "$address"
-  done | uniq | trim_ipv6 | sort -t . -n 
-}
-
-trim_ipv6() {
-  local source=$1
-  grep -v ":" $source
 }
 
 generate(){
@@ -203,10 +184,14 @@ generate(){
 
   pushd cloud/$provider > /dev/null
   prepare_${provider}_route ${provider}.json $iplist $zonelist
-  # IP lists
-  cat $iplist | trim_ipv6 | sort -t . -n > route-${provider}.txt
+
   # All routes
-  make_route route-${provider} $iplist | trim_ipv6 > route-${provider}.rsc
+  cat $iplist | trim_ipv6 | write_rsc route-${provider} > route-${provider}.rsc
+  cat $iplist | only_ipv6 | write_rsc_ipv6 route-${provider} > route-${provider}.ipv6.rsc
+  # IP lists
+  cat $iplist | trim_ipv6 | write_txt > route-${provider}.txt
+  cat $iplist | only_ipv6 | write_txt > route-${provider}.ipv6.txt
+
   if [[ -f $zonelist ]]; then
     # Regions route
     make_route_regions route-${provider} $iplist $zonelist
@@ -221,4 +206,3 @@ generate(){
 generate aws
 generate azure
 generate gcp
-

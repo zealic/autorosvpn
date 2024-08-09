@@ -28,9 +28,10 @@ generate(){
   pushd isp/$country > /dev/null
   prepare_route_by_id $id $iplist
 
-  cat $iplist | sort -t . -n | write_rsc ${fullname} > ${fullname}.rsc
-  cat $iplist | sort -t . -n | write_txt ${fullname} > ${fullname}.txt
-
+  cat $iplist | sort -t . -n | trim_ipv6 | write_rsc ${fullname} > ${fullname}.rsc
+  #cat $iplist | sort -t : -n | only_ipv6 | write_rsc_ipv6 ${fullname} > ${fullname}.ipv6.rsc
+  cat $iplist | sort -t . -n | trim_ipv6 | write_txt ${fullname} > ${fullname}.txt
+  #cat $iplist | sort -t : -n | only_ipv6 | write_txt ${fullname} > ${fullname}.ipv6.txt
   rm $iplist
   popd > /dev/null
 }
