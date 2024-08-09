@@ -67,13 +67,23 @@ resource "routeros_system_scheduler" "schedule_update-route-cloudflare" {
   interval   = "4w"
 }
 
+resource "routeros_system_scheduler" "schedule_update-route-github" {
+  name     = "schedule_update-route-github"
+  on_event = file("scripts/update-route-github.rsc")
+  policy   = ["read", "write", "policy", "test"]
+
+  start_date = "1970-01-01"
+  start_time = "07:10:00"
+  interval   = "4w"
+}
+
 resource "routeros_system_scheduler" "schedule_update-route-mikrotik" {
   name     = "schedule_update-route-mikrotik"
   on_event = file("scripts/update-route-mikrotik.rsc")
   policy   = ["read", "write", "policy", "test"]
 
   start_date = "1970-01-01"
-  start_time = "07:10:00"
+  start_time = "07:20:00"
   interval   = "4w"
 }
 
@@ -83,7 +93,7 @@ resource "routeros_system_scheduler" "schedule_update-route-telegram" {
   policy   = ["read", "write", "policy", "test"]
 
   start_date = "1970-01-01"
-  start_time = "07:20:00"
+  start_time = "07:30:00"
   interval   = "4w"
 }
 
@@ -93,6 +103,6 @@ resource "routeros_system_scheduler" "schedule_update-route-valve" {
   policy   = ["read", "write", "policy", "test"]
 
   start_date = "1970-01-01"
-  start_time = "07:30:00"
+  start_time = "07:40:00"
   interval   = "4w"
 }

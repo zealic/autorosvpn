@@ -34,11 +34,15 @@ Router OS only import script:
 ### Route - Sites
 
 * [route-cloudflare](https://github.com/zealic/autorosvpn/tree/master/sites/cloudflare)  
-  [Cloudflare CDN Provider](https://www.cloudflare.com)
+  [Cloudflare CDN Provider](https://cloudflare.com)
+* [route-github](https://github.com/zealic/autorosvpn/tree/master/sites/github)  
+  [Github](https://github.com)
 * [route-mikrotik](https://github.com/zealic/autorosvpn/tree/master/sites/mikrotik)  
   [Mikrotik](https://mikrotik.com)
+* [route-telegram](https://github.com/zealic/autorosvpn/tree/master/sites/telegram)  
+  [Telegram](https://telegram.org)
 * [route-valve](https://github.com/zealic/autorosvpn/tree/master/sites/valve)  
-  [Valve](https://valvesoftware.com) and [Steam Store](https://sotre.steampowered.com)
+  [Valve Software](https://valvesoftware.com) and [Steam Store](https://sotre.steampowered.com)
 
 ### Route - chnroutes
 中国路由表

@@ -11,6 +11,16 @@ prepare_cloudflare_route(){
   rm $file
 }
 
+prepare_github_route(){
+  local url="https://api.github.com/meta"
+  local file=$1
+  local iplist=$2
+
+  curl -fsSL -o $file ${url}
+  cat $file | tr -d '\\' | grep -Eo "([0-9]+\.+){3}[0-9]+\/[0-9]+" | sort -t . -n > $iplist
+  rm $file
+}
+
 prepare_mikrotik_route(){
   local whois_host=riswhois.ripe.net
   local asn=51894
@@ -84,6 +94,7 @@ trim_ipv6() {
 }
 
 generate cloudflare
+generate github
 generate mikrotik
 generate telegram
 generate valve
