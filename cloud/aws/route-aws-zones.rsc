@@ -1162,6 +1162,7 @@ add address=35.71.96.0/24 disabled=no list=route-aws@ap-southeast
 add address=35.71.97.0/24 disabled=no list=route-aws@ap-southeast
 add address=35.71.112.0/24 disabled=no list=route-aws@ap-southeast
 add address=35.71.118.0/24 disabled=no list=route-aws@ap-southeast
+add address=35.71.124.0/24 disabled=no list=route-aws@ap-southeast
 add address=35.96.128.0/20 disabled=no list=route-aws@ap-southeast
 add address=43.216.0.0/15 disabled=no list=route-aws@ap-southeast
 add address=43.216.39.0/24 disabled=no list=route-aws@ap-southeast
@@ -1620,6 +1621,7 @@ add address=15.248.64.0/21 disabled=no list=route-aws@ca-west
 add address=16.12.56.0/23 disabled=no list=route-aws@ca-west
 add address=16.12.58.0/24 disabled=no list=route-aws@ca-west
 add address=18.99.128.0/20 disabled=no list=route-aws@ca-west
+add address=35.71.123.0/24 disabled=no list=route-aws@ca-west
 add address=35.96.32.0/20 disabled=no list=route-aws@ca-west
 add address=40.176.0.0/15 disabled=no list=route-aws@ca-west
 add address=40.176.65.0/24 disabled=no list=route-aws@ca-west
@@ -3452,6 +3454,7 @@ add address=15.251.0.29/32 disabled=no list=route-aws@il-central
 add address=16.12.12.0/23 disabled=no list=route-aws@il-central
 add address=16.12.14.0/24 disabled=no list=route-aws@il-central
 add address=18.96.160.0/19 disabled=no list=route-aws@il-central
+add address=35.71.122.0/24 disabled=no list=route-aws@il-central
 add address=51.16.0.0/15 disabled=no list=route-aws@il-central
 add address=51.16.96.192/26 disabled=no list=route-aws@il-central
 add address=51.16.97.0/26 disabled=no list=route-aws@il-central

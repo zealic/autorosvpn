@@ -663,6 +663,7 @@ add address=35.71.110.0/24 disabled=no list=route-aws@ap
 add address=35.71.112.0/24 disabled=no list=route-aws@ap
 add address=35.71.114.0/24 disabled=no list=route-aws@ap
 add address=35.71.118.0/24 disabled=no list=route-aws@ap
+add address=35.71.124.0/24 disabled=no list=route-aws@ap
 add address=35.72.0.0/13 disabled=no list=route-aws@ap
 add address=35.72.36.140/31 disabled=no list=route-aws@ap
 add address=35.72.36.142/31 disabled=no list=route-aws@ap
