@@ -6777,6 +6777,8 @@ add address=136.18.138.0/23 disabled=no list=route-aws
 add address=136.18.138.0/23 disabled=no list=route-aws
 add address=136.18.140.0/23 disabled=no list=route-aws
 add address=136.18.140.0/23 disabled=no list=route-aws
+add address=136.18.142.0/23 disabled=no list=route-aws
+add address=136.18.142.0/23 disabled=no list=route-aws
 add address=136.18.254.0/23 disabled=no list=route-aws
 add address=136.18.254.0/23 disabled=no list=route-aws
 add address=139.56.16.0/23 disabled=no list=route-aws
