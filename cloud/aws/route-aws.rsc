@@ -612,6 +612,10 @@ add address=3.168.0.0/14 disabled=no list=route-aws
 add address=3.172.0.0/18 disabled=no list=route-aws
 add address=3.172.0.0/18 disabled=no list=route-aws
 add address=3.172.0.0/18 disabled=no list=route-aws
+add address=3.172.64.0/18 disabled=no list=route-aws
+add address=3.172.64.0/18 disabled=no list=route-aws
+add address=3.173.0.0/17 disabled=no list=route-aws
+add address=3.173.0.0/17 disabled=no list=route-aws
 add address=3.208.0.0/12 disabled=no list=route-aws
 add address=3.208.0.0/12 disabled=no list=route-aws
 add address=3.208.72.176/28 disabled=no list=route-aws
