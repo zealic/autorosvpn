@@ -1440,10 +1440,6 @@ add address=20.242.128.0/17 disabled=no list=route-github
 add address=20.245.0.0/16 disabled=no list=route-github
 add address=20.246.0.0/17 disabled=no list=route-github
 add address=20.246.128.0/17 disabled=no list=route-github
-add address=20.248.137.48/32 disabled=no list=route-github
-add address=20.248.137.49/32 disabled=no list=route-github
-add address=20.248.137.50/32 disabled=no list=route-github
-add address=20.248.137.52/32 disabled=no list=route-github
 add address=20.250.119.64/32 disabled=no list=route-github
 add address=20.252.0.0/17 disabled=no list=route-github
 add address=20.253.0.0/17 disabled=no list=route-github
