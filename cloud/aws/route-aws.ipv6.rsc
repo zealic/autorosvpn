@@ -1506,6 +1506,7 @@ add address=2600:1f01:48e2::/47 disabled=no list=route-aws
 add address=2600:1f01:48e2::/47 disabled=no list=route-aws
 add address=2600:1f01:48f0::/47 disabled=no list=route-aws
 add address=2600:1f01:48f2::/47 disabled=no list=route-aws
+add address=2600:1f01:48f2::/47 disabled=no list=route-aws
 add address=2600:1f01:481a::/47 disabled=no list=route-aws
 add address=2600:1f01:481a::/47 disabled=no list=route-aws
 add address=2600:1f01:4800::/47 disabled=no list=route-aws
