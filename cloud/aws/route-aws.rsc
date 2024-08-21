@@ -66,7 +66,7 @@ add address=3.4.9.0/24 disabled=no list=route-aws
 add address=3.4.9.0/24 disabled=no list=route-aws
 add address=3.4.10.0/24 disabled=no list=route-aws
 add address=3.4.10.0/24 disabled=no list=route-aws
-add address=3.4.15.0/28 disabled=no list=route-aws
+add address=3.4.15.0/29 disabled=no list=route-aws
 add address=3.4.16.0/21 disabled=no list=route-aws
 add address=3.4.16.0/21 disabled=no list=route-aws
 add address=3.4.24.0/21 disabled=no list=route-aws

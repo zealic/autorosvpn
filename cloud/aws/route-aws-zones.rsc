@@ -169,7 +169,7 @@ add address=150.222.135.0/24 disabled=no list=route-aws@ap-east
 add address=151.148.19.0/24 disabled=no list=route-aws@ap-east
 /ip firewall address-list remove [/ip firewall address-list find list="route-aws@ap-northeast"]
 /ip firewall address-list
-add address=3.4.15.0/28 disabled=no list=route-aws@ap-northeast
+add address=3.4.15.0/29 disabled=no list=route-aws@ap-northeast
 add address=3.5.140.0/22 disabled=no list=route-aws@ap-northeast
 add address=3.5.144.0/23 disabled=no list=route-aws@ap-northeast
 add address=3.5.152.0/21 disabled=no list=route-aws@ap-northeast

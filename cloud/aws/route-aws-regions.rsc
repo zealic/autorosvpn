@@ -88,7 +88,7 @@ add address=150.222.208.0/24 disabled=no list=route-aws@af
 add address=3.0.0.0/15 disabled=no list=route-aws@ap
 add address=3.0.5.32/29 disabled=no list=route-aws@ap
 add address=3.0.5.224/27 disabled=no list=route-aws@ap
-add address=3.4.15.0/28 disabled=no list=route-aws@ap
+add address=3.4.15.0/29 disabled=no list=route-aws@ap
 add address=3.5.36.0/22 disabled=no list=route-aws@ap
 add address=3.5.40.0/22 disabled=no list=route-aws@ap
 add address=3.5.44.0/22 disabled=no list=route-aws@ap
