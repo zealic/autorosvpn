@@ -1,5 +1,9 @@
 /ip firewall address-list remove [/ip firewall address-list find list="route-aws@eu-west-1"]
 /ip firewall address-list
+add address=3.4.12.3/32 disabled=no list=route-aws@eu-west-1
+add address=3.4.12.4/32 disabled=no list=route-aws@eu-west-1
+add address=3.4.13.32/28 disabled=no list=route-aws@eu-west-1
+add address=3.4.13.48/28 disabled=no list=route-aws@eu-west-1
 add address=3.5.64.0/21 disabled=no list=route-aws@eu-west-1
 add address=3.5.72.0/23 disabled=no list=route-aws@eu-west-1
 add address=3.248.0.0/13 disabled=no list=route-aws@eu-west-1

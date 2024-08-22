@@ -22,6 +22,11 @@ add address=3.4.4.0/24 disabled=no list=route-aws@us
 add address=3.4.6.0/24 disabled=no list=route-aws@us
 add address=3.4.9.0/24 disabled=no list=route-aws@us
 add address=3.4.10.0/24 disabled=no list=route-aws@us
+add address=3.4.12.5/32 disabled=no list=route-aws@us
+add address=3.4.12.6/32 disabled=no list=route-aws@us
+add address=3.4.13.64/28 disabled=no list=route-aws@us
+add address=3.4.13.80/28 disabled=no list=route-aws@us
+add address=3.4.15.8/29 disabled=no list=route-aws@us
 add address=3.4.16.0/21 disabled=no list=route-aws@us
 add address=3.4.24.0/21 disabled=no list=route-aws@us
 add address=3.5.0.0/19 disabled=no list=route-aws@us
