@@ -78,6 +78,7 @@ add address=2406:da2f::/36 disabled=no list=route-aws@ap
 add address=2406:da10:8000::/36 disabled=no list=route-aws@ap
 add address=2406:da12::/36 disabled=no list=route-aws@ap
 add address=2406:da13::/36 disabled=no list=route-aws@ap
+add address=2406:da14:1c18:2100::/56 disabled=no list=route-aws@ap
 add address=2406:da14:7ff:f800::/56 disabled=no list=route-aws@ap
 add address=2406:da14::/35 disabled=no list=route-aws@ap
 add address=2406:da14:fff:f800::/56 disabled=no list=route-aws@ap
@@ -597,6 +598,7 @@ add address=2a05:d012::/36 disabled=no list=route-aws@eu
 add address=2a05:d014::/35 disabled=no list=route-aws@eu
 add address=2a05:d016::/36 disabled=no list=route-aws@eu
 add address=2a05:d018:7ff:f800::/56 disabled=no list=route-aws@eu
+add address=2a05:d018:403:4e00::/56 disabled=no list=route-aws@eu
 add address=2a05:d018::/35 disabled=no list=route-aws@eu
 add address=2a05:d018:fff:f800::/56 disabled=no list=route-aws@eu
 add address=2a05:d019::/36 disabled=no list=route-aws@eu
@@ -1151,6 +1153,7 @@ add address=2600:1f16:8000::/36 disabled=no list=route-aws@us
 add address=2600:1f16::/34 disabled=no list=route-aws@us
 add address=2600:1f17:8000::/36 disabled=no list=route-aws@us
 add address=2600:1f18:3fff:f800::/56 disabled=no list=route-aws@us
+add address=2600:1f18:6fe3:8c00::/56 disabled=no list=route-aws@us
 add address=2600:1f18:7fff:f800::/56 disabled=no list=route-aws@us
 add address=2600:1f18:8000::/36 disabled=no list=route-aws@us
 add address=2600:1f18::/33 disabled=no list=route-aws@us
