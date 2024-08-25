@@ -506,6 +506,8 @@ add address=34.145.128.0/17 disabled=no list=route-gcp@us
 add address=34.148.0.0/16 disabled=no list=route-gcp@us
 add address=34.150.128.0/17 disabled=no list=route-gcp@us
 add address=34.152.72.0/21 disabled=no list=route-gcp@us
+add address=34.153.48.0/21 disabled=no list=route-gcp@us
+add address=34.153.240.0/21 disabled=no list=route-gcp@us
 add address=34.157.0.0/21 disabled=no list=route-gcp@us
 add address=34.157.16.0/20 disabled=no list=route-gcp@us
 add address=34.157.32.0/22 disabled=no list=route-gcp@us
