@@ -500,6 +500,8 @@ add address=3.101.226.88/29 disabled=no list=route-aws
 add address=3.101.232.0/22 disabled=no list=route-aws
 add address=3.101.239.34/31 disabled=no list=route-aws
 add address=3.101.239.36/30 disabled=no list=route-aws
+add address=3.102.0.0/15 disabled=no list=route-aws
+add address=3.102.0.0/15 disabled=no list=route-aws
 add address=3.104.0.0/14 disabled=no list=route-aws
 add address=3.104.0.0/14 disabled=no list=route-aws
 add address=3.104.82.0/23 disabled=no list=route-aws

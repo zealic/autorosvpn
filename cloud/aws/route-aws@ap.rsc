@@ -103,6 +103,7 @@ add address=3.39.82.128/25 disabled=no list=route-aws@ap
 add address=3.39.113.0/24 disabled=no list=route-aws@ap
 add address=3.39.114.0/23 disabled=no list=route-aws@ap
 add address=3.39.116.0/26 disabled=no list=route-aws@ap
+add address=3.102.0.0/15 disabled=no list=route-aws@ap
 add address=3.104.0.0/14 disabled=no list=route-aws@ap
 add address=3.104.82.0/23 disabled=no list=route-aws@ap
 add address=3.105.5.0/27 disabled=no list=route-aws@ap
