@@ -13,6 +13,7 @@ add address=2600:1f2d:8000::/36 disabled=no list=route-aws@us-west-2
 add address=2600:1f2e:8000::/36 disabled=no list=route-aws@us-west-2
 add address=2600:1f12:8000::/36 disabled=no list=route-aws@us-west-2
 add address=2600:1f13::/36 disabled=no list=route-aws@us-west-2
+add address=2600:1f13:a0d:a700::/56 disabled=no list=route-aws@us-west-2
 add address=2600:1f14:7ff:f800::/56 disabled=no list=route-aws@us-west-2
 add address=2600:1f14:8000::/36 disabled=no list=route-aws@us-west-2
 add address=2600:1f14::/34 disabled=no list=route-aws@us-west-2
