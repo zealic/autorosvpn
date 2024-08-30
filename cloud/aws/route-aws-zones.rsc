@@ -171,7 +171,13 @@ add address=151.148.19.0/24 disabled=no list=route-aws@ap-east
 /ip firewall address-list
 add address=3.4.12.11/32 disabled=no list=route-aws@ap-northeast
 add address=3.4.12.12/32 disabled=no list=route-aws@ap-northeast
+add address=3.4.12.27/32 disabled=no list=route-aws@ap-northeast
+add address=3.4.12.28/32 disabled=no list=route-aws@ap-northeast
+add address=3.4.12.29/32 disabled=no list=route-aws@ap-northeast
+add address=3.4.12.30/32 disabled=no list=route-aws@ap-northeast
 add address=3.4.15.0/29 disabled=no list=route-aws@ap-northeast
+add address=3.4.15.64/29 disabled=no list=route-aws@ap-northeast
+add address=3.4.15.72/29 disabled=no list=route-aws@ap-northeast
 add address=3.5.140.0/22 disabled=no list=route-aws@ap-northeast
 add address=3.5.144.0/23 disabled=no list=route-aws@ap-northeast
 add address=3.5.152.0/21 disabled=no list=route-aws@ap-northeast
@@ -665,6 +671,12 @@ add address=208.78.130.0/23 disabled=no list=route-aws@ap-northeast
 add address=216.39.160.0/21 disabled=no list=route-aws@ap-northeast
 /ip firewall address-list remove [/ip firewall address-list find list="route-aws@ap-south"]
 /ip firewall address-list
+add address=3.4.12.19/32 disabled=no list=route-aws@ap-south
+add address=3.4.12.20/32 disabled=no list=route-aws@ap-south
+add address=3.4.12.21/32 disabled=no list=route-aws@ap-south
+add address=3.4.12.22/32 disabled=no list=route-aws@ap-south
+add address=3.4.15.32/29 disabled=no list=route-aws@ap-south
+add address=3.4.15.40/29 disabled=no list=route-aws@ap-south
 add address=3.5.44.0/22 disabled=no list=route-aws@ap-south
 add address=3.5.208.0/22 disabled=no list=route-aws@ap-south
 add address=3.5.212.0/23 disabled=no list=route-aws@ap-south
@@ -902,8 +914,20 @@ add address=3.0.5.32/29 disabled=no list=route-aws@ap-southeast
 add address=3.0.5.224/27 disabled=no list=route-aws@ap-southeast
 add address=3.4.12.1/32 disabled=no list=route-aws@ap-southeast
 add address=3.4.12.2/32 disabled=no list=route-aws@ap-southeast
+add address=3.4.12.15/32 disabled=no list=route-aws@ap-southeast
+add address=3.4.12.16/32 disabled=no list=route-aws@ap-southeast
+add address=3.4.12.17/32 disabled=no list=route-aws@ap-southeast
+add address=3.4.12.18/32 disabled=no list=route-aws@ap-southeast
+add address=3.4.12.23/32 disabled=no list=route-aws@ap-southeast
+add address=3.4.12.24/32 disabled=no list=route-aws@ap-southeast
+add address=3.4.12.25/32 disabled=no list=route-aws@ap-southeast
+add address=3.4.12.26/32 disabled=no list=route-aws@ap-southeast
 add address=3.4.13.0/28 disabled=no list=route-aws@ap-southeast
 add address=3.4.13.16/28 disabled=no list=route-aws@ap-southeast
+add address=3.4.15.16/29 disabled=no list=route-aws@ap-southeast
+add address=3.4.15.24/29 disabled=no list=route-aws@ap-southeast
+add address=3.4.15.48/29 disabled=no list=route-aws@ap-southeast
+add address=3.4.15.56/29 disabled=no list=route-aws@ap-southeast
 add address=3.5.36.0/22 disabled=no list=route-aws@ap-southeast
 add address=3.5.40.0/22 disabled=no list=route-aws@ap-southeast
 add address=3.5.146.0/23 disabled=no list=route-aws@ap-southeast
