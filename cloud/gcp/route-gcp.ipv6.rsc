@@ -28,6 +28,7 @@ add address=2600:1900:4160::/44 disabled=no list=route-gcp
 add address=2600:1900:4170::/44 disabled=no list=route-gcp
 add address=2600:1900:4180::/44 disabled=no list=route-gcp
 add address=2600:1900:4280::/44 disabled=no list=route-gcp
+add address=2600:1900:4290::/44 disabled=no list=route-gcp
 add address=2600:1900:5400::/44 disabled=no list=route-gcp
 add address=2600:1900:8000::/44 disabled=no list=route-gcp
 add address=2600:1901:81b0::/44 disabled=no list=route-gcp
