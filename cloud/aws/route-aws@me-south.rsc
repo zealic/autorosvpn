@@ -43,6 +43,12 @@ add address=15.230.121.4/32 disabled=no list=route-aws@me-south
 add address=15.230.121.5/32 disabled=no list=route-aws@me-south
 add address=15.230.121.6/31 disabled=no list=route-aws@me-south
 add address=15.230.121.8/31 disabled=no list=route-aws@me-south
+add address=15.230.122.0/32 disabled=no list=route-aws@me-south
+add address=15.230.122.1/32 disabled=no list=route-aws@me-south
+add address=15.230.122.2/32 disabled=no list=route-aws@me-south
+add address=15.230.122.3/32 disabled=no list=route-aws@me-south
+add address=15.230.122.4/31 disabled=no list=route-aws@me-south
+add address=15.230.122.6/31 disabled=no list=route-aws@me-south
 add address=15.230.174.0/24 disabled=no list=route-aws@me-south
 add address=15.230.198.0/24 disabled=no list=route-aws@me-south
 add address=15.248.20.0/22 disabled=no list=route-aws@me-south
