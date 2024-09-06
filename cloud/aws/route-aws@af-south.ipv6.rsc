@@ -4,6 +4,8 @@ add address=2400:6500:0:7700::/56 disabled=no list=route-aws@af-south
 add address=2406:da00:1000::/40 disabled=no list=route-aws@af-south
 add address=2406:da11::/36 disabled=no list=route-aws@af-south
 add address=2406:da21::/36 disabled=no list=route-aws@af-south
+add address=2406:da32:1000::/40 disabled=no list=route-aws@af-south
+add address=2406:da36:1000::/40 disabled=no list=route-aws@af-south
 add address=2406:da38:1000::/40 disabled=no list=route-aws@af-south
 add address=2406:da60:1000::/40 disabled=no list=route-aws@af-south
 add address=2406:da61:1000::/40 disabled=no list=route-aws@af-south

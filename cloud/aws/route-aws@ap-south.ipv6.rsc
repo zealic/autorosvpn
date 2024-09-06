@@ -8,6 +8,10 @@ add address=2406:da1a::/36 disabled=no list=route-aws@ap-south
 add address=2406:da1b::/36 disabled=no list=route-aws@ap-south
 add address=2406:da2a::/36 disabled=no list=route-aws@ap-south
 add address=2406:da2b::/36 disabled=no list=route-aws@ap-south
+add address=2406:da32:a000::/40 disabled=no list=route-aws@ap-south
+add address=2406:da32:b000::/40 disabled=no list=route-aws@ap-south
+add address=2406:da36:a000::/40 disabled=no list=route-aws@ap-south
+add address=2406:da36:b000::/40 disabled=no list=route-aws@ap-south
 add address=2406:da38:a000::/40 disabled=no list=route-aws@ap-south
 add address=2406:da38:b000::/40 disabled=no list=route-aws@ap-south
 add address=2406:da60:a000::/40 disabled=no list=route-aws@ap-south

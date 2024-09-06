@@ -7,6 +7,8 @@ add address=2406:da1c:7ff:f800::/56 disabled=no list=route-aws@ap-southeast-2
 add address=2406:da1c::/36 disabled=no list=route-aws@ap-southeast-2
 add address=2406:da1c:fff:f800::/56 disabled=no list=route-aws@ap-southeast-2
 add address=2406:da2c::/36 disabled=no list=route-aws@ap-southeast-2
+add address=2406:da32:c000::/40 disabled=no list=route-aws@ap-southeast-2
+add address=2406:da36:c000::/40 disabled=no list=route-aws@ap-southeast-2
 add address=2406:da38:c000::/40 disabled=no list=route-aws@ap-southeast-2
 add address=2406:da60:c000::/40 disabled=no list=route-aws@ap-southeast-2
 add address=2406:da61:c000::/40 disabled=no list=route-aws@ap-southeast-2

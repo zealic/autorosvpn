@@ -4,6 +4,8 @@ add address=2400:6500:0:7c00::/56 disabled=no list=route-aws@ap-southeast-5
 add address=2406:da00:800::/40 disabled=no list=route-aws@ap-southeast-5
 add address=2406:da10:8000::/36 disabled=no list=route-aws@ap-southeast-5
 add address=2406:da20:8000::/36 disabled=no list=route-aws@ap-southeast-5
+add address=2406:da32:800::/40 disabled=no list=route-aws@ap-southeast-5
+add address=2406:da36:800::/40 disabled=no list=route-aws@ap-southeast-5
 add address=2406:da38:800::/40 disabled=no list=route-aws@ap-southeast-5
 add address=2406:da60:800::/40 disabled=no list=route-aws@ap-southeast-5
 add address=2406:da61:800::/40 disabled=no list=route-aws@ap-southeast-5

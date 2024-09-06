@@ -23,6 +23,12 @@ add address=2406:da23::/36 disabled=no list=route-aws@ap-northeast
 add address=2406:da24::/36 disabled=no list=route-aws@ap-northeast
 add address=2406:da25::/36 disabled=no list=route-aws@ap-northeast
 add address=2406:da26::/36 disabled=no list=route-aws@ap-northeast
+add address=2406:da32:2000::/40 disabled=no list=route-aws@ap-northeast
+add address=2406:da32:4000::/40 disabled=no list=route-aws@ap-northeast
+add address=2406:da32:6000::/40 disabled=no list=route-aws@ap-northeast
+add address=2406:da36:2000::/40 disabled=no list=route-aws@ap-northeast
+add address=2406:da36:4000::/40 disabled=no list=route-aws@ap-northeast
+add address=2406:da36:6000::/40 disabled=no list=route-aws@ap-northeast
 add address=2406:da38:2000::/40 disabled=no list=route-aws@ap-northeast
 add address=2406:da38:4000::/40 disabled=no list=route-aws@ap-northeast
 add address=2406:da38:6000::/40 disabled=no list=route-aws@ap-northeast

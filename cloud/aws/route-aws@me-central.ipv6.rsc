@@ -4,6 +4,8 @@ add address=2400:6500:0:7a00::/56 disabled=no list=route-aws@me-central
 add address=2406:da00:7000::/40 disabled=no list=route-aws@me-central
 add address=2406:da17::/36 disabled=no list=route-aws@me-central
 add address=2406:da27::/36 disabled=no list=route-aws@me-central
+add address=2406:da32:7000::/40 disabled=no list=route-aws@me-central
+add address=2406:da36:7000::/40 disabled=no list=route-aws@me-central
 add address=2406:da38:7000::/40 disabled=no list=route-aws@me-central
 add address=2406:da60:7000::/40 disabled=no list=route-aws@me-central
 add address=2406:da61:7000::/40 disabled=no list=route-aws@me-central
