@@ -7,6 +7,8 @@ add address=34.100.128.0/17 disabled=no list=route-gcp@asia-south1
 add address=34.104.108.0/23 disabled=no list=route-gcp@asia-south1
 add address=34.124.44.0/23 disabled=no list=route-gcp@asia-south1
 add address=34.152.64.0/22 disabled=no list=route-gcp@asia-south1
+add address=34.153.58.0/23 disabled=no list=route-gcp@asia-south1
+add address=34.153.250.0/23 disabled=no list=route-gcp@asia-south1
 add address=34.157.87.0/24 disabled=no list=route-gcp@asia-south1
 add address=34.157.215.0/24 disabled=no list=route-gcp@asia-south1
 add address=34.177.32.0/22 disabled=no list=route-gcp@asia-south1
