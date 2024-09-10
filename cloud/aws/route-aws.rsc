@@ -6222,6 +6222,8 @@ add address=98.82.109.16/28 disabled=no list=route-aws
 add address=98.82.142.0/24 disabled=no list=route-aws
 add address=98.82.154.0/23 disabled=no list=route-aws
 add address=98.82.156.0/23 disabled=no list=route-aws
+add address=98.82.158.0/23 disabled=no list=route-aws
+add address=98.82.160.0/23 disabled=no list=route-aws
 add address=98.88.0.0/13 disabled=no list=route-aws
 add address=98.130.0.0/16 disabled=no list=route-aws
 add address=98.130.0.0/16 disabled=no list=route-aws
