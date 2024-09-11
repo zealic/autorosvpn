@@ -667,7 +667,6 @@ add address=2401:ffc0::/32 disabled=no list=novpn.ipv6
 add address=2402:440::/32 disabled=no list=novpn.ipv6
 add address=2402:5c0::/32 disabled=no list=novpn.ipv6
 add address=2402:840::/32 disabled=no list=novpn.ipv6
-add address=2402:ac0::/32 disabled=no list=novpn.ipv6
 add address=2402:e00::/32 disabled=no list=novpn.ipv6
 add address=2402:fc0::/32 disabled=no list=novpn.ipv6
 add address=2402:1000::/32 disabled=no list=novpn.ipv6
