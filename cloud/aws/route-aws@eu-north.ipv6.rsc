@@ -4,6 +4,7 @@ add address=2a01:578:0:7500::1/128 disabled=no list=route-aws@eu-north
 add address=2a01:578:0:7501::1/128 disabled=no list=route-aws@eu-north
 add address=2a01:578:0:7502::1/128 disabled=no list=route-aws@eu-north
 add address=2a05:d000:6000::/40 disabled=no list=route-aws@eu-north
+add address=2a05:d016:494:f00::/56 disabled=no list=route-aws@eu-north
 add address=2a05:d016::/36 disabled=no list=route-aws@eu-north
 add address=2a05:d026::/36 disabled=no list=route-aws@eu-north
 add address=2a05:d030:6000::/40 disabled=no list=route-aws@eu-north

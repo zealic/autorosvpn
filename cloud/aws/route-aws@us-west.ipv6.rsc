@@ -6,6 +6,7 @@ add address=2600:1f01:48a0::/47 disabled=no list=route-aws@us-west
 add address=2600:1f01:4874::/47 disabled=no list=route-aws@us-west
 add address=2600:1f1b:8000::/36 disabled=no list=route-aws@us-west
 add address=2600:1f1c:7ff:f800::/56 disabled=no list=route-aws@us-west
+add address=2600:1f1c:12d:e900::/56 disabled=no list=route-aws@us-west
 add address=2600:1f1c:4000::/36 disabled=no list=route-aws@us-west
 add address=2600:1f1c::/36 disabled=no list=route-aws@us-west
 add address=2600:1f1c:fff:f800::/56 disabled=no list=route-aws@us-west
@@ -127,6 +128,7 @@ add address=2606:7b40:10ff:a2e0::/60 disabled=no list=route-aws@us-west
 add address=2606:7b40:10ff:a200::/60 disabled=no list=route-aws@us-west
 add address=2606:7b40:10ff:a210::/60 disabled=no list=route-aws@us-west
 add address=2606:7b40:10ff:a220::/60 disabled=no list=route-aws@us-west
+add address=2606:7b40:10ff:a230::/60 disabled=no list=route-aws@us-west
 add address=2606:7b40:10ff:a250::/60 disabled=no list=route-aws@us-west
 add address=2606:7b40:10ff:a270::/60 disabled=no list=route-aws@us-west
 add address=2606:7b40:10ff:a280::/60 disabled=no list=route-aws@us-west
@@ -137,6 +139,7 @@ add address=2606:7b40:10ff:d2f0::/60 disabled=no list=route-aws@us-west
 add address=2606:7b40:10ff:d200::/60 disabled=no list=route-aws@us-west
 add address=2606:7b40:10ff:d210::/60 disabled=no list=route-aws@us-west
 add address=2606:7b40:10ff:d220::/60 disabled=no list=route-aws@us-west
+add address=2606:7b40:10ff:d230::/60 disabled=no list=route-aws@us-west
 add address=2606:7b40:10ff:d250::/60 disabled=no list=route-aws@us-west
 add address=2606:7b40:10ff:d270::/60 disabled=no list=route-aws@us-west
 add address=2606:7b40:10ff:d280::/60 disabled=no list=route-aws@us-west
