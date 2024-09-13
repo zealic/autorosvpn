@@ -2,6 +2,7 @@
 /ipv6 firewall address-list
 add address=2400:6500:0:7a00::/56 disabled=no list=route-aws@me-central-1
 add address=2406:da00:7000::/40 disabled=no list=route-aws@me-central-1
+add address=2406:da17:1db:b00::/56 disabled=no list=route-aws@me-central-1
 add address=2406:da17::/36 disabled=no list=route-aws@me-central-1
 add address=2406:da27::/36 disabled=no list=route-aws@me-central-1
 add address=2406:da32:7000::/40 disabled=no list=route-aws@me-central-1

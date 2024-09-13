@@ -2,6 +2,7 @@
 /ipv6 firewall address-list
 add address=2400:6500:0:7700::/56 disabled=no list=route-aws@af-south
 add address=2406:da00:1000::/40 disabled=no list=route-aws@af-south
+add address=2406:da11:700:3b00::/56 disabled=no list=route-aws@af-south
 add address=2406:da11::/36 disabled=no list=route-aws@af-south
 add address=2406:da21::/36 disabled=no list=route-aws@af-south
 add address=2406:da32:1000::/40 disabled=no list=route-aws@af-south
@@ -36,6 +37,7 @@ add address=2406:daff:1000::/40 disabled=no list=route-aws@af-south
 add address=2400:6500:0:7300::/56 disabled=no list=route-aws@ap-east
 add address=2406:da00:e000::/40 disabled=no list=route-aws@ap-east
 add address=2406:da1e::/32 disabled=no list=route-aws@ap-east
+add address=2406:da1e:da1:3c00::/56 disabled=no list=route-aws@ap-east
 add address=2406:da2e::/36 disabled=no list=route-aws@ap-east
 add address=2406:da32:e000::/40 disabled=no list=route-aws@ap-east
 add address=2406:da36:e000::/40 disabled=no list=route-aws@ap-east
@@ -86,6 +88,7 @@ add address=2406:da14:7ff:f800::/56 disabled=no list=route-aws@ap-northeast
 add address=2406:da14::/35 disabled=no list=route-aws@ap-northeast
 add address=2406:da14:fff:f800::/56 disabled=no list=route-aws@ap-northeast
 add address=2406:da15::/36 disabled=no list=route-aws@ap-northeast
+add address=2406:da16:856:a500::/56 disabled=no list=route-aws@ap-northeast
 add address=2406:da16::/36 disabled=no list=route-aws@ap-northeast
 add address=2406:da22::/36 disabled=no list=route-aws@ap-northeast
 add address=2406:da23::/36 disabled=no list=route-aws@ap-northeast
@@ -199,6 +202,7 @@ add address=2406:da00:b000::/40 disabled=no list=route-aws@ap-south
 add address=2406:da1a:74a:4b00::/56 disabled=no list=route-aws@ap-south
 add address=2406:da1a::/36 disabled=no list=route-aws@ap-south
 add address=2406:da1b::/36 disabled=no list=route-aws@ap-south
+add address=2406:da1b:d1d:8800::/56 disabled=no list=route-aws@ap-south
 add address=2406:da2a::/36 disabled=no list=route-aws@ap-south
 add address=2406:da2b::/36 disabled=no list=route-aws@ap-south
 add address=2406:da32:a000::/40 disabled=no list=route-aws@ap-south
@@ -283,6 +287,7 @@ add address=2406:da1c:90e:4a00::/56 disabled=no list=route-aws@ap-southeast
 add address=2406:da1c::/36 disabled=no list=route-aws@ap-southeast
 add address=2406:da1c:fff:f800::/56 disabled=no list=route-aws@ap-southeast
 add address=2406:da1f::/36 disabled=no list=route-aws@ap-southeast
+add address=2406:da1f:b4f:4600::/56 disabled=no list=route-aws@ap-southeast
 add address=2406:da2c::/36 disabled=no list=route-aws@ap-southeast
 add address=2406:da2f::/36 disabled=no list=route-aws@ap-southeast
 add address=2406:da10:8000::/36 disabled=no list=route-aws@ap-southeast
@@ -292,6 +297,7 @@ add address=2406:da18:752:6600::/56 disabled=no list=route-aws@ap-southeast
 add address=2406:da18:8000::/36 disabled=no list=route-aws@ap-southeast
 add address=2406:da18::/36 disabled=no list=route-aws@ap-southeast
 add address=2406:da18:fff:f800::/56 disabled=no list=route-aws@ap-southeast
+add address=2406:da19:14b:8c00::/56 disabled=no list=route-aws@ap-southeast
 add address=2406:da19::/36 disabled=no list=route-aws@ap-southeast
 add address=2406:da20:8000::/36 disabled=no list=route-aws@ap-southeast
 add address=2406:da22:8000::/36 disabled=no list=route-aws@ap-southeast
@@ -542,6 +548,7 @@ add address=2620:107:4000:a::/64 disabled=no list=route-aws@ca-central
 /ipv6 firewall address-list remove [/ipv6 firewall address-list find list="route-aws@ca-west"]
 /ipv6 firewall address-list
 add address=2600:1f00:a400::/40 disabled=no list=route-aws@ca-west
+add address=2600:1f1a:4ff6:d500::/56 disabled=no list=route-aws@ca-west
 add address=2600:1f1a:4000::/36 disabled=no list=route-aws@ca-west
 add address=2600:1f2a:4000::/36 disabled=no list=route-aws@ca-west
 add address=2600:1f32:a400::/40 disabled=no list=route-aws@ca-west
@@ -646,6 +653,7 @@ add address=2a05:d000:4000::/40 disabled=no list=route-aws@eu-central
 add address=2a05:d000:9000::/40 disabled=no list=route-aws@eu-central
 add address=2a05:d014:17a8:8b00::/56 disabled=no list=route-aws@eu-central
 add address=2a05:d014::/35 disabled=no list=route-aws@eu-central
+add address=2a05:d019:1d6:2100::/56 disabled=no list=route-aws@eu-central
 add address=2a05:d019::/36 disabled=no list=route-aws@eu-central
 add address=2a05:d01b::/36 disabled=no list=route-aws@eu-central
 add address=2a05:d01d::/36 disabled=no list=route-aws@eu-central
@@ -796,7 +804,9 @@ add address=2a01:578:0:7800::/56 disabled=no list=route-aws@eu-south
 add address=2a05:d000:1000::/40 disabled=no list=route-aws@eu-south
 add address=2a05:d000:a000::/40 disabled=no list=route-aws@eu-south
 add address=2a05:d011::/36 disabled=no list=route-aws@eu-south
+add address=2a05:d011:cbe:f700::/56 disabled=no list=route-aws@eu-south
 add address=2a05:d01a::/36 disabled=no list=route-aws@eu-south
+add address=2a05:d01a:c03:4a00::/56 disabled=no list=route-aws@eu-south
 add address=2a05:d021::/36 disabled=no list=route-aws@eu-south
 add address=2a05:d02a::/36 disabled=no list=route-aws@eu-south
 add address=2a05:d030:1000::/40 disabled=no list=route-aws@eu-south
@@ -1067,6 +1077,7 @@ add address=2620:107:4008::/45 disabled=no list=route-aws@global
 add address=2a01:578:0:7700::/56 disabled=no list=route-aws@il-central
 add address=2a05:d000:5000::/40 disabled=no list=route-aws@il-central
 add address=2a05:d015::/36 disabled=no list=route-aws@il-central
+add address=2a05:d025:451:7d00::/56 disabled=no list=route-aws@il-central
 add address=2a05:d025:1000::/36 disabled=no list=route-aws@il-central
 add address=2a05:d025::/36 disabled=no list=route-aws@il-central
 add address=2a05:d030:5000::/40 disabled=no list=route-aws@il-central
@@ -1097,6 +1108,7 @@ add address=2600:f0f0:20::/48 disabled=no list=route-aws@il-central
 /ipv6 firewall address-list
 add address=2400:6500:0:7a00::/56 disabled=no list=route-aws@me-central
 add address=2406:da00:7000::/40 disabled=no list=route-aws@me-central
+add address=2406:da17:1db:b00::/56 disabled=no list=route-aws@me-central
 add address=2406:da17::/36 disabled=no list=route-aws@me-central
 add address=2406:da27::/36 disabled=no list=route-aws@me-central
 add address=2406:da32:7000::/40 disabled=no list=route-aws@me-central
@@ -1126,6 +1138,7 @@ add address=2600:9000:520d::/48 disabled=no list=route-aws@me-central
 /ipv6 firewall address-list remove [/ipv6 firewall address-list find list="route-aws@me-south"]
 /ipv6 firewall address-list
 add address=2a05:d000:e000::/40 disabled=no list=route-aws@me-south
+add address=2a05:d01e:27f:ac00::/56 disabled=no list=route-aws@me-south
 add address=2a05:d01e::/36 disabled=no list=route-aws@me-south
 add address=2a05:d02e::/36 disabled=no list=route-aws@me-south
 add address=2a05:d030:e000::/40 disabled=no list=route-aws@me-south
