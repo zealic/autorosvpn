@@ -2,6 +2,7 @@
 /ipv6 firewall address-list
 add address=2600:1f00:5000::/40 disabled=no list=route-aws@us-gov-east
 add address=2600:1f15::/36 disabled=no list=route-aws@us-gov-east
+add address=2600:1f15:d63:bd00::/56 disabled=no list=route-aws@us-gov-east
 add address=2600:1f25::/36 disabled=no list=route-aws@us-gov-east
 add address=2600:1f32:5000::/40 disabled=no list=route-aws@us-gov-east
 add address=2600:1f36:5000::/40 disabled=no list=route-aws@us-gov-east

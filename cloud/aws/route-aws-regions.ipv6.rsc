@@ -594,6 +594,7 @@ add address=2400:7fc0:2f00::/40 disabled=no list=route-aws@cn
 add address=2400:7fc0:83cc:cc00::/56 disabled=no list=route-aws@cn
 add address=2400:7fc0:83cc:cd00::/56 disabled=no list=route-aws@cn
 add address=2400:7fc0:83cc:ce00::/56 disabled=no list=route-aws@cn
+add address=2400:7fc0:86fd:e00::/56 disabled=no list=route-aws@cn
 add address=2400:7fc0:200::/40 disabled=no list=route-aws@cn
 add address=2400:7fc0:2100::/40 disabled=no list=route-aws@cn
 add address=2400:7fc0:2200::/40 disabled=no list=route-aws@cn
@@ -618,6 +619,7 @@ add address=2404:c2c0:2f00::/40 disabled=no list=route-aws@cn
 add address=2404:c2c0:83cc:cc00::/56 disabled=no list=route-aws@cn
 add address=2404:c2c0:83cc:cd00::/56 disabled=no list=route-aws@cn
 add address=2404:c2c0:83cc:ce00::/56 disabled=no list=route-aws@cn
+add address=2404:c2c0:87aa:4800::/56 disabled=no list=route-aws@cn
 add address=2404:c2c0:200::/40 disabled=no list=route-aws@cn
 add address=2404:c2c0:2100::/40 disabled=no list=route-aws@cn
 add address=2404:c2c0:2200::/40 disabled=no list=route-aws@cn
@@ -1245,6 +1247,7 @@ add address=2600:1f11:8000::/36 disabled=no list=route-aws@us
 add address=2600:1f12:4000::/36 disabled=no list=route-aws@us
 add address=2600:1f12:8000::/36 disabled=no list=route-aws@us
 add address=2600:1f12::/36 disabled=no list=route-aws@us
+add address=2600:1f12:fa9:5100::/56 disabled=no list=route-aws@us
 add address=2600:1f13:8000::/36 disabled=no list=route-aws@us
 add address=2600:1f13::/36 disabled=no list=route-aws@us
 add address=2600:1f13:a0d:a700::/56 disabled=no list=route-aws@us
@@ -1256,6 +1259,7 @@ add address=2600:1f14:fff:f800::/56 disabled=no list=route-aws@us
 add address=2600:1f15:4000::/36 disabled=no list=route-aws@us
 add address=2600:1f15:8000::/36 disabled=no list=route-aws@us
 add address=2600:1f15::/36 disabled=no list=route-aws@us
+add address=2600:1f15:d63:bd00::/56 disabled=no list=route-aws@us
 add address=2600:1f16:138f:cf00::/56 disabled=no list=route-aws@us
 add address=2600:1f16:8000::/36 disabled=no list=route-aws@us
 add address=2600:1f16::/34 disabled=no list=route-aws@us

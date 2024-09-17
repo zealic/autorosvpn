@@ -284,8 +284,7 @@ add address=18.142.0.0/15 disabled=no list=route-aws@ap-southeast
 add address=18.143.204.64/26 disabled=no list=route-aws@ap-southeast
 add address=18.143.206.152/29 disabled=no list=route-aws@ap-southeast
 add address=18.143.206.160/29 disabled=no list=route-aws@ap-southeast
-add address=23.254.8.0/22 disabled=no list=route-aws@ap-southeast
-add address=23.254.12.0/24 disabled=no list=route-aws@ap-southeast
+add address=23.254.8.0/21 disabled=no list=route-aws@ap-southeast
 add address=35.71.96.0/24 disabled=no list=route-aws@ap-southeast
 add address=35.71.97.0/24 disabled=no list=route-aws@ap-southeast
 add address=35.71.112.0/24 disabled=no list=route-aws@ap-southeast
