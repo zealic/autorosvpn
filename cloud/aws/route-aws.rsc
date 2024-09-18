@@ -6127,6 +6127,10 @@ add address=72.44.32.0/19 disabled=no list=route-aws
 add address=72.44.32.0/19 disabled=no list=route-aws
 add address=75.2.0.0/17 disabled=no list=route-aws
 add address=75.2.0.0/17 disabled=no list=route-aws
+add address=75.3.0.0/18 disabled=no list=route-aws
+add address=75.3.0.0/18 disabled=no list=route-aws
+add address=75.3.128.0/18 disabled=no list=route-aws
+add address=75.3.128.0/18 disabled=no list=route-aws
 add address=75.79.0.0/16 disabled=no list=route-aws
 add address=75.101.128.0/17 disabled=no list=route-aws
 add address=75.101.128.0/17 disabled=no list=route-aws

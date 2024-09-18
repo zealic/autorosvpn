@@ -1255,6 +1255,7 @@ add address=2600:1f14:7ff:f800::/56 disabled=no list=route-aws@us
 add address=2600:1f14:4000::/36 disabled=no list=route-aws@us
 add address=2600:1f14:8000::/36 disabled=no list=route-aws@us
 add address=2600:1f14::/34 disabled=no list=route-aws@us
+add address=2600:1f14:c000::/36 disabled=no list=route-aws@us
 add address=2600:1f14:fff:f800::/56 disabled=no list=route-aws@us
 add address=2600:1f15:4000::/36 disabled=no list=route-aws@us
 add address=2600:1f15:8000::/36 disabled=no list=route-aws@us
@@ -1269,6 +1270,7 @@ add address=2600:1f18:6fe3:8c00::/56 disabled=no list=route-aws@us
 add address=2600:1f18:7fff:f800::/56 disabled=no list=route-aws@us
 add address=2600:1f18:8000::/36 disabled=no list=route-aws@us
 add address=2600:1f18::/33 disabled=no list=route-aws@us
+add address=2600:1f18:c000::/36 disabled=no list=route-aws@us
 add address=2600:1f19:4000::/36 disabled=no list=route-aws@us
 add address=2600:1f19:8000::/36 disabled=no list=route-aws@us
 add address=2600:1f20:8000::/36 disabled=no list=route-aws@us
@@ -1281,6 +1283,7 @@ add address=2600:1f23::/36 disabled=no list=route-aws@us
 add address=2600:1f24:4000::/36 disabled=no list=route-aws@us
 add address=2600:1f24:8000::/36 disabled=no list=route-aws@us
 add address=2600:1f24::/36 disabled=no list=route-aws@us
+add address=2600:1f24:c000::/36 disabled=no list=route-aws@us
 add address=2600:1f25:4000::/36 disabled=no list=route-aws@us
 add address=2600:1f25:8000::/36 disabled=no list=route-aws@us
 add address=2600:1f25::/36 disabled=no list=route-aws@us
@@ -1289,6 +1292,7 @@ add address=2600:1f26::/36 disabled=no list=route-aws@us
 add address=2600:1f27:8000::/36 disabled=no list=route-aws@us
 add address=2600:1f28:8000::/36 disabled=no list=route-aws@us
 add address=2600:1f28::/36 disabled=no list=route-aws@us
+add address=2600:1f28:c000::/36 disabled=no list=route-aws@us
 add address=2600:1f29:4000::/36 disabled=no list=route-aws@us
 add address=2600:1f29:8000::/36 disabled=no list=route-aws@us
 add address=2600:1f32:2000::/40 disabled=no list=route-aws@us
