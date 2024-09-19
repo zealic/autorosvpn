@@ -641,6 +641,7 @@ add address=98.80.0.0/13 disabled=no list=route-aws@us-east-1
 add address=98.80.195.0/25 disabled=no list=route-aws@us-east-1
 add address=98.80.238.0/23 disabled=no list=route-aws@us-east-1
 add address=98.82.109.16/28 disabled=no list=route-aws@us-east-1
+add address=98.82.109.128/25 disabled=no list=route-aws@us-east-1
 add address=98.82.142.0/24 disabled=no list=route-aws@us-east-1
 add address=98.82.154.0/23 disabled=no list=route-aws@us-east-1
 add address=98.82.156.0/23 disabled=no list=route-aws@us-east-1
