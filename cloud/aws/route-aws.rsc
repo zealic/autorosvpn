@@ -6163,6 +6163,8 @@ add address=83.119.64.0/18 disabled=no list=route-aws
 add address=83.119.128.0/18 disabled=no list=route-aws
 add address=83.119.128.0/18 disabled=no list=route-aws
 add address=87.238.80.0/21 disabled=no list=route-aws
+add address=93.77.128.0/19 disabled=no list=route-aws
+add address=93.77.128.0/19 disabled=no list=route-aws
 add address=96.0.0.0/21 disabled=no list=route-aws
 add address=96.0.0.0/21 disabled=no list=route-aws
 add address=96.0.8.0/22 disabled=no list=route-aws
