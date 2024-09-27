@@ -470,6 +470,7 @@ add address=2600:9000:5206::/48 disabled=no list=route-aws@ap
 add address=2600:9000:5207::/48 disabled=no list=route-aws@ap
 add address=2600:9000:5208::/48 disabled=no list=route-aws@ap
 add address=2600:9000:5209::/48 disabled=no list=route-aws@ap
+add address=2600:f004::/40 disabled=no list=route-aws@ap
 add address=2600:f00f::/40 disabled=no list=route-aws@ap
 add address=2600:f0f0:1:1000::/56 disabled=no list=route-aws@ap
 add address=2600:f0f0:1:1100::/56 disabled=no list=route-aws@ap
@@ -484,6 +485,10 @@ add address=2600:f0f0:87::/48 disabled=no list=route-aws@ap
 add address=2600:f0f0:730::/48 disabled=no list=route-aws@ap
 add address=2600:f0f0:731::/48 disabled=no list=route-aws@ap
 add address=2600:f0f1:8802::/48 disabled=no list=route-aws@ap
+add address=2606:f40:2200::/40 disabled=no list=route-aws@ap
+add address=2606:f40:a200::/40 disabled=no list=route-aws@ap
+add address=2606:f40:fff6::/48 disabled=no list=route-aws@ap
+add address=2606:f40:fff7::/48 disabled=no list=route-aws@ap
 add address=2620:107:4000:a8c0::/58 disabled=no list=route-aws@ap
 add address=2620:107:4000:a840::/58 disabled=no list=route-aws@ap
 add address=2620:107:4000:a880::/58 disabled=no list=route-aws@ap
@@ -992,6 +997,32 @@ add address=2620:107:4003::/48 disabled=no list=route-aws@eu
 /ipv6 firewall address-list
 add address=2a05:d013::/36 disabled=no list=route-aws@eusc
 add address=2a05:d023::/36 disabled=no list=route-aws@eusc
+add address=2001:3fc0:800::/40 disabled=no list=route-aws@eusc
+add address=2001:3fc1:8000::/36 disabled=no list=route-aws@eusc
+add address=2001:3fc2:8000::/36 disabled=no list=route-aws@eusc
+add address=2001:3fc3:800::/40 disabled=no list=route-aws@eusc
+add address=2001:3fc3:1800::/40 disabled=no list=route-aws@eusc
+add address=2001:3fc3:2800::/40 disabled=no list=route-aws@eusc
+add address=2001:3fc3:4800::/40 disabled=no list=route-aws@eusc
+add address=2001:3fc3:5800::/40 disabled=no list=route-aws@eusc
+add address=2001:3fc3:6800::/40 disabled=no list=route-aws@eusc
+add address=2001:3fc3:8800::/40 disabled=no list=route-aws@eusc
+add address=2001:3fc3:a800::/40 disabled=no list=route-aws@eusc
+add address=2001:3fc5:800::/40 disabled=no list=route-aws@eusc
+add address=2001:3fc5:8800::/40 disabled=no list=route-aws@eusc
+add address=2001:3fc7:800::/40 disabled=no list=route-aws@eusc
+add address=2001:3fc7:1800::/40 disabled=no list=route-aws@eusc
+add address=2001:3fc7:2800::/40 disabled=no list=route-aws@eusc
+add address=2001:3fc7:4800::/40 disabled=no list=route-aws@eusc
+add address=2001:3fc7:5800::/40 disabled=no list=route-aws@eusc
+add address=2001:3fc7:6800::/40 disabled=no list=route-aws@eusc
+add address=2001:3fc7:7800::/40 disabled=no list=route-aws@eusc
+add address=2001:3fc7:8800::/40 disabled=no list=route-aws@eusc
+add address=2001:3fc7:9800::/40 disabled=no list=route-aws@eusc
+add address=2001:3fc7:a800::/40 disabled=no list=route-aws@eusc
+add address=2001:3fc7:b800::/40 disabled=no list=route-aws@eusc
+add address=2001:3fc7:e800::/40 disabled=no list=route-aws@eusc
+add address=2001:3fc7:f800::/40 disabled=no list=route-aws@eusc
 /ipv6 firewall address-list remove [/ipv6 firewall address-list find list="route-aws@global"]
 /ipv6 firewall address-list
 add address=2400:7fc0:500::/40 disabled=no list=route-aws@global
