@@ -1,7 +1,6 @@
 /ipv6 firewall address-list remove [/ipv6 firewall address-list find list="route-aws@global"]
 /ipv6 firewall address-list
 add address=2400:7fc0:500::/40 disabled=no list=route-aws@global
-add address=2402:2a80::/32 disabled=no list=route-aws@global
 add address=2404:c2c0:500::/40 disabled=no list=route-aws@global
 add address=2409:8c00:2421:300::/56 disabled=no list=route-aws@global
 add address=2409:8c00:2421:400::/56 disabled=no list=route-aws@global

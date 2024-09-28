@@ -158,6 +158,7 @@ add address=3.239.157.96/30 disabled=no list=route-aws@us-east-1
 add address=3.239.157.188/30 disabled=no list=route-aws@us-east-1
 add address=3.239.157.192/26 disabled=no list=route-aws@us-east-1
 add address=3.239.232.0/24 disabled=no list=route-aws@us-east-1
+add address=13.216.0.0/13 disabled=no list=route-aws@us-east-1
 add address=13.248.103.0/24 disabled=no list=route-aws@us-east-1
 add address=13.248.108.0/24 disabled=no list=route-aws@us-east-1
 add address=13.248.116.0/24 disabled=no list=route-aws@us-east-1

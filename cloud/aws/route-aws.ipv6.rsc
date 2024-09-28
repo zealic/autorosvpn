@@ -797,14 +797,13 @@ add address=2400:6500:0:7600::/56 disabled=no list=route-aws
 add address=2400:6500:0:7700::/56 disabled=no list=route-aws
 add address=2400:6500:0:7800::/56 disabled=no list=route-aws
 add address=2400:6500:0:7900::/56 disabled=no list=route-aws
+add address=2400:6500:0:b000::/56 disabled=no list=route-aws
 add address=2400:6500:100:7200::/56 disabled=no list=route-aws
 add address=2400:6500:ff00::/48 disabled=no list=route-aws
 add address=2400:6500:ff00::/48 disabled=no list=route-aws
 add address=2400:6700::/48 disabled=no list=route-aws
 add address=2400:6700:ff00::/48 disabled=no list=route-aws
 add address=2400:6700:ff00::/48 disabled=no list=route-aws
-add address=2402:2a80::/32 disabled=no list=route-aws
-add address=2402:2a80::/32 disabled=no list=route-aws
 add address=2403:b300:ff00::/48 disabled=no list=route-aws
 add address=2403:b300:ff00::/48 disabled=no list=route-aws
 add address=2404:c2c0:2a00::/40 disabled=no list=route-aws

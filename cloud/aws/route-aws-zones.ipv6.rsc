@@ -280,6 +280,7 @@ add address=2400:6500:0:9::4/128 disabled=no list=route-aws@ap-southeast
 add address=2400:6500:0:7000::/56 disabled=no list=route-aws@ap-southeast
 add address=2400:6500:0:7200::/56 disabled=no list=route-aws@ap-southeast
 add address=2400:6500:0:7800::/56 disabled=no list=route-aws@ap-southeast
+add address=2400:6500:0:b000::/56 disabled=no list=route-aws@ap-southeast
 add address=2400:6500:ff00::/48 disabled=no list=route-aws@ap-southeast
 add address=2403:b300:ff00::/48 disabled=no list=route-aws@ap-southeast
 add address=2406:da00:800::/40 disabled=no list=route-aws@ap-southeast
@@ -1042,7 +1043,6 @@ add address=2001:3fc7:f800::/40 disabled=no list=route-aws@eusc-de-east
 /ipv6 firewall address-list remove [/ipv6 firewall address-list find list="route-aws@global"]
 /ipv6 firewall address-list
 add address=2400:7fc0:500::/40 disabled=no list=route-aws@global
-add address=2402:2a80::/32 disabled=no list=route-aws@global
 add address=2404:c2c0:500::/40 disabled=no list=route-aws@global
 add address=2409:8c00:2421:300::/56 disabled=no list=route-aws@global
 add address=2409:8c00:2421:400::/56 disabled=no list=route-aws@global

@@ -8,6 +8,7 @@ add address=43.192.155.140/30 disabled=no list=route-aws@cn-northwest
 add address=43.192.156.0/23 disabled=no list=route-aws@cn-northwest
 add address=43.192.160.0/22 disabled=no list=route-aws@cn-northwest
 add address=43.193.0.0/18 disabled=no list=route-aws@cn-northwest
+add address=43.193.64.0/24 disabled=no list=route-aws@cn-northwest
 add address=43.194.0.0/16 disabled=no list=route-aws@cn-northwest
 add address=52.82.0.0/17 disabled=no list=route-aws@cn-northwest
 add address=52.82.1.0/29 disabled=no list=route-aws@cn-northwest

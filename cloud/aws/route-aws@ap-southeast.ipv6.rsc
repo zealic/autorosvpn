@@ -9,6 +9,7 @@ add address=2400:6500:0:9::4/128 disabled=no list=route-aws@ap-southeast
 add address=2400:6500:0:7000::/56 disabled=no list=route-aws@ap-southeast
 add address=2400:6500:0:7200::/56 disabled=no list=route-aws@ap-southeast
 add address=2400:6500:0:7800::/56 disabled=no list=route-aws@ap-southeast
+add address=2400:6500:0:b000::/56 disabled=no list=route-aws@ap-southeast
 add address=2400:6500:ff00::/48 disabled=no list=route-aws@ap-southeast
 add address=2403:b300:ff00::/48 disabled=no list=route-aws@ap-southeast
 add address=2406:da00:800::/40 disabled=no list=route-aws@ap-southeast
