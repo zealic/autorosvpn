@@ -870,8 +870,8 @@ add address=2406:da00:b000::/40 disabled=no list=route-aws
 add address=2406:da00:b000::/40 disabled=no list=route-aws
 add address=2406:da00:c000::/40 disabled=no list=route-aws
 add address=2406:da00:c000::/40 disabled=no list=route-aws
-add address=2406:da00:c800::/64 disabled=no list=route-aws
-add address=2406:da00:c800::/64 disabled=no list=route-aws
+add address=2406:da00:c800::/40 disabled=no list=route-aws
+add address=2406:da00:c800::/40 disabled=no list=route-aws
 add address=2406:da00:e000::/40 disabled=no list=route-aws
 add address=2406:da00:e000::/40 disabled=no list=route-aws
 add address=2406:da00:f000::/40 disabled=no list=route-aws

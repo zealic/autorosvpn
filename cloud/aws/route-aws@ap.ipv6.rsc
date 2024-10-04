@@ -32,7 +32,7 @@ add address=2406:da00:9000::/40 disabled=no list=route-aws@ap
 add address=2406:da00:a000::/40 disabled=no list=route-aws@ap
 add address=2406:da00:b000::/40 disabled=no list=route-aws@ap
 add address=2406:da00:c000::/40 disabled=no list=route-aws@ap
-add address=2406:da00:c800::/64 disabled=no list=route-aws@ap
+add address=2406:da00:c800::/40 disabled=no list=route-aws@ap
 add address=2406:da00:e000::/40 disabled=no list=route-aws@ap
 add address=2406:da00:f000::/40 disabled=no list=route-aws@ap
 add address=2406:da1a:74a:4b00::/56 disabled=no list=route-aws@ap
