@@ -1063,6 +1063,8 @@ add address=2001:3fc3:8800::/40 disabled=no list=route-aws@eusc
 add address=2001:3fc3:a800::/40 disabled=no list=route-aws@eusc
 add address=2001:3fc5:800::/40 disabled=no list=route-aws@eusc
 add address=2001:3fc5:8800::/40 disabled=no list=route-aws@eusc
+add address=2001:3fc6:0:100::/56 disabled=no list=route-aws@eusc
+add address=2001:3fc6::/56 disabled=no list=route-aws@eusc
 add address=2001:3fc7:800::/40 disabled=no list=route-aws@eusc
 add address=2001:3fc7:1800::/40 disabled=no list=route-aws@eusc
 add address=2001:3fc7:2800::/40 disabled=no list=route-aws@eusc

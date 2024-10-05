@@ -5486,6 +5486,7 @@ add address=52.119.214.0/23 disabled=no list=route-aws@us
 add address=52.119.224.0/21 disabled=no list=route-aws@us
 add address=52.119.232.0/21 disabled=no list=route-aws@us
 add address=52.119.252.0/22 disabled=no list=route-aws@us
+add address=52.129.224.0/22 disabled=no list=route-aws@us
 add address=52.144.192.0/26 disabled=no list=route-aws@us
 add address=52.144.192.64/26 disabled=no list=route-aws@us
 add address=52.144.192.128/26 disabled=no list=route-aws@us

@@ -5295,6 +5295,8 @@ add address=52.129.130.0/24 disabled=no list=route-aws
 add address=52.129.130.0/24 disabled=no list=route-aws
 add address=52.129.131.0/24 disabled=no list=route-aws
 add address=52.129.131.0/24 disabled=no list=route-aws
+add address=52.129.224.0/22 disabled=no list=route-aws
+add address=52.129.224.0/22 disabled=no list=route-aws
 add address=52.144.133.32/27 disabled=no list=route-aws
 add address=52.144.192.0/26 disabled=no list=route-aws
 add address=52.144.192.64/26 disabled=no list=route-aws
