@@ -1071,6 +1071,7 @@ add address=52.94.250.16/28 disabled=no list=route-aws@ap
 add address=52.94.250.80/28 disabled=no list=route-aws@ap
 add address=52.94.250.112/28 disabled=no list=route-aws@ap
 add address=52.94.250.128/28 disabled=no list=route-aws@ap
+add address=52.94.250.144/28 disabled=no list=route-aws@ap
 add address=52.95.30.0/23 disabled=no list=route-aws@ap
 add address=52.95.34.0/24 disabled=no list=route-aws@ap
 add address=52.95.35.0/24 disabled=no list=route-aws@ap

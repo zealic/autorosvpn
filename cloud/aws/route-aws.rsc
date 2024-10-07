@@ -5076,6 +5076,8 @@ add address=52.94.250.112/28 disabled=no list=route-aws
 add address=52.94.250.112/28 disabled=no list=route-aws
 add address=52.94.250.128/28 disabled=no list=route-aws
 add address=52.94.250.128/28 disabled=no list=route-aws
+add address=52.94.250.144/28 disabled=no list=route-aws
+add address=52.94.250.144/28 disabled=no list=route-aws
 add address=52.94.252.0/23 disabled=no list=route-aws
 add address=52.94.254.0/23 disabled=no list=route-aws
 add address=52.95.0.0/20 disabled=no list=route-aws
