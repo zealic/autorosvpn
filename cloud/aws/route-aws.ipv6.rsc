@@ -741,6 +741,9 @@ add address=2001:3fc7:a800::/40 disabled=no list=route-aws
 add address=2001:3fc7:a800::/40 disabled=no list=route-aws
 add address=2001:3fc7:b800::/40 disabled=no list=route-aws
 add address=2001:3fc7:b800::/40 disabled=no list=route-aws
+add address=2001:3fc7:c8c0::/46 disabled=no list=route-aws
+add address=2001:3fc7:c840::/46 disabled=no list=route-aws
+add address=2001:3fc7:c880::/46 disabled=no list=route-aws
 add address=2001:3fc7:e800::/40 disabled=no list=route-aws
 add address=2001:3fc7:f800::/40 disabled=no list=route-aws
 add address=2001:3fc7:f800::/40 disabled=no list=route-aws
@@ -854,6 +857,8 @@ add address=2406:da00:1000::/40 disabled=no list=route-aws
 add address=2406:da00:1000::/40 disabled=no list=route-aws
 add address=2406:da00:2000::/40 disabled=no list=route-aws
 add address=2406:da00:2000::/40 disabled=no list=route-aws
+add address=2406:da00:2800::/64 disabled=no list=route-aws
+add address=2406:da00:2800::/64 disabled=no list=route-aws
 add address=2406:da00:4000::/40 disabled=no list=route-aws
 add address=2406:da00:4000::/40 disabled=no list=route-aws
 add address=2406:da00:4800::/40 disabled=no list=route-aws
