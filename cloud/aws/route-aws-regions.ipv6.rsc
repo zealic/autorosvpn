@@ -38,6 +38,7 @@ add address=2400:6500:0:7b00::/56 disabled=no list=route-aws@ap
 add address=2400:6500:0:7c00::/56 disabled=no list=route-aws@ap
 add address=2400:6500:0:7d00::/56 disabled=no list=route-aws@ap
 add address=2400:6500:0:7e00::/56 disabled=no list=route-aws@ap
+add address=2400:6500:0:7f00::/56 disabled=no list=route-aws@ap
 add address=2400:6500:0:9::1/128 disabled=no list=route-aws@ap
 add address=2400:6500:0:9::2/128 disabled=no list=route-aws@ap
 add address=2400:6500:0:9::3/128 disabled=no list=route-aws@ap
