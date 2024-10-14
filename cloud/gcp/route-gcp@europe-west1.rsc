@@ -6,6 +6,7 @@ add address=8.34.220.0/22 disabled=no list=route-gcp@europe-west1
 add address=23.251.128.0/20 disabled=no list=route-gcp@europe-west1
 add address=34.1.144.0/20 disabled=no list=route-gcp@europe-west1
 add address=34.1.160.0/20 disabled=no list=route-gcp@europe-west1
+add address=34.14.0.0/17 disabled=no list=route-gcp@europe-west1
 add address=34.17.0.0/16 disabled=no list=route-gcp@europe-west1
 add address=34.22.112.0/20 disabled=no list=route-gcp@europe-west1
 add address=34.22.128.0/17 disabled=no list=route-gcp@europe-west1
