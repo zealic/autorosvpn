@@ -1952,6 +1952,7 @@ add address=15.221.152.0/24 disabled=no list=route-aws
 add address=15.221.153.0/24 disabled=no list=route-aws
 add address=15.221.160.0/22 disabled=no list=route-aws
 add address=15.221.164.0/22 disabled=no list=route-aws
+add address=15.221.176.0/20 disabled=no list=route-aws
 add address=15.222.0.0/15 disabled=no list=route-aws
 add address=15.222.0.0/15 disabled=no list=route-aws
 add address=15.222.16.8/29 disabled=no list=route-aws
