@@ -1094,9 +1094,7 @@ add address=2001:3fc7:8800::/40 disabled=no list=route-aws@eusc-de-east
 add address=2001:3fc7:9800::/40 disabled=no list=route-aws@eusc-de-east
 add address=2001:3fc7:a800::/40 disabled=no list=route-aws@eusc-de-east
 add address=2001:3fc7:b800::/40 disabled=no list=route-aws@eusc-de-east
-add address=2001:3fc7:c8c0::/46 disabled=no list=route-aws@eusc-de-east
-add address=2001:3fc7:c840::/46 disabled=no list=route-aws@eusc-de-east
-add address=2001:3fc7:c880::/46 disabled=no list=route-aws@eusc-de-east
+add address=2001:3fc7:c800::/40 disabled=no list=route-aws@eusc-de-east
 add address=2001:3fc7:e800::/40 disabled=no list=route-aws@eusc-de-east
 add address=2001:3fc7:f800::/40 disabled=no list=route-aws@eusc-de-east
 /ipv6 firewall address-list remove [/ipv6 firewall address-list find list="route-aws@global"]

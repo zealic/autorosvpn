@@ -7170,6 +7170,8 @@ add address=140.179.144.128/25 disabled=no list=route-aws
 add address=140.179.176.0/23 disabled=no list=route-aws
 add address=142.4.164.0/24 disabled=no list=route-aws
 add address=142.4.164.0/24 disabled=no list=route-aws
+add address=142.4.165.0/24 disabled=no list=route-aws
+add address=142.4.165.0/24 disabled=no list=route-aws
 add address=142.4.177.0/24 disabled=no list=route-aws
 add address=142.4.177.0/24 disabled=no list=route-aws
 add address=142.4.178.0/24 disabled=no list=route-aws
