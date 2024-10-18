@@ -953,6 +953,7 @@ add address=64.252.74.0/24 disabled=no list=route-aws@us-east
 add address=64.252.75.0/24 disabled=no list=route-aws@us-east
 add address=64.252.76.0/24 disabled=no list=route-aws@us-east
 add address=64.252.77.0/24 disabled=no list=route-aws@us-east
+add address=64.252.125.0/24 disabled=no list=route-aws@us-east
 add address=67.202.0.0/18 disabled=no list=route-aws@us-east
 add address=67.220.240.0/20 disabled=no list=route-aws@us-east
 add address=68.66.112.0/20 disabled=no list=route-aws@us-east
