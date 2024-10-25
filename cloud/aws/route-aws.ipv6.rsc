@@ -2986,6 +2986,8 @@ add address=2605:b140:1000::/48 disabled=no list=route-aws
 add address=2605:b140:1000::/48 disabled=no list=route-aws
 add address=2606:7b40:1b00:700::/56 disabled=no list=route-aws
 add address=2606:7b40:1b00:700::/56 disabled=no list=route-aws
+add address=2606:7b40:1b0c::/56 disabled=no list=route-aws
+add address=2606:7b40:1b0c::/56 disabled=no list=route-aws
 add address=2606:7b40:1b0f:c000::/56 disabled=no list=route-aws
 add address=2606:7b40:1b0f:c000::/56 disabled=no list=route-aws
 add address=2606:7b40:1b0f:ef00::/56 disabled=no list=route-aws
