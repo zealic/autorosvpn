@@ -2,6 +2,12 @@
 /ip firewall address-list
 add address=3.2.54.0/24 disabled=no list=route-aws@us-west-1
 add address=3.3.24.0/22 disabled=no list=route-aws@us-west-1
+add address=3.4.12.35/32 disabled=no list=route-aws@us-west-1
+add address=3.4.12.36/32 disabled=no list=route-aws@us-west-1
+add address=3.4.12.37/32 disabled=no list=route-aws@us-west-1
+add address=3.4.12.38/32 disabled=no list=route-aws@us-west-1
+add address=3.4.15.96/29 disabled=no list=route-aws@us-west-1
+add address=3.4.15.104/29 disabled=no list=route-aws@us-west-1
 add address=3.5.160.0/22 disabled=no list=route-aws@us-west-1
 add address=3.101.0.0/16 disabled=no list=route-aws@us-west-1
 add address=3.101.52.208/30 disabled=no list=route-aws@us-west-1

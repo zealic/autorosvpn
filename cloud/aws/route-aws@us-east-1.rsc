@@ -803,7 +803,6 @@ add address=184.72.64.0/18 disabled=no list=route-aws@us-east-1
 add address=184.72.128.0/17 disabled=no list=route-aws@us-east-1
 add address=184.73.0.0/16 disabled=no list=route-aws@us-east-1
 add address=192.43.175.0/24 disabled=no list=route-aws@us-east-1
-add address=192.157.37.0/24 disabled=no list=route-aws@us-east-1
 add address=199.127.232.0/22 disabled=no list=route-aws@us-east-1
 add address=204.236.192.0/18 disabled=no list=route-aws@us-east-1
 add address=205.251.225.0/24 disabled=no list=route-aws@us-east-1
