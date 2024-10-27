@@ -20,6 +20,7 @@ add address=2600:1900:41c0::/44 disabled=no list=route-gcp@australia
 /ipv6 firewall address-list
 add address=2600:1900:40c0::/44 disabled=no list=route-gcp@europe
 add address=2600:1900:40d0::/44 disabled=no list=route-gcp@europe
+add address=2600:1900:42a0::/44 disabled=no list=route-gcp@europe
 add address=2600:1900:4010::/44 disabled=no list=route-gcp@europe
 add address=2600:1900:4060::/44 disabled=no list=route-gcp@europe
 add address=2600:1900:4140::/44 disabled=no list=route-gcp@europe
