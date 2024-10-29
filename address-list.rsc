@@ -6263,6 +6263,7 @@ add address=160.187.252.0/23 disabled=no list=novpn
 add address=160.187.254.0/23 disabled=no list=novpn
 add address=160.191.0.0/23 disabled=no list=novpn
 add address=160.191.104.0/23 disabled=no list=novpn
+add address=160.191.110.0/23 disabled=no list=novpn
 add address=160.202.60.0/22 disabled=no list=novpn
 add address=160.202.148.0/22 disabled=no list=novpn
 add address=160.202.152.0/22 disabled=no list=novpn
