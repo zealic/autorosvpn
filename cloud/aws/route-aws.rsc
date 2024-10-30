@@ -3618,6 +3618,10 @@ add address=35.96.2.0/24 disabled=no list=route-aws
 add address=35.96.2.0/24 disabled=no list=route-aws
 add address=35.96.3.0/24 disabled=no list=route-aws
 add address=35.96.3.0/24 disabled=no list=route-aws
+add address=35.96.4.0/24 disabled=no list=route-aws
+add address=35.96.4.0/24 disabled=no list=route-aws
+add address=35.96.5.0/24 disabled=no list=route-aws
+add address=35.96.5.0/24 disabled=no list=route-aws
 add address=35.96.16.0/20 disabled=no list=route-aws
 add address=35.96.16.0/20 disabled=no list=route-aws
 add address=35.96.32.0/20 disabled=no list=route-aws
