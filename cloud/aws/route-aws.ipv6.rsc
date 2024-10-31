@@ -2946,10 +2946,6 @@ add address=2600:f0f3:ce40::/42 disabled=no list=route-aws
 add address=2600:f0f3:ce40::/42 disabled=no list=route-aws
 add address=2600:f0f3:f000::/44 disabled=no list=route-aws
 add address=2600:f0fb:f000::/44 disabled=no list=route-aws
-add address=2602:f7db:10::/44 disabled=no list=route-aws
-add address=2602:f7db:10::/44 disabled=no list=route-aws
-add address=2602:f7db::/44 disabled=no list=route-aws
-add address=2602:f7db::/44 disabled=no list=route-aws
 add address=2605:9cc0:1ff0:2d00::/56 disabled=no list=route-aws
 add address=2605:9cc0:1ff0:2d00::/56 disabled=no list=route-aws
 add address=2605:9cc0:1ff0:3c00::/56 disabled=no list=route-aws
