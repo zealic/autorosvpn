@@ -4,7 +4,10 @@ add address=3.2.55.0/24 disabled=no list=route-aws@us-west-2
 add address=3.4.3.0/24 disabled=no list=route-aws@us-west-2
 add address=3.4.4.0/24 disabled=no list=route-aws@us-west-2
 add address=3.4.6.0/24 disabled=no list=route-aws@us-west-2
+add address=3.4.12.41/32 disabled=no list=route-aws@us-west-2
+add address=3.4.12.42/32 disabled=no list=route-aws@us-west-2
 add address=3.4.15.8/29 disabled=no list=route-aws@us-west-2
+add address=3.4.15.120/29 disabled=no list=route-aws@us-west-2
 add address=3.5.76.0/22 disabled=no list=route-aws@us-west-2
 add address=3.5.80.0/21 disabled=no list=route-aws@us-west-2
 add address=5.60.156.0/22 disabled=no list=route-aws@us-west-2

@@ -10,9 +10,12 @@ add address=3.4.12.35/32 disabled=no list=route-aws@us-west
 add address=3.4.12.36/32 disabled=no list=route-aws@us-west
 add address=3.4.12.37/32 disabled=no list=route-aws@us-west
 add address=3.4.12.38/32 disabled=no list=route-aws@us-west
+add address=3.4.12.41/32 disabled=no list=route-aws@us-west
+add address=3.4.12.42/32 disabled=no list=route-aws@us-west
 add address=3.4.15.8/29 disabled=no list=route-aws@us-west
 add address=3.4.15.96/29 disabled=no list=route-aws@us-west
 add address=3.4.15.104/29 disabled=no list=route-aws@us-west
+add address=3.4.15.120/29 disabled=no list=route-aws@us-west
 add address=3.5.76.0/22 disabled=no list=route-aws@us-west
 add address=3.5.80.0/21 disabled=no list=route-aws@us-west
 add address=3.5.160.0/22 disabled=no list=route-aws@us-west
