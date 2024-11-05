@@ -1368,7 +1368,6 @@ add address=178.236.0.0/20 disabled=no list=route-aws@eu
 add address=185.48.120.0/22 disabled=no list=route-aws@eu
 add address=185.143.16.0/24 disabled=no list=route-aws@eu
 add address=195.17.0.0/24 disabled=no list=route-aws@eu
-add address=204.87.185.0/24 disabled=no list=route-aws@eu
 add address=208.78.132.0/23 disabled=no list=route-aws@eu
 add address=208.78.135.0/24 disabled=no list=route-aws@eu
 add address=208.86.90.0/23 disabled=no list=route-aws@eu

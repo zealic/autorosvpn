@@ -118,4 +118,3 @@ add address=150.222.117.0/24 disabled=no list=route-aws@eu-north-1
 add address=150.222.118.0/24 disabled=no list=route-aws@eu-north-1
 add address=150.222.203.0/24 disabled=no list=route-aws@eu-north-1
 add address=173.83.220.0/24 disabled=no list=route-aws@eu-north-1
-add address=204.87.185.0/24 disabled=no list=route-aws@eu-north-1
