@@ -1632,6 +1632,7 @@ add address=2603:1020:5:9::2c0/122 disabled=no list=route-azure
 add address=2603:1020:5:9::280/127 disabled=no list=route-azure
 add address=2603:1020:5:9::282/128 disabled=no list=route-azure
 add address=2603:1020:5:9::300/122 disabled=no list=route-azure
+add address=2603:1020:5:12::640/123 disabled=no list=route-azure
 add address=2603:1020:5:400::/123 disabled=no list=route-azure
 add address=2603:1020:5:401::/123 disabled=no list=route-azure
 add address=2603:1020:5:402::1c0/123 disabled=no list=route-azure
@@ -2183,6 +2184,7 @@ add address=2603:1020:605:7::3f0/124 disabled=no list=route-azure
 add address=2603:1020:605:7::400/123 disabled=no list=route-azure
 add address=2603:1020:605:7::440/122 disabled=no list=route-azure
 add address=2603:1020:605:7::500/120 disabled=no list=route-azure
+add address=2603:1020:605:9::640/123 disabled=no list=route-azure
 add address=2603:1020:605:400::/123 disabled=no list=route-azure
 add address=2603:1020:605:402::1c0/123 disabled=no list=route-azure
 add address=2603:1020:605:402::2c0/124 disabled=no list=route-azure
@@ -2384,6 +2386,7 @@ add address=2603:1020:705::500/121 disabled=no list=route-azure
 add address=2603:1020:705::600/121 disabled=no list=route-azure
 add address=2603:1020:705::700/120 disabled=no list=route-azure
 add address=2603:1020:705:a::/119 disabled=no list=route-azure
+add address=2603:1020:705:a::3c0/123 disabled=no list=route-azure
 add address=2603:1020:705:a::200/122 disabled=no list=route-azure
 add address=2603:1020:705:a::400/119 disabled=no list=route-azure
 add address=2603:1020:705:a::600/119 disabled=no list=route-azure
@@ -2464,6 +2467,7 @@ add address=2603:1020:805:7::/122 disabled=no list=route-azure
 add address=2603:1020:805:7::2c0/124 disabled=no list=route-azure
 add address=2603:1020:805:7::280/122 disabled=no list=route-azure
 add address=2603:1020:805:7::300/121 disabled=no list=route-azure
+add address=2603:1020:805:8::500/123 disabled=no list=route-azure
 add address=2603:1020:805:400::/123 disabled=no list=route-azure
 add address=2603:1020:805:401::/123 disabled=no list=route-azure
 add address=2603:1020:805:402::1c0/123 disabled=no list=route-azure
@@ -2606,6 +2610,7 @@ add address=2603:1020:905:6::140/124 disabled=no list=route-azure
 add address=2603:1020:905:6::340/122 disabled=no list=route-azure
 add address=2603:1020:905:6::380/121 disabled=no list=route-azure
 add address=2603:1020:905:6::e0/123 disabled=no list=route-azure
+add address=2603:1020:905:7::320/123 disabled=no list=route-azure
 add address=2603:1020:905:400::/123 disabled=no list=route-azure
 add address=2603:1020:905:402::1c0/123 disabled=no list=route-azure
 add address=2603:1020:905:402::2c0/124 disabled=no list=route-azure
@@ -4365,6 +4370,10 @@ add address=2603:1026:3000:2a0::/121 disabled=no list=route-azure
 add address=2603:1026:3000:2a8::/121 disabled=no list=route-azure
 add address=2603:1026:3000:2b0::/121 disabled=no list=route-azure
 add address=2603:1026:3000:2b8::/121 disabled=no list=route-azure
+add address=2603:1026:3000:2c0::/59 disabled=no list=route-azure
+add address=2603:1026:3000:2c0::/121 disabled=no list=route-azure
+add address=2603:1026:3000:2c8::/121 disabled=no list=route-azure
+add address=2603:1026:3000:2d0::/121 disabled=no list=route-azure
 add address=2603:1026:3000:20::/59 disabled=no list=route-azure
 add address=2603:1026:3000:20::/121 disabled=no list=route-azure
 add address=2603:1026:3000:28::/121 disabled=no list=route-azure
@@ -4409,6 +4418,9 @@ add address=2603:1026:3000:268::/121 disabled=no list=route-azure
 add address=2603:1026:3000:270::/121 disabled=no list=route-azure
 add address=2603:1026:3000:278::/121 disabled=no list=route-azure
 add address=2603:1026:3000:280::/59 disabled=no list=route-azure
+add address=2603:1026:3000:280::/121 disabled=no list=route-azure
+add address=2603:1026:3000:288::/121 disabled=no list=route-azure
+add address=2603:1026:3000:290::/121 disabled=no list=route-azure
 add address=2603:1026:3000::/48 disabled=no list=route-azure
 add address=2603:1026:3000::/59 disabled=no list=route-azure
 add address=2603:1026:3000::/121 disabled=no list=route-azure
@@ -4472,6 +4484,13 @@ add address=2603:1027:1:248::/121 disabled=no list=route-azure
 add address=2603:1027:1:250::/121 disabled=no list=route-azure
 add address=2603:1027:1:258::/121 disabled=no list=route-azure
 add address=2603:1027:1:260::/59 disabled=no list=route-azure
+add address=2603:1027:1:260::/121 disabled=no list=route-azure
+add address=2603:1027:1:268::/121 disabled=no list=route-azure
+add address=2603:1027:1:270::/121 disabled=no list=route-azure
+add address=2603:1027:1:280::/59 disabled=no list=route-azure
+add address=2603:1027:1:280::/121 disabled=no list=route-azure
+add address=2603:1027:1:288::/121 disabled=no list=route-azure
+add address=2603:1027:1:290::/121 disabled=no list=route-azure
 add address=2603:1027:1::/48 disabled=no list=route-azure
 add address=2603:1027:1::/59 disabled=no list=route-azure
 add address=2603:1027:1::/121 disabled=no list=route-azure
@@ -4582,6 +4601,7 @@ add address=2603:1030:9:2e0::/59 disabled=no list=route-azure
 add address=2603:1030:9:4::/62 disabled=no list=route-azure
 add address=2603:1030:9:4a0::/59 disabled=no list=route-azure
 add address=2603:1030:9:4c0::/58 disabled=no list=route-azure
+add address=2603:1030:9:5a0::/60 disabled=no list=route-azure
 add address=2603:1030:9:8::/61 disabled=no list=route-azure
 add address=2603:1030:9:10::/62 disabled=no list=route-azure
 add address=2603:1030:9:10c::/64 disabled=no list=route-azure
@@ -4645,7 +4665,6 @@ add address=2603:1030:9:48c::/62 disabled=no list=route-azure
 add address=2603:1030:9:52c::/63 disabled=no list=route-azure
 add address=2603:1030:9:52e::/64 disabled=no list=route-azure
 add address=2603:1030:9:52f::/64 disabled=no list=route-azure
-add address=2603:1030:9:59a::/64 disabled=no list=route-azure
 add address=2603:1030:9:80::/59 disabled=no list=route-azure
 add address=2603:1030:9:100::/64 disabled=no list=route-azure
 add address=2603:1030:9:101::/64 disabled=no list=route-azure
@@ -4750,8 +4769,7 @@ add address=2603:1030:9:581::/64 disabled=no list=route-azure
 add address=2603:1030:9:582::/63 disabled=no list=route-azure
 add address=2603:1030:9:584::/62 disabled=no list=route-azure
 add address=2603:1030:9:588::/61 disabled=no list=route-azure
-add address=2603:1030:9:590::/61 disabled=no list=route-azure
-add address=2603:1030:9:598::/63 disabled=no list=route-azure
+add address=2603:1030:9:590::/60 disabled=no list=route-azure
 add address=2603:1030:9::/63 disabled=no list=route-azure
 add address=2603:1030:9:a0::/60 disabled=no list=route-azure
 add address=2603:1030:9:b0::/63 disabled=no list=route-azure
@@ -4810,6 +4828,7 @@ add address=2603:1030:10:5::/117 disabled=no list=route-azure
 add address=2603:1030:10:6::/117 disabled=no list=route-azure
 add address=2603:1030:10:7::/117 disabled=no list=route-azure
 add address=2603:1030:10:8::/117 disabled=no list=route-azure
+add address=2603:1030:10:12::3e0/123 disabled=no list=route-azure
 add address=2603:1030:10:400::/123 disabled=no list=route-azure
 add address=2603:1030:10:401::/123 disabled=no list=route-azure
 add address=2603:1030:10:402::1c0/123 disabled=no list=route-azure
@@ -5258,6 +5277,7 @@ add address=2603:1030:40c:d::720/123 disabled=no list=route-azure
 add address=2603:1030:40c:e::5d4/126 disabled=no list=route-azure
 add address=2603:1030:40c:e::600/120 disabled=no list=route-azure
 add address=2603:1030:40c:e::700/122 disabled=no list=route-azure
+add address=2603:1030:40c:f::400/120 disabled=no list=route-azure
 add address=2603:1030:40d:4000::/50 disabled=no list=route-azure
 add address=2603:1030:40d:8000::/49 disabled=no list=route-azure
 add address=2603:1030:40d::/60 disabled=no list=route-azure
@@ -5840,6 +5860,8 @@ add address=2603:1030:401:6ae::/64 disabled=no list=route-azure
 add address=2603:1030:401:6af::/64 disabled=no list=route-azure
 add address=2603:1030:401:6b0::/60 disabled=no list=route-azure
 add address=2603:1030:401:6c0::/58 disabled=no list=route-azure
+add address=2603:1030:401:7a0::/61 disabled=no list=route-azure
+add address=2603:1030:401:7a8::/63 disabled=no list=route-azure
 add address=2603:1030:401:8::/61 disabled=no list=route-azure
 add address=2603:1030:401:8c::/63 disabled=no list=route-azure
 add address=2603:1030:401:8e::/64 disabled=no list=route-azure
@@ -6073,7 +6095,7 @@ add address=2603:1030:401:770::/61 disabled=no list=route-azure
 add address=2603:1030:401:778::/62 disabled=no list=route-azure
 add address=2603:1030:401:780::/61 disabled=no list=route-azure
 add address=2603:1030:401:788::/63 disabled=no list=route-azure
-add address=2603:1030:401:790::/64 disabled=no list=route-azure
+add address=2603:1030:401:790::/60 disabled=no list=route-azure
 add address=2603:1030:401::/63 disabled=no list=route-azure
 add address=2603:1030:401:a0::/62 disabled=no list=route-azure
 add address=2603:1030:401:a4::/63 disabled=no list=route-azure
@@ -6473,6 +6495,7 @@ add address=2603:1030:608:c00::300/121 disabled=no list=route-azure
 add address=2603:1030:608:c00::380/125 disabled=no list=route-azure
 add address=2603:1030:608:c00::c0/123 disabled=no list=route-azure
 add address=2603:1030:608:c00::e0/123 disabled=no list=route-azure
+add address=2603:1030:608:c::2c0/123 disabled=no list=route-azure
 add address=2603:1030:609:8000::/60 disabled=no list=route-azure
 add address=2603:1030:609:8010::/63 disabled=no list=route-azure
 add address=2603:1030:609::/48 disabled=no list=route-azure
@@ -6631,10 +6654,9 @@ add address=2603:1030:804:2b5::/64 disabled=no list=route-azure
 add address=2603:1030:804:2b6::/63 disabled=no list=route-azure
 add address=2603:1030:804:2b8::/61 disabled=no list=route-azure
 add address=2603:1030:804:2c0::/58 disabled=no list=route-azure
-add address=2603:1030:804:3c0::/61 disabled=no list=route-azure
-add address=2603:1030:804:3c8::/62 disabled=no list=route-azure
-add address=2603:1030:804:3cc::/63 disabled=no list=route-azure
-add address=2603:1030:804:3ce::/64 disabled=no list=route-azure
+add address=2603:1030:804:3c0::/60 disabled=no list=route-azure
+add address=2603:1030:804:3d0::/61 disabled=no list=route-azure
+add address=2603:1030:804:3d8::/64 disabled=no list=route-azure
 add address=2603:1030:804:5a::/64 disabled=no list=route-azure
 add address=2603:1030:804:5b::/64 disabled=no list=route-azure
 add address=2603:1030:804:5c::/62 disabled=no list=route-azure
@@ -6870,6 +6892,7 @@ add address=2603:1030:807:c02::400/121 disabled=no list=route-azure
 add address=2603:1030:807:c02::480/121 disabled=no list=route-azure
 add address=2603:1030:807:c02::a0/123 disabled=no list=route-azure
 add address=2603:1030:807:c02::c0/122 disabled=no list=route-azure
+add address=2603:1030:807:e::5a0/123 disabled=no list=route-azure
 add address=2603:1030:809::/48 disabled=no list=route-azure
 add address=2603:1030:901::/48 disabled=no list=route-azure
 add address=2603:1030:902:1::/120 disabled=no list=route-azure
@@ -6991,6 +7014,7 @@ add address=2603:1030:1005:6::40/122 disabled=no list=route-azure
 add address=2603:1030:1005:6::80/121 disabled=no list=route-azure
 add address=2603:1030:1005:6::180/122 disabled=no list=route-azure
 add address=2603:1030:1005:6::580/121 disabled=no list=route-azure
+add address=2603:1030:1005:8::420/123 disabled=no list=route-azure
 add address=2603:1030:1005:400::/123 disabled=no list=route-azure
 add address=2603:1030:1005:402::1c0/123 disabled=no list=route-azure
 add address=2603:1030:1005:402::2c0/124 disabled=no list=route-azure
@@ -7393,6 +7417,7 @@ add address=2603:1030:a07:c00::280/122 disabled=no list=route-azure
 add address=2603:1030:a07:c00::300/121 disabled=no list=route-azure
 add address=2603:1030:a07:c00::c0/123 disabled=no list=route-azure
 add address=2603:1030:a07:c00::e0/123 disabled=no list=route-azure
+add address=2603:1030:a07:c::480/123 disabled=no list=route-azure
 add address=2603:1030:a07:e::/122 disabled=no list=route-azure
 add address=2603:1030:a07:e::100/122 disabled=no list=route-azure
 add address=2603:1030:a07:e::140/122 disabled=no list=route-azure
@@ -7413,6 +7438,7 @@ add address=2603:1030:a0a::/49 disabled=no list=route-azure
 add address=2603:1030:a0b::/48 disabled=no list=route-azure
 add address=2603:1030:a0c::/48 disabled=no list=route-azure
 add address=2603:1030:a::/47 disabled=no list=route-azure
+add address=2603:1030:b00:13::190/128 disabled=no list=route-azure
 add address=2603:1030:b00::/47 disabled=no list=route-azure
 add address=2603:1030:b00::2a1/128 disabled=no list=route-azure
 add address=2603:1030:b00::4d9/128 disabled=no list=route-azure
@@ -7457,6 +7483,7 @@ add address=2603:1030:b04:6::780/123 disabled=no list=route-azure
 add address=2603:1030:b04:7::1c0/122 disabled=no list=route-azure
 add address=2603:1030:b04:7::240/122 disabled=no list=route-azure
 add address=2603:1030:b04:7::300/125 disabled=no list=route-azure
+add address=2603:1030:b04:9::5a0/123 disabled=no list=route-azure
 add address=2603:1030:b04:400::/123 disabled=no list=route-azure
 add address=2603:1030:b04:402::1c0/123 disabled=no list=route-azure
 add address=2603:1030:b04:402::2c0/124 disabled=no list=route-azure
@@ -7555,6 +7582,7 @@ add address=2603:1030:c02:2::429/128 disabled=no list=route-azure
 add address=2603:1030:c02:2::443/128 disabled=no list=route-azure
 add address=2603:1030:c02:2::520/124 disabled=no list=route-azure
 add address=2603:1030:c02:5::4/128 disabled=no list=route-azure
+add address=2603:1030:c02:6::6b/128 disabled=no list=route-azure
 add address=2603:1030:c02:6::10/128 disabled=no list=route-azure
 add address=2603:1030:c02::/47 disabled=no list=route-azure
 add address=2603:1030:c04::/48 disabled=no list=route-azure
@@ -7703,6 +7731,7 @@ add address=2603:1030:c06:d::70/124 disabled=no list=route-azure
 add address=2603:1030:c06:d::480/122 disabled=no list=route-azure
 add address=2603:1030:c06:d::590/124 disabled=no list=route-azure
 add address=2603:1030:c06:d::600/119 disabled=no list=route-azure
+add address=2603:1030:c06:f::360/123 disabled=no list=route-azure
 add address=2603:1030:c07::/48 disabled=no list=route-azure
 add address=2603:1030:c80::/56 disabled=no list=route-azure
 add address=2603:1030:d00::/47 disabled=no list=route-azure
@@ -7775,6 +7804,7 @@ add address=2603:1030:f05:7::10/124 disabled=no list=route-azure
 add address=2603:1030:f05:7::100/122 disabled=no list=route-azure
 add address=2603:1030:f05:7::140/125 disabled=no list=route-azure
 add address=2603:1030:f05:7::200/120 disabled=no list=route-azure
+add address=2603:1030:f05:8::380/123 disabled=no list=route-azure
 add address=2603:1030:f05:400::/123 disabled=no list=route-azure
 add address=2603:1030:f05:401::/123 disabled=no list=route-azure
 add address=2603:1030:f05:402::1c0/123 disabled=no list=route-azure
@@ -8080,6 +8110,8 @@ add address=2603:1036:3000:1e0::/121 disabled=no list=route-azure
 add address=2603:1036:3000:1e8::/121 disabled=no list=route-azure
 add address=2603:1036:3000:1f0::/121 disabled=no list=route-azure
 add address=2603:1036:3000:1f8::/121 disabled=no list=route-azure
+add address=2603:1036:3000:2a0::/59 disabled=no list=route-azure
+add address=2603:1036:3000:2a0::/121 disabled=no list=route-azure
 add address=2603:1036:3000:8::/121 disabled=no list=route-azure
 add address=2603:1036:3000:10::/121 disabled=no list=route-azure
 add address=2603:1036:3000:18::/121 disabled=no list=route-azure
@@ -8124,6 +8156,7 @@ add address=2603:1036:3000:218::/121 disabled=no list=route-azure
 add address=2603:1036:3000:220::/59 disabled=no list=route-azure
 add address=2603:1036:3000:220::/121 disabled=no list=route-azure
 add address=2603:1036:3000:240::/59 disabled=no list=route-azure
+add address=2603:1036:3000:240::/121 disabled=no list=route-azure
 add address=2603:1036:3000:260::/59 disabled=no list=route-azure
 add address=2603:1036:3000:280::/59 disabled=no list=route-azure
 add address=2603:1036:3000:280::/121 disabled=no list=route-azure
@@ -8149,6 +8182,8 @@ add address=2603:1037:1:1c0::/59 disabled=no list=route-azure
 add address=2603:1037:1:1c0::/121 disabled=no list=route-azure
 add address=2603:1037:1:1e0::/59 disabled=no list=route-azure
 add address=2603:1037:1:1e0::/121 disabled=no list=route-azure
+add address=2603:1037:1:2a0::/59 disabled=no list=route-azure
+add address=2603:1037:1:2a0::/121 disabled=no list=route-azure
 add address=2603:1037:1:8::/121 disabled=no list=route-azure
 add address=2603:1037:1:10::/121 disabled=no list=route-azure
 add address=2603:1037:1:18::/121 disabled=no list=route-azure
@@ -8199,6 +8234,8 @@ add address=2603:1037:1:250::/121 disabled=no list=route-azure
 add address=2603:1037:1:258::/121 disabled=no list=route-azure
 add address=2603:1037:1:260::/59 disabled=no list=route-azure
 add address=2603:1037:1:260::/121 disabled=no list=route-azure
+add address=2603:1037:1:280::/59 disabled=no list=route-azure
+add address=2603:1037:1:280::/121 disabled=no list=route-azure
 add address=2603:1037:1::/48 disabled=no list=route-azure
 add address=2603:1037:1::/59 disabled=no list=route-azure
 add address=2603:1037:1::/121 disabled=no list=route-azure
@@ -8377,6 +8414,7 @@ add address=2603:1040:5:c02::400/121 disabled=no list=route-azure
 add address=2603:1040:5:c02::480/121 disabled=no list=route-azure
 add address=2603:1040:5:c02::a0/123 disabled=no list=route-azure
 add address=2603:1040:5:c02::c0/122 disabled=no list=route-azure
+add address=2603:1040:5:d::80/123 disabled=no list=route-azure
 add address=2603:1040:6::/48 disabled=no list=route-azure
 add address=2603:1040:7::/56 disabled=no list=route-azure
 add address=2603:1040:100::/47 disabled=no list=route-azure
@@ -8986,6 +9024,7 @@ add address=2603:1040:904:3::600/125 disabled=no list=route-azure
 add address=2603:1040:904:3::610/124 disabled=no list=route-azure
 add address=2603:1040:904:3::680/123 disabled=no list=route-azure
 add address=2603:1040:904:3::780/122 disabled=no list=route-azure
+add address=2603:1040:904:6::200/123 disabled=no list=route-azure
 add address=2603:1040:904:400::/123 disabled=no list=route-azure
 add address=2603:1040:904:401::/123 disabled=no list=route-azure
 add address=2603:1040:904:402::1c0/123 disabled=no list=route-azure
@@ -9806,6 +9845,8 @@ add address=2603:1040:1702:2::620/123 disabled=no list=route-azure
 add address=2603:1040:1702:2::640/124 disabled=no list=route-azure
 add address=2603:1040:1702:2::680/121 disabled=no list=route-azure
 add address=2603:1040:1702:2::700/121 disabled=no list=route-azure
+add address=2603:1040:1702:3::4a0/123 disabled=no list=route-azure
+add address=2603:1040:1702:3::480/124 disabled=no list=route-azure
 add address=2603:1040:1702:400::/125 disabled=no list=route-azure
 add address=2603:1040:1702:400::8/125 disabled=no list=route-azure
 add address=2603:1040:1702:400::18/125 disabled=no list=route-azure
@@ -10001,6 +10042,7 @@ add address=2603:1040:a06:7::140/124 disabled=no list=route-azure
 add address=2603:1040:a06:7::180/122 disabled=no list=route-azure
 add address=2603:1040:a06:7::380/121 disabled=no list=route-azure
 add address=2603:1040:a06:7::e0/123 disabled=no list=route-azure
+add address=2603:1040:a06:8::660/123 disabled=no list=route-azure
 add address=2603:1040:a06:400::/123 disabled=no list=route-azure
 add address=2603:1040:a06:401::/123 disabled=no list=route-azure
 add address=2603:1040:a06:402::1c0/123 disabled=no list=route-azure
@@ -10147,6 +10189,7 @@ add address=2603:1040:b04:5::540/122 disabled=no list=route-azure
 add address=2603:1040:b04:5::600/121 disabled=no list=route-azure
 add address=2603:1040:b04:5::700/122 disabled=no list=route-azure
 add address=2603:1040:b04:5::740/122 disabled=no list=route-azure
+add address=2603:1040:b04:6::600/123 disabled=no list=route-azure
 add address=2603:1040:b04:400::/123 disabled=no list=route-azure
 add address=2603:1040:b04:402::1c0/123 disabled=no list=route-azure
 add address=2603:1040:b04:402::2c0/124 disabled=no list=route-azure
@@ -10833,6 +10876,9 @@ add address=2603:1046:2000:190::/121 disabled=no list=route-azure
 add address=2603:1046:2000:198::/121 disabled=no list=route-azure
 add address=2603:1046:2000:200::/59 disabled=no list=route-azure
 add address=2603:1046:2000:200::/121 disabled=no list=route-azure
+add address=2603:1046:2000:208::/121 disabled=no list=route-azure
+add address=2603:1046:2000:210::/121 disabled=no list=route-azure
+add address=2603:1046:2000:218::/121 disabled=no list=route-azure
 add address=2603:1046:2000:220::/59 disabled=no list=route-azure
 add address=2603:1046:2000:220::/121 disabled=no list=route-azure
 add address=2603:1046:2000:240::/59 disabled=no list=route-azure
@@ -10984,6 +11030,10 @@ add address=2603:1047:1:260::/121 disabled=no list=route-azure
 add address=2603:1047:1:268::/121 disabled=no list=route-azure
 add address=2603:1047:1:270::/121 disabled=no list=route-azure
 add address=2603:1047:1:278::/121 disabled=no list=route-azure
+add address=2603:1047:1:280::/59 disabled=no list=route-azure
+add address=2603:1047:1:280::/121 disabled=no list=route-azure
+add address=2603:1047:1:288::/121 disabled=no list=route-azure
+add address=2603:1047:1:290::/121 disabled=no list=route-azure
 add address=2603:1047:1::/48 disabled=no list=route-azure
 add address=2603:1047:1::/59 disabled=no list=route-azure
 add address=2603:1047:1::/121 disabled=no list=route-azure
@@ -11339,6 +11389,8 @@ add address=2603:1056:1402::/48 disabled=no list=route-azure
 add address=2603:1056:1403::/48 disabled=no list=route-azure
 add address=2603:1056:1500:4::/64 disabled=no list=route-azure
 add address=2603:1056:1500::/64 disabled=no list=route-azure
+add address=2603:1056:2000:8::/121 disabled=no list=route-azure
+add address=2603:1056:2000:10::/121 disabled=no list=route-azure
 add address=2603:1056:2000:20::/59 disabled=no list=route-azure
 add address=2603:1056:2000:20::/121 disabled=no list=route-azure
 add address=2603:1056:2000:28::/121 disabled=no list=route-azure
@@ -11347,6 +11399,10 @@ add address=2603:1056:2000:38::/121 disabled=no list=route-azure
 add address=2603:1056:2000:60::/59 disabled=no list=route-azure
 add address=2603:1056:2000:60::/121 disabled=no list=route-azure
 add address=2603:1056:2000::/48 disabled=no list=route-azure
+add address=2603:1056:2000::/59 disabled=no list=route-azure
+add address=2603:1056:2000::/121 disabled=no list=route-azure
+add address=2603:1057:2:8::/121 disabled=no list=route-azure
+add address=2603:1057:2:10::/121 disabled=no list=route-azure
 add address=2603:1057:2:20::/59 disabled=no list=route-azure
 add address=2603:1057:2:20::/121 disabled=no list=route-azure
 add address=2603:1057:2:28::/121 disabled=no list=route-azure
@@ -11355,6 +11411,8 @@ add address=2603:1057:2:38::/121 disabled=no list=route-azure
 add address=2603:1057:2:60::/59 disabled=no list=route-azure
 add address=2603:1057:2:60::/121 disabled=no list=route-azure
 add address=2603:1057:2::/48 disabled=no list=route-azure
+add address=2603:1057:2::/59 disabled=no list=route-azure
+add address=2603:1057:2::/121 disabled=no list=route-azure
 add address=2603:1061:10::/47 disabled=no list=route-azure
 add address=2603:1061:100a:2c::/64 disabled=no list=route-azure
 add address=2603:1061:100a:20::/61 disabled=no list=route-azure
@@ -11363,10 +11421,10 @@ add address=2603:1061:100a::/59 disabled=no list=route-azure
 add address=2603:1061:100b:80::/62 disabled=no list=route-azure
 add address=2603:1061:100b:84::/64 disabled=no list=route-azure
 add address=2603:1061:100b::/57 disabled=no list=route-azure
-add address=2603:1061:100c:6a::/64 disabled=no list=route-azure
+add address=2603:1061:100c:6c::/64 disabled=no list=route-azure
 add address=2603:1061:100c:40::/59 disabled=no list=route-azure
 add address=2603:1061:100c:60::/61 disabled=no list=route-azure
-add address=2603:1061:100c:68::/63 disabled=no list=route-azure
+add address=2603:1061:100c:68::/62 disabled=no list=route-azure
 add address=2603:1061:100c::/58 disabled=no list=route-azure
 add address=2603:1061:100d:20::/60 disabled=no list=route-azure
 add address=2603:1061:100d:30::/61 disabled=no list=route-azure
@@ -11435,6 +11493,8 @@ add address=2603:1061:1010::/59 disabled=no list=route-azure
 add address=2603:1061:1011:10::/62 disabled=no list=route-azure
 add address=2603:1061:1011:14::/64 disabled=no list=route-azure
 add address=2603:1061:1011::/60 disabled=no list=route-azure
+add address=2603:1061:1013:3c::/63 disabled=no list=route-azure
+add address=2603:1061:1013:3e::/64 disabled=no list=route-azure
 add address=2603:1061:1013:20::/60 disabled=no list=route-azure
 add address=2603:1061:1013:30::/61 disabled=no list=route-azure
 add address=2603:1061:1013:38::/62 disabled=no list=route-azure
