@@ -7815,10 +7815,6 @@ add address=192.43.184.0/24 disabled=no list=route-aws
 add address=192.43.184.0/24 disabled=no list=route-aws
 add address=192.108.239.0/24 disabled=no list=route-aws
 add address=192.108.239.0/24 disabled=no list=route-aws
-add address=192.157.36.0/24 disabled=no list=route-aws
-add address=192.157.36.0/24 disabled=no list=route-aws
-add address=192.157.37.0/24 disabled=no list=route-aws
-add address=192.157.37.0/24 disabled=no list=route-aws
 add address=192.157.72.0/23 disabled=no list=route-aws
 add address=192.157.72.0/23 disabled=no list=route-aws
 add address=192.189.197.0/24 disabled=no list=route-aws
