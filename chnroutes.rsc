@@ -7038,6 +7038,7 @@ add address=202.127.5.0/24 disabled=no list=chnroutes
 add address=202.127.6.0/23 disabled=no list=chnroutes
 add address=202.127.12.0/22 disabled=no list=chnroutes
 add address=202.127.16.0/20 disabled=no list=chnroutes
+add address=202.127.40.0/21 disabled=no list=chnroutes
 add address=202.127.48.0/20 disabled=no list=chnroutes
 add address=202.127.112.0/20 disabled=no list=chnroutes
 add address=202.127.128.0/20 disabled=no list=chnroutes
