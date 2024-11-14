@@ -3799,7 +3799,6 @@ add address=104.255.57.101/32 disabled=no list=route-aws@mx-central
 add address=104.255.57.102/32 disabled=no list=route-aws@mx-central
 add address=104.255.57.103/32 disabled=no list=route-aws@mx-central
 add address=136.18.152.0/21 disabled=no list=route-aws@mx-central
-add address=150.222.45.96/27 disabled=no list=route-aws@mx-central
 add address=150.222.53.128/27 disabled=no list=route-aws@mx-central
 add address=150.222.53.160/27 disabled=no list=route-aws@mx-central
 add address=150.222.53.192/27 disabled=no list=route-aws@mx-central
@@ -5654,6 +5653,10 @@ add address=34.223.96.0/22 disabled=no list=route-aws@us-west
 add address=34.223.112.0/26 disabled=no list=route-aws@us-west
 add address=34.223.112.64/27 disabled=no list=route-aws@us-west
 add address=34.223.112.128/25 disabled=no list=route-aws@us-west
+add address=35.50.128.0/24 disabled=no list=route-aws@us-west
+add address=35.50.129.0/24 disabled=no list=route-aws@us-west
+add address=35.50.130.0/24 disabled=no list=route-aws@us-west
+add address=35.50.131.0/24 disabled=no list=route-aws@us-west
 add address=35.71.64.0/22 disabled=no list=route-aws@us-west
 add address=35.71.117.0/24 disabled=no list=route-aws@us-west
 add address=35.80.0.0/12 disabled=no list=route-aws@us-west
