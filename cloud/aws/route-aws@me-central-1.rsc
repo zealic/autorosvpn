@@ -32,6 +32,9 @@ add address=15.177.93.0/24 disabled=no list=route-aws@me-central-1
 add address=15.230.177.0/24 disabled=no list=route-aws@me-central-1
 add address=15.230.219.0/24 disabled=no list=route-aws@me-central-1
 add address=18.96.96.0/19 disabled=no list=route-aws@me-central-1
+add address=35.50.215.0/24 disabled=no list=route-aws@me-central-1
+add address=35.50.216.0/24 disabled=no list=route-aws@me-central-1
+add address=35.50.217.0/24 disabled=no list=route-aws@me-central-1
 add address=35.71.104.0/24 disabled=no list=route-aws@me-central-1
 add address=40.172.0.0/16 disabled=no list=route-aws@me-central-1
 add address=40.172.11.96/29 disabled=no list=route-aws@me-central-1
