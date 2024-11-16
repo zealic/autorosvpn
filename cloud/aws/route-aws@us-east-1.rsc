@@ -324,12 +324,6 @@ add address=34.231.114.205/32 disabled=no list=route-aws@us-east-1
 add address=34.231.213.21/32 disabled=no list=route-aws@us-east-1
 add address=34.236.241.44/30 disabled=no list=route-aws@us-east-1
 add address=34.238.188.0/29 disabled=no list=route-aws@us-east-1
-add address=35.50.136.0/24 disabled=no list=route-aws@us-east-1
-add address=35.50.137.0/24 disabled=no list=route-aws@us-east-1
-add address=35.50.138.0/24 disabled=no list=route-aws@us-east-1
-add address=35.50.139.0/24 disabled=no list=route-aws@us-east-1
-add address=35.50.140.0/24 disabled=no list=route-aws@us-east-1
-add address=35.50.141.0/24 disabled=no list=route-aws@us-east-1
 add address=35.71.68.0/22 disabled=no list=route-aws@us-east-1
 add address=35.96.144.0/20 disabled=no list=route-aws@us-east-1
 add address=35.153.0.0/16 disabled=no list=route-aws@us-east-1

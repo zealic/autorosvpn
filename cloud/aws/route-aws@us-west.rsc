@@ -274,7 +274,6 @@ add address=35.50.131.0/24 disabled=no list=route-aws@us-west
 add address=35.50.132.0/24 disabled=no list=route-aws@us-west
 add address=35.50.133.0/24 disabled=no list=route-aws@us-west
 add address=35.50.134.0/24 disabled=no list=route-aws@us-west
-add address=35.50.135.0/24 disabled=no list=route-aws@us-west
 add address=35.71.64.0/22 disabled=no list=route-aws@us-west
 add address=35.71.117.0/24 disabled=no list=route-aws@us-west
 add address=35.80.0.0/12 disabled=no list=route-aws@us-west
@@ -310,7 +309,6 @@ add address=35.96.2.0/24 disabled=no list=route-aws@us-west
 add address=35.96.3.0/24 disabled=no list=route-aws@us-west
 add address=35.96.4.0/24 disabled=no list=route-aws@us-west
 add address=35.96.6.0/24 disabled=no list=route-aws@us-west
-add address=35.96.7.0/24 disabled=no list=route-aws@us-west
 add address=35.96.8.0/24 disabled=no list=route-aws@us-west
 add address=35.96.16.0/20 disabled=no list=route-aws@us-west
 add address=35.155.0.0/16 disabled=no list=route-aws@us-west
