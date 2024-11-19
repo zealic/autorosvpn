@@ -877,6 +877,8 @@ add address=43.206.0.0/15 disabled=no list=route-aws@ap
 add address=43.207.179.168/29 disabled=no list=route-aws@ap
 add address=43.207.179.176/29 disabled=no list=route-aws@ap
 add address=43.208.0.0/15 disabled=no list=route-aws@ap
+add address=43.208.56.0/23 disabled=no list=route-aws@ap
+add address=43.208.76.0/23 disabled=no list=route-aws@ap
 add address=43.210.0.0/15 disabled=no list=route-aws@ap
 add address=43.212.0.0/15 disabled=no list=route-aws@ap
 add address=43.214.0.0/15 disabled=no list=route-aws@ap
