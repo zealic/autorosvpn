@@ -2918,6 +2918,8 @@ add address=18.96.1.0/24 disabled=no list=route-aws
 add address=18.96.1.0/24 disabled=no list=route-aws
 add address=18.96.2.0/24 disabled=no list=route-aws
 add address=18.96.2.0/24 disabled=no list=route-aws
+add address=18.96.8.0/21 disabled=no list=route-aws
+add address=18.96.8.0/21 disabled=no list=route-aws
 add address=18.96.16.0/20 disabled=no list=route-aws
 add address=18.96.16.0/20 disabled=no list=route-aws
 add address=18.96.32.0/19 disabled=no list=route-aws
