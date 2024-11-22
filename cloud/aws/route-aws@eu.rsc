@@ -525,6 +525,7 @@ add address=15.248.16.0/22 disabled=no list=route-aws@eu
 add address=15.248.28.0/22 disabled=no list=route-aws@eu
 add address=15.248.32.0/22 disabled=no list=route-aws@eu
 add address=15.248.104.0/24 disabled=no list=route-aws@eu
+add address=15.248.137.0/24 disabled=no list=route-aws@eu
 add address=16.12.9.0/24 disabled=no list=route-aws@eu
 add address=16.12.10.0/23 disabled=no list=route-aws@eu
 add address=16.12.15.0/24 disabled=no list=route-aws@eu

@@ -1250,7 +1250,12 @@ add address=35.71.124.0/24 disabled=no list=route-aws@ap-southeast
 add address=35.71.126.0/24 disabled=no list=route-aws@ap-southeast
 add address=35.96.128.0/20 disabled=no list=route-aws@ap-southeast
 add address=43.208.0.0/15 disabled=no list=route-aws@ap-southeast
+add address=43.208.52.0/24 disabled=no list=route-aws@ap-southeast
+add address=43.208.53.0/24 disabled=no list=route-aws@ap-southeast
+add address=43.208.54.0/24 disabled=no list=route-aws@ap-southeast
+add address=43.208.55.0/24 disabled=no list=route-aws@ap-southeast
 add address=43.208.56.0/23 disabled=no list=route-aws@ap-southeast
+add address=43.208.58.0/24 disabled=no list=route-aws@ap-southeast
 add address=43.208.76.0/23 disabled=no list=route-aws@ap-southeast
 add address=43.210.0.0/15 disabled=no list=route-aws@ap-southeast
 add address=43.216.0.0/15 disabled=no list=route-aws@ap-southeast
@@ -2150,6 +2155,7 @@ add address=15.230.144.0/24 disabled=no list=route-aws@eu-central
 add address=15.230.170.0/23 disabled=no list=route-aws@eu-central
 add address=15.230.241.0/24 disabled=no list=route-aws@eu-central
 add address=15.230.244.0/24 disabled=no list=route-aws@eu-central
+add address=15.248.137.0/24 disabled=no list=route-aws@eu-central
 add address=16.12.24.0/21 disabled=no list=route-aws@eu-central
 add address=16.12.32.0/22 disabled=no list=route-aws@eu-central
 add address=16.62.0.0/15 disabled=no list=route-aws@eu-central
@@ -3807,6 +3813,11 @@ add address=35.71.125.0/24 disabled=no list=route-aws@mx-central
 add address=52.94.250.96/28 disabled=no list=route-aws@mx-central
 add address=76.223.170.48/28 disabled=no list=route-aws@mx-central
 add address=78.12.0.0/15 disabled=no list=route-aws@mx-central
+add address=78.12.58.0/24 disabled=no list=route-aws@mx-central
+add address=78.12.59.0/24 disabled=no list=route-aws@mx-central
+add address=78.12.61.0/24 disabled=no list=route-aws@mx-central
+add address=78.12.62.0/24 disabled=no list=route-aws@mx-central
+add address=78.12.63.0/24 disabled=no list=route-aws@mx-central
 add address=78.14.0.0/15 disabled=no list=route-aws@mx-central
 add address=104.255.57.98/32 disabled=no list=route-aws@mx-central
 add address=104.255.57.100/32 disabled=no list=route-aws@mx-central

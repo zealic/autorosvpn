@@ -313,7 +313,12 @@ add address=35.71.124.0/24 disabled=no list=route-aws@ap-southeast
 add address=35.71.126.0/24 disabled=no list=route-aws@ap-southeast
 add address=35.96.128.0/20 disabled=no list=route-aws@ap-southeast
 add address=43.208.0.0/15 disabled=no list=route-aws@ap-southeast
+add address=43.208.52.0/24 disabled=no list=route-aws@ap-southeast
+add address=43.208.53.0/24 disabled=no list=route-aws@ap-southeast
+add address=43.208.54.0/24 disabled=no list=route-aws@ap-southeast
+add address=43.208.55.0/24 disabled=no list=route-aws@ap-southeast
 add address=43.208.56.0/23 disabled=no list=route-aws@ap-southeast
+add address=43.208.58.0/24 disabled=no list=route-aws@ap-southeast
 add address=43.208.76.0/23 disabled=no list=route-aws@ap-southeast
 add address=43.210.0.0/15 disabled=no list=route-aws@ap-southeast
 add address=43.216.0.0/15 disabled=no list=route-aws@ap-southeast
