@@ -11,6 +11,9 @@ add address=2a01:578:0:7400::/56 disabled=no list=route-aws
 add address=2a01:578:0:7500::1/128 disabled=no list=route-aws
 add address=2a01:578:0:7501::1/128 disabled=no list=route-aws
 add address=2a01:578:0:7502::1/128 disabled=no list=route-aws
+add address=2a01:578:0:7600::1/128 disabled=no list=route-aws
+add address=2a01:578:0:7601::1/128 disabled=no list=route-aws
+add address=2a01:578:0:7602::1/128 disabled=no list=route-aws
 add address=2a01:578:0:7700::/56 disabled=no list=route-aws
 add address=2a01:578:0:7800::/56 disabled=no list=route-aws
 add address=2a01:578:0:7900::/56 disabled=no list=route-aws
