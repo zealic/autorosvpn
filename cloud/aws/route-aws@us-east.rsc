@@ -1181,6 +1181,7 @@ add address=150.222.227.0/24 disabled=no list=route-aws@us-east
 add address=150.222.233.0/24 disabled=no list=route-aws@us-east
 add address=150.222.236.0/24 disabled=no list=route-aws@us-east
 add address=150.222.237.0/24 disabled=no list=route-aws@us-east
+add address=150.247.33.0/24 disabled=no list=route-aws@us-east
 add address=151.148.20.0/24 disabled=no list=route-aws@us-east
 add address=151.148.32.0/24 disabled=no list=route-aws@us-east
 add address=151.148.36.0/24 disabled=no list=route-aws@us-east

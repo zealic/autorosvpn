@@ -4,7 +4,6 @@ add address=2400:7fc0:500::/40 disabled=no list=route-aws@global
 add address=2404:c2c0:500::/40 disabled=no list=route-aws@global
 add address=2409:8c00:2421:300::/56 disabled=no list=route-aws@global
 add address=2409:8c00:2421:400::/56 disabled=no list=route-aws@global
-add address=2600:1f01:4900::/40 disabled=no list=route-aws@global
 add address=2600:9000:1000::/36 disabled=no list=route-aws@global
 add address=2600:9000:2000::/36 disabled=no list=route-aws@global
 add address=2600:9000:3000::/36 disabled=no list=route-aws@global
