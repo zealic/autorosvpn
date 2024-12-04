@@ -3424,6 +3424,6 @@ add address=2620:108:700f::/64 disabled=no list=route-aws
 add address=2620:108:7000::/44 disabled=no list=route-aws
 add address=2620:108:d000::/44 disabled=no list=route-aws
 add address=2620:108:d00f::/64 disabled=no list=route-aws
-add address=2804:800:0:7000::/56 disabled=no list=route-aws
+add address=2804:800::/48 disabled=no list=route-aws
 add address=2804:800:ff00::/48 disabled=no list=route-aws
 add address=2804:800:ff00::/48 disabled=no list=route-aws
