@@ -649,6 +649,7 @@ add address=2401:d920::/28 disabled=no list=chnroutes.ipv6
 add address=2401:da00::/32 disabled=no list=chnroutes.ipv6
 add address=2401:dbe0::/32 disabled=no list=chnroutes.ipv6
 add address=2401:dd20::/32 disabled=no list=chnroutes.ipv6
+add address=2401:dd60::/32 disabled=no list=chnroutes.ipv6
 add address=2401:de00::/32 disabled=no list=chnroutes.ipv6
 add address=2401:e080::/32 disabled=no list=chnroutes.ipv6
 add address=2401:e0c0::/32 disabled=no list=chnroutes.ipv6
