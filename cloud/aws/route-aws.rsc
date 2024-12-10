@@ -8034,6 +8034,8 @@ add address=205.251.252.0/23 disabled=no list=route-aws
 add address=205.251.252.0/23 disabled=no list=route-aws
 add address=205.251.254.0/24 disabled=no list=route-aws
 add address=205.251.254.0/24 disabled=no list=route-aws
+add address=206.72.209.0/24 disabled=no list=route-aws
+add address=206.72.209.0/24 disabled=no list=route-aws
 add address=207.171.160.0/20 disabled=no list=route-aws
 add address=207.171.176.0/20 disabled=no list=route-aws
 add address=208.78.128.0/23 disabled=no list=route-aws
