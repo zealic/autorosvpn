@@ -2,6 +2,7 @@
 /ip firewall address-list
 add address=34.0.0.0/20 disabled=no list=route-gcp@asia-south
 add address=34.0.227.0/24 disabled=no list=route-gcp@asia-south
+add address=34.14.128.0/18 disabled=no list=route-gcp@asia-south
 add address=34.47.128.0/17 disabled=no list=route-gcp@asia-south
 add address=34.93.0.0/16 disabled=no list=route-gcp@asia-south
 add address=34.100.128.0/17 disabled=no list=route-gcp@asia-south
