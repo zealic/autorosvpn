@@ -6194,6 +6194,7 @@ add address=56.136.0.0/16 disabled=no list=route-aws
 add address=56.136.0.192/26 disabled=no list=route-aws
 add address=56.136.121.0/25 disabled=no list=route-aws
 add address=56.137.0.0/16 disabled=no list=route-aws
+add address=56.137.0.0/16 disabled=no list=route-aws
 add address=56.138.0.0/16 disabled=no list=route-aws
 add address=56.139.0.0/16 disabled=no list=route-aws
 add address=56.155.0.0/17 disabled=no list=route-aws
