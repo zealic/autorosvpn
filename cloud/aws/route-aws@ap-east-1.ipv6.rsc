@@ -9,7 +9,6 @@ add address=2406:da32:e000::/40 disabled=no list=route-aws@ap-east-1
 add address=2406:da36:e000::/40 disabled=no list=route-aws@ap-east-1
 add address=2406:da38:e000::/40 disabled=no list=route-aws@ap-east-1
 add address=2406:da60:e000::/40 disabled=no list=route-aws@ap-east-1
-add address=2406:da61:e000::/40 disabled=no list=route-aws@ap-east-1
 add address=2406:da68:e000::/40 disabled=no list=route-aws@ap-east-1
 add address=2406:da69:e000::/40 disabled=no list=route-aws@ap-east-1
 add address=2406:da70:e000:100::/56 disabled=no list=route-aws@ap-east-1

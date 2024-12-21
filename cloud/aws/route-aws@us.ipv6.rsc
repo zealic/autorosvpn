@@ -123,12 +123,7 @@ add address=2600:1f60:5000::/40 disabled=no list=route-aws@us
 add address=2600:1f60:6000::/40 disabled=no list=route-aws@us
 add address=2600:1f60:8000::/39 disabled=no list=route-aws@us
 add address=2600:1f60:c000::/40 disabled=no list=route-aws@us
-add address=2600:1f61:2000::/40 disabled=no list=route-aws@us
-add address=2600:1f61:4000::/39 disabled=no list=route-aws@us
-add address=2600:1f61:5000::/40 disabled=no list=route-aws@us
-add address=2600:1f61:6000::/40 disabled=no list=route-aws@us
-add address=2600:1f61:8000::/39 disabled=no list=route-aws@us
-add address=2600:1f61:c000::/40 disabled=no list=route-aws@us
+add address=2600:1f61:4000::/40 disabled=no list=route-aws@us
 add address=2600:1f68:2000::/40 disabled=no list=route-aws@us
 add address=2600:1f68:4000::/39 disabled=no list=route-aws@us
 add address=2600:1f68:5000::/40 disabled=no list=route-aws@us
