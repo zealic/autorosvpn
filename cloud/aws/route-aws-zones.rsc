@@ -3820,6 +3820,10 @@ add address=157.175.255.0/24 disabled=no list=route-aws@me-south
 add address=157.241.0.0/16 disabled=no list=route-aws@me-south
 add address=157.241.2.0/23 disabled=no list=route-aws@me-south
 add address=157.241.25.0/24 disabled=no list=route-aws@me-south
+/ip firewall address-list remove [/ip firewall address-list find list="route-aws@me-west"]
+/ip firewall address-list
+add address=51.204.0.0/15 disabled=no list=route-aws@me-west
+add address=51.206.0.0/15 disabled=no list=route-aws@me-west
 /ip firewall address-list remove [/ip firewall address-list find list="route-aws@mx-central"]
 /ip firewall address-list
 add address=3.5.192.0/22 disabled=no list=route-aws@mx-central

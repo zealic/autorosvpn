@@ -423,6 +423,7 @@ add address=2606:7b40:10ff:d200::/60 disabled=no list=route-aws@us
 add address=2606:7b40:10ff:d210::/60 disabled=no list=route-aws@us
 add address=2606:7b40:10ff:d220::/60 disabled=no list=route-aws@us
 add address=2606:7b40:10ff:d230::/60 disabled=no list=route-aws@us
+add address=2606:7b40:10ff:d240::/60 disabled=no list=route-aws@us
 add address=2606:7b40:10ff:d250::/60 disabled=no list=route-aws@us
 add address=2606:7b40:10ff:d270::/60 disabled=no list=route-aws@us
 add address=2606:7b40:10ff:d280::/60 disabled=no list=route-aws@us

@@ -650,8 +650,10 @@ add address=2400:7fc0:83cc:cd00::/56 disabled=no list=route-aws@cn-north
 add address=2400:7fc0:83cc:ce00::/56 disabled=no list=route-aws@cn-north
 add address=2400:7fc0:86fd:e00::/56 disabled=no list=route-aws@cn-north
 add address=2400:7fc0:200::/40 disabled=no list=route-aws@cn-north
+add address=2400:7fc0:2000::/40 disabled=no list=route-aws@cn-north
 add address=2400:7fc0:2100::/40 disabled=no list=route-aws@cn-north
 add address=2400:7fc0:2200::/40 disabled=no list=route-aws@cn-north
+add address=2400:7fc0:2300::/40 disabled=no list=route-aws@cn-north
 add address=2400:7fc0:2400::/40 disabled=no list=route-aws@cn-north
 add address=2400:7fc0:2600::/40 disabled=no list=route-aws@cn-north
 add address=2400:7fc0:2800::/40 disabled=no list=route-aws@cn-north
@@ -686,8 +688,10 @@ add address=2404:c2c0:83cc:cd00::/56 disabled=no list=route-aws@cn-northwest
 add address=2404:c2c0:83cc:ce00::/56 disabled=no list=route-aws@cn-northwest
 add address=2404:c2c0:87aa:4800::/56 disabled=no list=route-aws@cn-northwest
 add address=2404:c2c0:200::/40 disabled=no list=route-aws@cn-northwest
+add address=2404:c2c0:2000::/40 disabled=no list=route-aws@cn-northwest
 add address=2404:c2c0:2100::/40 disabled=no list=route-aws@cn-northwest
 add address=2404:c2c0:2200::/40 disabled=no list=route-aws@cn-northwest
+add address=2404:c2c0:2300::/40 disabled=no list=route-aws@cn-northwest
 add address=2404:c2c0:2400::/40 disabled=no list=route-aws@cn-northwest
 add address=2404:c2c0:2600::/40 disabled=no list=route-aws@cn-northwest
 add address=2404:c2c0:2800::/40 disabled=no list=route-aws@cn-northwest
@@ -1259,6 +1263,8 @@ add address=2600:f0f0:552c::/48 disabled=no list=route-aws@me-south
 add address=2600:f0f0:552d::/48 disabled=no list=route-aws@me-south
 add address=2600:f0f0:552e::/48 disabled=no list=route-aws@me-south
 add address=2600:f0f0:552f::/48 disabled=no list=route-aws@me-south
+/ipv6 firewall address-list remove [/ipv6 firewall address-list find list="route-aws@me-west"]
+/ipv6 firewall address-list
 /ipv6 firewall address-list remove [/ipv6 firewall address-list find list="route-aws@mx-central"]
 /ipv6 firewall address-list
 add address=2600:1f00:7400::/40 disabled=no list=route-aws@mx-central
@@ -1805,6 +1811,7 @@ add address=2606:7b40:10ff:d200::/60 disabled=no list=route-aws@us-west
 add address=2606:7b40:10ff:d210::/60 disabled=no list=route-aws@us-west
 add address=2606:7b40:10ff:d220::/60 disabled=no list=route-aws@us-west
 add address=2606:7b40:10ff:d230::/60 disabled=no list=route-aws@us-west
+add address=2606:7b40:10ff:d240::/60 disabled=no list=route-aws@us-west
 add address=2606:7b40:10ff:d250::/60 disabled=no list=route-aws@us-west
 add address=2606:7b40:10ff:d270::/60 disabled=no list=route-aws@us-west
 add address=2606:7b40:10ff:d280::/60 disabled=no list=route-aws@us-west

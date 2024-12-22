@@ -18,8 +18,10 @@ add address=2400:7fc0:83cc:cd00::/56 disabled=no list=route-aws@cn-north-1
 add address=2400:7fc0:83cc:ce00::/56 disabled=no list=route-aws@cn-north-1
 add address=2400:7fc0:86fd:e00::/56 disabled=no list=route-aws@cn-north-1
 add address=2400:7fc0:200::/40 disabled=no list=route-aws@cn-north-1
+add address=2400:7fc0:2000::/40 disabled=no list=route-aws@cn-north-1
 add address=2400:7fc0:2100::/40 disabled=no list=route-aws@cn-north-1
 add address=2400:7fc0:2200::/40 disabled=no list=route-aws@cn-north-1
+add address=2400:7fc0:2300::/40 disabled=no list=route-aws@cn-north-1
 add address=2400:7fc0:2400::/40 disabled=no list=route-aws@cn-north-1
 add address=2400:7fc0:2600::/40 disabled=no list=route-aws@cn-north-1
 add address=2400:7fc0:2800::/40 disabled=no list=route-aws@cn-north-1
