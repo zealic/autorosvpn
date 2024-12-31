@@ -98,7 +98,6 @@ add address=2001:df6:f400::/48 disabled=no list=novpn.ipv6
 add address=2001:df7:1480::/48 disabled=no list=novpn.ipv6
 add address=2001:df7:2b80::/48 disabled=no list=novpn.ipv6
 add address=2001:df7:6600::/48 disabled=no list=novpn.ipv6
-add address=2001:df7:ab00::/48 disabled=no list=novpn.ipv6
 add address=2001:df7:e580::/48 disabled=no list=novpn.ipv6
 add address=2001:e08::/32 disabled=no list=novpn.ipv6
 add address=2001:e18::/32 disabled=no list=novpn.ipv6
@@ -301,7 +300,6 @@ add address=2400:a420::/32 disabled=no list=novpn.ipv6
 add address=2400:a480::/32 disabled=no list=novpn.ipv6
 add address=2400:a5a0::/32 disabled=no list=novpn.ipv6
 add address=2400:a6a0::/32 disabled=no list=novpn.ipv6
-add address=2400:a6e0::/32 disabled=no list=novpn.ipv6
 add address=2400:a780::/32 disabled=no list=novpn.ipv6
 add address=2400:a860::/32 disabled=no list=novpn.ipv6
 add address=2400:a8a0::/32 disabled=no list=novpn.ipv6
