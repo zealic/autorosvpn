@@ -6004,11 +6004,13 @@ add address=35.94.72.0/22 disabled=no list=route-aws@us-west
 add address=35.94.128.244/31 disabled=no list=route-aws@us-west
 add address=35.94.128.248/30 disabled=no list=route-aws@us-west
 add address=35.95.152.0/25 disabled=no list=route-aws@us-west
+add address=35.96.0.0/24 disabled=no list=route-aws@us-west
 add address=35.96.1.0/24 disabled=no list=route-aws@us-west
 add address=35.96.2.0/24 disabled=no list=route-aws@us-west
 add address=35.96.3.0/24 disabled=no list=route-aws@us-west
 add address=35.96.4.0/24 disabled=no list=route-aws@us-west
 add address=35.96.6.0/24 disabled=no list=route-aws@us-west
+add address=35.96.7.0/24 disabled=no list=route-aws@us-west
 add address=35.96.8.0/24 disabled=no list=route-aws@us-west
 add address=35.96.9.0/24 disabled=no list=route-aws@us-west
 add address=35.96.11.0/24 disabled=no list=route-aws@us-west
