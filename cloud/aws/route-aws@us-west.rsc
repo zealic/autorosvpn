@@ -312,6 +312,7 @@ add address=35.96.6.0/24 disabled=no list=route-aws@us-west
 add address=35.96.7.0/24 disabled=no list=route-aws@us-west
 add address=35.96.8.0/24 disabled=no list=route-aws@us-west
 add address=35.96.9.0/24 disabled=no list=route-aws@us-west
+add address=35.96.10.0/24 disabled=no list=route-aws@us-west
 add address=35.96.11.0/24 disabled=no list=route-aws@us-west
 add address=35.96.13.0/24 disabled=no list=route-aws@us-west
 add address=35.96.14.0/24 disabled=no list=route-aws@us-west
