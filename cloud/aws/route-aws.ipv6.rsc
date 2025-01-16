@@ -777,6 +777,8 @@ add address=2400:7fc0:2400::/40 disabled=no list=route-aws
 add address=2400:7fc0:2600::/40 disabled=no list=route-aws
 add address=2400:7fc0:2800::/40 disabled=no list=route-aws
 add address=2400:7fc0:2800::/40 disabled=no list=route-aws
+add address=2400:7fc0:3000::/40 disabled=no list=route-aws
+add address=2400:7fc0:3000::/40 disabled=no list=route-aws
 add address=2400:7fc0:4000:100::/56 disabled=no list=route-aws
 add address=2400:7fc0:4000:200::/56 disabled=no list=route-aws
 add address=2400:7fc0:4000:300::/56 disabled=no list=route-aws
@@ -848,6 +850,8 @@ add address=2404:c2c0:2400::/40 disabled=no list=route-aws
 add address=2404:c2c0:2600::/40 disabled=no list=route-aws
 add address=2404:c2c0:2800::/40 disabled=no list=route-aws
 add address=2404:c2c0:2800::/40 disabled=no list=route-aws
+add address=2404:c2c0:3000::/40 disabled=no list=route-aws
+add address=2404:c2c0:3000::/40 disabled=no list=route-aws
 add address=2404:c2c0:3100::/40 disabled=no list=route-aws
 add address=2404:c2c0:3100::/40 disabled=no list=route-aws
 add address=2404:c2c0:4000:100::/56 disabled=no list=route-aws

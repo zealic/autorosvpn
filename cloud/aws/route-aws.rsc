@@ -3778,6 +3778,10 @@ add address=35.96.128.0/20 disabled=no list=route-aws
 add address=35.96.128.0/20 disabled=no list=route-aws
 add address=35.96.144.0/20 disabled=no list=route-aws
 add address=35.96.144.0/20 disabled=no list=route-aws
+add address=35.96.240.0/24 disabled=no list=route-aws
+add address=35.96.240.0/24 disabled=no list=route-aws
+add address=35.96.241.0/24 disabled=no list=route-aws
+add address=35.96.241.0/24 disabled=no list=route-aws
 add address=35.152.0.0/16 disabled=no list=route-aws
 add address=35.152.0.0/16 disabled=no list=route-aws
 add address=35.152.74.128/29 disabled=no list=route-aws

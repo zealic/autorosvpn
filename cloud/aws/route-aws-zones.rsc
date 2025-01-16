@@ -6020,6 +6020,8 @@ add address=35.96.13.0/24 disabled=no list=route-aws@us-west
 add address=35.96.14.0/24 disabled=no list=route-aws@us-west
 add address=35.96.15.0/24 disabled=no list=route-aws@us-west
 add address=35.96.16.0/20 disabled=no list=route-aws@us-west
+add address=35.96.240.0/24 disabled=no list=route-aws@us-west
+add address=35.96.241.0/24 disabled=no list=route-aws@us-west
 add address=35.155.0.0/16 disabled=no list=route-aws@us-west
 add address=35.160.0.0/13 disabled=no list=route-aws@us-west
 add address=35.162.63.192/26 disabled=no list=route-aws@us-west
