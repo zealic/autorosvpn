@@ -3117,14 +3117,6 @@ add address=2600:f0f1:8801::/48 disabled=no list=route-aws
 add address=2600:f0f1:8802::/48 disabled=no list=route-aws
 add address=2600:f0f1:8802::/48 disabled=no list=route-aws
 add address=2600:f0f2:7000::/44 disabled=no list=route-aws
-add address=2600:f0f3:ce00::/48 disabled=no list=route-aws
-add address=2600:f0f3:ce00::/48 disabled=no list=route-aws
-add address=2600:f0f3:ce40::/48 disabled=no list=route-aws
-add address=2600:f0f3:ce40::/48 disabled=no list=route-aws
-add address=2600:f0f3:ce80::/48 disabled=no list=route-aws
-add address=2600:f0f3:ce80::/48 disabled=no list=route-aws
-add address=2600:f0f3:cec0::/48 disabled=no list=route-aws
-add address=2600:f0f3:cec0::/48 disabled=no list=route-aws
 add address=2600:f0f3:f000::/44 disabled=no list=route-aws
 add address=2600:f0fb:8000::/40 disabled=no list=route-aws
 add address=2600:f0fb:8000::/40 disabled=no list=route-aws
