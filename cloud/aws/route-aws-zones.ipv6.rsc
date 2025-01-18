@@ -328,12 +328,14 @@ add address=2406:da00:8000::/40 disabled=no list=route-aws@ap-southeast
 add address=2406:da00:9000::/40 disabled=no list=route-aws@ap-southeast
 add address=2406:da00:c000::/40 disabled=no list=route-aws@ap-southeast
 add address=2406:da00:f000::/40 disabled=no list=route-aws@ap-southeast
+add address=2406:da1a:8000::/36 disabled=no list=route-aws@ap-southeast
 add address=2406:da1c:7ff:f800::/56 disabled=no list=route-aws@ap-southeast
 add address=2406:da1c:90e:4a00::/56 disabled=no list=route-aws@ap-southeast
 add address=2406:da1c::/36 disabled=no list=route-aws@ap-southeast
 add address=2406:da1c:fff:f800::/56 disabled=no list=route-aws@ap-southeast
 add address=2406:da1f::/36 disabled=no list=route-aws@ap-southeast
 add address=2406:da1f:b4f:4600::/56 disabled=no list=route-aws@ap-southeast
+add address=2406:da2a:8000::/36 disabled=no list=route-aws@ap-southeast
 add address=2406:da2c::/36 disabled=no list=route-aws@ap-southeast
 add address=2406:da2f::/36 disabled=no list=route-aws@ap-southeast
 add address=2406:da10:8000::/36 disabled=no list=route-aws@ap-southeast
@@ -1718,7 +1720,12 @@ add address=2600:1f36:4000::/39 disabled=no list=route-aws@us-west
 add address=2600:1f36:c000::/40 disabled=no list=route-aws@us-west
 add address=2600:1f38:4000::/39 disabled=no list=route-aws@us-west
 add address=2600:1f38:c000::/40 disabled=no list=route-aws@us-west
+add address=2600:1f60:40c0::/48 disabled=no list=route-aws@us-west
 add address=2600:1f60:4000::/39 disabled=no list=route-aws@us-west
+add address=2600:1f60:4000::/56 disabled=no list=route-aws@us-west
+add address=2600:1f60:4020::/48 disabled=no list=route-aws@us-west
+add address=2600:1f60:4040::/48 disabled=no list=route-aws@us-west
+add address=2600:1f60:4080::/48 disabled=no list=route-aws@us-west
 add address=2600:1f60:c000::/40 disabled=no list=route-aws@us-west
 add address=2600:1f61:4000::/39 disabled=no list=route-aws@us-west
 add address=2600:1f61:c000::/40 disabled=no list=route-aws@us-west
