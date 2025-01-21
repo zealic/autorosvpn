@@ -47,8 +47,6 @@ add address=2a05:d011:cbe:f700::/56 disabled=no list=route-aws
 add address=2a05:d012::/36 disabled=no list=route-aws
 add address=2a05:d012::/36 disabled=no list=route-aws
 add address=2a05:d012:c9e:d600::/56 disabled=no list=route-aws
-add address=2a05:d013::/36 disabled=no list=route-aws
-add address=2a05:d013::/36 disabled=no list=route-aws
 add address=2a05:d014:17a8:8b00::/56 disabled=no list=route-aws
 add address=2a05:d014::/35 disabled=no list=route-aws
 add address=2a05:d014::/35 disabled=no list=route-aws
@@ -84,8 +82,6 @@ add address=2a05:d021::/36 disabled=no list=route-aws
 add address=2a05:d021::/36 disabled=no list=route-aws
 add address=2a05:d022::/36 disabled=no list=route-aws
 add address=2a05:d022::/36 disabled=no list=route-aws
-add address=2a05:d023::/36 disabled=no list=route-aws
-add address=2a05:d023::/36 disabled=no list=route-aws
 add address=2a05:d024::/36 disabled=no list=route-aws
 add address=2a05:d024::/36 disabled=no list=route-aws
 add address=2a05:d025:451:7d00::/56 disabled=no list=route-aws
