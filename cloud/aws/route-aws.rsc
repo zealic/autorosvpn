@@ -3570,6 +3570,15 @@ add address=35.50.214.0/24 disabled=no list=route-aws
 add address=35.50.233.0/24 disabled=no list=route-aws
 add address=35.50.233.0/24 disabled=no list=route-aws
 add address=35.50.233.0/24 disabled=no list=route-aws
+add address=35.50.237.0/24 disabled=no list=route-aws
+add address=35.50.237.0/24 disabled=no list=route-aws
+add address=35.50.237.0/24 disabled=no list=route-aws
+add address=35.50.238.0/24 disabled=no list=route-aws
+add address=35.50.238.0/24 disabled=no list=route-aws
+add address=35.50.238.0/24 disabled=no list=route-aws
+add address=35.50.239.0/24 disabled=no list=route-aws
+add address=35.50.239.0/24 disabled=no list=route-aws
+add address=35.50.239.0/24 disabled=no list=route-aws
 add address=35.71.64.0/22 disabled=no list=route-aws
 add address=35.71.64.0/22 disabled=no list=route-aws
 add address=35.71.64.0/22 disabled=no list=route-aws

@@ -817,6 +817,9 @@ add address=23.254.0.0/21 disabled=no list=route-aws@ap
 add address=23.254.8.0/21 disabled=no list=route-aws@ap
 add address=27.0.0.0/22 disabled=no list=route-aws@ap
 add address=35.50.233.0/24 disabled=no list=route-aws@ap
+add address=35.50.237.0/24 disabled=no list=route-aws@ap
+add address=35.50.238.0/24 disabled=no list=route-aws@ap
+add address=35.50.239.0/24 disabled=no list=route-aws@ap
 add address=35.71.96.0/24 disabled=no list=route-aws@ap
 add address=35.71.97.0/24 disabled=no list=route-aws@ap
 add address=35.71.100.0/24 disabled=no list=route-aws@ap
