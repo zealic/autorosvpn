@@ -499,6 +499,8 @@ add address=15.230.254.0/31 disabled=no list=route-aws@us-east
 add address=15.230.254.2/31 disabled=no list=route-aws@us-east
 add address=15.230.254.4/32 disabled=no list=route-aws@us-east
 add address=15.248.8.0/22 disabled=no list=route-aws@us-east
+add address=15.248.106.0/24 disabled=no list=route-aws@us-east
+add address=15.248.107.0/24 disabled=no list=route-aws@us-east
 add address=15.248.138.0/24 disabled=no list=route-aws@us-east
 add address=15.248.140.0/24 disabled=no list=route-aws@us-east
 add address=15.251.0.10/32 disabled=no list=route-aws@us-east
