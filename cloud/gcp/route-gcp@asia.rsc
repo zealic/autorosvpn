@@ -7,6 +7,10 @@ add address=34.1.128.0/20 disabled=no list=route-gcp@asia
 add address=34.1.192.0/20 disabled=no list=route-gcp@asia
 add address=34.2.16.0/20 disabled=no list=route-gcp@asia
 add address=34.2.128.0/17 disabled=no list=route-gcp@asia
+add address=34.13.103.0/24 disabled=no list=route-gcp@asia
+add address=34.13.110.0/23 disabled=no list=route-gcp@asia
+add address=34.13.112.0/23 disabled=no list=route-gcp@asia
+add address=34.13.114.0/23 disabled=no list=route-gcp@asia
 add address=34.14.128.0/18 disabled=no list=route-gcp@asia
 add address=34.21.128.0/17 disabled=no list=route-gcp@asia
 add address=34.22.64.0/19 disabled=no list=route-gcp@asia

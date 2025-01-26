@@ -2,6 +2,9 @@
 /ip firewall address-list
 add address=34.1.16.0/20 disabled=no list=route-gcp@us-east
 add address=34.11.0.0/17 disabled=no list=route-gcp@us-east
+add address=34.13.80.0/21 disabled=no list=route-gcp@us-east
+add address=34.13.88.0/23 disabled=no list=route-gcp@us-east
+add address=34.13.90.0/23 disabled=no list=route-gcp@us-east
 add address=34.21.0.0/17 disabled=no list=route-gcp@us-east
 add address=34.23.0.0/16 disabled=no list=route-gcp@us-east
 add address=34.24.0.0/15 disabled=no list=route-gcp@us-east
