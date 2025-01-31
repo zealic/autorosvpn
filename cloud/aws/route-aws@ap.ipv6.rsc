@@ -513,6 +513,9 @@ add address=2600:f0f0:553e::/48 disabled=no list=route-aws@ap
 add address=2600:f0f0:553f::/48 disabled=no list=route-aws@ap
 add address=2600:f0f0:730::/48 disabled=no list=route-aws@ap
 add address=2600:f0f0:731::/48 disabled=no list=route-aws@ap
+add address=2600:f0f0:5400::/48 disabled=no list=route-aws@ap
+add address=2600:f0f0:5401::/48 disabled=no list=route-aws@ap
+add address=2600:f0f0:5402::/48 disabled=no list=route-aws@ap
 add address=2600:f0f0:5533::/48 disabled=no list=route-aws@ap
 add address=2600:f0f0:5534::/48 disabled=no list=route-aws@ap
 add address=2600:f0f0:5535::/48 disabled=no list=route-aws@ap
