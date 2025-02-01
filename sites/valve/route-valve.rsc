@@ -13,7 +13,6 @@ add address=155.133.227.0/24 disabled=no list=route-valve
 add address=155.133.228.0/24 disabled=no list=route-valve
 add address=155.133.229.0/24 disabled=no list=route-valve
 add address=155.133.230.0/24 disabled=no list=route-valve
-add address=155.133.232.0/24 disabled=no list=route-valve
 add address=155.133.236.0/23 disabled=no list=route-valve
 add address=155.133.238.0/24 disabled=no list=route-valve
 add address=155.133.240.0/23 disabled=no list=route-valve
