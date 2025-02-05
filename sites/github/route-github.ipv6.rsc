@@ -158,6 +158,8 @@ add address=2603:1030:9:4c0::/58 disabled=no list=route-github
 add address=2603:1030:9:5a0::/60 disabled=no list=route-github
 add address=2603:1030:9:5b0::/62 disabled=no list=route-github
 add address=2603:1030:9:5c4::/62 disabled=no list=route-github
+add address=2603:1030:9:5c8::/61 disabled=no list=route-github
+add address=2603:1030:9:5d0::/61 disabled=no list=route-github
 add address=2603:1030:9:8::/61 disabled=no list=route-github
 add address=2603:1030:9:10::/62 disabled=no list=route-github
 add address=2603:1030:9:10c::/64 disabled=no list=route-github
