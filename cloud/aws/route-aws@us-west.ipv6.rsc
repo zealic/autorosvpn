@@ -27,6 +27,7 @@ add address=2600:1f14::/34 disabled=no list=route-aws@us-west
 add address=2600:1f14:fff:f800::/56 disabled=no list=route-aws@us-west
 add address=2600:1f22:8000::/36 disabled=no list=route-aws@us-west
 add address=2600:1f23::/36 disabled=no list=route-aws@us-west
+add address=2600:1f24:34::/48 disabled=no list=route-aws@us-west
 add address=2600:1f24:8000::/36 disabled=no list=route-aws@us-west
 add address=2600:1f24::/36 disabled=no list=route-aws@us-west
 add address=2600:1f30:4000::/39 disabled=no list=route-aws@us-west
@@ -36,12 +37,7 @@ add address=2600:1f36:4000::/39 disabled=no list=route-aws@us-west
 add address=2600:1f36:c000::/40 disabled=no list=route-aws@us-west
 add address=2600:1f38:4000::/39 disabled=no list=route-aws@us-west
 add address=2600:1f38:c000::/40 disabled=no list=route-aws@us-west
-add address=2600:1f60:40c0::/48 disabled=no list=route-aws@us-west
 add address=2600:1f60:4000::/39 disabled=no list=route-aws@us-west
-add address=2600:1f60:4000::/56 disabled=no list=route-aws@us-west
-add address=2600:1f60:4020::/48 disabled=no list=route-aws@us-west
-add address=2600:1f60:4040::/48 disabled=no list=route-aws@us-west
-add address=2600:1f60:4080::/48 disabled=no list=route-aws@us-west
 add address=2600:1f60:c000::/40 disabled=no list=route-aws@us-west
 add address=2600:1f61:4000::/39 disabled=no list=route-aws@us-west
 add address=2600:1f61:c000::/40 disabled=no list=route-aws@us-west
@@ -74,7 +70,7 @@ add address=2600:1ff2:c000::/40 disabled=no list=route-aws@us-west
 add address=2600:1ff4:4000::/39 disabled=no list=route-aws@us-west
 add address=2600:1ff4:c000::/40 disabled=no list=route-aws@us-west
 add address=2600:1ff5:4000::/39 disabled=no list=route-aws@us-west
-add address=2600:1ff5:c000::/40 disabled=no list=route-aws@us-west
+add address=2600:1ff5:c000::/56 disabled=no list=route-aws@us-west
 add address=2600:1ff6:4000::/39 disabled=no list=route-aws@us-west
 add address=2600:1ff6:c000::/40 disabled=no list=route-aws@us-west
 add address=2600:1ff7:40c0::/46 disabled=no list=route-aws@us-west
