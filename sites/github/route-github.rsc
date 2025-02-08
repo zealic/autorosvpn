@@ -1008,6 +1008,7 @@ add address=20.84.0.0/17 disabled=no list=route-github
 add address=20.84.128.0/17 disabled=no list=route-github
 add address=20.85.0.0/17 disabled=no list=route-github
 add address=20.85.128.0/17 disabled=no list=route-github
+add address=20.85.130.105/32 disabled=no list=route-github
 add address=20.86.0.0/16 disabled=no list=route-github
 add address=20.87.245.0/32 disabled=no list=route-github
 add address=20.87.245.1/32 disabled=no list=route-github

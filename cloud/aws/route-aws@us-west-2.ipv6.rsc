@@ -38,12 +38,10 @@ add address=2600:1f70:4000:400::/56 disabled=no list=route-aws@us-west-2
 add address=2600:1f70:4000::/39 disabled=no list=route-aws@us-west-2
 add address=2600:1f70:4000::/56 disabled=no list=route-aws@us-west-2
 add address=2600:1fa0:4000::/39 disabled=no list=route-aws@us-west-2
-add address=2600:1fb8:4000::/39 disabled=no list=route-aws@us-west-2
 add address=2600:1ff0:4000::/39 disabled=no list=route-aws@us-west-2
 add address=2600:1ff1:4000::/39 disabled=no list=route-aws@us-west-2
 add address=2600:1ff2:4000::/39 disabled=no list=route-aws@us-west-2
 add address=2600:1ff4:4000::/39 disabled=no list=route-aws@us-west-2
-add address=2600:1ff5:4000::/39 disabled=no list=route-aws@us-west-2
 add address=2600:1ff6:4000::/39 disabled=no list=route-aws@us-west-2
 add address=2600:1ff7:40c0::/46 disabled=no list=route-aws@us-west-2
 add address=2600:1ff7:4020::/46 disabled=no list=route-aws@us-west-2

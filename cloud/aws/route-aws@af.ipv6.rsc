@@ -19,12 +19,9 @@ add address=2406:da70:1000:400::/56 disabled=no list=route-aws@af
 add address=2406:da70:1000::/40 disabled=no list=route-aws@af
 add address=2406:da70:1000::/56 disabled=no list=route-aws@af
 add address=2406:daa0:1000::/40 disabled=no list=route-aws@af
-add address=2406:dab8:1000::/40 disabled=no list=route-aws@af
 add address=2406:daf0:1000::/40 disabled=no list=route-aws@af
-add address=2406:daf1:1000::/40 disabled=no list=route-aws@af
 add address=2406:daf2:1000::/40 disabled=no list=route-aws@af
 add address=2406:daf4:1000::/40 disabled=no list=route-aws@af
-add address=2406:daf5:1000::/40 disabled=no list=route-aws@af
 add address=2406:daf6:1000::/40 disabled=no list=route-aws@af
 add address=2406:daf7:1000::/40 disabled=no list=route-aws@af
 add address=2406:daf8:1000::/40 disabled=no list=route-aws@af

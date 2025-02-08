@@ -37,18 +37,12 @@ add address=2406:da70:8000::/56 disabled=no list=route-aws@ap-southeast-1
 add address=2406:da70:8800::/40 disabled=no list=route-aws@ap-southeast-1
 add address=2406:daa0:8000::/40 disabled=no list=route-aws@ap-southeast-1
 add address=2406:daa0:8800::/40 disabled=no list=route-aws@ap-southeast-1
-add address=2406:dab8:8000::/40 disabled=no list=route-aws@ap-southeast-1
-add address=2406:dab8:8800::/40 disabled=no list=route-aws@ap-southeast-1
 add address=2406:daf0:8000::/40 disabled=no list=route-aws@ap-southeast-1
 add address=2406:daf0:8800::/40 disabled=no list=route-aws@ap-southeast-1
-add address=2406:daf1:8000::/40 disabled=no list=route-aws@ap-southeast-1
-add address=2406:daf1:8800::/40 disabled=no list=route-aws@ap-southeast-1
 add address=2406:daf2:8000::/40 disabled=no list=route-aws@ap-southeast-1
 add address=2406:daf2:8800::/40 disabled=no list=route-aws@ap-southeast-1
 add address=2406:daf4:8000::/40 disabled=no list=route-aws@ap-southeast-1
 add address=2406:daf4:8800::/40 disabled=no list=route-aws@ap-southeast-1
-add address=2406:daf5:8000::/40 disabled=no list=route-aws@ap-southeast-1
-add address=2406:daf5:8800::/40 disabled=no list=route-aws@ap-southeast-1
 add address=2406:daf6:8000::/40 disabled=no list=route-aws@ap-southeast-1
 add address=2406:daf6:8800::/40 disabled=no list=route-aws@ap-southeast-1
 add address=2406:daf7:8000::/40 disabled=no list=route-aws@ap-southeast-1
@@ -60,7 +54,6 @@ add address=2406:dafa:8000::/40 disabled=no list=route-aws@ap-southeast-1
 add address=2406:dafb:8000::/40 disabled=no list=route-aws@ap-southeast-1
 add address=2406:dafb:8800::/40 disabled=no list=route-aws@ap-southeast-1
 add address=2406:dafc:8000::/40 disabled=no list=route-aws@ap-southeast-1
-add address=2406:dafc:8800::/40 disabled=no list=route-aws@ap-southeast-1
 add address=2406:dafe:8000::/40 disabled=no list=route-aws@ap-southeast-1
 add address=2406:dafe:8800::/40 disabled=no list=route-aws@ap-southeast-1
 add address=2406:daff:8000::/40 disabled=no list=route-aws@ap-southeast-1
