@@ -160,6 +160,9 @@ add address=2603:1030:9:5b0::/62 disabled=no list=route-github
 add address=2603:1030:9:5c4::/62 disabled=no list=route-github
 add address=2603:1030:9:5c8::/61 disabled=no list=route-github
 add address=2603:1030:9:5d0::/61 disabled=no list=route-github
+add address=2603:1030:9:5d9::/64 disabled=no list=route-github
+add address=2603:1030:9:5da::/63 disabled=no list=route-github
+add address=2603:1030:9:5dc::/64 disabled=no list=route-github
 add address=2603:1030:9:8::/61 disabled=no list=route-github
 add address=2603:1030:9:10::/62 disabled=no list=route-github
 add address=2603:1030:9:10c::/64 disabled=no list=route-github
@@ -392,6 +395,10 @@ add address=2603:1030:401:7a8::/63 disabled=no list=route-github
 add address=2603:1030:401:7b1::/64 disabled=no list=route-github
 add address=2603:1030:401:7b2::/63 disabled=no list=route-github
 add address=2603:1030:401:7b4::/64 disabled=no list=route-github
+add address=2603:1030:401:7bb::/64 disabled=no list=route-github
+add address=2603:1030:401:7bc::/62 disabled=no list=route-github
+add address=2603:1030:401:7c0::/62 disabled=no list=route-github
+add address=2603:1030:401:7c4::/64 disabled=no list=route-github
 add address=2603:1030:401:8::/61 disabled=no list=route-github
 add address=2603:1030:401:8c::/63 disabled=no list=route-github
 add address=2603:1030:401:8f::/64 disabled=no list=route-github
@@ -578,7 +585,8 @@ add address=2603:1030:804:2c0::/58 disabled=no list=route-github
 add address=2603:1030:804:3c0::/60 disabled=no list=route-github
 add address=2603:1030:804:3d0::/61 disabled=no list=route-github
 add address=2603:1030:804:3d8::/62 disabled=no list=route-github
-add address=2603:1030:804:3dc::/64 disabled=no list=route-github
+add address=2603:1030:804:3dc::/63 disabled=no list=route-github
+add address=2603:1030:804:3de::/64 disabled=no list=route-github
 add address=2603:1030:804:5b::/64 disabled=no list=route-github
 add address=2603:1030:804:5c::/62 disabled=no list=route-github
 add address=2603:1030:804:22c::/64 disabled=no list=route-github
