@@ -558,6 +558,7 @@ add address=15.248.36.0/22 disabled=no list=route-aws@ap
 add address=15.248.56.0/21 disabled=no list=route-aws@ap
 add address=15.248.112.0/21 disabled=no list=route-aws@ap
 add address=15.248.128.0/21 disabled=no list=route-aws@ap
+add address=15.248.141.0/24 disabled=no list=route-aws@ap
 add address=15.248.144.0/21 disabled=no list=route-aws@ap
 add address=15.251.0.8/32 disabled=no list=route-aws@ap
 add address=15.251.0.9/32 disabled=no list=route-aws@ap
