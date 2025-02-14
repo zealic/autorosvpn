@@ -863,6 +863,7 @@ add address=18.254.148.0/22 disabled=no list=route-aws@us
 add address=23.20.0.0/14 disabled=no list=route-aws@us
 add address=23.228.192.0/24 disabled=no list=route-aws@us
 add address=23.228.193.0/24 disabled=no list=route-aws@us
+add address=23.228.194.0/24 disabled=no list=route-aws@us
 add address=32.192.0.0/12 disabled=no list=route-aws@us
 add address=34.192.0.0/12 disabled=no list=route-aws@us
 add address=34.195.252.0/24 disabled=no list=route-aws@us
