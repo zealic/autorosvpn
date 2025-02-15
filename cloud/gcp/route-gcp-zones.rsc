@@ -295,6 +295,7 @@ add address=34.147.0.0/17 disabled=no list=route-gcp@europe-west
 add address=34.147.128.0/17 disabled=no list=route-gcp@europe-west
 add address=34.152.80.0/23 disabled=no list=route-gcp@europe-west
 add address=34.152.97.0/25 disabled=no list=route-gcp@europe-west
+add address=34.152.110.0/25 disabled=no list=route-gcp@europe-west
 add address=34.153.38.0/24 disabled=no list=route-gcp@europe-west
 add address=34.153.45.0/24 disabled=no list=route-gcp@europe-west
 add address=34.153.63.0/24 disabled=no list=route-gcp@europe-west
@@ -326,6 +327,7 @@ add address=34.159.0.0/16 disabled=no list=route-gcp@europe-west
 add address=34.163.0.0/16 disabled=no list=route-gcp@europe-west
 add address=34.177.36.0/23 disabled=no list=route-gcp@europe-west
 add address=34.177.65.0/25 disabled=no list=route-gcp@europe-west
+add address=34.177.78.0/25 disabled=no list=route-gcp@europe-west
 add address=34.179.0.0/16 disabled=no list=route-gcp@europe-west
 add address=34.181.0.0/17 disabled=no list=route-gcp@europe-west
 add address=35.187.0.0/17 disabled=no list=route-gcp@europe-west
@@ -713,9 +715,11 @@ add address=34.127.180.0/24 disabled=no list=route-gcp@us-west
 add address=34.128.46.0/23 disabled=no list=route-gcp@us-west
 add address=34.128.62.0/23 disabled=no list=route-gcp@us-west
 add address=34.145.0.0/17 disabled=no list=route-gcp@us-west
+add address=34.152.111.0/24 disabled=no list=route-gcp@us-west
 add address=34.157.112.0/21 disabled=no list=route-gcp@us-west
 add address=34.157.240.0/21 disabled=no list=route-gcp@us-west
 add address=34.168.0.0/15 disabled=no list=route-gcp@us-west
+add address=34.177.79.0/24 disabled=no list=route-gcp@us-west
 add address=34.182.0.0/17 disabled=no list=route-gcp@us-west
 add address=35.185.192.0/18 disabled=no list=route-gcp@us-west
 add address=35.197.0.0/17 disabled=no list=route-gcp@us-west

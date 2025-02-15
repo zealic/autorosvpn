@@ -5622,6 +5622,9 @@ add address=18.253.138.64/29 disabled=no list=route-aws@us-gov-east
 add address=18.253.138.72/29 disabled=no list=route-aws@us-gov-east
 add address=18.253.138.80/29 disabled=no list=route-aws@us-gov-east
 add address=18.253.138.88/29 disabled=no list=route-aws@us-gov-east
+add address=18.253.167.0/25 disabled=no list=route-aws@us-gov-east
+add address=18.253.167.128/25 disabled=no list=route-aws@us-gov-east
+add address=18.253.168.0/25 disabled=no list=route-aws@us-gov-east
 add address=18.253.186.0/24 disabled=no list=route-aws@us-gov-east
 add address=18.253.204.0/27 disabled=no list=route-aws@us-gov-east
 add address=18.253.204.32/27 disabled=no list=route-aws@us-gov-east
@@ -5732,6 +5735,9 @@ add address=108.175.48.0/22 disabled=no list=route-aws@us-gov-west
 add address=108.175.56.0/22 disabled=no list=route-aws@us-gov-west
 add address=136.18.0.0/23 disabled=no list=route-aws@us-gov-west
 add address=160.1.0.0/16 disabled=no list=route-aws@us-gov-west
+add address=160.1.55.0/25 disabled=no list=route-aws@us-gov-west
+add address=160.1.55.128/25 disabled=no list=route-aws@us-gov-west
+add address=160.1.56.0/25 disabled=no list=route-aws@us-gov-west
 add address=160.1.128.0/24 disabled=no list=route-aws@us-gov-west
 add address=205.251.236.0/22 disabled=no list=route-aws@us-gov-west
 /ip firewall address-list remove [/ip firewall address-list find list="route-aws@us-west"]

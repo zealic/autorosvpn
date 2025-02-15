@@ -11,11 +11,13 @@ add address=2a05:d019:1d6:2100::/56 disabled=no list=route-aws@eu-central
 add address=2a05:d019::/36 disabled=no list=route-aws@eu-central
 add address=2a05:d01b::/36 disabled=no list=route-aws@eu-central
 add address=2a05:d01d::/36 disabled=no list=route-aws@eu-central
+add address=2a05:d01f::/36 disabled=no list=route-aws@eu-central
 add address=2a05:d024:18::/48 disabled=no list=route-aws@eu-central
 add address=2a05:d024::/36 disabled=no list=route-aws@eu-central
 add address=2a05:d029::/36 disabled=no list=route-aws@eu-central
 add address=2a05:d02b::/36 disabled=no list=route-aws@eu-central
 add address=2a05:d02d::/36 disabled=no list=route-aws@eu-central
+add address=2a05:d02f::/36 disabled=no list=route-aws@eu-central
 add address=2a05:d030:4000::/40 disabled=no list=route-aws@eu-central
 add address=2a05:d030:9000::/40 disabled=no list=route-aws@eu-central
 add address=2a05:d030:b000::/40 disabled=no list=route-aws@eu-central
