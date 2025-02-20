@@ -10,6 +10,7 @@ add address=2001:3fc3:5800::/40 disabled=no list=route-aws@eusc-de-east
 add address=2001:3fc3:6800::/40 disabled=no list=route-aws@eusc-de-east
 add address=2001:3fc3:8800::/40 disabled=no list=route-aws@eusc-de-east
 add address=2001:3fc3:a800::/40 disabled=no list=route-aws@eusc-de-east
+add address=2001:3fc4:800::/40 disabled=no list=route-aws@eusc-de-east
 add address=2001:3fc5:800::/40 disabled=no list=route-aws@eusc-de-east
 add address=2001:3fc5:8800::/40 disabled=no list=route-aws@eusc-de-east
 add address=2001:3fc6:0:100::/56 disabled=no list=route-aws@eusc-de-east
