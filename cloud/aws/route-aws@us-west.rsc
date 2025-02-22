@@ -63,6 +63,7 @@ add address=5.60.180.0/22 disabled=no list=route-aws@us-west
 add address=5.60.188.0/22 disabled=no list=route-aws@us-west
 add address=5.60.196.0/22 disabled=no list=route-aws@us-west
 add address=5.60.200.0/22 disabled=no list=route-aws@us-west
+add address=5.174.0.0/16 disabled=no list=route-aws@us-west
 add address=13.52.0.0/16 disabled=no list=route-aws@us-west
 add address=13.52.1.0/28 disabled=no list=route-aws@us-west
 add address=13.52.1.16/28 disabled=no list=route-aws@us-west
