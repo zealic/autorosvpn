@@ -235,6 +235,7 @@ add address=2600:1ff9:8110::/46 disabled=no list=route-aws@us
 add address=2600:1ff9:8120::/46 disabled=no list=route-aws@us
 add address=2600:1ff9:8140::/46 disabled=no list=route-aws@us
 add address=2600:1ff9:8150::/46 disabled=no list=route-aws@us
+add address=2600:1ff9:8160::/46 disabled=no list=route-aws@us
 add address=2600:1ff9:8180::/46 disabled=no list=route-aws@us
 add address=2600:1ff9:8190::/46 disabled=no list=route-aws@us
 add address=2600:1ff9:c000::/40 disabled=no list=route-aws@us
