@@ -1151,6 +1151,10 @@ add address=13.144.0.0/16 disabled=no list=route-aws
 add address=13.146.0.0/16 disabled=no list=route-aws
 add address=13.146.0.0/16 disabled=no list=route-aws
 add address=13.150.0.0/15 disabled=no list=route-aws
+add address=13.152.0.0/16 disabled=no list=route-aws
+add address=13.152.0.0/16 disabled=no list=route-aws
+add address=13.154.0.0/16 disabled=no list=route-aws
+add address=13.154.0.0/16 disabled=no list=route-aws
 add address=13.184.0.0/13 disabled=no list=route-aws
 add address=13.192.0.0/16 disabled=no list=route-aws
 add address=13.192.0.0/16 disabled=no list=route-aws

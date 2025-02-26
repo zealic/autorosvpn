@@ -25,7 +25,7 @@ add address=2400:6700:ff00::/48 disabled=no list=route-aws@ap
 add address=2403:b300:ff00::/48 disabled=no list=route-aws@ap
 add address=2406:da00:800::/40 disabled=no list=route-aws@ap
 add address=2406:da00:2000::/40 disabled=no list=route-aws@ap
-add address=2406:da00:2800::/64 disabled=no list=route-aws@ap
+add address=2406:da00:2800::/40 disabled=no list=route-aws@ap
 add address=2406:da00:4000::/40 disabled=no list=route-aws@ap
 add address=2406:da00:4800::/40 disabled=no list=route-aws@ap
 add address=2406:da00:6000::/40 disabled=no list=route-aws@ap

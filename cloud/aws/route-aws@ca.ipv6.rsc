@@ -12,6 +12,8 @@ add address=2600:1f11::/36 disabled=no list=route-aws@ca
 add address=2600:1f11:ae3:700::/56 disabled=no list=route-aws@ca
 add address=2600:1f21:8::/48 disabled=no list=route-aws@ca
 add address=2600:1f21::/36 disabled=no list=route-aws@ca
+add address=2600:1f30:1000::/40 disabled=no list=route-aws@ca
+add address=2600:1f30:a400::/40 disabled=no list=route-aws@ca
 add address=2600:1f32:1000::/40 disabled=no list=route-aws@ca
 add address=2600:1f32:a400::/40 disabled=no list=route-aws@ca
 add address=2600:1f36:1000::/40 disabled=no list=route-aws@ca
@@ -35,6 +37,8 @@ add address=2600:1f70:1000::/56 disabled=no list=route-aws@ca
 add address=2600:1f70:a400::/40 disabled=no list=route-aws@ca
 add address=2600:1fa0:1000::/40 disabled=no list=route-aws@ca
 add address=2600:1fa0:a400::/40 disabled=no list=route-aws@ca
+add address=2600:1fef:1000::/40 disabled=no list=route-aws@ca
+add address=2600:1fef:a400::/40 disabled=no list=route-aws@ca
 add address=2600:1ff0:1000::/40 disabled=no list=route-aws@ca
 add address=2600:1ff0:a400::/40 disabled=no list=route-aws@ca
 add address=2600:1ff2:1000::/40 disabled=no list=route-aws@ca

@@ -19,7 +19,9 @@ add address=2a05:d03a:e000:200::/56 disabled=no list=route-aws@me
 add address=2a05:d03a:e000:400::/56 disabled=no list=route-aws@me
 add address=2a05:d03a:e000::/40 disabled=no list=route-aws@me
 add address=2a05:d03a:e000::/56 disabled=no list=route-aws@me
+add address=2a05:d040:e000::/40 disabled=no list=route-aws@me
 add address=2a05:d050:e000::/40 disabled=no list=route-aws@me
+add address=2a05:d06f:e000::/40 disabled=no list=route-aws@me
 add address=2a05:d070:e000::/40 disabled=no list=route-aws@me
 add address=2a05:d072:e000::/40 disabled=no list=route-aws@me
 add address=2a05:d074:e000::/40 disabled=no list=route-aws@me
