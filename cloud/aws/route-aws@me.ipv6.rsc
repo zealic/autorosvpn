@@ -39,6 +39,7 @@ add address=2406:da00:7000::/40 disabled=no list=route-aws@me
 add address=2406:da17:1db:b00::/56 disabled=no list=route-aws@me
 add address=2406:da17::/36 disabled=no list=route-aws@me
 add address=2406:da27::/36 disabled=no list=route-aws@me
+add address=2406:da30:7000::/40 disabled=no list=route-aws@me
 add address=2406:da32:7000::/40 disabled=no list=route-aws@me
 add address=2406:da36:7000::/40 disabled=no list=route-aws@me
 add address=2406:da38:7000::/40 disabled=no list=route-aws@me
@@ -48,6 +49,7 @@ add address=2406:da68:7000::/40 disabled=no list=route-aws@me
 add address=2406:da69:7000::/40 disabled=no list=route-aws@me
 add address=2406:da70:7000::/40 disabled=no list=route-aws@me
 add address=2406:daa0:7000::/40 disabled=no list=route-aws@me
+add address=2406:daef:7000::/40 disabled=no list=route-aws@me
 add address=2406:daf0:7000::/40 disabled=no list=route-aws@me
 add address=2406:daf2:7000::/40 disabled=no list=route-aws@me
 add address=2406:daf4:7000::/40 disabled=no list=route-aws@me
