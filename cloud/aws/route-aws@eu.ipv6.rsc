@@ -343,6 +343,8 @@ add address=2606:7b40:1b0d:8000::/56 disabled=no list=route-aws@eu
 add address=2606:f40:1000::/39 disabled=no list=route-aws@eu
 add address=2606:f40:1800::/40 disabled=no list=route-aws@eu
 add address=2606:f40:2100::/40 disabled=no list=route-aws@eu
+add address=2606:f40:5800::/40 disabled=no list=route-aws@eu
+add address=2606:f40:6100::/40 disabled=no list=route-aws@eu
 add address=2606:f40:9000::/39 disabled=no list=route-aws@eu
 add address=2606:f40:9800::/40 disabled=no list=route-aws@eu
 add address=2606:f40:a100::/40 disabled=no list=route-aws@eu

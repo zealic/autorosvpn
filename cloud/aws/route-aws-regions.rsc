@@ -520,6 +520,7 @@ add address=15.193.1.0/24 disabled=no list=route-aws@ap
 add address=15.193.2.0/24 disabled=no list=route-aws@ap
 add address=15.193.3.0/24 disabled=no list=route-aws@ap
 add address=15.193.9.0/24 disabled=no list=route-aws@ap
+add address=15.193.11.0/24 disabled=no list=route-aws@ap
 add address=15.206.0.0/15 disabled=no list=route-aws@ap
 add address=15.206.137.128/26 disabled=no list=route-aws@ap
 add address=15.206.137.192/26 disabled=no list=route-aws@ap
