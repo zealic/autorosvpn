@@ -47,6 +47,7 @@ add address=13.247.50.244/31 disabled=no list=route-aws@af
 add address=13.247.50.248/30 disabled=no list=route-aws@af
 add address=13.247.76.96/31 disabled=no list=route-aws@af
 add address=13.247.76.100/30 disabled=no list=route-aws@af
+add address=15.103.0.0/16 disabled=no list=route-aws@af
 add address=15.177.91.0/24 disabled=no list=route-aws@af
 add address=15.193.10.0/24 disabled=no list=route-aws@af
 add address=15.221.52.0/24 disabled=no list=route-aws@af
@@ -459,6 +460,7 @@ add address=13.250.186.200/29 disabled=no list=route-aws@ap
 add address=13.250.186.208/29 disabled=no list=route-aws@ap
 add address=13.251.113.64/26 disabled=no list=route-aws@ap
 add address=13.251.116.0/23 disabled=no list=route-aws@ap
+add address=15.128.0.0/16 disabled=no list=route-aws@ap
 add address=15.152.0.0/16 disabled=no list=route-aws@ap
 add address=15.152.8.192/26 disabled=no list=route-aws@ap
 add address=15.152.10.0/24 disabled=no list=route-aws@ap
@@ -2714,6 +2716,7 @@ add address=35.96.96.0/20 disabled=no list=route-aws@eu
 add address=35.96.112.0/20 disabled=no list=route-aws@eu
 add address=35.96.242.0/24 disabled=no list=route-aws@eu
 add address=35.96.243.0/24 disabled=no list=route-aws@eu
+add address=35.96.248.0/24 disabled=no list=route-aws@eu
 add address=35.152.0.0/16 disabled=no list=route-aws@eu
 add address=35.152.74.128/29 disabled=no list=route-aws@eu
 add address=35.152.74.136/30 disabled=no list=route-aws@eu
@@ -3557,6 +3560,9 @@ add address=51.226.0.0/15 disabled=no list=route-aws@eusc
 add address=65.176.0.0/14 disabled=no list=route-aws@eusc
 add address=83.118.240.0/21 disabled=no list=route-aws@eusc
 add address=83.118.240.0/22 disabled=no list=route-aws@eusc
+add address=150.222.54.0/27 disabled=no list=route-aws@eusc
+add address=150.222.54.32/27 disabled=no list=route-aws@eusc
+add address=150.222.54.64/27 disabled=no list=route-aws@eusc
 /ip firewall address-list remove [/ip firewall address-list find list="route-aws@global"]
 /ip firewall address-list
 add address=3.2.1.0/24 disabled=no list=route-aws@global
