@@ -1,5 +1,6 @@
 /ipv6 firewall address-list remove [/ipv6 firewall address-list find list="route-aws@ap-east"]
 /ipv6 firewall address-list
+add address=2400:6500:0:3::/64 disabled=no list=route-aws@ap-east
 add address=2400:6500:0:7e00::/56 disabled=no list=route-aws@ap-east
 add address=2400:6500:0:7300::/56 disabled=no list=route-aws@ap-east
 add address=2406:da00:c800::/40 disabled=no list=route-aws@ap-east

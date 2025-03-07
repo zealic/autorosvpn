@@ -788,6 +788,7 @@ add address=2400:7fc0:a000::/36 disabled=no list=route-aws
 add address=2400:7fc0:a000::/36 disabled=no list=route-aws
 add address=2400:7fc0:c000::/36 disabled=no list=route-aws
 add address=2400:7fc0:c000::/36 disabled=no list=route-aws
+add address=2400:6500:0:3::/64 disabled=no list=route-aws
 add address=2400:6500:0:7a00::/56 disabled=no list=route-aws
 add address=2400:6500:0:7b00::/56 disabled=no list=route-aws
 add address=2400:6500:0:7c00::/56 disabled=no list=route-aws
