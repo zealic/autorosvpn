@@ -429,10 +429,12 @@ add address=34.183.0.0/24 disabled=no list=route-gcp
 add address=34.183.1.0/24 disabled=no list=route-gcp
 add address=34.183.2.0/24 disabled=no list=route-gcp
 add address=34.183.3.0/25 disabled=no list=route-gcp
+add address=34.183.4.0/23 disabled=no list=route-gcp
 add address=34.184.0.0/24 disabled=no list=route-gcp
 add address=34.184.1.0/24 disabled=no list=route-gcp
 add address=34.184.2.0/24 disabled=no list=route-gcp
 add address=34.184.3.0/25 disabled=no list=route-gcp
+add address=34.184.4.0/23 disabled=no list=route-gcp
 add address=35.184.0.0/16 disabled=no list=route-gcp
 add address=35.185.0.0/17 disabled=no list=route-gcp
 add address=35.185.128.0/19 disabled=no list=route-gcp
