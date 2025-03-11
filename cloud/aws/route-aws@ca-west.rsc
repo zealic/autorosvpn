@@ -8,6 +8,8 @@ add address=15.190.48.0/20 disabled=no list=route-aws@ca-west
 add address=15.248.64.0/21 disabled=no list=route-aws@ca-west
 add address=16.12.56.0/23 disabled=no list=route-aws@ca-west
 add address=16.12.58.0/24 disabled=no list=route-aws@ca-west
+add address=16.174.0.0/16 disabled=no list=route-aws@ca-west
+add address=16.175.0.0/16 disabled=no list=route-aws@ca-west
 add address=18.99.128.0/20 disabled=no list=route-aws@ca-west
 add address=35.71.123.0/24 disabled=no list=route-aws@ca-west
 add address=35.96.32.0/20 disabled=no list=route-aws@ca-west

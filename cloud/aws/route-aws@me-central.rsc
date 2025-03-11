@@ -57,3 +57,4 @@ add address=99.150.120.0/21 disabled=no list=route-aws@me-central
 add address=150.222.49.192/27 disabled=no list=route-aws@me-central
 add address=150.222.49.224/27 disabled=no list=route-aws@me-central
 add address=150.222.50.0/27 disabled=no list=route-aws@me-central
+add address=158.252.0.0/15 disabled=no list=route-aws@me-central

@@ -72,9 +72,13 @@ add address=15.251.0.48/32 disabled=no list=route-aws@ca
 add address=16.12.4.0/23 disabled=no list=route-aws@ca
 add address=16.12.56.0/23 disabled=no list=route-aws@ca
 add address=16.12.58.0/24 disabled=no list=route-aws@ca
+add address=16.48.0.0/16 disabled=no list=route-aws@ca
+add address=16.49.0.0/16 disabled=no list=route-aws@ca
 add address=16.52.0.0/16 disabled=no list=route-aws@ca
 add address=16.53.0.0/16 disabled=no list=route-aws@ca
 add address=16.54.0.0/15 disabled=no list=route-aws@ca
+add address=16.174.0.0/16 disabled=no list=route-aws@ca
+add address=16.175.0.0/16 disabled=no list=route-aws@ca
 add address=18.99.0.0/19 disabled=no list=route-aws@ca
 add address=18.99.128.0/20 disabled=no list=route-aws@ca
 add address=35.71.119.0/24 disabled=no list=route-aws@ca

@@ -436,6 +436,7 @@ add address=151.148.16.6/32 disabled=no list=route-aws@us-west-1
 add address=151.148.16.8/31 disabled=no list=route-aws@us-west-1
 add address=151.148.16.10/31 disabled=no list=route-aws@us-west-1
 add address=168.185.4.0/24 disabled=no list=route-aws@us-west-1
+add address=168.192.0.0/15 disabled=no list=route-aws@us-west-1
 add address=173.83.209.0/24 disabled=no list=route-aws@us-west-1
 add address=176.32.112.0/21 disabled=no list=route-aws@us-west-1
 add address=184.72.0.0/18 disabled=no list=route-aws@us-west-1
