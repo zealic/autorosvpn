@@ -669,6 +669,7 @@ add address=18.61.189.0/24 disabled=no list=route-aws@ap
 add address=18.96.16.0/20 disabled=no list=route-aws@ap
 add address=18.96.224.0/19 disabled=no list=route-aws@ap
 add address=18.97.64.0/20 disabled=no list=route-aws@ap
+add address=18.97.80.0/20 disabled=no list=route-aws@ap
 add address=18.98.96.0/19 disabled=no list=route-aws@ap
 add address=18.98.128.0/19 disabled=no list=route-aws@ap
 add address=18.98.192.0/19 disabled=no list=route-aws@ap

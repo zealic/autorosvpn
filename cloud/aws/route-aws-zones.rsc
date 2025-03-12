@@ -1264,6 +1264,7 @@ add address=16.141.0.0/16 disabled=no list=route-aws@ap-southeast
 add address=16.156.0.0/15 disabled=no list=route-aws@ap-southeast
 add address=16.176.0.0/16 disabled=no list=route-aws@ap-southeast
 add address=18.97.64.0/20 disabled=no list=route-aws@ap-southeast
+add address=18.97.80.0/20 disabled=no list=route-aws@ap-southeast
 add address=18.98.96.0/19 disabled=no list=route-aws@ap-southeast
 add address=18.98.192.0/19 disabled=no list=route-aws@ap-southeast
 add address=18.99.32.0/19 disabled=no list=route-aws@ap-southeast
@@ -4101,6 +4102,7 @@ add address=15.190.248.0/22 disabled=no list=route-aws@mx-central
 add address=15.248.120.0/21 disabled=no list=route-aws@mx-central
 add address=16.12.71.0/24 disabled=no list=route-aws@mx-central
 add address=16.12.72.0/23 disabled=no list=route-aws@mx-central
+add address=18.97.96.0/20 disabled=no list=route-aws@mx-central
 add address=35.28.0.0/15 disabled=no list=route-aws@mx-central
 add address=35.30.0.0/15 disabled=no list=route-aws@mx-central
 add address=35.71.125.0/24 disabled=no list=route-aws@mx-central
