@@ -4667,6 +4667,7 @@ add address=13.184.0.0/13 disabled=no list=route-aws@us
 add address=13.216.0.0/13 disabled=no list=route-aws@us
 add address=13.217.8.0/23 disabled=no list=route-aws@us
 add address=13.217.78.0/23 disabled=no list=route-aws@us
+add address=13.217.80.0/24 disabled=no list=route-aws@us
 add address=13.248.99.0/24 disabled=no list=route-aws@us
 add address=13.248.103.0/24 disabled=no list=route-aws@us
 add address=13.248.108.0/24 disabled=no list=route-aws@us
