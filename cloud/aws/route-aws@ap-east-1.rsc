@@ -84,3 +84,4 @@ add address=150.222.48.0/26 disabled=no list=route-aws@ap-east-1
 add address=150.222.114.0/24 disabled=no list=route-aws@ap-east-1
 add address=150.222.135.0/24 disabled=no list=route-aws@ap-east-1
 add address=151.148.19.0/24 disabled=no list=route-aws@ap-east-1
+add address=159.248.133.0/24 disabled=no list=route-aws@ap-east-1
