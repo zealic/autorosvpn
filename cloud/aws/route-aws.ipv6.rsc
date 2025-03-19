@@ -1978,6 +1978,8 @@ add address=2600:1f12:8000::/36 disabled=no list=route-aws
 add address=2600:1f12:8000::/36 disabled=no list=route-aws
 add address=2600:1f12::/36 disabled=no list=route-aws
 add address=2600:1f12::/36 disabled=no list=route-aws
+add address=2600:1f12:c000::/36 disabled=no list=route-aws
+add address=2600:1f12:c000::/36 disabled=no list=route-aws
 add address=2600:1f12:fa9:5100::/56 disabled=no list=route-aws
 add address=2600:1f13:8000::/36 disabled=no list=route-aws
 add address=2600:1f13:8000::/36 disabled=no list=route-aws
@@ -2037,6 +2039,8 @@ add address=2600:1f22:8000::/36 disabled=no list=route-aws
 add address=2600:1f22:8000::/36 disabled=no list=route-aws
 add address=2600:1f22::/36 disabled=no list=route-aws
 add address=2600:1f22::/36 disabled=no list=route-aws
+add address=2600:1f22:c000::/36 disabled=no list=route-aws
+add address=2600:1f22:c000::/36 disabled=no list=route-aws
 add address=2600:1f23:8000::/36 disabled=no list=route-aws
 add address=2600:1f23:8000::/36 disabled=no list=route-aws
 add address=2600:1f23::/36 disabled=no list=route-aws

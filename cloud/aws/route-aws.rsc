@@ -4153,6 +4153,7 @@ add address=43.210.0.0/15 disabled=no list=route-aws
 add address=43.210.0.0/15 disabled=no list=route-aws
 add address=43.212.0.0/15 disabled=no list=route-aws
 add address=43.212.0.0/15 disabled=no list=route-aws
+add address=43.212.62.0/23 disabled=no list=route-aws
 add address=43.214.0.0/15 disabled=no list=route-aws
 add address=43.216.0.0/15 disabled=no list=route-aws
 add address=43.216.0.0/15 disabled=no list=route-aws
