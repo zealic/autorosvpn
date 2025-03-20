@@ -1015,6 +1015,7 @@ add address=35.96.241.0/24 disabled=no list=route-aws@us
 add address=35.96.244.0/24 disabled=no list=route-aws@us
 add address=35.96.245.0/24 disabled=no list=route-aws@us
 add address=35.96.246.0/24 disabled=no list=route-aws@us
+add address=35.96.249.0/24 disabled=no list=route-aws@us
 add address=35.153.0.0/16 disabled=no list=route-aws@us
 add address=35.155.0.0/16 disabled=no list=route-aws@us
 add address=35.160.0.0/13 disabled=no list=route-aws@us

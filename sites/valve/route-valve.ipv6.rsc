@@ -13,6 +13,7 @@ add address=2a01:bc80:a::/48 disabled=no list=route-valve
 add address=2a01:bc80:b::/48 disabled=no list=route-valve
 add address=2a01:bc80:c::/48 disabled=no list=route-valve
 add address=2404:3fc0:1::/48 disabled=no list=route-valve
+add address=2404:3fc0:2::/48 disabled=no list=route-valve
 add address=2404:3fc0:3::/48 disabled=no list=route-valve
 add address=2404:3fc0:8::/48 disabled=no list=route-valve
 add address=2404:3fc0:9::/48 disabled=no list=route-valve
