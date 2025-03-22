@@ -6164,7 +6164,6 @@ add address=157.15.102.0/23 disabled=no list=chnroutes
 add address=157.15.104.0/23 disabled=no list=chnroutes
 add address=157.15.200.0/23 disabled=no list=chnroutes
 add address=157.18.0.0/16 disabled=no list=chnroutes
-add address=157.20.33.0/24 disabled=no list=chnroutes
 add address=157.20.136.0/23 disabled=no list=chnroutes
 add address=157.20.194.0/23 disabled=no list=chnroutes
 add address=157.20.246.0/23 disabled=no list=chnroutes
@@ -6328,6 +6327,8 @@ add address=163.223.32.0/23 disabled=no list=chnroutes
 add address=163.223.68.0/23 disabled=no list=chnroutes
 add address=163.223.124.0/23 disabled=no list=chnroutes
 add address=163.223.156.0/23 disabled=no list=chnroutes
+add address=163.223.173.0/24 disabled=no list=chnroutes
+add address=163.223.178.0/23 disabled=no list=chnroutes
 add address=163.228.0.0/16 disabled=no list=chnroutes
 add address=164.52.0.0/17 disabled=no list=chnroutes
 add address=166.111.0.0/16 disabled=no list=chnroutes

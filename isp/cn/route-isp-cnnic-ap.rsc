@@ -25,6 +25,7 @@ add address=1.95.0.0/16 disabled=no list=route-isp-cnnic-ap
 add address=1.95.20.0/23 disabled=no list=route-isp-cnnic-ap
 add address=1.116.0.0/15 disabled=no list=route-isp-cnnic-ap
 add address=1.118.0.0/16 disabled=no list=route-isp-cnnic-ap
+add address=1.118.32.0/22 disabled=no list=route-isp-cnnic-ap
 add address=1.119.0.0/17 disabled=no list=route-isp-cnnic-ap
 add address=1.119.128.0/17 disabled=no list=route-isp-cnnic-ap
 add address=101.104.0.0/14 disabled=no list=route-isp-cnnic-ap
@@ -51,4 +52,3 @@ add address=101.130.0.0/17 disabled=no list=route-isp-cnnic-ap
 add address=101.130.128.0/19 disabled=no list=route-isp-cnnic-ap
 add address=101.130.160.0/19 disabled=no list=route-isp-cnnic-ap
 add address=101.130.224.0/19 disabled=no list=route-isp-cnnic-ap
-add address=101.131.0.0/16 disabled=no list=route-isp-cnnic-ap
