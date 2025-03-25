@@ -68,6 +68,7 @@ add address=2600:1ffe:a400::/40 disabled=no list=route-aws@ca
 add address=2600:1fff:1000::/40 disabled=no list=route-aws@ca
 add address=2600:1fff:a400::/40 disabled=no list=route-aws@ca
 add address=2600:f0f0:1:1600::/56 disabled=no list=route-aws@ca
+add address=2606:7b40:1b0e::/56 disabled=no list=route-aws@ca
 add address=2620:107:4000:4c00::/56 disabled=no list=route-aws@ca
 add address=2620:107:4000:7c00::/56 disabled=no list=route-aws@ca
 add address=2620:107:4000:4800::/62 disabled=no list=route-aws@ca
