@@ -4084,8 +4084,11 @@ add address=43.210.0.0/15 disabled=no list=route-aws
 add address=43.212.0.0/15 disabled=no list=route-aws
 add address=43.212.0.0/15 disabled=no list=route-aws
 add address=43.212.62.0/23 disabled=no list=route-aws
+add address=43.212.65.0/24 disabled=no list=route-aws
 add address=43.212.66.0/24 disabled=no list=route-aws
+add address=43.212.67.0/24 disabled=no list=route-aws
 add address=43.212.68.0/24 disabled=no list=route-aws
+add address=43.212.69.0/24 disabled=no list=route-aws
 add address=43.212.70.0/24 disabled=no list=route-aws
 add address=43.214.0.0/15 disabled=no list=route-aws
 add address=43.216.0.0/15 disabled=no list=route-aws
@@ -4312,6 +4315,9 @@ add address=51.0.112.0/21 disabled=no list=route-aws
 add address=51.0.112.0/21 disabled=no list=route-aws
 add address=51.0.128.0/21 disabled=no list=route-aws
 add address=51.0.128.0/21 disabled=no list=route-aws
+add address=51.0.252.0/24 disabled=no list=route-aws
+add address=51.0.252.0/24 disabled=no list=route-aws
+add address=51.0.252.0/24 disabled=no list=route-aws
 add address=51.16.0.0/15 disabled=no list=route-aws
 add address=51.16.0.0/15 disabled=no list=route-aws
 add address=51.16.96.192/26 disabled=no list=route-aws
