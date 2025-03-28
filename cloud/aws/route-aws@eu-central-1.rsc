@@ -203,6 +203,7 @@ add address=15.248.137.0/24 disabled=no list=route-aws@eu-central-1
 add address=15.248.142.0/24 disabled=no list=route-aws@eu-central-1
 add address=16.12.24.0/21 disabled=no list=route-aws@eu-central-1
 add address=16.12.32.0/22 disabled=no list=route-aws@eu-central-1
+add address=16.15.20.0/22 disabled=no list=route-aws@eu-central-1
 add address=18.89.0.0/18 disabled=no list=route-aws@eu-central-1
 add address=18.96.32.0/19 disabled=no list=route-aws@eu-central-1
 add address=18.153.0.0/16 disabled=no list=route-aws@eu-central-1
