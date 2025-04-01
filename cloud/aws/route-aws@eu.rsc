@@ -798,6 +798,7 @@ add address=51.44.0.0/16 disabled=no list=route-aws@eu
 add address=51.44.72.0/22 disabled=no list=route-aws@eu
 add address=51.45.0.0/16 disabled=no list=route-aws@eu
 add address=51.46.0.0/15 disabled=no list=route-aws@eu
+add address=51.48.0.0/15 disabled=no list=route-aws@eu
 add address=51.92.0.0/16 disabled=no list=route-aws@eu
 add address=51.93.0.0/16 disabled=no list=route-aws@eu
 add address=51.94.0.0/15 disabled=no list=route-aws@eu

@@ -6330,6 +6330,7 @@ add address=163.223.124.0/23 disabled=no list=novpn
 add address=163.223.156.0/23 disabled=no list=novpn
 add address=163.223.173.0/24 disabled=no list=novpn
 add address=163.223.178.0/23 disabled=no list=novpn
+add address=163.223.216.0/23 disabled=no list=novpn
 add address=163.228.0.0/16 disabled=no list=novpn
 add address=164.52.0.0/17 disabled=no list=novpn
 add address=166.111.0.0/16 disabled=no list=novpn
