@@ -1610,6 +1610,9 @@ add address=15.177.104.0/24 disabled=no list=route-aws
 add address=15.177.105.0/24 disabled=no list=route-aws
 add address=15.177.105.0/24 disabled=no list=route-aws
 add address=15.177.105.0/24 disabled=no list=route-aws
+add address=15.177.106.0/24 disabled=no list=route-aws
+add address=15.177.106.0/24 disabled=no list=route-aws
+add address=15.177.106.0/24 disabled=no list=route-aws
 add address=15.181.0.0/20 disabled=no list=route-aws
 add address=15.181.0.0/20 disabled=no list=route-aws
 add address=15.181.16.0/20 disabled=no list=route-aws

@@ -2960,8 +2960,6 @@ add address=2600:f0f0:86::/48 disabled=no list=route-aws
 add address=2600:f0f0:86::/48 disabled=no list=route-aws
 add address=2600:f0f0:87::/48 disabled=no list=route-aws
 add address=2600:f0f0:87::/48 disabled=no list=route-aws
-add address=2600:f0f0:90::/48 disabled=no list=route-aws
-add address=2600:f0f0:90::/48 disabled=no list=route-aws
 add address=2600:f0f0:300:100::/56 disabled=no list=route-aws
 add address=2600:f0f0:300:100::/56 disabled=no list=route-aws
 add address=2600:f0f0:300:100::/56 disabled=no list=route-aws

@@ -4086,6 +4086,7 @@ add address=157.241.2.0/23 disabled=no list=route-aws@me-south
 add address=157.241.25.0/24 disabled=no list=route-aws@me-south
 /ip firewall address-list remove [/ip firewall address-list find list="route-aws@me-west"]
 /ip firewall address-list
+add address=15.177.106.0/24 disabled=no list=route-aws@me-west
 add address=15.190.144.0/20 disabled=no list=route-aws@me-west
 add address=15.190.236.0/22 disabled=no list=route-aws@me-west
 add address=16.12.84.0/23 disabled=no list=route-aws@me-west
