@@ -387,9 +387,14 @@ add address=2605:9cc0:1ff0::/56 disabled=no list=route-aws@us
 add address=2605:9cc0:1ff0:f800::/56 disabled=no list=route-aws@us
 add address=2605:9cc0:1fff:fc00::/54 disabled=no list=route-aws@us
 add address=2605:b140:1000::/48 disabled=no list=route-aws@us
+add address=2606:7b40:1b00:500::/56 disabled=no list=route-aws@us
+add address=2606:7b40:1b00:600::/56 disabled=no list=route-aws@us
 add address=2606:7b40:1b00:700::/56 disabled=no list=route-aws@us
 add address=2606:7b40:1b0f:4000::/56 disabled=no list=route-aws@us
+add address=2606:7b40:1b0f:8000::/56 disabled=no list=route-aws@us
+add address=2606:7b40:1b0f::/56 disabled=no list=route-aws@us
 add address=2606:7b40:1b0f:c000::/56 disabled=no list=route-aws@us
+add address=2606:7b40:1b0f:c100::/56 disabled=no list=route-aws@us
 add address=2606:7b40:1b0f:ef00::/56 disabled=no list=route-aws@us
 add address=2606:7b40:1b0f:f000::/56 disabled=no list=route-aws@us
 add address=2606:7b40:1b0f:f100::/56 disabled=no list=route-aws@us
