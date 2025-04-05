@@ -1651,6 +1651,9 @@ add address=150.222.53.0/27 disabled=no list=route-aws@ap-southeast
 add address=150.222.53.32/27 disabled=no list=route-aws@ap-southeast
 add address=150.222.53.64/27 disabled=no list=route-aws@ap-southeast
 add address=150.222.53.96/27 disabled=no list=route-aws@ap-southeast
+add address=150.222.54.160/27 disabled=no list=route-aws@ap-southeast
+add address=150.222.54.192/27 disabled=no list=route-aws@ap-southeast
+add address=150.222.54.224/27 disabled=no list=route-aws@ap-southeast
 add address=150.222.72.0/24 disabled=no list=route-aws@ap-southeast
 add address=150.222.78.0/24 disabled=no list=route-aws@ap-southeast
 add address=150.222.82.0/24 disabled=no list=route-aws@ap-southeast

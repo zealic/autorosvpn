@@ -7908,6 +7908,9 @@ add address=150.222.54.32/27 disabled=no list=route-aws
 add address=150.222.54.64/27 disabled=no list=route-aws
 add address=150.222.54.96/27 disabled=no list=route-aws
 add address=150.222.54.128/27 disabled=no list=route-aws
+add address=150.222.54.160/27 disabled=no list=route-aws
+add address=150.222.54.192/27 disabled=no list=route-aws
+add address=150.222.54.224/27 disabled=no list=route-aws
 add address=150.222.64.0/24 disabled=no list=route-aws
 add address=150.222.65.0/24 disabled=no list=route-aws
 add address=150.222.66.0/24 disabled=no list=route-aws
