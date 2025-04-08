@@ -206,6 +206,7 @@ add address=2606:f40:800::/40 disabled=no list=route-aws@us-east
 add address=2606:f40:8000::/39 disabled=no list=route-aws@us-east
 add address=2606:f40:8800::/40 disabled=no list=route-aws@us-east
 add address=2606:f40::/39 disabled=no list=route-aws@us-east
+add address=2606:f40:ffe0::/48 disabled=no list=route-aws@us-east
 add address=2606:f40:fffc::/48 disabled=no list=route-aws@us-east
 add address=2606:f40:fffe::/48 disabled=no list=route-aws@us-east
 add address=2620:107:3002::/64 disabled=no list=route-aws@us-east
