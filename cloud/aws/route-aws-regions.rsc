@@ -6165,7 +6165,6 @@ add address=69.107.7.96/29 disabled=no list=route-aws@us
 add address=69.107.7.104/29 disabled=no list=route-aws@us
 add address=70.224.192.0/18 disabled=no list=route-aws@us
 add address=70.232.92.0/22 disabled=no list=route-aws@us
-add address=71.141.0.0/21 disabled=no list=route-aws@us
 add address=72.21.192.0/19 disabled=no list=route-aws@us
 add address=72.41.0.0/20 disabled=no list=route-aws@us
 add address=72.44.32.0/19 disabled=no list=route-aws@us

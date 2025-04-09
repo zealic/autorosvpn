@@ -1306,7 +1306,6 @@ add address=2a01:578:0:7a00::/56 disabled=no list=route-aws@me-west
 add address=2a05:d000:800::/64 disabled=no list=route-aws@me-west
 add address=2a05:d010:8000::/36 disabled=no list=route-aws@me-west
 add address=2a05:d020:8000::/36 disabled=no list=route-aws@me-west
-add address=2a05:d030:800::/40 disabled=no list=route-aws@me-west
 add address=2a05:d031:800::/40 disabled=no list=route-aws@me-west
 add address=2a05:d032:800::/40 disabled=no list=route-aws@me-west
 add address=2a05:d034:800::/40 disabled=no list=route-aws@me-west

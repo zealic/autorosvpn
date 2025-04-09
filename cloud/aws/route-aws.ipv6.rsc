@@ -124,8 +124,6 @@ add address=2a05:d02e::/36 disabled=no list=route-aws
 add address=2a05:d02e::/36 disabled=no list=route-aws
 add address=2a05:d02f::/36 disabled=no list=route-aws
 add address=2a05:d02f::/36 disabled=no list=route-aws
-add address=2a05:d030:800::/40 disabled=no list=route-aws
-add address=2a05:d030:800::/40 disabled=no list=route-aws
 add address=2a05:d030:1000::/40 disabled=no list=route-aws
 add address=2a05:d030:1000::/40 disabled=no list=route-aws
 add address=2a05:d030:1000::/40 disabled=no list=route-aws
