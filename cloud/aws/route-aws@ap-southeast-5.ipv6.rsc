@@ -2,6 +2,7 @@
 /ipv6 firewall address-list
 add address=2400:6500:0:7c00::/56 disabled=no list=route-aws@ap-southeast-5
 add address=2406:da00:800::/40 disabled=no list=route-aws@ap-southeast-5
+add address=2406:da10:84f9:9e00::/56 disabled=no list=route-aws@ap-southeast-5
 add address=2406:da10:8000::/36 disabled=no list=route-aws@ap-southeast-5
 add address=2406:da20:8000::/36 disabled=no list=route-aws@ap-southeast-5
 add address=2406:da30:800::/40 disabled=no list=route-aws@ap-southeast-5
