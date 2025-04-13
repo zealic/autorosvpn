@@ -318,6 +318,7 @@ add address=2600:9000:520a::/48 disabled=no list=route-aws@eu
 add address=2600:9000:520b::/48 disabled=no list=route-aws@eu
 add address=2600:9000:520c::/48 disabled=no list=route-aws@eu
 add address=2600:9000:5200::/48 disabled=no list=route-aws@eu
+add address=2600:f002:8000::/40 disabled=no list=route-aws@eu
 add address=2600:f002::/39 disabled=no list=route-aws@eu
 add address=2600:f002:c000::/40 disabled=no list=route-aws@eu
 add address=2600:f003:a200::/40 disabled=no list=route-aws@eu

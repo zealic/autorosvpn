@@ -102,7 +102,9 @@ add address=2600:9000:5204::/48 disabled=no list=route-aws@us-west
 add address=2600:9000:5211::/48 disabled=no list=route-aws@us-west
 add address=2600:9000:5212::/48 disabled=no list=route-aws@us-west
 add address=2600:f000:8000::/39 disabled=no list=route-aws@us-west
+add address=2600:f001:4000::/40 disabled=no list=route-aws@us-west
 add address=2600:f00c:8000::/39 disabled=no list=route-aws@us-west
+add address=2600:f00d::/40 disabled=no list=route-aws@us-west
 add address=2600:f0f0:0:300::/56 disabled=no list=route-aws@us-west
 add address=2600:f0f0:1:2100::/56 disabled=no list=route-aws@us-west
 add address=2600:f0f0:1:2200::/56 disabled=no list=route-aws@us-west
