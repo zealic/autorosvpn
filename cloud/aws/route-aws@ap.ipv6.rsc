@@ -535,6 +535,12 @@ add address=2606:f40:a400::/40 disabled=no list=route-aws@ap
 add address=2606:f40:a800::/40 disabled=no list=route-aws@ap
 add address=2606:f40:aa00::/40 disabled=no list=route-aws@ap
 add address=2606:f40:b200::/40 disabled=no list=route-aws@ap
+add address=2606:f40:ffd2::/48 disabled=no list=route-aws@ap
+add address=2606:f40:ffd4::/48 disabled=no list=route-aws@ap
+add address=2606:f40:ffe2::/48 disabled=no list=route-aws@ap
+add address=2606:f40:ffe4::/48 disabled=no list=route-aws@ap
+add address=2606:f40:ffe6::/48 disabled=no list=route-aws@ap
+add address=2606:f40:ffef::/48 disabled=no list=route-aws@ap
 add address=2606:f40:fff6::/48 disabled=no list=route-aws@ap
 add address=2606:f40:fff7::/48 disabled=no list=route-aws@ap
 add address=2620:107:4000:a8c0::/58 disabled=no list=route-aws@ap

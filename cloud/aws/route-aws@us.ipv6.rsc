@@ -477,6 +477,7 @@ add address=2606:f40:8800::/40 disabled=no list=route-aws@us
 add address=2606:f40::/39 disabled=no list=route-aws@us
 add address=2606:f40:a00::/40 disabled=no list=route-aws@us
 add address=2606:f40:ffe0::/48 disabled=no list=route-aws@us
+add address=2606:f40:ffeb::/48 disabled=no list=route-aws@us
 add address=2606:f40:fffc::/48 disabled=no list=route-aws@us
 add address=2606:f40:fffd::/48 disabled=no list=route-aws@us
 add address=2606:f40:fffe::/48 disabled=no list=route-aws@us

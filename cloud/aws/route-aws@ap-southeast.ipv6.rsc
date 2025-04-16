@@ -260,6 +260,9 @@ add address=2606:f40:2a00::/40 disabled=no list=route-aws@ap-southeast
 add address=2606:f40:2800::/40 disabled=no list=route-aws@ap-southeast
 add address=2606:f40:a800::/40 disabled=no list=route-aws@ap-southeast
 add address=2606:f40:aa00::/40 disabled=no list=route-aws@ap-southeast
+add address=2606:f40:ffe2::/48 disabled=no list=route-aws@ap-southeast
+add address=2606:f40:ffe4::/48 disabled=no list=route-aws@ap-southeast
+add address=2606:f40:ffef::/48 disabled=no list=route-aws@ap-southeast
 add address=2620:107:4000:a8c0::/58 disabled=no list=route-aws@ap-southeast
 add address=2620:107:4000:a840::/58 disabled=no list=route-aws@ap-southeast
 add address=2620:107:4000:a880::/58 disabled=no list=route-aws@ap-southeast
