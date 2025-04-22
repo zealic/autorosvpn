@@ -8510,6 +8510,14 @@ add address=192.189.197.0/24 disabled=no list=route-aws
 add address=192.189.197.0/24 disabled=no list=route-aws
 add address=195.17.0.0/24 disabled=no list=route-aws
 add address=195.17.0.0/24 disabled=no list=route-aws
+add address=198.41.96.0/24 disabled=no list=route-aws
+add address=198.41.96.0/24 disabled=no list=route-aws
+add address=198.41.97.0/24 disabled=no list=route-aws
+add address=198.41.97.0/24 disabled=no list=route-aws
+add address=198.41.98.0/24 disabled=no list=route-aws
+add address=198.41.98.0/24 disabled=no list=route-aws
+add address=198.41.99.0/24 disabled=no list=route-aws
+add address=198.41.99.0/24 disabled=no list=route-aws
 add address=198.41.100.0/24 disabled=no list=route-aws
 add address=198.41.100.0/24 disabled=no list=route-aws
 add address=198.41.101.0/24 disabled=no list=route-aws
@@ -8524,6 +8532,8 @@ add address=198.41.105.0/24 disabled=no list=route-aws
 add address=198.41.105.0/24 disabled=no list=route-aws
 add address=198.41.106.0/24 disabled=no list=route-aws
 add address=198.41.106.0/24 disabled=no list=route-aws
+add address=198.41.107.0/24 disabled=no list=route-aws
+add address=198.41.107.0/24 disabled=no list=route-aws
 add address=198.99.2.0/24 disabled=no list=route-aws
 add address=198.99.2.0/24 disabled=no list=route-aws
 add address=199.9.248.0/21 disabled=no list=route-aws
