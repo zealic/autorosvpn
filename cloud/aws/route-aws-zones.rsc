@@ -3675,6 +3675,7 @@ add address=150.222.54.32/27 disabled=no list=route-aws@eusc-de-east
 add address=150.222.54.64/27 disabled=no list=route-aws@eusc-de-east
 /ip firewall address-list remove [/ip firewall address-list find list="route-aws@global"]
 /ip firewall address-list
+add address=1.178.72.0/21 disabled=no list=route-aws@global
 add address=3.2.1.0/24 disabled=no list=route-aws@global
 add address=3.2.4.0/23 disabled=no list=route-aws@global
 add address=3.2.8.0/21 disabled=no list=route-aws@global

@@ -80,8 +80,8 @@ add address=4.210.182.0/28 disabled=no list=route-github
 add address=4.210.182.16/28 disabled=no list=route-github
 add address=4.210.182.80/28 disabled=no list=route-github
 add address=4.225.11.192/32 disabled=no list=route-github
+add address=4.225.11.194/32 disabled=no list=route-github
 add address=4.225.11.196/32 disabled=no list=route-github
-add address=4.225.11.198/32 disabled=no list=route-github
 add address=4.225.11.200/32 disabled=no list=route-github
 add address=4.225.11.201/32 disabled=no list=route-github
 add address=4.227.0.0/17 disabled=no list=route-github
