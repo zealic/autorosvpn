@@ -3025,6 +3025,8 @@ add address=18.97.80.0/20 disabled=no list=route-aws
 add address=18.97.80.0/20 disabled=no list=route-aws
 add address=18.97.96.0/20 disabled=no list=route-aws
 add address=18.97.96.0/20 disabled=no list=route-aws
+add address=18.97.112.0/20 disabled=no list=route-aws
+add address=18.97.112.0/20 disabled=no list=route-aws
 add address=18.97.128.0/18 disabled=no list=route-aws
 add address=18.97.128.0/18 disabled=no list=route-aws
 add address=18.97.192.0/18 disabled=no list=route-aws
