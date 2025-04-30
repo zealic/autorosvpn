@@ -742,6 +742,7 @@ add address=35.71.120.0/24 disabled=no list=route-aws@eu
 add address=35.71.121.0/24 disabled=no list=route-aws@eu
 add address=35.96.5.0/24 disabled=no list=route-aws@eu
 add address=35.96.12.0/24 disabled=no list=route-aws@eu
+add address=35.96.18.0/23 disabled=no list=route-aws@eu
 add address=35.96.48.0/20 disabled=no list=route-aws@eu
 add address=35.96.64.0/20 disabled=no list=route-aws@eu
 add address=35.96.80.0/20 disabled=no list=route-aws@eu
