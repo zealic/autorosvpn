@@ -190,6 +190,7 @@ add address=2a05:d032:1000::/40 disabled=no list=route-aws
 add address=2a05:d032:1000::/40 disabled=no list=route-aws
 add address=2a05:d032:2000::/40 disabled=no list=route-aws
 add address=2a05:d032:2000::/40 disabled=no list=route-aws
+add address=2a05:d032:2000::/40 disabled=no list=route-aws
 add address=2a05:d032:4000::/40 disabled=no list=route-aws
 add address=2a05:d032:4000::/40 disabled=no list=route-aws
 add address=2a05:d032:4000::/40 disabled=no list=route-aws
