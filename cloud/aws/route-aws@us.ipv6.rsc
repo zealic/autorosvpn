@@ -476,11 +476,13 @@ add address=2606:7b40:f000:1700::/56 disabled=no list=route-aws@us
 add address=2606:f40:8a00::/40 disabled=no list=route-aws@us
 add address=2606:f40:400::/39 disabled=no list=route-aws@us
 add address=2606:f40:800::/40 disabled=no list=route-aws@us
+add address=2606:f40:4400::/39 disabled=no list=route-aws@us
 add address=2606:f40:8000::/39 disabled=no list=route-aws@us
 add address=2606:f40:8400::/39 disabled=no list=route-aws@us
 add address=2606:f40:8800::/40 disabled=no list=route-aws@us
 add address=2606:f40::/39 disabled=no list=route-aws@us
 add address=2606:f40:a00::/40 disabled=no list=route-aws@us
+add address=2606:f40:c400::/39 disabled=no list=route-aws@us
 add address=2606:f40:ffe0::/48 disabled=no list=route-aws@us
 add address=2606:f40:ffeb::/48 disabled=no list=route-aws@us
 add address=2606:f40:fffc::/48 disabled=no list=route-aws@us

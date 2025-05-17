@@ -182,6 +182,7 @@ add address=140.179.176.0/23 disabled=no list=route-aws@cn
 add address=150.222.64.0/24 disabled=no list=route-aws@cn
 add address=150.222.88.0/24 disabled=no list=route-aws@cn
 add address=150.222.89.0/24 disabled=no list=route-aws@cn
+add address=159.248.0.0/20 disabled=no list=route-aws@cn
 add address=161.189.0.0/16 disabled=no list=route-aws@cn
 add address=161.189.23.0/27 disabled=no list=route-aws@cn
 add address=161.189.23.32/27 disabled=no list=route-aws@cn

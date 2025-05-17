@@ -84,6 +84,7 @@ add address=69.234.250.80/28 disabled=no list=route-aws@cn-northwest
 add address=69.235.128.0/18 disabled=no list=route-aws@cn-northwest
 add address=69.235.162.0/24 disabled=no list=route-aws@cn-northwest
 add address=69.235.170.0/23 disabled=no list=route-aws@cn-northwest
+add address=159.248.0.0/20 disabled=no list=route-aws@cn-northwest
 add address=161.189.0.0/16 disabled=no list=route-aws@cn-northwest
 add address=161.189.23.0/27 disabled=no list=route-aws@cn-northwest
 add address=161.189.23.32/27 disabled=no list=route-aws@cn-northwest

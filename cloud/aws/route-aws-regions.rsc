@@ -2057,6 +2057,7 @@ add address=140.179.176.0/23 disabled=no list=route-aws@cn
 add address=150.222.64.0/24 disabled=no list=route-aws@cn
 add address=150.222.88.0/24 disabled=no list=route-aws@cn
 add address=150.222.89.0/24 disabled=no list=route-aws@cn
+add address=159.248.0.0/20 disabled=no list=route-aws@cn
 add address=161.189.0.0/16 disabled=no list=route-aws@cn
 add address=161.189.23.0/27 disabled=no list=route-aws@cn
 add address=161.189.23.32/27 disabled=no list=route-aws@cn
@@ -3663,6 +3664,8 @@ add address=51.0.29.0/28 disabled=no list=route-aws@eusc
 add address=51.0.29.128/28 disabled=no list=route-aws@eusc
 add address=51.0.128.0/21 disabled=no list=route-aws@eusc
 add address=51.0.252.0/24 disabled=no list=route-aws@eusc
+add address=51.164.0.0/15 disabled=no list=route-aws@eusc
+add address=51.166.0.0/15 disabled=no list=route-aws@eusc
 add address=51.224.0.0/15 disabled=no list=route-aws@eusc
 add address=51.226.0.0/15 disabled=no list=route-aws@eusc
 add address=65.176.0.0/14 disabled=no list=route-aws@eusc
