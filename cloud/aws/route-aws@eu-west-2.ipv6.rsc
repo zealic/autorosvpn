@@ -6,6 +6,7 @@ add address=2a05:d000:c000::/40 disabled=no list=route-aws@eu-west-2
 add address=2a05:d017::/36 disabled=no list=route-aws@eu-west-2
 add address=2a05:d01c:4ac:3100::/56 disabled=no list=route-aws@eu-west-2
 add address=2a05:d01c::/36 disabled=no list=route-aws@eu-west-2
+add address=2a05:d01c:d06:1800::/56 disabled=no list=route-aws@eu-west-2
 add address=2a05:d027::/36 disabled=no list=route-aws@eu-west-2
 add address=2a05:d02c:8::/48 disabled=no list=route-aws@eu-west-2
 add address=2a05:d02c::/36 disabled=no list=route-aws@eu-west-2

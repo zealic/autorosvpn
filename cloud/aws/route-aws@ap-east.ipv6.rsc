@@ -59,3 +59,4 @@ add address=2406:dafe:e000::/40 disabled=no list=route-aws@ap-east
 add address=2406:daff:c800::/40 disabled=no list=route-aws@ap-east
 add address=2406:daff:e000::/40 disabled=no list=route-aws@ap-east
 add address=2600:1f01:4814::/47 disabled=no list=route-aws@ap-east
+add address=2600:1f20:c000::/36 disabled=no list=route-aws@ap-east

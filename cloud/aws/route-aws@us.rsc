@@ -948,7 +948,6 @@ add address=35.50.135.0/24 disabled=no list=route-aws@us
 add address=35.50.142.0/24 disabled=no list=route-aws@us
 add address=35.50.143.0/24 disabled=no list=route-aws@us
 add address=35.50.144.0/24 disabled=no list=route-aws@us
-add address=35.55.63.0/24 disabled=no list=route-aws@us
 add address=35.55.127.0/24 disabled=no list=route-aws@us
 add address=35.71.64.0/22 disabled=no list=route-aws@us
 add address=35.71.68.0/22 disabled=no list=route-aws@us
@@ -2280,6 +2279,7 @@ add address=162.250.237.0/24 disabled=no list=route-aws@us
 add address=162.250.238.0/23 disabled=no list=route-aws@us
 add address=168.185.4.0/24 disabled=no list=route-aws@us
 add address=168.185.5.0/24 disabled=no list=route-aws@us
+add address=168.185.6.0/24 disabled=no list=route-aws@us
 add address=168.192.0.0/15 disabled=no list=route-aws@us
 add address=172.96.97.0/24 disabled=no list=route-aws@us
 add address=172.96.110.0/24 disabled=no list=route-aws@us
@@ -2312,6 +2312,18 @@ add address=192.43.175.0/24 disabled=no list=route-aws@us
 add address=192.43.184.0/24 disabled=no list=route-aws@us
 add address=192.157.36.0/24 disabled=no list=route-aws@us
 add address=192.189.197.0/24 disabled=no list=route-aws@us
+add address=198.41.96.0/24 disabled=no list=route-aws@us
+add address=198.41.97.0/24 disabled=no list=route-aws@us
+add address=198.41.98.0/24 disabled=no list=route-aws@us
+add address=198.41.99.0/24 disabled=no list=route-aws@us
+add address=198.41.100.0/24 disabled=no list=route-aws@us
+add address=198.41.101.0/24 disabled=no list=route-aws@us
+add address=198.41.102.0/24 disabled=no list=route-aws@us
+add address=198.41.103.0/24 disabled=no list=route-aws@us
+add address=198.41.104.0/24 disabled=no list=route-aws@us
+add address=198.41.105.0/24 disabled=no list=route-aws@us
+add address=198.41.106.0/24 disabled=no list=route-aws@us
+add address=198.41.107.0/24 disabled=no list=route-aws@us
 add address=198.99.2.0/24 disabled=no list=route-aws@us
 add address=199.127.232.0/22 disabled=no list=route-aws@us
 add address=204.87.185.0/24 disabled=no list=route-aws@us
