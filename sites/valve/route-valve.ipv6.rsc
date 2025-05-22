@@ -22,6 +22,7 @@ add address=2404:3fc0:a::/48 disabled=no list=route-valve
 add address=2602:801:f000::/48 disabled=no list=route-valve
 add address=2602:801:f001::/48 disabled=no list=route-valve
 add address=2602:801:f002::/48 disabled=no list=route-valve
+add address=2602:801:f003::/48 disabled=no list=route-valve
 add address=2602:801:f005::/48 disabled=no list=route-valve
 add address=2602:801:f006::/48 disabled=no list=route-valve
 add address=2602:801:f007::/48 disabled=no list=route-valve

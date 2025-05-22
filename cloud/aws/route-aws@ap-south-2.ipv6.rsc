@@ -15,6 +15,8 @@ add address=2406:da68:b000::/40 disabled=no list=route-aws@ap-south-2
 add address=2406:da69:b000::/40 disabled=no list=route-aws@ap-south-2
 add address=2406:da70:b000::/40 disabled=no list=route-aws@ap-south-2
 add address=2406:daa0:b000::/40 disabled=no list=route-aws@ap-south-2
+add address=2406:dab9:b000::/40 disabled=no list=route-aws@ap-south-2
+add address=2406:daed:b000::/40 disabled=no list=route-aws@ap-south-2
 add address=2406:daef:b000::/40 disabled=no list=route-aws@ap-south-2
 add address=2406:daf0:b000::/40 disabled=no list=route-aws@ap-south-2
 add address=2406:daf2:b000::/40 disabled=no list=route-aws@ap-south-2

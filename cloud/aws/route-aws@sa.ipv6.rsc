@@ -22,6 +22,8 @@ add address=2600:1f70:e000:400::/56 disabled=no list=route-aws@sa
 add address=2600:1f70:e000::/40 disabled=no list=route-aws@sa
 add address=2600:1f70:e000::/56 disabled=no list=route-aws@sa
 add address=2600:1fa0:e000::/40 disabled=no list=route-aws@sa
+add address=2600:1fb9:e000::/40 disabled=no list=route-aws@sa
+add address=2600:1fed:e000::/40 disabled=no list=route-aws@sa
 add address=2600:1fef:e000::/40 disabled=no list=route-aws@sa
 add address=2600:1ff0:e000::/40 disabled=no list=route-aws@sa
 add address=2600:1ff2:e000::/40 disabled=no list=route-aws@sa

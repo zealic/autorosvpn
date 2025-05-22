@@ -297,6 +297,7 @@ add address=18.96.0.0/24 disabled=no list=route-aws@us-east-1
 add address=18.96.1.0/24 disabled=no list=route-aws@us-east-1
 add address=18.96.2.0/24 disabled=no list=route-aws@us-east-1
 add address=18.97.0.0/18 disabled=no list=route-aws@us-east-1
+add address=18.97.33.128/25 disabled=no list=route-aws@us-east-1
 add address=18.204.0.0/14 disabled=no list=route-aws@us-east-1
 add address=18.206.107.24/29 disabled=no list=route-aws@us-east-1
 add address=18.206.107.160/29 disabled=no list=route-aws@us-east-1
