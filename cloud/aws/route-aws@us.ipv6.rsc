@@ -352,6 +352,10 @@ add address=2600:f0f0:600::/55 disabled=no list=route-aws@us
 add address=2600:f0f0:1000::/44 disabled=no list=route-aws@us
 add address=2600:f0f0:1124::/48 disabled=no list=route-aws@us
 add address=2600:f0f0:4000::/48 disabled=no list=route-aws@us
+add address=2600:f0f0:4100::/48 disabled=no list=route-aws@us
+add address=2600:f0f0:4101::/48 disabled=no list=route-aws@us
+add address=2600:f0f0:4102::/48 disabled=no list=route-aws@us
+add address=2600:f0f0:4103::/48 disabled=no list=route-aws@us
 add address=2600:f0f0:5500::/48 disabled=no list=route-aws@us
 add address=2600:f0f0:5502::/48 disabled=no list=route-aws@us
 add address=2600:f0f0:5503::/48 disabled=no list=route-aws@us

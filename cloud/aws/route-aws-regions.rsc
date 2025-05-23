@@ -2883,6 +2883,8 @@ add address=51.35.0.0/16 disabled=no list=route-aws@eu
 add address=51.44.0.0/16 disabled=no list=route-aws@eu
 add address=51.44.72.0/22 disabled=no list=route-aws@eu
 add address=51.44.234.0/23 disabled=no list=route-aws@eu
+add address=51.44.236.0/23 disabled=no list=route-aws@eu
+add address=51.44.238.0/23 disabled=no list=route-aws@eu
 add address=51.45.0.0/16 disabled=no list=route-aws@eu
 add address=51.46.0.0/15 disabled=no list=route-aws@eu
 add address=51.48.0.0/15 disabled=no list=route-aws@eu
