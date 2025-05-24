@@ -6820,6 +6820,8 @@ add address=64.252.124.0/24 disabled=no list=route-aws
 add address=64.252.124.0/24 disabled=no list=route-aws
 add address=64.252.125.0/24 disabled=no list=route-aws
 add address=64.252.125.0/24 disabled=no list=route-aws
+add address=64.252.126.0/24 disabled=no list=route-aws
+add address=64.252.126.0/24 disabled=no list=route-aws
 add address=64.252.128.0/18 disabled=no list=route-aws
 add address=64.252.128.0/18 disabled=no list=route-aws
 add address=64.252.128.0/18 disabled=no list=route-aws

@@ -3380,6 +3380,7 @@ add address=64.252.114.0/24 disabled=no list=route-aws@eu
 add address=64.252.115.0/24 disabled=no list=route-aws@eu
 add address=64.252.116.0/24 disabled=no list=route-aws@eu
 add address=64.252.117.0/24 disabled=no list=route-aws@eu
+add address=64.252.126.0/24 disabled=no list=route-aws@eu
 add address=67.220.224.0/20 disabled=no list=route-aws@eu
 add address=69.107.6.216/29 disabled=no list=route-aws@eu
 add address=69.107.6.224/29 disabled=no list=route-aws@eu
