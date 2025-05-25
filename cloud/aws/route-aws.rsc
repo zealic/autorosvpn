@@ -3739,6 +3739,9 @@ add address=35.52.0.0/15 disabled=no list=route-aws
 add address=35.55.37.0/24 disabled=no list=route-aws
 add address=35.55.37.0/24 disabled=no list=route-aws
 add address=35.55.37.0/24 disabled=no list=route-aws
+add address=35.55.40.0/24 disabled=no list=route-aws
+add address=35.55.40.0/24 disabled=no list=route-aws
+add address=35.55.40.0/24 disabled=no list=route-aws
 add address=35.55.126.0/24 disabled=no list=route-aws
 add address=35.55.126.0/24 disabled=no list=route-aws
 add address=35.55.126.0/24 disabled=no list=route-aws

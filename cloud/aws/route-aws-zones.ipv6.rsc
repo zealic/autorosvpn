@@ -964,6 +964,7 @@ add address=2a05:d07e:6000::/40 disabled=no list=route-aws@eu-north
 add address=2a05:d07f:6000::/40 disabled=no list=route-aws@eu-north
 add address=2600:1f01:48d0::/47 disabled=no list=route-aws@eu-north
 add address=2600:f0f0:1:1800::/56 disabled=no list=route-aws@eu-north
+add address=2600:f0f0:1127::/48 disabled=no list=route-aws@eu-north
 /ipv6 firewall address-list remove [/ipv6 firewall address-list find list="route-aws@eu-south"]
 /ipv6 firewall address-list
 add address=2a01:578:0:7400::/56 disabled=no list=route-aws@eu-south
