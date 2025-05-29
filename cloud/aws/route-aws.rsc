@@ -2838,6 +2838,7 @@ add address=16.52.0.0/16 disabled=no list=route-aws
 add address=16.52.0.0/16 disabled=no list=route-aws
 add address=16.53.0.0/16 disabled=no list=route-aws
 add address=16.54.0.0/15 disabled=no list=route-aws
+add address=16.54.0.0/15 disabled=no list=route-aws
 add address=16.56.0.0/18 disabled=no list=route-aws
 add address=16.56.0.0/18 disabled=no list=route-aws
 add address=16.56.64.0/18 disabled=no list=route-aws
@@ -2948,6 +2949,7 @@ add address=16.198.0.0/16 disabled=no list=route-aws
 add address=16.199.0.0/16 disabled=no list=route-aws
 add address=16.206.0.0/16 disabled=no list=route-aws
 add address=16.207.0.0/16 disabled=no list=route-aws
+add address=16.208.0.0/16 disabled=no list=route-aws
 add address=16.208.0.0/16 disabled=no list=route-aws
 add address=16.209.0.0/16 disabled=no list=route-aws
 add address=18.34.0.0/19 disabled=no list=route-aws
@@ -3745,6 +3747,12 @@ add address=35.55.37.0/24 disabled=no list=route-aws
 add address=35.55.40.0/24 disabled=no list=route-aws
 add address=35.55.40.0/24 disabled=no list=route-aws
 add address=35.55.40.0/24 disabled=no list=route-aws
+add address=35.55.41.0/24 disabled=no list=route-aws
+add address=35.55.41.0/24 disabled=no list=route-aws
+add address=35.55.41.0/24 disabled=no list=route-aws
+add address=35.55.42.0/24 disabled=no list=route-aws
+add address=35.55.42.0/24 disabled=no list=route-aws
+add address=35.55.42.0/24 disabled=no list=route-aws
 add address=35.55.126.0/24 disabled=no list=route-aws
 add address=35.55.126.0/24 disabled=no list=route-aws
 add address=35.55.126.0/24 disabled=no list=route-aws
@@ -6638,6 +6646,7 @@ add address=56.125.47.0/32 disabled=no list=route-aws
 add address=56.125.48.0/24 disabled=no list=route-aws
 add address=56.126.0.0/16 disabled=no list=route-aws
 add address=56.126.0.0/16 disabled=no list=route-aws
+add address=56.127.0.0/16 disabled=no list=route-aws
 add address=56.127.0.0/16 disabled=no list=route-aws
 add address=56.128.0.0/16 disabled=no list=route-aws
 add address=56.129.0.0/16 disabled=no list=route-aws

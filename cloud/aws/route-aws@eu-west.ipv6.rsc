@@ -133,6 +133,7 @@ add address=2600:1ffd:8492::/48 disabled=no list=route-aws@eu-west
 add address=2600:9000:520a::/48 disabled=no list=route-aws@eu-west
 add address=2600:9000:520c::/48 disabled=no list=route-aws@eu-west
 add address=2600:9000:5200::/48 disabled=no list=route-aws@eu-west
+add address=2600:9000:5213::/48 disabled=no list=route-aws@eu-west
 add address=2600:f002:8000::/40 disabled=no list=route-aws@eu-west
 add address=2600:f002::/39 disabled=no list=route-aws@eu-west
 add address=2600:f00e::/39 disabled=no list=route-aws@eu-west
