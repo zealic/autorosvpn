@@ -417,6 +417,9 @@ add address=2603:1030:401:7e0::/59 disabled=no list=route-github
 add address=2603:1030:401:8::/61 disabled=no list=route-github
 add address=2603:1030:401:8a0::/61 disabled=no list=route-github
 add address=2603:1030:401:8a8::/64 disabled=no list=route-github
+add address=2603:1030:401:8ad::/64 disabled=no list=route-github
+add address=2603:1030:401:8ae::/63 disabled=no list=route-github
+add address=2603:1030:401:8b0::/62 disabled=no list=route-github
 add address=2603:1030:401:8c::/63 disabled=no list=route-github
 add address=2603:1030:401:8f::/64 disabled=no list=route-github
 add address=2603:1030:401:10::/62 disabled=no list=route-github
