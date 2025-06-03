@@ -356,6 +356,11 @@ add address=2600:f0f0:4::/48 disabled=no list=route-aws@eu
 add address=2600:f0f0:10::/48 disabled=no list=route-aws@eu
 add address=2600:f0f0:30f::/48 disabled=no list=route-aws@eu
 add address=2600:f0f0:86::/48 disabled=no list=route-aws@eu
+add address=2600:f0f0:110f::/48 disabled=no list=route-aws@eu
+add address=2600:f0f0:1112::/48 disabled=no list=route-aws@eu
+add address=2600:f0f0:1115::/48 disabled=no list=route-aws@eu
+add address=2600:f0f0:1116::/48 disabled=no list=route-aws@eu
+add address=2600:f0f0:1117::/48 disabled=no list=route-aws@eu
 add address=2600:f0f0:1127::/48 disabled=no list=route-aws@eu
 add address=2600:f0f0:1128::/48 disabled=no list=route-aws@eu
 add address=2600:f0f0:1129::/48 disabled=no list=route-aws@eu

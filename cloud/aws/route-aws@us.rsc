@@ -951,7 +951,12 @@ add address=35.50.135.0/24 disabled=no list=route-aws@us
 add address=35.50.142.0/24 disabled=no list=route-aws@us
 add address=35.50.143.0/24 disabled=no list=route-aws@us
 add address=35.50.144.0/24 disabled=no list=route-aws@us
+add address=35.55.28.0/24 disabled=no list=route-aws@us
+add address=35.55.29.0/24 disabled=no list=route-aws@us
+add address=35.55.30.0/24 disabled=no list=route-aws@us
+add address=35.55.33.0/24 disabled=no list=route-aws@us
 add address=35.55.37.0/24 disabled=no list=route-aws@us
+add address=35.55.39.0/24 disabled=no list=route-aws@us
 add address=35.55.126.0/24 disabled=no list=route-aws@us
 add address=35.55.127.0/24 disabled=no list=route-aws@us
 add address=35.71.64.0/22 disabled=no list=route-aws@us
