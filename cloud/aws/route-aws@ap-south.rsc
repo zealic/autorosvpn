@@ -130,6 +130,9 @@ add address=31.220.235.0/24 disabled=no list=route-aws@ap-south
 add address=35.50.231.0/24 disabled=no list=route-aws@ap-south
 add address=35.50.232.0/24 disabled=no list=route-aws@ap-south
 add address=35.50.233.0/24 disabled=no list=route-aws@ap-south
+add address=35.55.13.0/24 disabled=no list=route-aws@ap-south
+add address=35.55.14.0/24 disabled=no list=route-aws@ap-south
+add address=35.55.15.0/24 disabled=no list=route-aws@ap-south
 add address=35.71.100.0/24 disabled=no list=route-aws@ap-south
 add address=35.71.108.0/24 disabled=no list=route-aws@ap-south
 add address=35.154.0.0/16 disabled=no list=route-aws@ap-south

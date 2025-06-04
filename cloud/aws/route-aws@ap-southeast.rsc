@@ -322,6 +322,12 @@ add address=35.18.0.0/15 disabled=no list=route-aws@ap-southeast
 add address=35.50.234.0/24 disabled=no list=route-aws@ap-southeast
 add address=35.50.235.0/24 disabled=no list=route-aws@ap-southeast
 add address=35.50.236.0/24 disabled=no list=route-aws@ap-southeast
+add address=35.55.7.0/24 disabled=no list=route-aws@ap-southeast
+add address=35.55.8.0/24 disabled=no list=route-aws@ap-southeast
+add address=35.55.9.0/24 disabled=no list=route-aws@ap-southeast
+add address=35.55.10.0/24 disabled=no list=route-aws@ap-southeast
+add address=35.55.11.0/24 disabled=no list=route-aws@ap-southeast
+add address=35.55.12.0/24 disabled=no list=route-aws@ap-southeast
 add address=35.71.96.0/24 disabled=no list=route-aws@ap-southeast
 add address=35.71.97.0/24 disabled=no list=route-aws@ap-southeast
 add address=35.71.112.0/24 disabled=no list=route-aws@ap-southeast

@@ -310,6 +310,8 @@ add address=35.50.195.0/24 disabled=no list=route-aws@eu-west
 add address=35.50.196.0/24 disabled=no list=route-aws@eu-west
 add address=35.50.197.0/24 disabled=no list=route-aws@eu-west
 add address=35.55.19.0/24 disabled=no list=route-aws@eu-west
+add address=35.55.20.0/24 disabled=no list=route-aws@eu-west
+add address=35.55.21.0/24 disabled=no list=route-aws@eu-west
 add address=35.55.22.0/24 disabled=no list=route-aws@eu-west
 add address=35.55.23.0/24 disabled=no list=route-aws@eu-west
 add address=35.55.24.0/24 disabled=no list=route-aws@eu-west

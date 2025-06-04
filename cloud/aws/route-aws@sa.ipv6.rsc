@@ -42,7 +42,9 @@ add address=2600:9000:520e::/48 disabled=no list=route-aws@sa
 add address=2600:f007::/40 disabled=no list=route-aws@sa
 add address=2600:f00d:8000::/40 disabled=no list=route-aws@sa
 add address=2600:f0f0:1:1e00::/56 disabled=no list=route-aws@sa
+add address=2600:f0f0:111a::/48 disabled=no list=route-aws@sa
 add address=2600:f0f0:1118::/48 disabled=no list=route-aws@sa
+add address=2600:f0f0:1119::/48 disabled=no list=route-aws@sa
 add address=2600:f0f0:5521::/48 disabled=no list=route-aws@sa
 add address=2600:f0f0:5522::/48 disabled=no list=route-aws@sa
 add address=2600:f0f0:5523::/48 disabled=no list=route-aws@sa

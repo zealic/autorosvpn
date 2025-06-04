@@ -260,6 +260,12 @@ add address=35.50.230.0/24 disabled=no list=route-aws@ap-northeast
 add address=35.50.237.0/24 disabled=no list=route-aws@ap-northeast
 add address=35.50.238.0/24 disabled=no list=route-aws@ap-northeast
 add address=35.50.239.0/24 disabled=no list=route-aws@ap-northeast
+add address=35.55.1.0/24 disabled=no list=route-aws@ap-northeast
+add address=35.55.2.0/24 disabled=no list=route-aws@ap-northeast
+add address=35.55.3.0/24 disabled=no list=route-aws@ap-northeast
+add address=35.55.4.0/24 disabled=no list=route-aws@ap-northeast
+add address=35.55.5.0/24 disabled=no list=route-aws@ap-northeast
+add address=35.55.6.0/24 disabled=no list=route-aws@ap-northeast
 add address=35.71.109.0/24 disabled=no list=route-aws@ap-northeast
 add address=35.71.110.0/24 disabled=no list=route-aws@ap-northeast
 add address=35.71.114.0/24 disabled=no list=route-aws@ap-northeast
