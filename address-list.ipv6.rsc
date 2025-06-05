@@ -1760,7 +1760,6 @@ add address=2406:9480::/32 disabled=no list=novpn.ipv6
 add address=2406:94c0::/32 disabled=no list=novpn.ipv6
 add address=2406:9780::/32 disabled=no list=novpn.ipv6
 add address=2406:9d80::/32 disabled=no list=novpn.ipv6
-add address=2406:9e40::/32 disabled=no list=novpn.ipv6
 add address=2406:9e80::/32 disabled=no list=novpn.ipv6
 add address=2406:9f80::/32 disabled=no list=novpn.ipv6
 add address=2406:a080::/32 disabled=no list=novpn.ipv6
