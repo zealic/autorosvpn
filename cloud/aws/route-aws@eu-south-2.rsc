@@ -26,6 +26,8 @@ add address=18.100.209.240/28 disabled=no list=route-aws@eu-south-2
 add address=18.101.80.0/22 disabled=no list=route-aws@eu-south-2
 add address=18.101.84.0/23 disabled=no list=route-aws@eu-south-2
 add address=18.101.90.48/29 disabled=no list=route-aws@eu-south-2
+add address=18.101.90.56/31 disabled=no list=route-aws@eu-south-2
+add address=18.101.90.60/30 disabled=no list=route-aws@eu-south-2
 add address=18.101.212.0/23 disabled=no list=route-aws@eu-south-2
 add address=35.42.0.0/16 disabled=no list=route-aws@eu-south-2
 add address=35.43.0.0/16 disabled=no list=route-aws@eu-south-2
