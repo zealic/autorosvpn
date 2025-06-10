@@ -33,6 +33,7 @@ add address=35.42.0.0/16 disabled=no list=route-aws@eu-south-2
 add address=35.43.0.0/16 disabled=no list=route-aws@eu-south-2
 add address=35.44.0.0/15 disabled=no list=route-aws@eu-south-2
 add address=35.71.120.0/24 disabled=no list=route-aws@eu-south-2
+add address=35.96.37.0/24 disabled=no list=route-aws@eu-south-2
 add address=51.48.0.0/15 disabled=no list=route-aws@eu-south-2
 add address=51.92.0.0/16 disabled=no list=route-aws@eu-south-2
 add address=51.93.0.0/16 disabled=no list=route-aws@eu-south-2
