@@ -6322,6 +6322,8 @@ add address=69.107.7.64/29 disabled=no list=route-aws@us
 add address=69.107.7.72/29 disabled=no list=route-aws@us
 add address=69.107.7.96/29 disabled=no list=route-aws@us
 add address=69.107.7.104/29 disabled=no list=route-aws@us
+add address=69.107.9.128/29 disabled=no list=route-aws@us
+add address=69.107.9.136/29 disabled=no list=route-aws@us
 add address=70.224.192.0/18 disabled=no list=route-aws@us
 add address=70.232.92.0/22 disabled=no list=route-aws@us
 add address=72.21.192.0/19 disabled=no list=route-aws@us

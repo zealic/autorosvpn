@@ -3320,6 +3320,12 @@ add address=2600:f0f0:300:100::/56 disabled=no list=route-aws
 add address=2600:f0f0:300:100::/56 disabled=no list=route-aws
 add address=2600:f0f0:300:100::/56 disabled=no list=route-aws
 add address=2600:f0f0:400::/44 disabled=no list=route-aws
+add address=2600:f0f0:410a::/48 disabled=no list=route-aws
+add address=2600:f0f0:410a::/48 disabled=no list=route-aws
+add address=2600:f0f0:410b::/48 disabled=no list=route-aws
+add address=2600:f0f0:410b::/48 disabled=no list=route-aws
+add address=2600:f0f0:410c::/48 disabled=no list=route-aws
+add address=2600:f0f0:410c::/48 disabled=no list=route-aws
 add address=2600:f0f0:500::/48 disabled=no list=route-aws
 add address=2600:f0f0:500::/48 disabled=no list=route-aws
 add address=2600:f0f0:551a::/48 disabled=no list=route-aws
@@ -3638,6 +3644,9 @@ add address=2600:f0f1:8802::/48 disabled=no list=route-aws
 add address=2600:f0f2:7000::/44 disabled=no list=route-aws
 add address=2600:f0f2:7100::/40 disabled=no list=route-aws
 add address=2600:f0f2:7100::/40 disabled=no list=route-aws
+add address=2600:f0f2:7100::/48 disabled=no list=route-aws
+add address=2600:f0f2:7100::/48 disabled=no list=route-aws
+add address=2600:f0f2:7100::/48 disabled=no list=route-aws
 add address=2600:f0f3:f000::/44 disabled=no list=route-aws
 add address=2600:f0fb:8000::/40 disabled=no list=route-aws
 add address=2600:f0fb:8000::/40 disabled=no list=route-aws

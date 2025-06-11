@@ -333,6 +333,8 @@ add address=64.252.122.0/24 disabled=no list=route-aws@us-west-1
 add address=64.252.123.0/24 disabled=no list=route-aws@us-west-1
 add address=69.107.6.112/29 disabled=no list=route-aws@us-west-1
 add address=69.107.6.120/29 disabled=no list=route-aws@us-west-1
+add address=69.107.9.128/29 disabled=no list=route-aws@us-west-1
+add address=69.107.9.136/29 disabled=no list=route-aws@us-west-1
 add address=99.77.132.0/24 disabled=no list=route-aws@us-west-1
 add address=99.77.154.0/24 disabled=no list=route-aws@us-west-1
 add address=99.77.251.0/24 disabled=no list=route-aws@us-west-1

@@ -7064,6 +7064,8 @@ add address=69.107.7.112/29 disabled=no list=route-aws
 add address=69.107.7.120/29 disabled=no list=route-aws
 add address=69.107.7.128/29 disabled=no list=route-aws
 add address=69.107.7.136/29 disabled=no list=route-aws
+add address=69.107.9.128/29 disabled=no list=route-aws
+add address=69.107.9.136/29 disabled=no list=route-aws
 add address=69.230.192.0/18 disabled=no list=route-aws
 add address=69.230.192.0/18 disabled=no list=route-aws
 add address=69.230.219.0/24 disabled=no list=route-aws
