@@ -1,5 +1,6 @@
 /ip firewall address-list remove [/ip firewall address-list find list="route-aws@us"]
 /ip firewall address-list
+add address=1.178.4.0/22 disabled=no list=route-aws@us
 add address=3.2.0.0/24 disabled=no list=route-aws@us
 add address=3.2.2.0/24 disabled=no list=route-aws@us
 add address=3.2.3.0/24 disabled=no list=route-aws@us
@@ -1003,7 +1004,6 @@ add address=35.96.1.0/24 disabled=no list=route-aws@us
 add address=35.96.2.0/24 disabled=no list=route-aws@us
 add address=35.96.3.0/24 disabled=no list=route-aws@us
 add address=35.96.4.0/24 disabled=no list=route-aws@us
-add address=35.96.5.0/24 disabled=no list=route-aws@us
 add address=35.96.6.0/24 disabled=no list=route-aws@us
 add address=35.96.7.0/24 disabled=no list=route-aws@us
 add address=35.96.8.0/24 disabled=no list=route-aws@us
@@ -2059,8 +2059,7 @@ add address=108.175.48.0/22 disabled=no list=route-aws@us
 add address=108.175.52.0/22 disabled=no list=route-aws@us
 add address=108.175.56.0/22 disabled=no list=route-aws@us
 add address=108.175.60.0/22 disabled=no list=route-aws@us
-add address=110.238.2.0/24 disabled=no list=route-aws@us
-add address=110.238.3.0/24 disabled=no list=route-aws@us
+add address=110.238.2.0/23 disabled=no list=route-aws@us
 add address=136.8.0.0/15 disabled=no list=route-aws@us
 add address=136.18.0.0/23 disabled=no list=route-aws@us
 add address=136.18.4.0/22 disabled=no list=route-aws@us

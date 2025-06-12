@@ -320,7 +320,6 @@ add address=35.96.1.0/24 disabled=no list=route-aws@us-west
 add address=35.96.2.0/24 disabled=no list=route-aws@us-west
 add address=35.96.3.0/24 disabled=no list=route-aws@us-west
 add address=35.96.4.0/24 disabled=no list=route-aws@us-west
-add address=35.96.5.0/24 disabled=no list=route-aws@us-west
 add address=35.96.6.0/24 disabled=no list=route-aws@us-west
 add address=35.96.7.0/24 disabled=no list=route-aws@us-west
 add address=35.96.8.0/24 disabled=no list=route-aws@us-west

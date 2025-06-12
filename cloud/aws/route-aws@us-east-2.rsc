@@ -420,8 +420,7 @@ add address=108.166.244.61/32 disabled=no list=route-aws@us-east-2
 add address=108.166.244.62/32 disabled=no list=route-aws@us-east-2
 add address=108.166.244.63/32 disabled=no list=route-aws@us-east-2
 add address=108.166.248.0/21 disabled=no list=route-aws@us-east-2
-add address=110.238.2.0/24 disabled=no list=route-aws@us-east-2
-add address=110.238.3.0/24 disabled=no list=route-aws@us-east-2
+add address=110.238.2.0/23 disabled=no list=route-aws@us-east-2
 add address=150.222.40.64/26 disabled=no list=route-aws@us-east-2
 add address=150.222.40.128/26 disabled=no list=route-aws@us-east-2
 add address=150.222.40.192/26 disabled=no list=route-aws@us-east-2
