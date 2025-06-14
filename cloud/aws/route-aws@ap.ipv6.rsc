@@ -558,8 +558,6 @@ add address=2600:f0f0:1107::/48 disabled=no list=route-aws@ap
 add address=2600:f0f0:1108::/48 disabled=no list=route-aws@ap
 add address=2600:f0f0:1109::/48 disabled=no list=route-aws@ap
 add address=2600:f0f0:4104::/48 disabled=no list=route-aws@ap
-add address=2600:f0f0:4105::/48 disabled=no list=route-aws@ap
-add address=2600:f0f0:4106::/48 disabled=no list=route-aws@ap
 add address=2600:f0f0:4107::/48 disabled=no list=route-aws@ap
 add address=2600:f0f0:4108::/48 disabled=no list=route-aws@ap
 add address=2600:f0f0:5400::/48 disabled=no list=route-aws@ap

@@ -690,6 +690,7 @@ add address=2402:c60::/32 disabled=no list=chnroutes.ipv6
 add address=2402:e00::/32 disabled=no list=chnroutes.ipv6
 add address=2402:fc0::/32 disabled=no list=chnroutes.ipv6
 add address=2402:1000::/32 disabled=no list=chnroutes.ipv6
+add address=2402:1160::/32 disabled=no list=chnroutes.ipv6
 add address=2402:1440::/32 disabled=no list=chnroutes.ipv6
 add address=2402:14c0::/32 disabled=no list=chnroutes.ipv6
 add address=2402:1600::/32 disabled=no list=chnroutes.ipv6
