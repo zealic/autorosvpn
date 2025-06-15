@@ -101,6 +101,7 @@ add address=104.198.112.0/20 disabled=no list=route-gcp@asia-northeast
 add address=34.0.0.0/20 disabled=no list=route-gcp@asia-south
 add address=34.0.227.0/24 disabled=no list=route-gcp@asia-south
 add address=34.14.128.0/18 disabled=no list=route-gcp@asia-south
+add address=34.14.192.0/19 disabled=no list=route-gcp@asia-south
 add address=34.47.128.0/17 disabled=no list=route-gcp@asia-south
 add address=34.93.0.0/16 disabled=no list=route-gcp@asia-south
 add address=34.100.128.0/17 disabled=no list=route-gcp@asia-south
@@ -122,6 +123,7 @@ add address=34.157.215.0/24 disabled=no list=route-gcp@asia-south
 add address=34.177.32.0/22 disabled=no list=route-gcp@asia-south
 add address=34.177.66.128/25 disabled=no list=route-gcp@asia-south
 add address=34.177.74.0/23 disabled=no list=route-gcp@asia-south
+add address=34.180.0.0/18 disabled=no list=route-gcp@asia-south
 add address=34.183.3.0/25 disabled=no list=route-gcp@asia-south
 add address=34.184.3.0/25 disabled=no list=route-gcp@asia-south
 add address=35.200.128.0/17 disabled=no list=route-gcp@asia-south
@@ -744,6 +746,7 @@ add address=34.157.240.0/21 disabled=no list=route-gcp@us-west
 add address=34.168.0.0/15 disabled=no list=route-gcp@us-west
 add address=34.177.79.0/24 disabled=no list=route-gcp@us-west
 add address=34.182.0.0/17 disabled=no list=route-gcp@us-west
+add address=34.187.128.0/17 disabled=no list=route-gcp@us-west
 add address=35.185.192.0/18 disabled=no list=route-gcp@us-west
 add address=35.197.0.0/17 disabled=no list=route-gcp@us-west
 add address=35.199.144.0/20 disabled=no list=route-gcp@us-west

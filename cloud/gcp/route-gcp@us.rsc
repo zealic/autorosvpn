@@ -124,6 +124,7 @@ add address=34.183.16.0/22 disabled=no list=route-gcp@us
 add address=34.184.4.0/23 disabled=no list=route-gcp@us
 add address=34.184.12.0/22 disabled=no list=route-gcp@us
 add address=34.184.16.0/22 disabled=no list=route-gcp@us
+add address=34.187.128.0/17 disabled=no list=route-gcp@us
 add address=35.184.0.0/16 disabled=no list=route-gcp@us
 add address=35.185.0.0/17 disabled=no list=route-gcp@us
 add address=35.185.192.0/18 disabled=no list=route-gcp@us
