@@ -1751,6 +1751,7 @@ add address=2600:1ff2:5000::/40 disabled=no list=route-aws@us
 add address=2600:1ff2:6000::/40 disabled=no list=route-aws@us
 add address=2600:1ff2:8000::/39 disabled=no list=route-aws@us
 add address=2600:1ff2:c000::/40 disabled=no list=route-aws@us
+add address=2600:1ff3:8000::/39 disabled=no list=route-aws@us
 add address=2600:1ff4:2000::/40 disabled=no list=route-aws@us
 add address=2600:1ff4:4000::/39 disabled=no list=route-aws@us
 add address=2600:1ff4:5000::/40 disabled=no list=route-aws@us
