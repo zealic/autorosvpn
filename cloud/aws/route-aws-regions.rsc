@@ -4755,6 +4755,7 @@ add address=3.239.157.96/30 disabled=no list=route-aws@us
 add address=3.239.157.188/30 disabled=no list=route-aws@us
 add address=3.239.157.192/26 disabled=no list=route-aws@us
 add address=3.239.232.0/24 disabled=no list=route-aws@us
+add address=5.60.64.0/19 disabled=no list=route-aws@us
 add address=5.174.0.0/16 disabled=no list=route-aws@us
 add address=5.179.96.0/20 disabled=no list=route-aws@us
 add address=13.52.0.0/16 disabled=no list=route-aws@us

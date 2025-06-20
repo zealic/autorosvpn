@@ -910,6 +910,8 @@ add address=3.254.236.0/22 disabled=no list=route-aws
 add address=3.255.16.0/22 disabled=no list=route-aws
 add address=5.60.0.0/20 disabled=no list=route-aws
 add address=5.60.0.0/20 disabled=no list=route-aws
+add address=5.60.64.0/19 disabled=no list=route-aws
+add address=5.60.64.0/19 disabled=no list=route-aws
 add address=5.174.0.0/16 disabled=no list=route-aws
 add address=5.174.0.0/16 disabled=no list=route-aws
 add address=5.179.96.0/20 disabled=no list=route-aws
