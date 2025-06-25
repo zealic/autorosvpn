@@ -255,7 +255,6 @@ add address=2600:f0f0:5537::/48 disabled=no list=route-aws@ap-northeast
 add address=2600:f0f0:5538::/48 disabled=no list=route-aws@ap-northeast
 add address=2600:f0f0:5539::/48 disabled=no list=route-aws@ap-northeast
 add address=2600:f0f2:710a::/48 disabled=no list=route-aws@ap-northeast
-add address=2600:f0f2:7016::/48 disabled=no list=route-aws@ap-northeast
 add address=2600:f0f2:7106::/48 disabled=no list=route-aws@ap-northeast
 add address=2600:f0f2:7108::/48 disabled=no list=route-aws@ap-northeast
 add address=2600:f0fb:f025::/48 disabled=no list=route-aws@ap-northeast
@@ -1231,7 +1230,6 @@ add address=2600:f0f0:4109::/48 disabled=no list=route-aws@eu-west
 add address=2600:f0f0:5527::/48 disabled=no list=route-aws@eu-west
 add address=2600:f0f0:5528::/48 disabled=no list=route-aws@eu-west
 add address=2600:f0f0:5529::/48 disabled=no list=route-aws@eu-west
-add address=2600:f0f2:7015::/48 disabled=no list=route-aws@eu-west
 add address=2600:f0f2:7102::/48 disabled=no list=route-aws@eu-west
 add address=2600:f0fb:f022::/48 disabled=no list=route-aws@eu-west
 add address=2600:f0fb:f029::/48 disabled=no list=route-aws@eu-west
@@ -1378,6 +1376,7 @@ add address=2a05:d07c:5000::/40 disabled=no list=route-aws@il-central
 add address=2a05:d07e:5000::/40 disabled=no list=route-aws@il-central
 add address=2a05:d07f:5000::/40 disabled=no list=route-aws@il-central
 add address=2600:f0f0:20::/48 disabled=no list=route-aws@il-central
+add address=2600:f0f0:4110::/48 disabled=no list=route-aws@il-central
 /ipv6 firewall address-list remove [/ipv6 firewall address-list find list="route-aws@me-central"]
 /ipv6 firewall address-list
 add address=2400:6500:0:7a00::/56 disabled=no list=route-aws@me-central
@@ -1770,8 +1769,6 @@ add address=2600:f0f0:f00:400::/56 disabled=no list=route-aws@us-east
 add address=2600:f0f0:f00:500::/56 disabled=no list=route-aws@us-east
 add address=2600:f0f0:f00::/56 disabled=no list=route-aws@us-east
 add address=2600:f0f1:8801::/48 disabled=no list=route-aws@us-east
-add address=2600:f0f2:7010::/46 disabled=no list=route-aws@us-east
-add address=2600:f0f2:7014::/48 disabled=no list=route-aws@us-east
 add address=2600:f0f2:7101::/48 disabled=no list=route-aws@us-east
 add address=2600:f0fb:e000::/40 disabled=no list=route-aws@us-east
 add address=2600:f0fb:e100::/40 disabled=no list=route-aws@us-east
@@ -2059,7 +2056,7 @@ add address=2600:f0f0:5516::/48 disabled=no list=route-aws@us-west
 add address=2600:f0f0:5517::/48 disabled=no list=route-aws@us-west
 add address=2600:f0f0:e00::/48 disabled=no list=route-aws@us-west
 add address=2600:f0f0:e01::/48 disabled=no list=route-aws@us-west
-add address=2600:f0f2:7017::/48 disabled=no list=route-aws@us-west
+add address=2600:f0f2:7010::/44 disabled=no list=route-aws@us-west
 add address=2600:f0f2:7100::/48 disabled=no list=route-aws@us-west
 add address=2600:f0fb:8000::/40 disabled=no list=route-aws@us-west
 add address=2600:f0fb:e200::/40 disabled=no list=route-aws@us-west
@@ -2151,6 +2148,7 @@ add address=2606:7b40:1800::/48 disabled=no list=route-aws@us-west
 add address=2606:7b40:f000:1500::/56 disabled=no list=route-aws@us-west
 add address=2606:7b40:f000:1600::/56 disabled=no list=route-aws@us-west
 add address=2606:7b40:f000:1700::/56 disabled=no list=route-aws@us-west
+add address=2606:8140:400::/40 disabled=no list=route-aws@us-west
 add address=2606:f40:8a00::/40 disabled=no list=route-aws@us-west
 add address=2606:f40:400::/39 disabled=no list=route-aws@us-west
 add address=2606:f40:4400::/39 disabled=no list=route-aws@us-west

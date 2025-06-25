@@ -3160,6 +3160,12 @@ add address=15.230.223.0/31 disabled=no list=route-aws@eu-west
 add address=15.230.223.2/31 disabled=no list=route-aws@eu-west
 add address=15.230.223.4/31 disabled=no list=route-aws@eu-west
 add address=15.230.223.6/31 disabled=no list=route-aws@eu-west
+add address=15.230.223.8/31 disabled=no list=route-aws@eu-west
+add address=15.230.223.10/31 disabled=no list=route-aws@eu-west
+add address=15.230.223.12/32 disabled=no list=route-aws@eu-west
+add address=15.230.223.13/32 disabled=no list=route-aws@eu-west
+add address=15.230.223.14/32 disabled=no list=route-aws@eu-west
+add address=15.230.223.15/32 disabled=no list=route-aws@eu-west
 add address=15.230.255.0/24 disabled=no list=route-aws@eu-west
 add address=15.236.0.0/15 disabled=no list=route-aws@eu-west
 add address=15.236.80.0/23 disabled=no list=route-aws@eu-west
@@ -6009,6 +6015,7 @@ add address=160.1.128.0/24 disabled=no list=route-aws@us-gov-west
 add address=205.251.236.0/22 disabled=no list=route-aws@us-gov-west
 /ip firewall address-list remove [/ip firewall address-list find list="route-aws@us-west"]
 /ip firewall address-list
+add address=1.178.8.0/22 disabled=no list=route-aws@us-west
 add address=3.2.54.0/24 disabled=no list=route-aws@us-west
 add address=3.2.55.0/24 disabled=no list=route-aws@us-west
 add address=3.3.24.0/22 disabled=no list=route-aws@us-west

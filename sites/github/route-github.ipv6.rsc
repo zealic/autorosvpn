@@ -168,6 +168,8 @@ add address=2603:1030:9:6c0::/62 disabled=no list=route-github
 add address=2603:1030:9:6c4::/63 disabled=no list=route-github
 add address=2603:1030:9:6ce::/63 disabled=no list=route-github
 add address=2603:1030:9:6d0::/63 disabled=no list=route-github
+add address=2603:1030:9:6d5::/64 disabled=no list=route-github
+add address=2603:1030:9:6d6::/64 disabled=no list=route-github
 add address=2603:1030:9:8::/61 disabled=no list=route-github
 add address=2603:1030:9:10::/62 disabled=no list=route-github
 add address=2603:1030:9:10c::/64 disabled=no list=route-github
@@ -423,10 +425,9 @@ add address=2603:1030:401:8b0::/62 disabled=no list=route-github
 add address=2603:1030:401:8b4::/63 disabled=no list=route-github
 add address=2603:1030:401:8ba::/63 disabled=no list=route-github
 add address=2603:1030:401:8bc::/62 disabled=no list=route-github
-add address=2603:1030:401:8c0::/62 disabled=no list=route-github
-add address=2603:1030:401:8c4::/63 disabled=no list=route-github
-add address=2603:1030:401:8c6::/64 disabled=no list=route-github
+add address=2603:1030:401:8c0::/60 disabled=no list=route-github
 add address=2603:1030:401:8c::/63 disabled=no list=route-github
+add address=2603:1030:401:8d0::/62 disabled=no list=route-github
 add address=2603:1030:401:8f::/64 disabled=no list=route-github
 add address=2603:1030:401:10::/62 disabled=no list=route-github
 add address=2603:1030:401:13a::/63 disabled=no list=route-github
@@ -622,7 +623,8 @@ add address=2603:1030:804:4a0::/60 disabled=no list=route-github
 add address=2603:1030:804:4b0::/62 disabled=no list=route-github
 add address=2603:1030:804:4b4::/63 disabled=no list=route-github
 add address=2603:1030:804:4b8::/61 disabled=no list=route-github
-add address=2603:1030:804:4c0::/64 disabled=no list=route-github
+add address=2603:1030:804:4c0::/63 disabled=no list=route-github
+add address=2603:1030:804:4c2::/64 disabled=no list=route-github
 add address=2603:1030:804:5b::/64 disabled=no list=route-github
 add address=2603:1030:804:5c::/62 disabled=no list=route-github
 add address=2603:1030:804:22c::/64 disabled=no list=route-github
@@ -898,6 +900,11 @@ add address=2603:1063:62b::/56 disabled=no list=route-github
 add address=2603:1063:62d::/56 disabled=no list=route-github
 add address=2603:1063:62e::/56 disabled=no list=route-github
 add address=2603:1063:62f::/56 disabled=no list=route-github
+add address=2603:1063:70b::/56 disabled=no list=route-github
+add address=2603:1063:70c::/56 disabled=no list=route-github
+add address=2603:1063:71b::/56 disabled=no list=route-github
+add address=2603:1063:71c::/56 disabled=no list=route-github
+add address=2603:1063:72e::/56 disabled=no list=route-github
 add address=2603:1063:101:200::/56 disabled=no list=route-github
 add address=2603:1063:101::/55 disabled=no list=route-github
 add address=2603:1063:102:200::/56 disabled=no list=route-github
@@ -941,6 +948,11 @@ add address=2603:1063:608::/56 disabled=no list=route-github
 add address=2603:1063:609::/56 disabled=no list=route-github
 add address=2603:1063:618::/56 disabled=no list=route-github
 add address=2603:1063:619::/56 disabled=no list=route-github
+add address=2603:1063:709::/56 disabled=no list=route-github
+add address=2603:1063:721::/56 disabled=no list=route-github
+add address=2603:1063:730::/56 disabled=no list=route-github
+add address=2603:1063:731::/56 disabled=no list=route-github
+add address=2603:1063:732::/56 disabled=no list=route-github
 add address=2603:1063:2200:1c::/64 disabled=no list=route-github
 add address=2603:1063:2200:14::/64 disabled=no list=route-github
 add address=2603:1063:2200:18::/64 disabled=no list=route-github
