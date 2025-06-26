@@ -1568,7 +1568,6 @@ add address=2405:ce80::/32 disabled=no list=novpn.ipv6
 add address=2405:d280::/32 disabled=no list=novpn.ipv6
 add address=2405:d4c0::/32 disabled=no list=novpn.ipv6
 add address=2405:d700::/32 disabled=no list=novpn.ipv6
-add address=2405:d740::/32 disabled=no list=novpn.ipv6
 add address=2405:d900::/32 disabled=no list=novpn.ipv6
 add address=2405:df40::/32 disabled=no list=novpn.ipv6
 add address=2405:e000::/32 disabled=no list=novpn.ipv6

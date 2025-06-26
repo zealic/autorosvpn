@@ -997,8 +997,11 @@ add address=2a05:d050:9000::/40 disabled=no list=route-aws@eu
 add address=2a05:d050:a000::/40 disabled=no list=route-aws@eu
 add address=2a05:d050:b000::/40 disabled=no list=route-aws@eu
 add address=2a05:d050:c000::/40 disabled=no list=route-aws@eu
+add address=2a05:d059:20c0::/48 disabled=no list=route-aws@eu
 add address=2a05:d059:1000::/40 disabled=no list=route-aws@eu
-add address=2a05:d059:2000::/40 disabled=no list=route-aws@eu
+add address=2a05:d059:2000::/56 disabled=no list=route-aws@eu
+add address=2a05:d059:2040::/48 disabled=no list=route-aws@eu
+add address=2a05:d059:2080::/48 disabled=no list=route-aws@eu
 add address=2a05:d059:4000::/40 disabled=no list=route-aws@eu
 add address=2a05:d059:6000::/40 disabled=no list=route-aws@eu
 add address=2a05:d059:8000::/40 disabled=no list=route-aws@eu
@@ -1042,8 +1045,11 @@ add address=2a05:d072:9000::/40 disabled=no list=route-aws@eu
 add address=2a05:d072:a000::/40 disabled=no list=route-aws@eu
 add address=2a05:d072:b000::/40 disabled=no list=route-aws@eu
 add address=2a05:d072:c000::/40 disabled=no list=route-aws@eu
+add address=2a05:d074:20c0::/48 disabled=no list=route-aws@eu
 add address=2a05:d074:1000::/40 disabled=no list=route-aws@eu
-add address=2a05:d074:2000::/40 disabled=no list=route-aws@eu
+add address=2a05:d074:2000::/56 disabled=no list=route-aws@eu
+add address=2a05:d074:2040::/48 disabled=no list=route-aws@eu
+add address=2a05:d074:2080::/48 disabled=no list=route-aws@eu
 add address=2a05:d074:4000::/40 disabled=no list=route-aws@eu
 add address=2a05:d074:6000::/40 disabled=no list=route-aws@eu
 add address=2a05:d074:8000::/40 disabled=no list=route-aws@eu
@@ -2076,6 +2082,7 @@ add address=2606:7b40:f000:1500::/56 disabled=no list=route-aws@us
 add address=2606:7b40:f000:1600::/56 disabled=no list=route-aws@us
 add address=2606:7b40:f000:1700::/56 disabled=no list=route-aws@us
 add address=2606:8140:400::/40 disabled=no list=route-aws@us
+add address=2606:8140:500::/40 disabled=no list=route-aws@us
 add address=2606:f40:8a00::/40 disabled=no list=route-aws@us
 add address=2606:f40:400::/39 disabled=no list=route-aws@us
 add address=2606:f40:800::/40 disabled=no list=route-aws@us
