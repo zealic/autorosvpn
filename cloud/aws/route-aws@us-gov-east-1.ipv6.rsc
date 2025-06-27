@@ -20,6 +20,7 @@ add address=2600:1fed:5000::/40 disabled=no list=route-aws@us-gov-east-1
 add address=2600:1fef:5000::/40 disabled=no list=route-aws@us-gov-east-1
 add address=2600:1ff0:5000::/40 disabled=no list=route-aws@us-gov-east-1
 add address=2600:1ff2:5000::/40 disabled=no list=route-aws@us-gov-east-1
+add address=2600:1ff3:5000::/40 disabled=no list=route-aws@us-gov-east-1
 add address=2600:1ff4:5000::/40 disabled=no list=route-aws@us-gov-east-1
 add address=2600:1ff6:5000::/40 disabled=no list=route-aws@us-gov-east-1
 add address=2600:1ff7:5000::/40 disabled=no list=route-aws@us-gov-east-1

@@ -28,6 +28,7 @@ add address=2600:1fed:c000::/40 disabled=no list=route-aws@us-west-1
 add address=2600:1fef:c000::/40 disabled=no list=route-aws@us-west-1
 add address=2600:1ff0:c000::/40 disabled=no list=route-aws@us-west-1
 add address=2600:1ff2:c000::/40 disabled=no list=route-aws@us-west-1
+add address=2600:1ff3:c000::/40 disabled=no list=route-aws@us-west-1
 add address=2600:1ff4:c000::/40 disabled=no list=route-aws@us-west-1
 add address=2600:1ff6:c000::/40 disabled=no list=route-aws@us-west-1
 add address=2600:1ff7:c000::/40 disabled=no list=route-aws@us-west-1

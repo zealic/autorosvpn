@@ -20,6 +20,7 @@ add address=2406:daed:7000::/40 disabled=no list=route-aws@me-central
 add address=2406:daef:7000::/40 disabled=no list=route-aws@me-central
 add address=2406:daf0:7000::/40 disabled=no list=route-aws@me-central
 add address=2406:daf2:7000::/40 disabled=no list=route-aws@me-central
+add address=2406:daf3:7000::/40 disabled=no list=route-aws@me-central
 add address=2406:daf4:7000::/40 disabled=no list=route-aws@me-central
 add address=2406:daf6:7000::/40 disabled=no list=route-aws@me-central
 add address=2406:daf7:7000::/40 disabled=no list=route-aws@me-central

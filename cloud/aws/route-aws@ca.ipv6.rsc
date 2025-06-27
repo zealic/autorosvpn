@@ -47,6 +47,8 @@ add address=2600:1ff0:1000::/40 disabled=no list=route-aws@ca
 add address=2600:1ff0:a400::/40 disabled=no list=route-aws@ca
 add address=2600:1ff2:1000::/40 disabled=no list=route-aws@ca
 add address=2600:1ff2:a400::/40 disabled=no list=route-aws@ca
+add address=2600:1ff3:1000::/40 disabled=no list=route-aws@ca
+add address=2600:1ff3:a400::/40 disabled=no list=route-aws@ca
 add address=2600:1ff4:1000::/40 disabled=no list=route-aws@ca
 add address=2600:1ff4:a400::/40 disabled=no list=route-aws@ca
 add address=2600:1ff6:1000::/40 disabled=no list=route-aws@ca
