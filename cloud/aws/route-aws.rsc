@@ -8669,6 +8669,8 @@ add address=168.185.5.0/24 disabled=no list=route-aws
 add address=168.185.5.0/24 disabled=no list=route-aws
 add address=168.185.6.0/24 disabled=no list=route-aws
 add address=168.185.6.0/24 disabled=no list=route-aws
+add address=168.185.7.0/24 disabled=no list=route-aws
+add address=168.185.7.0/24 disabled=no list=route-aws
 add address=168.192.0.0/15 disabled=no list=route-aws
 add address=172.96.97.0/24 disabled=no list=route-aws
 add address=172.96.98.0/24 disabled=no list=route-aws
