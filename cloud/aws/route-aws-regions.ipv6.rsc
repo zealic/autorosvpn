@@ -1993,8 +1993,12 @@ add address=2600:f0f0:f00:300::/56 disabled=no list=route-aws@us
 add address=2600:f0f0:f00:400::/56 disabled=no list=route-aws@us
 add address=2600:f0f0:f00:500::/56 disabled=no list=route-aws@us
 add address=2600:f0f0:f00::/56 disabled=no list=route-aws@us
+add address=2600:f0f1:8a00::/39 disabled=no list=route-aws@us
 add address=2600:f0f1:8801::/48 disabled=no list=route-aws@us
-add address=2600:f0f2:7010::/46 disabled=no list=route-aws@us
+add address=2600:f0f2:7010::/48 disabled=no list=route-aws@us
+add address=2600:f0f2:7011::/48 disabled=no list=route-aws@us
+add address=2600:f0f2:7012::/48 disabled=no list=route-aws@us
+add address=2600:f0f2:7013::/48 disabled=no list=route-aws@us
 add address=2600:f0f2:7014::/48 disabled=no list=route-aws@us
 add address=2600:f0f2:7017::/48 disabled=no list=route-aws@us
 add address=2600:f0f2:7100::/48 disabled=no list=route-aws@us
