@@ -297,6 +297,7 @@ add address=2406:dab9:c000::/40 disabled=no list=route-aws@ap
 add address=2406:dab9:c800::/40 disabled=no list=route-aws@ap
 add address=2406:dab9:e000::/40 disabled=no list=route-aws@ap
 add address=2406:dab9:f000::/40 disabled=no list=route-aws@ap
+add address=2406:daec:8800::/40 disabled=no list=route-aws@ap
 add address=2406:daed:800::/40 disabled=no list=route-aws@ap
 add address=2406:daed:2000::/40 disabled=no list=route-aws@ap
 add address=2406:daed:2800::/40 disabled=no list=route-aws@ap

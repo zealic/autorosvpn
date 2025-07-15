@@ -518,6 +518,7 @@ add address=2406:dab9:8800::/40 disabled=no list=route-aws@ap-southeast
 add address=2406:dab9:9000::/40 disabled=no list=route-aws@ap-southeast
 add address=2406:dab9:c000::/40 disabled=no list=route-aws@ap-southeast
 add address=2406:dab9:f000::/40 disabled=no list=route-aws@ap-southeast
+add address=2406:daec:8800::/40 disabled=no list=route-aws@ap-southeast
 add address=2406:daed:800::/40 disabled=no list=route-aws@ap-southeast
 add address=2406:daed:2800::/40 disabled=no list=route-aws@ap-southeast
 add address=2406:daed:4800::/40 disabled=no list=route-aws@ap-southeast
@@ -801,6 +802,7 @@ add address=2400:7fc0:8000::/36 disabled=no list=route-aws@cn-north
 add address=2400:7fc0::/40 disabled=no list=route-aws@cn-north
 add address=2400:7fc0:a000::/36 disabled=no list=route-aws@cn-north
 add address=2400:7fc0:c000::/36 disabled=no list=route-aws@cn-north
+add address=2400:7fc0:ec00::/40 disabled=no list=route-aws@cn-north
 add address=2400:7fc0:ef00::/40 disabled=no list=route-aws@cn-north
 /ipv6 firewall address-list remove [/ipv6 firewall address-list find list="route-aws@cn-northwest"]
 /ipv6 firewall address-list
