@@ -41,7 +41,7 @@ add address=2406:daa0:8000::/40 disabled=no list=route-aws@ap-southeast-1
 add address=2406:daa0:8800::/40 disabled=no list=route-aws@ap-southeast-1
 add address=2406:dab9:8000::/40 disabled=no list=route-aws@ap-southeast-1
 add address=2406:dab9:8800::/40 disabled=no list=route-aws@ap-southeast-1
-add address=2406:daec:8800::/40 disabled=no list=route-aws@ap-southeast-1
+add address=2406:daec:8800::/48 disabled=no list=route-aws@ap-southeast-1
 add address=2406:daed:8000::/40 disabled=no list=route-aws@ap-southeast-1
 add address=2406:daed:8800::/40 disabled=no list=route-aws@ap-southeast-1
 add address=2406:daef:8000::/40 disabled=no list=route-aws@ap-southeast-1
