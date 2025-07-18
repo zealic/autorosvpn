@@ -3846,6 +3846,9 @@ add address=2600:f0f2:7108::/48 disabled=no list=route-aws
 add address=2600:f0f2:7109::/48 disabled=no list=route-aws
 add address=2600:f0f2:7109::/48 disabled=no list=route-aws
 add address=2600:f0f2:7109::/48 disabled=no list=route-aws
+add address=2600:f0f2:7140::/48 disabled=no list=route-aws
+add address=2600:f0f2:7140::/48 disabled=no list=route-aws
+add address=2600:f0f2:7140::/48 disabled=no list=route-aws
 add address=2600:f0f2:7148::/48 disabled=no list=route-aws
 add address=2600:f0f2:7148::/48 disabled=no list=route-aws
 add address=2600:f0f2:7148::/48 disabled=no list=route-aws

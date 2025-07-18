@@ -2021,6 +2021,7 @@ add address=2600:f0f2:7014::/48 disabled=no list=route-aws@us
 add address=2600:f0f2:7017::/48 disabled=no list=route-aws@us
 add address=2600:f0f2:7100::/48 disabled=no list=route-aws@us
 add address=2600:f0f2:7101::/48 disabled=no list=route-aws@us
+add address=2600:f0f2:7140::/48 disabled=no list=route-aws@us
 add address=2600:f0f2:7148::/48 disabled=no list=route-aws@us
 add address=2600:f0fb:8000::/40 disabled=no list=route-aws@us
 add address=2600:f0fb:e000::/40 disabled=no list=route-aws@us
