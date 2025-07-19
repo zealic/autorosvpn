@@ -7225,6 +7225,7 @@ add address=78.14.0.0/15 disabled=no list=route-aws
 add address=78.14.0.0/15 disabled=no list=route-aws
 add address=79.125.0.0/17 disabled=no list=route-aws
 add address=79.125.0.0/17 disabled=no list=route-aws
+add address=80.126.0.0/24 disabled=no list=route-aws
 add address=83.118.240.0/21 disabled=no list=route-aws
 add address=83.118.240.0/21 disabled=no list=route-aws
 add address=83.118.240.0/22 disabled=no list=route-aws
