@@ -543,3 +543,4 @@ add address=176.34.32.0/19 disabled=no list=route-aws@ap-northeast
 add address=192.31.213.0/24 disabled=no list=route-aws@ap-northeast
 add address=208.78.130.0/23 disabled=no list=route-aws@ap-northeast
 add address=216.39.160.0/21 disabled=no list=route-aws@ap-northeast
+add address=216.244.4.0/24 disabled=no list=route-aws@ap-northeast
