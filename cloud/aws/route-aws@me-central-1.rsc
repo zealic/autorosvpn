@@ -44,6 +44,7 @@ add address=51.112.0.0/16 disabled=no list=route-aws@me-central-1
 add address=51.112.11.64/28 disabled=no list=route-aws@me-central-1
 add address=51.112.11.80/28 disabled=no list=route-aws@me-central-1
 add address=51.112.20.0/23 disabled=no list=route-aws@me-central-1
+add address=51.112.196.0/22 disabled=no list=route-aws@me-central-1
 add address=52.94.249.224/28 disabled=no list=route-aws@me-central-1
 add address=52.95.187.0/24 disabled=no list=route-aws@me-central-1
 add address=52.95.188.0/23 disabled=no list=route-aws@me-central-1

@@ -1,5 +1,6 @@
 /ip firewall address-list remove [/ip firewall address-list find list="route-aws@eusc-de-east"]
 /ip firewall address-list
+add address=35.71.94.0/24 disabled=no list=route-aws@eusc-de-east
 add address=51.0.0.0/20 disabled=no list=route-aws@eusc-de-east
 add address=51.0.16.0/21 disabled=no list=route-aws@eusc-de-east
 add address=51.0.24.0/22 disabled=no list=route-aws@eusc-de-east

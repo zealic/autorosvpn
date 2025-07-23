@@ -101,7 +101,10 @@ add address=2600:1fb9:6000::/40 disabled=no list=route-aws@us-east
 add address=2600:1fb9:8000::/39 disabled=no list=route-aws@us-east
 add address=2600:1fec:4400::/48 disabled=no list=route-aws@us-east
 add address=2600:1fec:b400::/48 disabled=no list=route-aws@us-east
-add address=2600:1fed:6000::/40 disabled=no list=route-aws@us-east
+add address=2600:1fed:60c0::/48 disabled=no list=route-aws@us-east
+add address=2600:1fed:6000::/56 disabled=no list=route-aws@us-east
+add address=2600:1fed:6040::/48 disabled=no list=route-aws@us-east
+add address=2600:1fed:6080::/48 disabled=no list=route-aws@us-east
 add address=2600:1fed:8000::/39 disabled=no list=route-aws@us-east
 add address=2600:1fef:6000::/40 disabled=no list=route-aws@us-east
 add address=2600:1fef:8000::/39 disabled=no list=route-aws@us-east
