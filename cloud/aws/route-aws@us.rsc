@@ -737,6 +737,7 @@ add address=18.34.232.0/21 disabled=no list=route-aws@us
 add address=18.34.244.0/22 disabled=no list=route-aws@us
 add address=18.34.252.0/22 disabled=no list=route-aws@us
 add address=18.88.0.0/18 disabled=no list=route-aws@us
+add address=18.88.64.0/18 disabled=no list=route-aws@us
 add address=18.88.128.0/18 disabled=no list=route-aws@us
 add address=18.89.128.0/18 disabled=no list=route-aws@us
 add address=18.96.0.0/24 disabled=no list=route-aws@us
