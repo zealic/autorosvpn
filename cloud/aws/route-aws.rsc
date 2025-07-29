@@ -4193,8 +4193,6 @@ add address=35.96.128.0/20 disabled=no list=route-aws
 add address=35.96.128.0/20 disabled=no list=route-aws
 add address=35.96.144.0/20 disabled=no list=route-aws
 add address=35.96.144.0/20 disabled=no list=route-aws
-add address=35.96.240.0/24 disabled=no list=route-aws
-add address=35.96.240.0/24 disabled=no list=route-aws
 add address=35.96.241.0/24 disabled=no list=route-aws
 add address=35.96.241.0/24 disabled=no list=route-aws
 add address=35.96.242.0/24 disabled=no list=route-aws
