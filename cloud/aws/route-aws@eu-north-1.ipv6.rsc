@@ -10,8 +10,6 @@ add address=2a05:d026::/36 disabled=no list=route-aws@eu-north-1
 add address=2a05:d030:6000::/40 disabled=no list=route-aws@eu-north-1
 add address=2a05:d031:6000::/40 disabled=no list=route-aws@eu-north-1
 add address=2a05:d032:6000::/40 disabled=no list=route-aws@eu-north-1
-add address=2a05:d034:6000::/40 disabled=no list=route-aws@eu-north-1
-add address=2a05:d035:6000::/40 disabled=no list=route-aws@eu-north-1
 add address=2a05:d036:6000::/40 disabled=no list=route-aws@eu-north-1
 add address=2a05:d038:6000::/40 disabled=no list=route-aws@eu-north-1
 add address=2a05:d03a:6000:100::/56 disabled=no list=route-aws@eu-north-1
@@ -22,18 +20,15 @@ add address=2a05:d03a:6000::/56 disabled=no list=route-aws@eu-north-1
 add address=2a05:d040:6000::/40 disabled=no list=route-aws@eu-north-1
 add address=2a05:d050:6000::/40 disabled=no list=route-aws@eu-north-1
 add address=2a05:d059:6000::/40 disabled=no list=route-aws@eu-north-1
-add address=2a05:d06d:6000::/40 disabled=no list=route-aws@eu-north-1
 add address=2a05:d06f:6000::/40 disabled=no list=route-aws@eu-north-1
 add address=2a05:d070:6000::/40 disabled=no list=route-aws@eu-north-1
 add address=2a05:d072:6000::/40 disabled=no list=route-aws@eu-north-1
 add address=2a05:d073:6000::/40 disabled=no list=route-aws@eu-north-1
 add address=2a05:d074:6000::/40 disabled=no list=route-aws@eu-north-1
 add address=2a05:d076:6000::/40 disabled=no list=route-aws@eu-north-1
-add address=2a05:d077:6000::/40 disabled=no list=route-aws@eu-north-1
 add address=2a05:d078:6000::/40 disabled=no list=route-aws@eu-north-1
 add address=2a05:d079:6000::/40 disabled=no list=route-aws@eu-north-1
 add address=2a05:d07a:6000::/40 disabled=no list=route-aws@eu-north-1
-add address=2a05:d07b:6000::/40 disabled=no list=route-aws@eu-north-1
 add address=2a05:d07c:6000::/40 disabled=no list=route-aws@eu-north-1
 add address=2a05:d07e:6000::/40 disabled=no list=route-aws@eu-north-1
 add address=2a05:d07f:6000::/40 disabled=no list=route-aws@eu-north-1

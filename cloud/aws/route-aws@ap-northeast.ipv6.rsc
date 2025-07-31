@@ -48,12 +48,6 @@ add address=2406:da60:6000::/40 disabled=no list=route-aws@ap-northeast
 add address=2406:da61:2000::/40 disabled=no list=route-aws@ap-northeast
 add address=2406:da61:4000::/40 disabled=no list=route-aws@ap-northeast
 add address=2406:da61:6000::/40 disabled=no list=route-aws@ap-northeast
-add address=2406:da68:2000::/40 disabled=no list=route-aws@ap-northeast
-add address=2406:da68:4000::/40 disabled=no list=route-aws@ap-northeast
-add address=2406:da68:6000::/40 disabled=no list=route-aws@ap-northeast
-add address=2406:da69:2000::/40 disabled=no list=route-aws@ap-northeast
-add address=2406:da69:4000::/40 disabled=no list=route-aws@ap-northeast
-add address=2406:da69:6000::/40 disabled=no list=route-aws@ap-northeast
 add address=2406:da70:2000:100::/56 disabled=no list=route-aws@ap-northeast
 add address=2406:da70:2000:200::/56 disabled=no list=route-aws@ap-northeast
 add address=2406:da70:2000:300::/56 disabled=no list=route-aws@ap-northeast
@@ -74,9 +68,6 @@ add address=2406:daa0:6000::/40 disabled=no list=route-aws@ap-northeast
 add address=2406:dab9:2000::/40 disabled=no list=route-aws@ap-northeast
 add address=2406:dab9:4000::/40 disabled=no list=route-aws@ap-northeast
 add address=2406:dab9:6000::/40 disabled=no list=route-aws@ap-northeast
-add address=2406:daed:2000::/40 disabled=no list=route-aws@ap-northeast
-add address=2406:daed:4000::/40 disabled=no list=route-aws@ap-northeast
-add address=2406:daed:6000::/40 disabled=no list=route-aws@ap-northeast
 add address=2406:daef:2000::/40 disabled=no list=route-aws@ap-northeast
 add address=2406:daef:4000::/40 disabled=no list=route-aws@ap-northeast
 add address=2406:daef:6000::/40 disabled=no list=route-aws@ap-northeast
@@ -95,9 +86,6 @@ add address=2406:daf4:6000::/40 disabled=no list=route-aws@ap-northeast
 add address=2406:daf6:2000::/40 disabled=no list=route-aws@ap-northeast
 add address=2406:daf6:4000::/40 disabled=no list=route-aws@ap-northeast
 add address=2406:daf6:6000::/40 disabled=no list=route-aws@ap-northeast
-add address=2406:daf7:2000::/40 disabled=no list=route-aws@ap-northeast
-add address=2406:daf7:4000::/40 disabled=no list=route-aws@ap-northeast
-add address=2406:daf7:6000::/40 disabled=no list=route-aws@ap-northeast
 add address=2406:daf8:2000::/40 disabled=no list=route-aws@ap-northeast
 add address=2406:daf8:4000::/40 disabled=no list=route-aws@ap-northeast
 add address=2406:daf8:6000::/40 disabled=no list=route-aws@ap-northeast
@@ -107,9 +95,6 @@ add address=2406:daf9:6000::/40 disabled=no list=route-aws@ap-northeast
 add address=2406:dafa:2000::/40 disabled=no list=route-aws@ap-northeast
 add address=2406:dafa:4000::/40 disabled=no list=route-aws@ap-northeast
 add address=2406:dafa:6000::/40 disabled=no list=route-aws@ap-northeast
-add address=2406:dafb:2000::/40 disabled=no list=route-aws@ap-northeast
-add address=2406:dafb:4000::/40 disabled=no list=route-aws@ap-northeast
-add address=2406:dafb:6000::/40 disabled=no list=route-aws@ap-northeast
 add address=2406:dafc:2000::/40 disabled=no list=route-aws@ap-northeast
 add address=2406:dafc:4000::/40 disabled=no list=route-aws@ap-northeast
 add address=2406:dafc:6000::/40 disabled=no list=route-aws@ap-northeast
