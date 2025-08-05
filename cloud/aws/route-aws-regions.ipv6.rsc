@@ -774,6 +774,7 @@ add address=2a05:d011:cbe:f700::/56 disabled=no list=route-aws@eu
 add address=2a05:d012:610:d500::/56 disabled=no list=route-aws@eu
 add address=2a05:d012::/36 disabled=no list=route-aws@eu
 add address=2a05:d012:c9e:d600::/56 disabled=no list=route-aws@eu
+add address=2a05:d014:15a0:7500::/56 disabled=no list=route-aws@eu
 add address=2a05:d014:17a8:8b00::/56 disabled=no list=route-aws@eu
 add address=2a05:d014::/35 disabled=no list=route-aws@eu
 add address=2a05:d016:494:f00::/56 disabled=no list=route-aws@eu
