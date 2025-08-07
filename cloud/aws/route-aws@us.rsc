@@ -2398,3 +2398,4 @@ add address=216.244.0.0/24 disabled=no list=route-aws@us
 add address=216.244.2.0/24 disabled=no list=route-aws@us
 add address=216.244.5.0/24 disabled=no list=route-aws@us
 add address=216.244.7.0/24 disabled=no list=route-aws@us
+add address=216.244.9.0/24 disabled=no list=route-aws@us
