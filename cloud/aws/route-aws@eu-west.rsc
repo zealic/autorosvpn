@@ -40,6 +40,8 @@ add address=3.10.201.64/27 disabled=no list=route-aws@eu-west
 add address=3.10.201.128/27 disabled=no list=route-aws@eu-west
 add address=3.10.201.192/26 disabled=no list=route-aws@eu-west
 add address=3.11.53.0/24 disabled=no list=route-aws@eu-west
+add address=3.40.128.0/17 disabled=no list=route-aws@eu-west
+add address=3.41.0.0/17 disabled=no list=route-aws@eu-west
 add address=3.248.0.0/13 disabled=no list=route-aws@eu-west
 add address=3.248.176.0/22 disabled=no list=route-aws@eu-west
 add address=3.248.180.40/29 disabled=no list=route-aws@eu-west

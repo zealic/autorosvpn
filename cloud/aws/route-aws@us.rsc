@@ -93,6 +93,7 @@ add address=3.33.44.0/22 disabled=no list=route-aws@us
 add address=3.41.128.0/17 disabled=no list=route-aws@us
 add address=3.42.0.0/17 disabled=no list=route-aws@us
 add address=3.42.128.0/17 disabled=no list=route-aws@us
+add address=3.43.64.0/18 disabled=no list=route-aws@us
 add address=3.80.0.0/12 disabled=no list=route-aws@us
 add address=3.83.168.0/22 disabled=no list=route-aws@us
 add address=3.91.171.128/25 disabled=no list=route-aws@us
