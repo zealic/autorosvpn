@@ -3021,6 +3021,10 @@ add address=2600:f0f0:600:200::/55 disabled=no list=route-aws
 add address=2600:f0f0:600:200::/55 disabled=no list=route-aws
 add address=2600:f0f0:600::/55 disabled=no list=route-aws
 add address=2600:f0f0:600::/55 disabled=no list=route-aws
+add address=2600:f0f0:720::/48 disabled=no list=route-aws
+add address=2600:f0f0:720::/48 disabled=no list=route-aws
+add address=2600:f0f0:721::/48 disabled=no list=route-aws
+add address=2600:f0f0:721::/48 disabled=no list=route-aws
 add address=2600:f0f0:730::/48 disabled=no list=route-aws
 add address=2600:f0f0:730::/48 disabled=no list=route-aws
 add address=2600:f0f0:731::/48 disabled=no list=route-aws
