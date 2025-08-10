@@ -28,11 +28,14 @@ add address=34.127.190.0/23 disabled=no list=route-gcp@asia-northeast
 add address=34.146.0.0/16 disabled=no list=route-gcp@asia-northeast
 add address=34.152.96.0/24 disabled=no list=route-gcp@asia-northeast
 add address=34.152.100.0/24 disabled=no list=route-gcp@asia-northeast
+add address=34.153.192.0/19 disabled=no list=route-gcp@asia-northeast
 add address=34.157.64.0/20 disabled=no list=route-gcp@asia-northeast
 add address=34.157.164.0/22 disabled=no list=route-gcp@asia-northeast
 add address=34.157.192.0/20 disabled=no list=route-gcp@asia-northeast
+add address=34.158.192.0/19 disabled=no list=route-gcp@asia-northeast
 add address=34.177.64.0/24 disabled=no list=route-gcp@asia-northeast
 add address=34.177.68.0/24 disabled=no list=route-gcp@asia-northeast
+add address=34.180.64.0/18 disabled=no list=route-gcp@asia-northeast
 add address=35.187.192.0/19 disabled=no list=route-gcp@asia-northeast
 add address=35.189.128.0/19 disabled=no list=route-gcp@asia-northeast
 add address=35.190.224.0/20 disabled=no list=route-gcp@asia-northeast

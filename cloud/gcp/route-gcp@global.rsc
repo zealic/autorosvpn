@@ -5,6 +5,7 @@ add address=34.13.72.0/21 disabled=no list=route-gcp@global
 add address=34.13.112.0/20 disabled=no list=route-gcp@global
 add address=34.36.0.0/16 disabled=no list=route-gcp@global
 add address=34.49.0.0/16 disabled=no list=route-gcp@global
+add address=34.50.144.0/20 disabled=no list=route-gcp@global
 add address=34.54.0.0/16 disabled=no list=route-gcp@global
 add address=34.95.64.0/18 disabled=no list=route-gcp@global
 add address=34.96.64.0/18 disabled=no list=route-gcp@global
