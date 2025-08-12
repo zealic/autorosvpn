@@ -13,6 +13,8 @@ add address=13.248.104.0/24 disabled=no list=route-aws@sa
 add address=13.248.114.0/24 disabled=no list=route-aws@sa
 add address=15.177.70.0/23 disabled=no list=route-aws@sa
 add address=15.177.88.0/24 disabled=no list=route-aws@sa
+add address=15.190.160.0/20 disabled=no list=route-aws@sa
+add address=15.190.232.0/22 disabled=no list=route-aws@sa
 add address=15.193.172.0/22 disabled=no list=route-aws@sa
 add address=15.220.112.0/21 disabled=no list=route-aws@sa
 add address=15.221.6.0/24 disabled=no list=route-aws@sa

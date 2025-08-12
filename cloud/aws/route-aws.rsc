@@ -1815,6 +1815,8 @@ add address=15.190.96.0/20 disabled=no list=route-aws
 add address=15.190.112.0/20 disabled=no list=route-aws
 add address=15.190.128.0/20 disabled=no list=route-aws
 add address=15.190.144.0/20 disabled=no list=route-aws
+add address=15.190.160.0/20 disabled=no list=route-aws
+add address=15.190.232.0/22 disabled=no list=route-aws
 add address=15.190.236.0/22 disabled=no list=route-aws
 add address=15.190.240.0/22 disabled=no list=route-aws
 add address=15.190.244.0/22 disabled=no list=route-aws

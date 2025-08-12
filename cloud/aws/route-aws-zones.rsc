@@ -4518,6 +4518,8 @@ add address=177.72.240.0/21 disabled=no list=route-aws@sa-east
 add address=216.244.8.0/24 disabled=no list=route-aws@sa-east
 /ip firewall address-list remove [/ip firewall address-list find list="route-aws@sa-west"]
 /ip firewall address-list
+add address=15.190.160.0/20 disabled=no list=route-aws@sa-west
+add address=15.190.232.0/22 disabled=no list=route-aws@sa-west
 add address=23.254.120.0/21 disabled=no list=route-aws@sa-west
 add address=83.160.0.0/15 disabled=no list=route-aws@sa-west
 /ip firewall address-list remove [/ip firewall address-list find list="route-aws@us-east"]
