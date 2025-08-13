@@ -1458,6 +1458,8 @@ add address=69.107.6.208/29 disabled=no list=route-aws@ap
 add address=69.107.7.0/29 disabled=no list=route-aws@ap
 add address=69.107.7.8/29 disabled=no list=route-aws@ap
 add address=69.107.7.16/29 disabled=no list=route-aws@ap
+add address=69.107.9.176/29 disabled=no list=route-aws@ap
+add address=69.107.9.184/29 disabled=no list=route-aws@ap
 add address=70.232.64.0/20 disabled=no list=route-aws@ap
 add address=70.232.80.0/21 disabled=no list=route-aws@ap
 add address=70.232.86.124/32 disabled=no list=route-aws@ap
@@ -1718,6 +1720,7 @@ add address=150.222.217.0/24 disabled=no list=route-aws@ap
 add address=150.222.219.0/24 disabled=no list=route-aws@ap
 add address=150.222.220.0/24 disabled=no list=route-aws@ap
 add address=150.222.235.0/24 disabled=no list=route-aws@ap
+add address=150.247.35.0/24 disabled=no list=route-aws@ap
 add address=151.148.19.0/24 disabled=no list=route-aws@ap
 add address=151.148.37.0/24 disabled=no list=route-aws@ap
 add address=151.148.38.0/24 disabled=no list=route-aws@ap
@@ -3754,6 +3757,7 @@ add address=208.86.90.0/23 disabled=no list=route-aws@eu
 add address=209.54.184.0/21 disabled=no list=route-aws@eu
 add address=216.39.136.0/21 disabled=no list=route-aws@eu
 add address=216.39.152.0/21 disabled=no list=route-aws@eu
+add address=216.244.10.0/24 disabled=no list=route-aws@eu
 /ip firewall address-list remove [/ip firewall address-list find list="route-aws@eusc"]
 /ip firewall address-list
 add address=35.71.94.0/24 disabled=no list=route-aws@eusc
