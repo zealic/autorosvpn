@@ -590,10 +590,8 @@ add address=34.238.188.0/29 disabled=no list=route-aws@us-east
 add address=35.50.142.0/24 disabled=no list=route-aws@us-east
 add address=35.50.143.0/24 disabled=no list=route-aws@us-east
 add address=35.50.144.0/24 disabled=no list=route-aws@us-east
-add address=35.55.28.0/24 disabled=no list=route-aws@us-east
 add address=35.55.29.0/24 disabled=no list=route-aws@us-east
 add address=35.55.30.0/24 disabled=no list=route-aws@us-east
-add address=35.55.31.0/24 disabled=no list=route-aws@us-east
 add address=35.55.32.0/24 disabled=no list=route-aws@us-east
 add address=35.55.33.0/24 disabled=no list=route-aws@us-east
 add address=35.55.34.0/24 disabled=no list=route-aws@us-east

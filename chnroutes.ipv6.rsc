@@ -2019,7 +2019,9 @@ add address=240b:6000::/20 disabled=no list=chnroutes.ipv6
 add address=240b:8000::/21 disabled=no list=chnroutes.ipv6
 add address=240b:a000::/25 disabled=no list=chnroutes.ipv6
 add address=240b:e000::/26 disabled=no list=chnroutes.ipv6
-add address=240c::/28 disabled=no list=chnroutes.ipv6
+add address=240c::/32 disabled=no list=chnroutes.ipv6
+add address=240c:6::/32 disabled=no list=chnroutes.ipv6
+add address=240c:f::/32 disabled=no list=chnroutes.ipv6
 add address=240c:4000::/22 disabled=no list=chnroutes.ipv6
 add address=240c:8000::/21 disabled=no list=chnroutes.ipv6
 add address=240c:c000::/20 disabled=no list=chnroutes.ipv6

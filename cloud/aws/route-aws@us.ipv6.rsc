@@ -318,10 +318,8 @@ add address=2600:f0f0:85::/48 disabled=no list=route-aws@us
 add address=2600:f0f0:90:1400::/56 disabled=no list=route-aws@us
 add address=2600:f0f0:90:2600::/56 disabled=no list=route-aws@us
 add address=2600:f0f0:91::/48 disabled=no list=route-aws@us
-add address=2600:f0f0:111b::/48 disabled=no list=route-aws@us
 add address=2600:f0f0:111c::/48 disabled=no list=route-aws@us
 add address=2600:f0f0:111d::/48 disabled=no list=route-aws@us
-add address=2600:f0f0:111e::/48 disabled=no list=route-aws@us
 add address=2600:f0f0:111f::/48 disabled=no list=route-aws@us
 add address=2600:f0f0:300:100::/56 disabled=no list=route-aws@us
 add address=2600:f0f0:410d::/48 disabled=no list=route-aws@us
