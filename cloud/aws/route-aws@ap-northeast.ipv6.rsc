@@ -122,6 +122,7 @@ add address=2600:f0f0:1:1000::/56 disabled=no list=route-aws@ap-northeast
 add address=2600:f0f0:1:1100::/56 disabled=no list=route-aws@ap-northeast
 add address=2600:f0f0:1:f00::/56 disabled=no list=route-aws@ap-northeast
 add address=2600:f0f0:82::/48 disabled=no list=route-aws@ap-northeast
+add address=2600:f0f0:610d::/48 disabled=no list=route-aws@ap-northeast
 add address=2600:f0f0:1100::/48 disabled=no list=route-aws@ap-northeast
 add address=2600:f0f0:1101::/48 disabled=no list=route-aws@ap-northeast
 add address=2600:f0f0:1102::/48 disabled=no list=route-aws@ap-northeast
@@ -140,6 +141,8 @@ add address=2600:f0f0:5536::/48 disabled=no list=route-aws@ap-northeast
 add address=2600:f0f0:5537::/48 disabled=no list=route-aws@ap-northeast
 add address=2600:f0f0:5538::/48 disabled=no list=route-aws@ap-northeast
 add address=2600:f0f0:5539::/48 disabled=no list=route-aws@ap-northeast
+add address=2600:f0f0:6102::/48 disabled=no list=route-aws@ap-northeast
+add address=2600:f0f0:6114::/48 disabled=no list=route-aws@ap-northeast
 add address=2600:f0f2:710a::/48 disabled=no list=route-aws@ap-northeast
 add address=2600:f0f2:7016::/48 disabled=no list=route-aws@ap-northeast
 add address=2600:f0f2:7106::/48 disabled=no list=route-aws@ap-northeast

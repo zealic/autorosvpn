@@ -30,6 +30,7 @@ add address=2406:dafc:9000::/40 disabled=no list=route-aws@ap-southeast-3
 add address=2406:dafe:9000::/40 disabled=no list=route-aws@ap-southeast-3
 add address=2406:daff:9000::/40 disabled=no list=route-aws@ap-southeast-3
 add address=2600:1f01:481a::/47 disabled=no list=route-aws@ap-southeast-3
+add address=2600:f0f0:6118::/48 disabled=no list=route-aws@ap-southeast-3
 add address=2620:107:4000:a8c0::/58 disabled=no list=route-aws@ap-southeast-3
 add address=2620:107:4000:a840::/58 disabled=no list=route-aws@ap-southeast-3
 add address=2620:107:4000:a880::/58 disabled=no list=route-aws@ap-southeast-3

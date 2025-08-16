@@ -39,3 +39,4 @@ add address=2600:f0f0:552c::/48 disabled=no list=route-aws@me-south
 add address=2600:f0f0:552d::/48 disabled=no list=route-aws@me-south
 add address=2600:f0f0:552e::/48 disabled=no list=route-aws@me-south
 add address=2600:f0f0:552f::/48 disabled=no list=route-aws@me-south
+add address=2600:f0f0:6111::/48 disabled=no list=route-aws@me-south

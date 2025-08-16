@@ -170,6 +170,7 @@ add address=2600:f0f0:551e::/48 disabled=no list=route-aws@us-east
 add address=2600:f0f0:551f::/48 disabled=no list=route-aws@us-east
 add address=2600:f0f0:600:200::/55 disabled=no list=route-aws@us-east
 add address=2600:f0f0:600::/55 disabled=no list=route-aws@us-east
+add address=2600:f0f0:610a::/48 disabled=no list=route-aws@us-east
 add address=2600:f0f0:1000::/44 disabled=no list=route-aws@us-east
 add address=2600:f0f0:1120::/48 disabled=no list=route-aws@us-east
 add address=2600:f0f0:1121::/48 disabled=no list=route-aws@us-east

@@ -29,3 +29,4 @@ add address=2600:9000:520d::/48 disabled=no list=route-aws@me-central
 add address=2600:f0f0:5530::/48 disabled=no list=route-aws@me-central
 add address=2600:f0f0:5531::/48 disabled=no list=route-aws@me-central
 add address=2600:f0f0:5532::/48 disabled=no list=route-aws@me-central
+add address=2600:f0f0:6109::/48 disabled=no list=route-aws@me-central
