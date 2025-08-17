@@ -747,6 +747,7 @@ add address=130.211.128.0/18 disabled=no list=route-gcp
 add address=130.211.192.0/19 disabled=no list=route-gcp
 add address=130.211.224.0/20 disabled=no list=route-gcp
 add address=130.211.240.0/20 disabled=no list=route-gcp
+add address=136.112.0.0/14 disabled=no list=route-gcp
 add address=146.148.2.0/23 disabled=no list=route-gcp
 add address=146.148.4.0/22 disabled=no list=route-gcp
 add address=146.148.8.0/21 disabled=no list=route-gcp
