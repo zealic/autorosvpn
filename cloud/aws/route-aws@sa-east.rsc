@@ -205,4 +205,3 @@ add address=173.83.213.0/24 disabled=no list=route-aws@sa-east
 add address=177.71.128.0/17 disabled=no list=route-aws@sa-east
 add address=177.71.207.128/26 disabled=no list=route-aws@sa-east
 add address=177.72.240.0/21 disabled=no list=route-aws@sa-east
-add address=216.244.8.0/24 disabled=no list=route-aws@sa-east

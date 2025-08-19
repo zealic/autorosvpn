@@ -216,6 +216,7 @@ add address=2406:daff:4800::/40 disabled=no list=route-aws@ap-southeast
 add address=2406:daff:8000::/40 disabled=no list=route-aws@ap-southeast
 add address=2406:daff:8800::/40 disabled=no list=route-aws@ap-southeast
 add address=2406:daff:9000::/40 disabled=no list=route-aws@ap-southeast
+add address=2406:daff:a880::/48 disabled=no list=route-aws@ap-southeast
 add address=2406:daff:c000::/40 disabled=no list=route-aws@ap-southeast
 add address=2406:daff:f000::/40 disabled=no list=route-aws@ap-southeast
 add address=2600:1f01:48b0::/47 disabled=no list=route-aws@ap-southeast

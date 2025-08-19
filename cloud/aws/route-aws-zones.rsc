@@ -4550,7 +4550,6 @@ add address=173.83.213.0/24 disabled=no list=route-aws@sa-east
 add address=177.71.128.0/17 disabled=no list=route-aws@sa-east
 add address=177.71.207.128/26 disabled=no list=route-aws@sa-east
 add address=177.72.240.0/21 disabled=no list=route-aws@sa-east
-add address=216.244.8.0/24 disabled=no list=route-aws@sa-east
 /ip firewall address-list remove [/ip firewall address-list find list="route-aws@sa-west"]
 /ip firewall address-list
 add address=15.190.160.0/20 disabled=no list=route-aws@sa-west
@@ -5939,7 +5938,6 @@ add address=216.182.224.0/21 disabled=no list=route-aws@us-east
 add address=216.182.232.0/22 disabled=no list=route-aws@us-east
 add address=216.182.238.0/23 disabled=no list=route-aws@us-east
 add address=216.244.7.0/24 disabled=no list=route-aws@us-east
-add address=216.244.9.0/24 disabled=no list=route-aws@us-east
 /ip firewall address-list remove [/ip firewall address-list find list="route-aws@us-gov-east"]
 /ip firewall address-list
 add address=3.4.24.0/21 disabled=no list=route-aws@us-gov-east
@@ -6091,6 +6089,7 @@ add address=56.136.0.192/26 disabled=no list=route-aws@us-gov-west
 add address=56.136.121.0/25 disabled=no list=route-aws@us-gov-west
 add address=56.136.224.0/23 disabled=no list=route-aws@us-gov-west
 add address=56.137.0.0/16 disabled=no list=route-aws@us-gov-west
+add address=56.137.38.0/23 disabled=no list=route-aws@us-gov-west
 add address=56.138.0.0/16 disabled=no list=route-aws@us-gov-west
 add address=56.139.0.0/16 disabled=no list=route-aws@us-gov-west
 add address=75.79.0.0/16 disabled=no list=route-aws@us-gov-west

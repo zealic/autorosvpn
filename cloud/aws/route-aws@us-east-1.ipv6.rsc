@@ -87,6 +87,7 @@ add address=2600:1ffd:807b::/48 disabled=no list=route-aws@us-east-1
 add address=2600:1ffd:807f::/48 disabled=no list=route-aws@us-east-1
 add address=2600:1ffd:8066::/48 disabled=no list=route-aws@us-east-1
 add address=2600:1ffe:8000::/39 disabled=no list=route-aws@us-east-1
+add address=2600:1fff:2c80::/48 disabled=no list=route-aws@us-east-1
 add address=2600:1fff:8000::/39 disabled=no list=route-aws@us-east-1
 add address=2600:9000:5201::/48 disabled=no list=route-aws@us-east-1
 add address=2600:9000:5203::/48 disabled=no list=route-aws@us-east-1

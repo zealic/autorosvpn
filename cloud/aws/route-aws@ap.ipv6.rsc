@@ -428,6 +428,7 @@ add address=2406:daff:8000::/40 disabled=no list=route-aws@ap
 add address=2406:daff:8800::/40 disabled=no list=route-aws@ap
 add address=2406:daff:9000::/40 disabled=no list=route-aws@ap
 add address=2406:daff:a000::/40 disabled=no list=route-aws@ap
+add address=2406:daff:a880::/48 disabled=no list=route-aws@ap
 add address=2406:daff:b000::/40 disabled=no list=route-aws@ap
 add address=2406:daff:c000::/40 disabled=no list=route-aws@ap
 add address=2406:daff:c800::/40 disabled=no list=route-aws@ap
