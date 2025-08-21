@@ -3045,6 +3045,10 @@ add address=2600:f0f0:611b::/48 disabled=no list=route-aws
 add address=2600:f0f0:611b::/48 disabled=no list=route-aws
 add address=2600:f0f0:611c::/48 disabled=no list=route-aws
 add address=2600:f0f0:611c::/48 disabled=no list=route-aws
+add address=2600:f0f0:611d::/48 disabled=no list=route-aws
+add address=2600:f0f0:611d::/48 disabled=no list=route-aws
+add address=2600:f0f0:611e::/48 disabled=no list=route-aws
+add address=2600:f0f0:611e::/48 disabled=no list=route-aws
 add address=2600:f0f0:611f::/48 disabled=no list=route-aws
 add address=2600:f0f0:611f::/48 disabled=no list=route-aws
 add address=2600:f0f0:720::/48 disabled=no list=route-aws

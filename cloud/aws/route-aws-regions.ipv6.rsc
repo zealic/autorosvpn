@@ -565,7 +565,6 @@ add address=2600:f0f0:6105::/48 disabled=no list=route-aws@ap
 add address=2600:f0f0:6113::/48 disabled=no list=route-aws@ap
 add address=2600:f0f0:6114::/48 disabled=no list=route-aws@ap
 add address=2600:f0f0:6117::/48 disabled=no list=route-aws@ap
-add address=2600:f0f0:6118::/48 disabled=no list=route-aws@ap
 add address=2600:f0f1:8802::/48 disabled=no list=route-aws@ap
 add address=2600:f0f2:710a::/48 disabled=no list=route-aws@ap
 add address=2600:f0f2:7016::/48 disabled=no list=route-aws@ap
@@ -1090,6 +1089,7 @@ add address=2600:f0f0:410a::/48 disabled=no list=route-aws@eu
 add address=2600:f0f0:410b::/48 disabled=no list=route-aws@eu
 add address=2600:f0f0:410f::/48 disabled=no list=route-aws@eu
 add address=2600:f0f0:610b::/48 disabled=no list=route-aws@eu
+add address=2600:f0f0:611d::/48 disabled=no list=route-aws@eu
 add address=2600:f0f0:720::/48 disabled=no list=route-aws@eu
 add address=2600:f0f0:721::/48 disabled=no list=route-aws@eu
 add address=2600:f0f0:1110::/48 disabled=no list=route-aws@eu
@@ -1117,6 +1117,7 @@ add address=2600:f0f0:6107::/48 disabled=no list=route-aws@eu
 add address=2600:f0f0:6108::/48 disabled=no list=route-aws@eu
 add address=2600:f0f0:6112::/48 disabled=no list=route-aws@eu
 add address=2600:f0f0:6116::/48 disabled=no list=route-aws@eu
+add address=2600:f0f0:6118::/48 disabled=no list=route-aws@eu
 add address=2600:f0f0:6121::/48 disabled=no list=route-aws@eu
 add address=2600:f0f1:8b01::/48 disabled=no list=route-aws@eu
 add address=2600:f0f2:7015::/48 disabled=no list=route-aws@eu
@@ -1408,6 +1409,7 @@ add address=2600:1ff9:7400::/40 disabled=no list=route-aws@mx
 add address=2600:1ffc:7400::/40 disabled=no list=route-aws@mx
 add address=2600:1ffe:7400::/40 disabled=no list=route-aws@mx
 add address=2600:1fff:7400::/40 disabled=no list=route-aws@mx
+add address=2600:f0f0:611e::/48 disabled=no list=route-aws@mx
 add address=2620:107:4000:8400::/56 disabled=no list=route-aws@mx
 /ipv6 firewall address-list remove [/ipv6 firewall address-list find list="route-aws@sa"]
 /ipv6 firewall address-list

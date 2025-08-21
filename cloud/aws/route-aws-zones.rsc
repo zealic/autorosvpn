@@ -783,6 +783,7 @@ add address=216.244.48.0/20 disabled=no list=route-aws@ap-northeast
 /ip firewall address-list remove [/ip firewall address-list find list="route-aws@ap-south"]
 /ip firewall address-list
 add address=3.2.69.0/24 disabled=no list=route-aws@ap-south
+add address=3.2.90.0/24 disabled=no list=route-aws@ap-south
 add address=3.4.12.19/32 disabled=no list=route-aws@ap-south
 add address=3.4.12.20/32 disabled=no list=route-aws@ap-south
 add address=3.4.12.21/32 disabled=no list=route-aws@ap-south
@@ -1047,7 +1048,6 @@ add address=3.0.5.224/27 disabled=no list=route-aws@ap-southeast
 add address=3.2.76.0/24 disabled=no list=route-aws@ap-southeast
 add address=3.2.77.0/24 disabled=no list=route-aws@ap-southeast
 add address=3.2.88.0/24 disabled=no list=route-aws@ap-southeast
-add address=3.2.89.0/24 disabled=no list=route-aws@ap-southeast
 add address=3.2.91.0/24 disabled=no list=route-aws@ap-southeast
 add address=3.2.92.0/24 disabled=no list=route-aws@ap-southeast
 add address=3.4.12.1/32 disabled=no list=route-aws@ap-southeast
@@ -3007,6 +3007,7 @@ add address=3.2.59.0/24 disabled=no list=route-aws@eu-west
 add address=3.2.72.0/24 disabled=no list=route-aws@eu-west
 add address=3.2.79.0/24 disabled=no list=route-aws@eu-west
 add address=3.2.84.0/24 disabled=no list=route-aws@eu-west
+add address=3.2.89.0/24 disabled=no list=route-aws@eu-west
 add address=3.4.12.3/32 disabled=no list=route-aws@eu-west
 add address=3.4.12.4/32 disabled=no list=route-aws@eu-west
 add address=3.4.12.43/32 disabled=no list=route-aws@eu-west
@@ -3822,6 +3823,13 @@ add address=51.0.252.0/24 disabled=no list=route-aws@eusc-de-east
 add address=51.164.0.0/15 disabled=no list=route-aws@eusc-de-east
 add address=51.166.0.0/15 disabled=no list=route-aws@eusc-de-east
 add address=51.224.0.0/15 disabled=no list=route-aws@eusc-de-east
+add address=51.224.182.0/23 disabled=no list=route-aws@eusc-de-east
+add address=51.224.186.0/23 disabled=no list=route-aws@eusc-de-east
+add address=51.224.188.0/23 disabled=no list=route-aws@eusc-de-east
+add address=51.224.190.0/23 disabled=no list=route-aws@eusc-de-east
+add address=51.224.192.0/23 disabled=no list=route-aws@eusc-de-east
+add address=51.224.194.0/23 disabled=no list=route-aws@eusc-de-east
+add address=51.224.196.0/23 disabled=no list=route-aws@eusc-de-east
 add address=51.226.0.0/15 disabled=no list=route-aws@eusc-de-east
 add address=65.176.0.0/14 disabled=no list=route-aws@eusc-de-east
 add address=83.118.240.0/21 disabled=no list=route-aws@eusc-de-east
@@ -5675,6 +5683,7 @@ add address=98.82.158.0/23 disabled=no list=route-aws@us-east
 add address=98.82.160.0/23 disabled=no list=route-aws@us-east
 add address=98.87.170.0/23 disabled=no list=route-aws@us-east
 add address=98.87.172.0/23 disabled=no list=route-aws@us-east
+add address=98.87.174.0/23 disabled=no list=route-aws@us-east
 add address=98.88.0.0/13 disabled=no list=route-aws@us-east
 add address=99.77.128.0/24 disabled=no list=route-aws@us-east
 add address=99.77.129.0/24 disabled=no list=route-aws@us-east
@@ -5951,6 +5960,7 @@ add address=216.182.238.0/23 disabled=no list=route-aws@us-east
 add address=216.244.7.0/24 disabled=no list=route-aws@us-east
 add address=216.244.8.0/24 disabled=no list=route-aws@us-east
 add address=216.244.12.0/23 disabled=no list=route-aws@us-east
+add address=216.244.40.0/21 disabled=no list=route-aws@us-east
 /ip firewall address-list remove [/ip firewall address-list find list="route-aws@us-gov-east"]
 /ip firewall address-list
 add address=3.4.24.0/21 disabled=no list=route-aws@us-gov-east
@@ -6408,6 +6418,7 @@ add address=35.50.132.0/24 disabled=no list=route-aws@us-west
 add address=35.50.133.0/24 disabled=no list=route-aws@us-west
 add address=35.50.134.0/24 disabled=no list=route-aws@us-west
 add address=35.50.135.0/24 disabled=no list=route-aws@us-west
+add address=35.54.62.0/24 disabled=no list=route-aws@us-west
 add address=35.55.36.0/24 disabled=no list=route-aws@us-west
 add address=35.55.37.0/24 disabled=no list=route-aws@us-west
 add address=35.55.38.0/24 disabled=no list=route-aws@us-west

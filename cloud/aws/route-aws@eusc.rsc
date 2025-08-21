@@ -13,6 +13,13 @@ add address=51.0.252.0/24 disabled=no list=route-aws@eusc
 add address=51.164.0.0/15 disabled=no list=route-aws@eusc
 add address=51.166.0.0/15 disabled=no list=route-aws@eusc
 add address=51.224.0.0/15 disabled=no list=route-aws@eusc
+add address=51.224.182.0/23 disabled=no list=route-aws@eusc
+add address=51.224.186.0/23 disabled=no list=route-aws@eusc
+add address=51.224.188.0/23 disabled=no list=route-aws@eusc
+add address=51.224.190.0/23 disabled=no list=route-aws@eusc
+add address=51.224.192.0/23 disabled=no list=route-aws@eusc
+add address=51.224.194.0/23 disabled=no list=route-aws@eusc
+add address=51.224.196.0/23 disabled=no list=route-aws@eusc
 add address=51.226.0.0/15 disabled=no list=route-aws@eusc
 add address=65.176.0.0/14 disabled=no list=route-aws@eusc
 add address=83.118.240.0/21 disabled=no list=route-aws@eusc
