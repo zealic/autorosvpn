@@ -1050,6 +1050,7 @@ add address=3.2.77.0/24 disabled=no list=route-aws@ap-southeast
 add address=3.2.88.0/24 disabled=no list=route-aws@ap-southeast
 add address=3.2.91.0/24 disabled=no list=route-aws@ap-southeast
 add address=3.2.92.0/24 disabled=no list=route-aws@ap-southeast
+add address=3.2.98.0/24 disabled=no list=route-aws@ap-southeast
 add address=3.4.12.1/32 disabled=no list=route-aws@ap-southeast
 add address=3.4.12.2/32 disabled=no list=route-aws@ap-southeast
 add address=3.4.12.15/32 disabled=no list=route-aws@ap-southeast
@@ -2009,6 +2010,7 @@ add address=54.222.58.0/28 disabled=no list=route-aws@cn-north
 add address=54.222.58.32/28 disabled=no list=route-aws@cn-north
 add address=54.222.58.48/28 disabled=no list=route-aws@cn-north
 add address=54.222.64.0/24 disabled=no list=route-aws@cn-north
+add address=54.222.65.0/24 disabled=no list=route-aws@cn-north
 add address=54.222.66.0/23 disabled=no list=route-aws@cn-north
 add address=54.222.68.0/23 disabled=no list=route-aws@cn-north
 add address=54.222.70.0/24 disabled=no list=route-aws@cn-north
@@ -2070,6 +2072,7 @@ add address=43.192.160.0/22 disabled=no list=route-aws@cn-northwest
 add address=43.193.0.0/18 disabled=no list=route-aws@cn-northwest
 add address=43.193.64.0/24 disabled=no list=route-aws@cn-northwest
 add address=43.194.0.0/20 disabled=no list=route-aws@cn-northwest
+add address=43.194.16.0/24 disabled=no list=route-aws@cn-northwest
 add address=52.82.0.0/17 disabled=no list=route-aws@cn-northwest
 add address=52.82.1.0/29 disabled=no list=route-aws@cn-northwest
 add address=52.82.92.0/23 disabled=no list=route-aws@cn-northwest
@@ -2144,7 +2147,6 @@ add address=69.234.250.80/28 disabled=no list=route-aws@cn-northwest
 add address=69.235.128.0/18 disabled=no list=route-aws@cn-northwest
 add address=69.235.162.0/24 disabled=no list=route-aws@cn-northwest
 add address=69.235.170.0/23 disabled=no list=route-aws@cn-northwest
-add address=159.248.0.0/20 disabled=no list=route-aws@cn-northwest
 add address=161.189.0.0/16 disabled=no list=route-aws@cn-northwest
 add address=161.189.23.0/27 disabled=no list=route-aws@cn-northwest
 add address=161.189.23.32/27 disabled=no list=route-aws@cn-northwest
@@ -3907,6 +3909,8 @@ add address=18.238.0.0/15 disabled=no list=route-aws@global
 add address=18.244.0.0/15 disabled=no list=route-aws@global
 add address=23.91.0.0/19 disabled=no list=route-aws@global
 add address=23.160.0.0/24 disabled=no list=route-aws@global
+add address=23.228.196.0/24 disabled=no list=route-aws@global
+add address=23.228.197.0/24 disabled=no list=route-aws@global
 add address=24.110.32.0/19 disabled=no list=route-aws@global
 add address=35.55.0.0/17 disabled=no list=route-aws@global
 add address=35.71.128.0/17 disabled=no list=route-aws@global

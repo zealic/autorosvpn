@@ -9,6 +9,7 @@ add address=3.2.77.0/24 disabled=no list=route-aws@ap-southeast
 add address=3.2.88.0/24 disabled=no list=route-aws@ap-southeast
 add address=3.2.91.0/24 disabled=no list=route-aws@ap-southeast
 add address=3.2.92.0/24 disabled=no list=route-aws@ap-southeast
+add address=3.2.98.0/24 disabled=no list=route-aws@ap-southeast
 add address=3.4.12.1/32 disabled=no list=route-aws@ap-southeast
 add address=3.4.12.2/32 disabled=no list=route-aws@ap-southeast
 add address=3.4.12.15/32 disabled=no list=route-aws@ap-southeast

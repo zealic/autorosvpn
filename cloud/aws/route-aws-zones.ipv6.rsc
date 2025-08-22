@@ -561,6 +561,7 @@ add address=2406:daff:f000::/40 disabled=no list=route-aws@ap-southeast
 add address=2600:1f01:48b0::/47 disabled=no list=route-aws@ap-southeast
 add address=2600:1f01:48d2::/47 disabled=no list=route-aws@ap-southeast
 add address=2600:1f01:481a::/47 disabled=no list=route-aws@ap-southeast
+add address=2600:1f01:490a::/47 disabled=no list=route-aws@ap-southeast
 add address=2600:1ffd:85b2::/48 disabled=no list=route-aws@ap-southeast
 add address=2600:1ffd:85c0::/48 disabled=no list=route-aws@ap-southeast
 add address=2600:1ffd:85e8::/48 disabled=no list=route-aws@ap-southeast
@@ -593,6 +594,7 @@ add address=2600:f0f0:1109::/48 disabled=no list=route-aws@ap-southeast
 add address=2600:f0f0:4105::/48 disabled=no list=route-aws@ap-southeast
 add address=2600:f0f0:4106::/48 disabled=no list=route-aws@ap-southeast
 add address=2600:f0f0:6117::/48 disabled=no list=route-aws@ap-southeast
+add address=2600:f0f0:6122::/48 disabled=no list=route-aws@ap-southeast
 add address=2600:f0f2:7019::/48 disabled=no list=route-aws@ap-southeast
 add address=2600:f0f2:7105::/48 disabled=no list=route-aws@ap-southeast
 add address=2600:f0f2:7107::/48 disabled=no list=route-aws@ap-southeast
@@ -723,6 +725,7 @@ add address=2400:7fc0:4000:300::/56 disabled=no list=route-aws@cn-north
 add address=2400:7fc0:4000:400::/56 disabled=no list=route-aws@cn-north
 add address=2400:7fc0:4000::/40 disabled=no list=route-aws@cn-north
 add address=2400:7fc0:4000::/56 disabled=no list=route-aws@cn-north
+add address=2400:7fc0:4100::/48 disabled=no list=route-aws@cn-north
 add address=2400:7fc0:6000::/40 disabled=no list=route-aws@cn-north
 add address=2400:7fc0:8000::/36 disabled=no list=route-aws@cn-north
 add address=2400:7fc0::/40 disabled=no list=route-aws@cn-north
@@ -764,6 +767,7 @@ add address=2404:c2c0:4000:300::/56 disabled=no list=route-aws@cn-northwest
 add address=2404:c2c0:4000:400::/56 disabled=no list=route-aws@cn-northwest
 add address=2404:c2c0:4000::/40 disabled=no list=route-aws@cn-northwest
 add address=2404:c2c0:4000::/56 disabled=no list=route-aws@cn-northwest
+add address=2404:c2c0:4100::/48 disabled=no list=route-aws@cn-northwest
 add address=2404:c2c0:6000::/40 disabled=no list=route-aws@cn-northwest
 add address=2404:c2c0:8000::/36 disabled=no list=route-aws@cn-northwest
 add address=2404:c2c0::/40 disabled=no list=route-aws@cn-northwest
