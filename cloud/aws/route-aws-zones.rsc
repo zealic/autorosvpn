@@ -712,6 +712,8 @@ add address=69.107.6.200/29 disabled=no list=route-aws@ap-northeast
 add address=69.107.6.208/29 disabled=no list=route-aws@ap-northeast
 add address=69.107.9.176/29 disabled=no list=route-aws@ap-northeast
 add address=69.107.9.184/29 disabled=no list=route-aws@ap-northeast
+add address=69.107.9.192/29 disabled=no list=route-aws@ap-northeast
+add address=69.107.9.200/29 disabled=no list=route-aws@ap-northeast
 add address=99.77.56.0/21 disabled=no list=route-aws@ap-northeast
 add address=99.77.139.0/24 disabled=no list=route-aws@ap-northeast
 add address=99.77.140.0/24 disabled=no list=route-aws@ap-northeast
@@ -1617,6 +1619,8 @@ add address=69.107.6.160/29 disabled=no list=route-aws@ap-southeast
 add address=69.107.6.168/29 disabled=no list=route-aws@ap-southeast
 add address=69.107.7.0/29 disabled=no list=route-aws@ap-southeast
 add address=69.107.7.8/29 disabled=no list=route-aws@ap-southeast
+add address=69.107.9.208/29 disabled=no list=route-aws@ap-southeast
+add address=69.107.9.216/29 disabled=no list=route-aws@ap-southeast
 add address=70.232.64.0/20 disabled=no list=route-aws@ap-southeast
 add address=70.232.80.0/21 disabled=no list=route-aws@ap-southeast
 add address=70.232.86.124/32 disabled=no list=route-aws@ap-southeast
@@ -4573,9 +4577,12 @@ add address=177.71.207.128/26 disabled=no list=route-aws@sa-east
 add address=177.72.240.0/21 disabled=no list=route-aws@sa-east
 /ip firewall address-list remove [/ip firewall address-list find list="route-aws@sa-west"]
 /ip firewall address-list
+add address=13.248.81.0/24 disabled=no list=route-aws@sa-west
 add address=15.190.160.0/20 disabled=no list=route-aws@sa-west
 add address=15.190.232.0/22 disabled=no list=route-aws@sa-west
 add address=23.254.120.0/21 disabled=no list=route-aws@sa-west
+add address=52.94.250.176/28 disabled=no list=route-aws@sa-west
+add address=76.223.170.128/28 disabled=no list=route-aws@sa-west
 add address=83.160.0.0/15 disabled=no list=route-aws@sa-west
 /ip firewall address-list remove [/ip firewall address-list find list="route-aws@us-east"]
 /ip firewall address-list

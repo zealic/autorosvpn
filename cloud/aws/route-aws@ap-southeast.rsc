@@ -576,6 +576,8 @@ add address=69.107.6.160/29 disabled=no list=route-aws@ap-southeast
 add address=69.107.6.168/29 disabled=no list=route-aws@ap-southeast
 add address=69.107.7.0/29 disabled=no list=route-aws@ap-southeast
 add address=69.107.7.8/29 disabled=no list=route-aws@ap-southeast
+add address=69.107.9.208/29 disabled=no list=route-aws@ap-southeast
+add address=69.107.9.216/29 disabled=no list=route-aws@ap-southeast
 add address=70.232.64.0/20 disabled=no list=route-aws@ap-southeast
 add address=70.232.80.0/21 disabled=no list=route-aws@ap-southeast
 add address=70.232.86.124/32 disabled=no list=route-aws@ap-southeast
