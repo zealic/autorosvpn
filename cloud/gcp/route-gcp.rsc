@@ -45,6 +45,7 @@ add address=34.3.76.0/22 disabled=no list=route-gcp
 add address=34.3.80.0/20 disabled=no list=route-gcp
 add address=34.3.96.0/20 disabled=no list=route-gcp
 add address=34.4.16.0/22 disabled=no list=route-gcp
+add address=34.4.24.0/22 disabled=no list=route-gcp
 add address=34.4.32.0/20 disabled=no list=route-gcp
 add address=34.6.0.0/15 disabled=no list=route-gcp
 add address=34.8.0.0/16 disabled=no list=route-gcp
@@ -250,6 +251,7 @@ add address=34.126.128.0/18 disabled=no list=route-gcp
 add address=34.126.192.0/20 disabled=no list=route-gcp
 add address=34.126.208.0/20 disabled=no list=route-gcp
 add address=34.127.0.0/17 disabled=no list=route-gcp
+add address=34.127.160.0/20 disabled=no list=route-gcp
 add address=34.127.177.0/24 disabled=no list=route-gcp
 add address=34.127.178.0/23 disabled=no list=route-gcp
 add address=34.127.180.0/24 disabled=no list=route-gcp
@@ -457,7 +459,9 @@ add address=34.183.24.0/22 disabled=no list=route-gcp
 add address=34.183.28.0/24 disabled=no list=route-gcp
 add address=34.183.29.0/24 disabled=no list=route-gcp
 add address=34.183.32.0/24 disabled=no list=route-gcp
+add address=34.183.33.0/24 disabled=no list=route-gcp
 add address=34.183.34.0/23 disabled=no list=route-gcp
+add address=34.183.36.0/24 disabled=no list=route-gcp
 add address=34.184.0.0/24 disabled=no list=route-gcp
 add address=34.184.1.0/24 disabled=no list=route-gcp
 add address=34.184.2.0/24 disabled=no list=route-gcp
@@ -473,11 +477,14 @@ add address=34.184.24.0/22 disabled=no list=route-gcp
 add address=34.184.30.0/24 disabled=no list=route-gcp
 add address=34.184.31.0/24 disabled=no list=route-gcp
 add address=34.184.32.0/23 disabled=no list=route-gcp
+add address=34.184.34.0/24 disabled=no list=route-gcp
+add address=34.184.35.0/24 disabled=no list=route-gcp
 add address=34.185.128.0/17 disabled=no list=route-gcp
 add address=34.186.0.0/19 disabled=no list=route-gcp
 add address=34.186.32.0/19 disabled=no list=route-gcp
 add address=34.186.64.0/18 disabled=no list=route-gcp
 add address=34.186.128.0/18 disabled=no list=route-gcp
+add address=34.186.192.0/19 disabled=no list=route-gcp
 add address=34.187.0.0/17 disabled=no list=route-gcp
 add address=34.187.128.0/17 disabled=no list=route-gcp
 add address=35.184.0.0/16 disabled=no list=route-gcp
@@ -748,6 +755,8 @@ add address=130.211.192.0/19 disabled=no list=route-gcp
 add address=130.211.224.0/20 disabled=no list=route-gcp
 add address=130.211.240.0/20 disabled=no list=route-gcp
 add address=136.112.0.0/14 disabled=no list=route-gcp
+add address=136.117.0.0/16 disabled=no list=route-gcp
+add address=136.118.0.0/16 disabled=no list=route-gcp
 add address=146.148.2.0/23 disabled=no list=route-gcp
 add address=146.148.4.0/22 disabled=no list=route-gcp
 add address=146.148.8.0/21 disabled=no list=route-gcp
