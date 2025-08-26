@@ -166,6 +166,7 @@ add address=15.253.0.0/16 disabled=no list=route-aws@us-west
 add address=15.254.0.0/16 disabled=no list=route-aws@us-west
 add address=16.15.0.0/21 disabled=no list=route-aws@us-west
 add address=16.71.0.0/18 disabled=no list=route-aws@us-west
+add address=16.71.64.0/18 disabled=no list=route-aws@us-west
 add address=16.144.0.0/16 disabled=no list=route-aws@us-west
 add address=16.145.0.0/16 disabled=no list=route-aws@us-west
 add address=16.146.0.0/16 disabled=no list=route-aws@us-west

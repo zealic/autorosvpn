@@ -35,9 +35,9 @@ add address=2406:da70:8000::/56 disabled=no list=route-aws@ap-southeast-1
 add address=2406:da70:8800::/40 disabled=no list=route-aws@ap-southeast-1
 add address=2406:daa0:8000::/40 disabled=no list=route-aws@ap-southeast-1
 add address=2406:daa0:8800::/40 disabled=no list=route-aws@ap-southeast-1
+add address=2406:daa0:a800::/40 disabled=no list=route-aws@ap-southeast-1
 add address=2406:dab9:8000::/40 disabled=no list=route-aws@ap-southeast-1
 add address=2406:dab9:8800::/40 disabled=no list=route-aws@ap-southeast-1
-add address=2406:daec:8800::/48 disabled=no list=route-aws@ap-southeast-1
 add address=2406:daef:8000::/40 disabled=no list=route-aws@ap-southeast-1
 add address=2406:daef:8800::/40 disabled=no list=route-aws@ap-southeast-1
 add address=2406:daf0:8000::/40 disabled=no list=route-aws@ap-southeast-1
@@ -53,13 +53,15 @@ add address=2406:daf6:8800::/40 disabled=no list=route-aws@ap-southeast-1
 add address=2406:daf8:8000::/40 disabled=no list=route-aws@ap-southeast-1
 add address=2406:daf9:8000::/40 disabled=no list=route-aws@ap-southeast-1
 add address=2406:daf9:8800::/40 disabled=no list=route-aws@ap-southeast-1
+add address=2406:daf9:a800::/40 disabled=no list=route-aws@ap-southeast-1
 add address=2406:dafa:8000::/40 disabled=no list=route-aws@ap-southeast-1
 add address=2406:dafc:8000::/40 disabled=no list=route-aws@ap-southeast-1
 add address=2406:dafe:8000::/40 disabled=no list=route-aws@ap-southeast-1
 add address=2406:dafe:8800::/40 disabled=no list=route-aws@ap-southeast-1
+add address=2406:dafe:a800::/40 disabled=no list=route-aws@ap-southeast-1
 add address=2406:daff:8000::/40 disabled=no list=route-aws@ap-southeast-1
 add address=2406:daff:8800::/40 disabled=no list=route-aws@ap-southeast-1
-add address=2406:daff:a880::/48 disabled=no list=route-aws@ap-southeast-1
+add address=2406:daff:a800::/40 disabled=no list=route-aws@ap-southeast-1
 add address=2600:1f01:48b0::/47 disabled=no list=route-aws@ap-southeast-1
 add address=2600:1ffd:85b2::/48 disabled=no list=route-aws@ap-southeast-1
 add address=2600:1ffd:8422::/48 disabled=no list=route-aws@ap-southeast-1

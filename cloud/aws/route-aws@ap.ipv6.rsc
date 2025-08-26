@@ -247,6 +247,7 @@ add address=2406:daa0:8000::/40 disabled=no list=route-aws@ap
 add address=2406:daa0:8800::/40 disabled=no list=route-aws@ap
 add address=2406:daa0:9000::/40 disabled=no list=route-aws@ap
 add address=2406:daa0:a000::/40 disabled=no list=route-aws@ap
+add address=2406:daa0:a800::/40 disabled=no list=route-aws@ap
 add address=2406:daa0:b000::/40 disabled=no list=route-aws@ap
 add address=2406:daa0:c000::/40 disabled=no list=route-aws@ap
 add address=2406:daa0:c800::/40 disabled=no list=route-aws@ap
@@ -267,7 +268,6 @@ add address=2406:dab9:c000::/40 disabled=no list=route-aws@ap
 add address=2406:dab9:c800::/40 disabled=no list=route-aws@ap
 add address=2406:dab9:e000::/40 disabled=no list=route-aws@ap
 add address=2406:dab9:f000::/40 disabled=no list=route-aws@ap
-add address=2406:daec:8800::/48 disabled=no list=route-aws@ap
 add address=2406:daef:800::/40 disabled=no list=route-aws@ap
 add address=2406:daef:2000::/40 disabled=no list=route-aws@ap
 add address=2406:daef:2800::/40 disabled=no list=route-aws@ap
@@ -378,6 +378,7 @@ add address=2406:daf9:8000::/40 disabled=no list=route-aws@ap
 add address=2406:daf9:8800::/40 disabled=no list=route-aws@ap
 add address=2406:daf9:9000::/40 disabled=no list=route-aws@ap
 add address=2406:daf9:a000::/40 disabled=no list=route-aws@ap
+add address=2406:daf9:a800::/40 disabled=no list=route-aws@ap
 add address=2406:daf9:b000::/40 disabled=no list=route-aws@ap
 add address=2406:daf9:c000::/40 disabled=no list=route-aws@ap
 add address=2406:daf9:c800::/40 disabled=no list=route-aws@ap
@@ -413,6 +414,7 @@ add address=2406:dafe:8000::/40 disabled=no list=route-aws@ap
 add address=2406:dafe:8800::/40 disabled=no list=route-aws@ap
 add address=2406:dafe:9000::/40 disabled=no list=route-aws@ap
 add address=2406:dafe:a000::/40 disabled=no list=route-aws@ap
+add address=2406:dafe:a800::/40 disabled=no list=route-aws@ap
 add address=2406:dafe:b000::/40 disabled=no list=route-aws@ap
 add address=2406:dafe:c000::/40 disabled=no list=route-aws@ap
 add address=2406:dafe:c800::/40 disabled=no list=route-aws@ap
@@ -428,7 +430,7 @@ add address=2406:daff:8000::/40 disabled=no list=route-aws@ap
 add address=2406:daff:8800::/40 disabled=no list=route-aws@ap
 add address=2406:daff:9000::/40 disabled=no list=route-aws@ap
 add address=2406:daff:a000::/40 disabled=no list=route-aws@ap
-add address=2406:daff:a880::/48 disabled=no list=route-aws@ap
+add address=2406:daff:a800::/40 disabled=no list=route-aws@ap
 add address=2406:daff:b000::/40 disabled=no list=route-aws@ap
 add address=2406:daff:c000::/40 disabled=no list=route-aws@ap
 add address=2406:daff:c800::/40 disabled=no list=route-aws@ap
