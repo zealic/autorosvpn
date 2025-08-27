@@ -240,7 +240,11 @@ add address=3.44.128.0/18 disabled=no list=route-aws@ap
 add address=3.45.0.0/18 disabled=no list=route-aws@ap
 add address=3.102.0.0/15 disabled=no list=route-aws@ap
 add address=3.102.38.0/24 disabled=no list=route-aws@ap
+add address=3.102.47.0/24 disabled=no list=route-aws@ap
+add address=3.102.48.0/24 disabled=no list=route-aws@ap
+add address=3.102.49.0/24 disabled=no list=route-aws@ap
 add address=3.102.50.0/23 disabled=no list=route-aws@ap
+add address=3.102.52.0/24 disabled=no list=route-aws@ap
 add address=3.102.59.0/24 disabled=no list=route-aws@ap
 add address=3.102.88.0/24 disabled=no list=route-aws@ap
 add address=3.104.0.0/14 disabled=no list=route-aws@ap
