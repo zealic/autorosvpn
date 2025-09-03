@@ -24,6 +24,7 @@ add address=2600:1ffc:a400::/40 disabled=no list=route-aws@ca-west
 add address=2600:1ffe:a400::/40 disabled=no list=route-aws@ca-west
 add address=2600:1fff:a400::/40 disabled=no list=route-aws@ca-west
 add address=2600:f0f0:6120::/48 disabled=no list=route-aws@ca-west
+add address=2600:f0fb:f10c::/48 disabled=no list=route-aws@ca-west
 add address=2606:7b40:1b0e:4000::/56 disabled=no list=route-aws@ca-west
 add address=2620:107:4000:4c00::/56 disabled=no list=route-aws@ca-west
 add address=2620:107:4000:7c00::/56 disabled=no list=route-aws@ca-west

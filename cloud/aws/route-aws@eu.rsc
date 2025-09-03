@@ -763,6 +763,10 @@ add address=35.50.194.0/24 disabled=no list=route-aws@eu
 add address=35.50.195.0/24 disabled=no list=route-aws@eu
 add address=35.50.196.0/24 disabled=no list=route-aws@eu
 add address=35.50.197.0/24 disabled=no list=route-aws@eu
+add address=35.54.44.0/23 disabled=no list=route-aws@eu
+add address=35.54.46.0/23 disabled=no list=route-aws@eu
+add address=35.54.52.0/24 disabled=no list=route-aws@eu
+add address=35.54.61.0/24 disabled=no list=route-aws@eu
 add address=35.55.16.0/24 disabled=no list=route-aws@eu
 add address=35.55.17.0/24 disabled=no list=route-aws@eu
 add address=35.55.18.0/24 disabled=no list=route-aws@eu

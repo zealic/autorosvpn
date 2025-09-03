@@ -806,6 +806,13 @@ add address=35.50.236.0/24 disabled=no list=route-aws@ap
 add address=35.50.237.0/24 disabled=no list=route-aws@ap
 add address=35.50.238.0/24 disabled=no list=route-aws@ap
 add address=35.50.239.0/24 disabled=no list=route-aws@ap
+add address=35.54.48.0/23 disabled=no list=route-aws@ap
+add address=35.54.50.0/24 disabled=no list=route-aws@ap
+add address=35.54.51.0/24 disabled=no list=route-aws@ap
+add address=35.54.55.0/24 disabled=no list=route-aws@ap
+add address=35.54.56.0/24 disabled=no list=route-aws@ap
+add address=35.54.58.0/24 disabled=no list=route-aws@ap
+add address=35.54.59.0/24 disabled=no list=route-aws@ap
 add address=35.55.1.0/24 disabled=no list=route-aws@ap
 add address=35.55.2.0/24 disabled=no list=route-aws@ap
 add address=35.55.3.0/24 disabled=no list=route-aws@ap

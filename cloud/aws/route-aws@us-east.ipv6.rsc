@@ -215,6 +215,7 @@ add address=2600:f0fb:eb00::/40 disabled=no list=route-aws@us-east
 add address=2600:f0fb:ec00::/40 disabled=no list=route-aws@us-east
 add address=2600:f0fb:f020::/48 disabled=no list=route-aws@us-east
 add address=2600:f0fb:f024::/48 disabled=no list=route-aws@us-east
+add address=2600:f0fb:f100::/48 disabled=no list=route-aws@us-east
 add address=2602:f7db::/44 disabled=no list=route-aws@us-east
 add address=2605:9cc0:1ff0:3c00::/56 disabled=no list=route-aws@us-east
 add address=2605:9cc0:1ff0:400::/56 disabled=no list=route-aws@us-east
