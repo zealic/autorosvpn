@@ -9,6 +9,10 @@ add address=51.0.29.0/28 disabled=no list=route-aws@eusc
 add address=51.0.29.128/28 disabled=no list=route-aws@eusc
 add address=51.0.31.0/24 disabled=no list=route-aws@eusc
 add address=51.0.128.0/21 disabled=no list=route-aws@eusc
+add address=51.0.136.0/23 disabled=no list=route-aws@eusc
+add address=51.0.138.0/23 disabled=no list=route-aws@eusc
+add address=51.0.140.0/23 disabled=no list=route-aws@eusc
+add address=51.0.142.0/23 disabled=no list=route-aws@eusc
 add address=51.0.252.0/24 disabled=no list=route-aws@eusc
 add address=51.164.0.0/15 disabled=no list=route-aws@eusc
 add address=51.166.0.0/15 disabled=no list=route-aws@eusc

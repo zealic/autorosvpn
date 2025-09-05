@@ -240,6 +240,8 @@ add address=2600:f0f0:5538::/48 disabled=no list=route-aws@ap-northeast
 add address=2600:f0f0:5539::/48 disabled=no list=route-aws@ap-northeast
 add address=2600:f0f0:6102::/48 disabled=no list=route-aws@ap-northeast
 add address=2600:f0f0:6114::/48 disabled=no list=route-aws@ap-northeast
+add address=2600:f0f0:c046::/48 disabled=no list=route-aws@ap-northeast
+add address=2600:f0f0:c047::/48 disabled=no list=route-aws@ap-northeast
 add address=2600:f0f2:710a::/48 disabled=no list=route-aws@ap-northeast
 add address=2600:f0f2:7016::/48 disabled=no list=route-aws@ap-northeast
 add address=2600:f0f2:7106::/48 disabled=no list=route-aws@ap-northeast
@@ -603,6 +605,8 @@ add address=2600:f0f0:4106::/48 disabled=no list=route-aws@ap-southeast
 add address=2600:f0f0:6117::/48 disabled=no list=route-aws@ap-southeast
 add address=2600:f0f0:6122::/48 disabled=no list=route-aws@ap-southeast
 add address=2600:f0f0:c005::/48 disabled=no list=route-aws@ap-southeast
+add address=2600:f0f0:c048::/48 disabled=no list=route-aws@ap-southeast
+add address=2600:f0f0:c049::/48 disabled=no list=route-aws@ap-southeast
 add address=2600:f0f2:7019::/48 disabled=no list=route-aws@ap-southeast
 add address=2600:f0f2:7105::/48 disabled=no list=route-aws@ap-southeast
 add address=2600:f0f2:7107::/48 disabled=no list=route-aws@ap-southeast
@@ -1182,6 +1186,7 @@ add address=2600:f0f0:6108::/48 disabled=no list=route-aws@eu-west
 add address=2600:f0f0:6112::/48 disabled=no list=route-aws@eu-west
 add address=2600:f0f0:6118::/48 disabled=no list=route-aws@eu-west
 add address=2600:f0f0:c043::/48 disabled=no list=route-aws@eu-west
+add address=2600:f0f0:c045::/48 disabled=no list=route-aws@eu-west
 add address=2600:f0f2:7015::/48 disabled=no list=route-aws@eu-west
 add address=2600:f0f2:7102::/48 disabled=no list=route-aws@eu-west
 add address=2600:f0fb:f022::/48 disabled=no list=route-aws@eu-west
@@ -2143,4 +2148,5 @@ add address=2620:107:4004::/48 disabled=no list=route-aws@us-west
 add address=2620:107:4005::/48 disabled=no list=route-aws@us-west
 add address=2620:108:700f::/64 disabled=no list=route-aws@us-west
 add address=2620:108:7000::/44 disabled=no list=route-aws@us-west
+add address=2631:0:1::/48 disabled=no list=route-aws@us-west
 add address=2631::/48 disabled=no list=route-aws@us-west
