@@ -2857,6 +2857,8 @@ add address=16.12.0.0/23 disabled=no list=route-aws
 add address=16.12.0.0/23 disabled=no list=route-aws
 add address=16.12.2.0/24 disabled=no list=route-aws
 add address=16.12.2.0/24 disabled=no list=route-aws
+add address=16.12.3.0/24 disabled=no list=route-aws
+add address=16.12.3.0/24 disabled=no list=route-aws
 add address=16.12.4.0/23 disabled=no list=route-aws
 add address=16.12.4.0/23 disabled=no list=route-aws
 add address=16.12.6.0/23 disabled=no list=route-aws

@@ -692,6 +692,7 @@ add address=15.251.0.8/32 disabled=no list=route-aws@ap
 add address=15.251.0.9/32 disabled=no list=route-aws@ap
 add address=15.251.0.33/32 disabled=no list=route-aws@ap
 add address=15.251.0.34/32 disabled=no list=route-aws@ap
+add address=16.12.3.0/24 disabled=no list=route-aws@ap
 add address=16.12.6.0/23 disabled=no list=route-aws@ap
 add address=16.12.8.0/24 disabled=no list=route-aws@ap
 add address=16.12.36.0/22 disabled=no list=route-aws@ap
