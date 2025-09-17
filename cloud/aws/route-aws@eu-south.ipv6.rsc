@@ -32,6 +32,8 @@ add address=2a05:d050:1000::/40 disabled=no list=route-aws@eu-south
 add address=2a05:d050:a000::/40 disabled=no list=route-aws@eu-south
 add address=2a05:d059:1000::/40 disabled=no list=route-aws@eu-south
 add address=2a05:d059:a000::/40 disabled=no list=route-aws@eu-south
+add address=2a05:d05b:1000::/40 disabled=no list=route-aws@eu-south
+add address=2a05:d05b:a000::/40 disabled=no list=route-aws@eu-south
 add address=2a05:d06f:1000::/40 disabled=no list=route-aws@eu-south
 add address=2a05:d06f:a000::/40 disabled=no list=route-aws@eu-south
 add address=2a05:d070:1000::/40 disabled=no list=route-aws@eu-south

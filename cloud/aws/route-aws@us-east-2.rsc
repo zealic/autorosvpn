@@ -437,5 +437,6 @@ add address=192.43.184.0/24 disabled=no list=route-aws@us-east-2
 add address=192.189.197.0/24 disabled=no list=route-aws@us-east-2
 add address=198.41.103.0/24 disabled=no list=route-aws@us-east-2
 add address=198.99.2.0/24 disabled=no list=route-aws@us-east-2
+add address=202.174.132.0/22 disabled=no list=route-aws@us-east-2
 add address=216.244.8.0/24 disabled=no list=route-aws@us-east-2
 add address=216.244.12.0/23 disabled=no list=route-aws@us-east-2

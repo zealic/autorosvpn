@@ -42,6 +42,7 @@ add address=2600:1f70:4000::/39 disabled=no list=route-aws@us-west-2
 add address=2600:1f70:4000::/56 disabled=no list=route-aws@us-west-2
 add address=2600:1fa0:4000::/39 disabled=no list=route-aws@us-west-2
 add address=2600:1fb9:4000::/39 disabled=no list=route-aws@us-west-2
+add address=2600:1fbb:4000::/39 disabled=no list=route-aws@us-west-2
 add address=2600:1fef:4000::/39 disabled=no list=route-aws@us-west-2
 add address=2600:1ff0:4000::/39 disabled=no list=route-aws@us-west-2
 add address=2600:1ff1:4000::/39 disabled=no list=route-aws@us-west-2

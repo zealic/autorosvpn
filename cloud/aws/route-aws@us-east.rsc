@@ -1370,6 +1370,7 @@ add address=198.41.102.0/24 disabled=no list=route-aws@us-east
 add address=198.41.103.0/24 disabled=no list=route-aws@us-east
 add address=198.99.2.0/24 disabled=no list=route-aws@us-east
 add address=199.127.232.0/22 disabled=no list=route-aws@us-east
+add address=202.174.132.0/22 disabled=no list=route-aws@us-east
 add address=204.87.185.0/24 disabled=no list=route-aws@us-east
 add address=204.236.192.0/18 disabled=no list=route-aws@us-east
 add address=205.251.225.0/24 disabled=no list=route-aws@us-east
