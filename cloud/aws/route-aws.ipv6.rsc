@@ -3683,6 +3683,8 @@ add address=2600:f0f2:7014::/48 disabled=no list=route-aws
 add address=2600:f0f2:7014::/48 disabled=no list=route-aws
 add address=2600:f0f2:7015::/48 disabled=no list=route-aws
 add address=2600:f0f2:7015::/48 disabled=no list=route-aws
+add address=2600:f0f2:7015::/48 disabled=no list=route-aws
+add address=2600:f0f2:7016::/48 disabled=no list=route-aws
 add address=2600:f0f2:7016::/48 disabled=no list=route-aws
 add address=2600:f0f2:7016::/48 disabled=no list=route-aws
 add address=2600:f0f2:7017::/48 disabled=no list=route-aws

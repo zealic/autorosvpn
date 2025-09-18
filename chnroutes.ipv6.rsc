@@ -1749,7 +1749,6 @@ add address=2406:8d80::/32 disabled=no list=chnroutes.ipv6
 add address=2406:8e80::/32 disabled=no list=chnroutes.ipv6
 add address=2406:8f40::/32 disabled=no list=chnroutes.ipv6
 add address=2406:8f80::/32 disabled=no list=chnroutes.ipv6
-add address=2406:9180::/32 disabled=no list=chnroutes.ipv6
 add address=2406:9200::/32 disabled=no list=chnroutes.ipv6
 add address=2406:9380::/32 disabled=no list=chnroutes.ipv6
 add address=2406:9480::/32 disabled=no list=chnroutes.ipv6
