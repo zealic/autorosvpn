@@ -798,6 +798,10 @@ add address=35.96.37.0/24 disabled=no list=route-aws@eu
 add address=35.96.41.0/24 disabled=no list=route-aws@eu
 add address=35.96.47.0/24 disabled=no list=route-aws@eu
 add address=35.96.48.0/24 disabled=no list=route-aws@eu
+add address=35.96.49.0/24 disabled=no list=route-aws@eu
+add address=35.96.50.0/24 disabled=no list=route-aws@eu
+add address=35.96.51.0/24 disabled=no list=route-aws@eu
+add address=35.96.52.0/24 disabled=no list=route-aws@eu
 add address=35.96.64.0/20 disabled=no list=route-aws@eu
 add address=35.96.80.0/20 disabled=no list=route-aws@eu
 add address=35.96.96.0/20 disabled=no list=route-aws@eu
