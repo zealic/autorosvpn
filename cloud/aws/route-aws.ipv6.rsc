@@ -3948,6 +3948,8 @@ add address=2606:7b40:1b0f:f300::/56 disabled=no list=route-aws
 add address=2606:7b40:1b0f:f300::/56 disabled=no list=route-aws
 add address=2606:7b40:1b0f:f400::/56 disabled=no list=route-aws
 add address=2606:7b40:1b0f:f400::/56 disabled=no list=route-aws
+add address=2606:7b40:1b0f:f800::/56 disabled=no list=route-aws
+add address=2606:7b40:1b0f:f800::/56 disabled=no list=route-aws
 add address=2606:7b40:1b0f:f900::/56 disabled=no list=route-aws
 add address=2606:7b40:1b0f:f900::/56 disabled=no list=route-aws
 add address=2606:7b40:1b0f:fa00::/56 disabled=no list=route-aws
