@@ -1132,6 +1132,7 @@ add address=2406:dafc:ff80::/46 disabled=no list=route-aws@eu
 add address=2406:dafc:ffa0::/46 disabled=no list=route-aws@eu
 add address=2600:1f01:48d0::/47 disabled=no list=route-aws@eu
 add address=2600:1f01:48f2::/47 disabled=no list=route-aws@eu
+add address=2600:1f01:490c::/47 disabled=no list=route-aws@eu
 add address=2600:1f01:4802::/47 disabled=no list=route-aws@eu
 add address=2600:1f01:4810::/47 disabled=no list=route-aws@eu
 add address=2600:1f01:4820::/47 disabled=no list=route-aws@eu
