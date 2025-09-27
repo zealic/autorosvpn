@@ -8827,6 +8827,7 @@ add address=150.247.35.0/24 disabled=no list=route-aws
 add address=150.247.36.0/24 disabled=no list=route-aws
 add address=150.247.37.0/24 disabled=no list=route-aws
 add address=150.247.38.0/24 disabled=no list=route-aws
+add address=150.247.39.0/24 disabled=no list=route-aws
 add address=151.148.8.0/21 disabled=no list=route-aws
 add address=151.148.16.0/31 disabled=no list=route-aws
 add address=151.148.16.2/32 disabled=no list=route-aws
