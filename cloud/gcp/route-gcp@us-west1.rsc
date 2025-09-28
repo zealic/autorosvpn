@@ -33,5 +33,6 @@ add address=104.196.224.0/19 disabled=no list=route-gcp@us-west1
 add address=104.198.0.0/20 disabled=no list=route-gcp@us-west1
 add address=104.198.96.0/20 disabled=no list=route-gcp@us-west1
 add address=104.199.112.0/20 disabled=no list=route-gcp@us-west1
+add address=136.109.0.0/16 disabled=no list=route-gcp@us-west1
 add address=136.117.0.0/16 disabled=no list=route-gcp@us-west1
 add address=136.118.0.0/16 disabled=no list=route-gcp@us-west1

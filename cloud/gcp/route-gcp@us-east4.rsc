@@ -38,3 +38,4 @@ add address=35.236.192.0/18 disabled=no list=route-gcp@us-east4
 add address=35.242.60.0/22 disabled=no list=route-gcp@us-east4
 add address=35.243.40.0/21 disabled=no list=route-gcp@us-east4
 add address=35.245.0.0/16 disabled=no list=route-gcp@us-east4
+add address=136.107.0.0/16 disabled=no list=route-gcp@us-east4

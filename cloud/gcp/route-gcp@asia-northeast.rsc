@@ -54,3 +54,4 @@ add address=35.243.56.0/21 disabled=no list=route-gcp@asia-northeast
 add address=35.243.64.0/18 disabled=no list=route-gcp@asia-northeast
 add address=104.198.80.0/20 disabled=no list=route-gcp@asia-northeast
 add address=104.198.112.0/20 disabled=no list=route-gcp@asia-northeast
+add address=136.110.64.0/18 disabled=no list=route-gcp@asia-northeast
