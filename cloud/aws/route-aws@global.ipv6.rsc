@@ -64,5 +64,6 @@ add address=2605:9cc0:1ff0:2800::/56 disabled=no list=route-aws@global
 add address=2605:9cc0:1ff0:4000::/54 disabled=no list=route-aws@global
 add address=2605:9cc0:1ff0:7200::/56 disabled=no list=route-aws@global
 add address=2605:9cc0:1ff0:8200::/56 disabled=no list=route-aws@global
+add address=2606:7b40:1b10::/48 disabled=no list=route-aws@global
 add address=2620:107:3001::/48 disabled=no list=route-aws@global
 add address=2620:107:4008::/45 disabled=no list=route-aws@global
