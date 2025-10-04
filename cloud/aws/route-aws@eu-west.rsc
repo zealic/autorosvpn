@@ -689,6 +689,7 @@ add address=64.252.116.0/24 disabled=no list=route-aws@eu-west
 add address=64.252.117.0/24 disabled=no list=route-aws@eu-west
 add address=64.252.126.0/24 disabled=no list=route-aws@eu-west
 add address=67.220.224.0/20 disabled=no list=route-aws@eu-west
+add address=69.0.136.0/22 disabled=no list=route-aws@eu-west
 add address=69.107.6.216/29 disabled=no list=route-aws@eu-west
 add address=69.107.6.224/29 disabled=no list=route-aws@eu-west
 add address=69.107.7.80/29 disabled=no list=route-aws@eu-west

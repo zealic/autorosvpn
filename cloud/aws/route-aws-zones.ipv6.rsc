@@ -602,6 +602,7 @@ add address=2406:daff:c000::/40 disabled=no list=route-aws@ap-southeast
 add address=2406:daff:f000::/40 disabled=no list=route-aws@ap-southeast
 add address=2600:1f01:48b0::/47 disabled=no list=route-aws@ap-southeast
 add address=2600:1f01:48d2::/47 disabled=no list=route-aws@ap-southeast
+add address=2600:1f01:48f4::/47 disabled=no list=route-aws@ap-southeast
 add address=2600:1f01:481a::/47 disabled=no list=route-aws@ap-southeast
 add address=2600:1f01:490a::/47 disabled=no list=route-aws@ap-southeast
 add address=2600:1f01:490e::/47 disabled=no list=route-aws@ap-southeast
@@ -1267,6 +1268,7 @@ add address=2606:f40:9400::/40 disabled=no list=route-aws@eu-west
 add address=2606:f40:ffe8::/48 disabled=no list=route-aws@eu-west
 add address=2606:f40:fff0::/48 disabled=no list=route-aws@eu-west
 add address=2606:f40:fff2::/48 disabled=no list=route-aws@eu-west
+add address=2631:1:4d40::/48 disabled=no list=route-aws@eu-west
 /ipv6 firewall address-list remove [/ipv6 firewall address-list find list="route-aws@eusc-de-east"]
 /ipv6 firewall address-list
 add address=2001:3fc0:800::/40 disabled=no list=route-aws@eusc-de-east

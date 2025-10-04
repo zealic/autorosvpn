@@ -469,6 +469,7 @@ add address=2406:daff:f000::/40 disabled=no list=route-aws@ap
 add address=2600:1f01:48b0::/47 disabled=no list=route-aws@ap
 add address=2600:1f01:48d2::/47 disabled=no list=route-aws@ap
 add address=2600:1f01:48e2::/47 disabled=no list=route-aws@ap
+add address=2600:1f01:48f4::/47 disabled=no list=route-aws@ap
 add address=2600:1f01:481a::/47 disabled=no list=route-aws@ap
 add address=2600:1f01:490a::/47 disabled=no list=route-aws@ap
 add address=2600:1f01:490e::/47 disabled=no list=route-aws@ap
