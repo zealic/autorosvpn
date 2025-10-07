@@ -2992,6 +2992,7 @@ add address=16.25.0.0/16 disabled=no list=route-aws
 add address=16.26.0.0/16 disabled=no list=route-aws
 add address=16.26.0.0/16 disabled=no list=route-aws
 add address=16.27.0.0/16 disabled=no list=route-aws
+add address=16.27.0.0/16 disabled=no list=route-aws
 add address=16.28.0.0/16 disabled=no list=route-aws
 add address=16.28.0.0/16 disabled=no list=route-aws
 add address=16.29.0.0/16 disabled=no list=route-aws
@@ -7093,6 +7094,7 @@ add address=56.54.0.0/16 disabled=no list=route-aws
 add address=56.55.0.0/16 disabled=no list=route-aws
 add address=56.68.0.0/17 disabled=no list=route-aws
 add address=56.68.0.0/17 disabled=no list=route-aws
+add address=56.68.36.0/23 disabled=no list=route-aws
 add address=56.69.0.0/16 disabled=no list=route-aws
 add address=56.69.0.0/16 disabled=no list=route-aws
 add address=56.70.0.0/16 disabled=no list=route-aws

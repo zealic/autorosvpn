@@ -79,7 +79,6 @@ add address=2001:df4:a680::/48 disabled=no list=novpn.ipv6
 add address=2001:df4:a980::/48 disabled=no list=novpn.ipv6
 add address=2001:df4:c180::/48 disabled=no list=novpn.ipv6
 add address=2001:df4:c580::/48 disabled=no list=novpn.ipv6
-add address=2001:df4:c780::/48 disabled=no list=novpn.ipv6
 add address=2001:df4:e140::/48 disabled=no list=novpn.ipv6
 add address=2001:df4:e141::/48 disabled=no list=novpn.ipv6
 add address=2001:df4:e142::/47 disabled=no list=novpn.ipv6

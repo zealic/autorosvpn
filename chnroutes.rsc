@@ -3956,7 +3956,6 @@ add address=103.155.48.0/23 disabled=no list=chnroutes
 add address=103.155.76.0/23 disabled=no list=chnroutes
 add address=103.155.100.0/23 disabled=no list=chnroutes
 add address=103.155.110.0/23 disabled=no list=chnroutes
-add address=103.155.120.0/23 disabled=no list=chnroutes
 add address=103.155.214.0/23 disabled=no list=chnroutes
 add address=103.155.248.0/23 disabled=no list=chnroutes
 add address=103.156.28.0/23 disabled=no list=chnroutes
