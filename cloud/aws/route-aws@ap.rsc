@@ -1411,6 +1411,8 @@ add address=69.107.9.224/29 disabled=no list=route-aws@ap
 add address=69.107.9.232/29 disabled=no list=route-aws@ap
 add address=69.107.9.240/29 disabled=no list=route-aws@ap
 add address=69.107.9.248/29 disabled=no list=route-aws@ap
+add address=69.107.10.16/29 disabled=no list=route-aws@ap
+add address=69.107.10.24/29 disabled=no list=route-aws@ap
 add address=70.232.64.0/20 disabled=no list=route-aws@ap
 add address=70.232.80.0/21 disabled=no list=route-aws@ap
 add address=70.232.86.124/32 disabled=no list=route-aws@ap

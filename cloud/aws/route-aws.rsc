@@ -7395,6 +7395,8 @@ add address=69.107.9.240/29 disabled=no list=route-aws
 add address=69.107.9.248/29 disabled=no list=route-aws
 add address=69.107.10.0/29 disabled=no list=route-aws
 add address=69.107.10.8/29 disabled=no list=route-aws
+add address=69.107.10.16/29 disabled=no list=route-aws
+add address=69.107.10.24/29 disabled=no list=route-aws
 add address=69.230.192.0/18 disabled=no list=route-aws
 add address=69.230.192.0/18 disabled=no list=route-aws
 add address=69.230.219.0/24 disabled=no list=route-aws
