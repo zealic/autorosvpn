@@ -4377,6 +4377,9 @@ add address=51.204.0.0/15 disabled=no list=route-aws@me-west
 add address=51.206.0.0/15 disabled=no list=route-aws@me-west
 add address=52.94.250.160/28 disabled=no list=route-aws@me-west
 add address=76.223.170.112/28 disabled=no list=route-aws@me-west
+add address=150.222.55.0/27 disabled=no list=route-aws@me-west
+add address=150.222.55.32/27 disabled=no list=route-aws@me-west
+add address=150.222.55.64/27 disabled=no list=route-aws@me-west
 /ip firewall address-list remove [/ip firewall address-list find list="route-aws@mx-central"]
 /ip firewall address-list
 add address=3.2.94.0/24 disabled=no list=route-aws@mx-central
@@ -6563,6 +6566,8 @@ add address=40.164.0.0/16 disabled=no list=route-aws@us-west
 add address=40.165.0.0/16 disabled=no list=route-aws@us-west
 add address=40.166.0.0/16 disabled=no list=route-aws@us-west
 add address=40.167.0.0/16 disabled=no list=route-aws@us-west
+add address=43.226.24.0/23 disabled=no list=route-aws@us-west
+add address=43.226.26.0/24 disabled=no list=route-aws@us-west
 add address=44.224.0.0/11 disabled=no list=route-aws@us-west
 add address=44.227.178.0/24 disabled=no list=route-aws@us-west
 add address=44.233.54.0/23 disabled=no list=route-aws@us-west
