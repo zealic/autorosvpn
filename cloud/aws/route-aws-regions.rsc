@@ -5678,6 +5678,8 @@ add address=35.96.249.0/24 disabled=no list=route-aws@us
 add address=35.96.253.0/24 disabled=no list=route-aws@us
 add address=35.96.254.0/24 disabled=no list=route-aws@us
 add address=35.96.255.0/24 disabled=no list=route-aws@us
+add address=35.111.254.0/24 disabled=no list=route-aws@us
+add address=35.111.255.0/24 disabled=no list=route-aws@us
 add address=35.153.0.0/16 disabled=no list=route-aws@us
 add address=35.155.0.0/16 disabled=no list=route-aws@us
 add address=35.160.0.0/13 disabled=no list=route-aws@us
