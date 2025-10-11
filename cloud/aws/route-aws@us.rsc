@@ -1928,6 +1928,8 @@ add address=72.44.32.0/19 disabled=no list=route-aws@us
 add address=75.2.128.0/18 disabled=no list=route-aws@us
 add address=75.3.0.0/18 disabled=no list=route-aws@us
 add address=75.3.128.0/18 disabled=no list=route-aws@us
+add address=75.22.192.0/18 disabled=no list=route-aws@us
+add address=75.47.0.0/18 disabled=no list=route-aws@us
 add address=75.79.0.0/16 disabled=no list=route-aws@us
 add address=75.101.128.0/17 disabled=no list=route-aws@us
 add address=76.223.168.0/24 disabled=no list=route-aws@us
