@@ -46,7 +46,11 @@ add address=2400:7fc0:a000::/36 disabled=no list=route-aws@cn
 add address=2400:7fc0:bb00::/40 disabled=no list=route-aws@cn
 add address=2400:7fc0:c000::/36 disabled=no list=route-aws@cn
 add address=2400:7fc0:ef00::/40 disabled=no list=route-aws@cn
-add address=2400:7fc0:fd00::/40 disabled=no list=route-aws@cn
+add address=2400:7fc0:fd20::/48 disabled=no list=route-aws@cn
+add address=2400:7fc0:fd40::/48 disabled=no list=route-aws@cn
+add address=2400:7fc0:fd80::/48 disabled=no list=route-aws@cn
+add address=2400:7fc0:fda0::/48 disabled=no list=route-aws@cn
+add address=2400:7fc0:fdc0::/48 disabled=no list=route-aws@cn
 add address=2400:6500:100:7200::/56 disabled=no list=route-aws@cn
 add address=2404:c2c0:2a00::/40 disabled=no list=route-aws@cn
 add address=2404:c2c0:2c00::/40 disabled=no list=route-aws@cn

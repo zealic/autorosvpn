@@ -860,8 +860,16 @@ add address=2400:7fc0:c000::/36 disabled=no list=route-aws
 add address=2400:7fc0:ef00::/40 disabled=no list=route-aws
 add address=2400:7fc0:ef00::/40 disabled=no list=route-aws
 add address=2400:7fc0:ef00::/40 disabled=no list=route-aws
-add address=2400:7fc0:fd00::/40 disabled=no list=route-aws
-add address=2400:7fc0:fd00::/40 disabled=no list=route-aws
+add address=2400:7fc0:fd20::/48 disabled=no list=route-aws
+add address=2400:7fc0:fd20::/48 disabled=no list=route-aws
+add address=2400:7fc0:fd40::/48 disabled=no list=route-aws
+add address=2400:7fc0:fd40::/48 disabled=no list=route-aws
+add address=2400:7fc0:fd80::/48 disabled=no list=route-aws
+add address=2400:7fc0:fd80::/48 disabled=no list=route-aws
+add address=2400:7fc0:fda0::/48 disabled=no list=route-aws
+add address=2400:7fc0:fda0::/48 disabled=no list=route-aws
+add address=2400:7fc0:fdc0::/48 disabled=no list=route-aws
+add address=2400:7fc0:fdc0::/48 disabled=no list=route-aws
 add address=2400:6500:0:3::/64 disabled=no list=route-aws
 add address=2400:6500:0:7a00::/56 disabled=no list=route-aws
 add address=2400:6500:0:7b00::/56 disabled=no list=route-aws
@@ -2000,6 +2008,7 @@ add address=2600:1f01:4880::/47 disabled=no list=route-aws
 add address=2600:1f01:4880::/47 disabled=no list=route-aws
 add address=2600:1f01:4890::/47 disabled=no list=route-aws
 add address=2600:1f01:4890::/47 disabled=no list=route-aws
+add address=2600:1f01:4900:100::/56 disabled=no list=route-aws
 add address=2600:1f01:4904::/47 disabled=no list=route-aws
 add address=2600:1f01:4906::/47 disabled=no list=route-aws
 add address=2600:1f01:4908::/47 disabled=no list=route-aws
