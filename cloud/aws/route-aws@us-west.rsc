@@ -706,6 +706,8 @@ add address=69.107.10.0/29 disabled=no list=route-aws@us-west
 add address=69.107.10.8/29 disabled=no list=route-aws@us-west
 add address=69.107.10.32/29 disabled=no list=route-aws@us-west
 add address=69.107.10.40/29 disabled=no list=route-aws@us-west
+add address=69.107.10.64/29 disabled=no list=route-aws@us-west
+add address=69.107.10.72/29 disabled=no list=route-aws@us-west
 add address=70.224.192.0/18 disabled=no list=route-aws@us-west
 add address=96.0.110.0/23 disabled=no list=route-aws@us-west
 add address=96.0.160.0/20 disabled=no list=route-aws@us-west

@@ -479,12 +479,15 @@ add address=2606:7b40:1a4f:c320::/60 disabled=no list=route-aws@us
 add address=2606:7b40:1b00:500::/56 disabled=no list=route-aws@us
 add address=2606:7b40:1b00:600::/56 disabled=no list=route-aws@us
 add address=2606:7b40:1b00:700::/56 disabled=no list=route-aws@us
+add address=2606:7b40:1b0f:100::/56 disabled=no list=route-aws@us
 add address=2606:7b40:1b0f:4000::/56 disabled=no list=route-aws@us
+add address=2606:7b40:1b0f:4100::/56 disabled=no list=route-aws@us
 add address=2606:7b40:1b0f:8000::/56 disabled=no list=route-aws@us
 add address=2606:7b40:1b0f::/56 disabled=no list=route-aws@us
 add address=2606:7b40:1b0f:c000::/56 disabled=no list=route-aws@us
 add address=2606:7b40:1b0f:c100::/56 disabled=no list=route-aws@us
 add address=2606:7b40:1b0f:c200::/56 disabled=no list=route-aws@us
+add address=2606:7b40:1b0f:c300::/56 disabled=no list=route-aws@us
 add address=2606:7b40:1b0f:ef00::/56 disabled=no list=route-aws@us
 add address=2606:7b40:1b0f:f000::/56 disabled=no list=route-aws@us
 add address=2606:7b40:1b0f:f100::/56 disabled=no list=route-aws@us

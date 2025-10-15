@@ -288,6 +288,7 @@ add address=13.105.37.0/26 disabled=no list=route-github
 add address=13.105.37.64/26 disabled=no list=route-github
 add address=13.105.37.128/26 disabled=no list=route-github
 add address=13.105.37.192/26 disabled=no list=route-github
+add address=13.105.49.0/24 disabled=no list=route-github
 add address=13.105.49.0/31 disabled=no list=route-github
 add address=13.105.49.2/31 disabled=no list=route-github
 add address=13.105.49.4/31 disabled=no list=route-github
@@ -481,6 +482,7 @@ add address=13.105.107.192/27 disabled=no list=route-github
 add address=13.105.107.224/27 disabled=no list=route-github
 add address=13.105.108.0/28 disabled=no list=route-github
 add address=13.105.108.32/27 disabled=no list=route-github
+add address=13.105.117.0/24 disabled=no list=route-github
 add address=13.105.117.0/31 disabled=no list=route-github
 add address=13.105.117.2/31 disabled=no list=route-github
 add address=13.105.117.4/31 disabled=no list=route-github
@@ -609,6 +611,7 @@ add address=13.105.117.248/31 disabled=no list=route-github
 add address=13.105.117.250/31 disabled=no list=route-github
 add address=13.105.117.252/31 disabled=no list=route-github
 add address=13.105.117.254/31 disabled=no list=route-github
+add address=13.105.220.0/25 disabled=no list=route-github
 add address=13.105.220.0/31 disabled=no list=route-github
 add address=13.105.220.2/31 disabled=no list=route-github
 add address=13.105.220.4/31 disabled=no list=route-github
@@ -673,6 +676,7 @@ add address=13.105.220.120/31 disabled=no list=route-github
 add address=13.105.220.122/31 disabled=no list=route-github
 add address=13.105.220.124/31 disabled=no list=route-github
 add address=13.105.220.126/31 disabled=no list=route-github
+add address=13.105.220.128/27 disabled=no list=route-github
 add address=13.105.220.128/31 disabled=no list=route-github
 add address=13.105.220.130/31 disabled=no list=route-github
 add address=13.105.220.132/31 disabled=no list=route-github
@@ -689,6 +693,7 @@ add address=13.105.220.152/31 disabled=no list=route-github
 add address=13.105.220.154/31 disabled=no list=route-github
 add address=13.105.220.156/31 disabled=no list=route-github
 add address=13.105.220.158/31 disabled=no list=route-github
+add address=13.105.220.160/28 disabled=no list=route-github
 add address=13.105.220.160/31 disabled=no list=route-github
 add address=13.105.220.162/31 disabled=no list=route-github
 add address=13.105.220.164/31 disabled=no list=route-github
@@ -697,10 +702,12 @@ add address=13.105.220.168/31 disabled=no list=route-github
 add address=13.105.220.170/31 disabled=no list=route-github
 add address=13.105.220.172/31 disabled=no list=route-github
 add address=13.105.220.174/31 disabled=no list=route-github
+add address=13.105.220.176/29 disabled=no list=route-github
 add address=13.105.220.176/31 disabled=no list=route-github
 add address=13.105.220.178/31 disabled=no list=route-github
 add address=13.105.220.180/31 disabled=no list=route-github
 add address=13.105.220.182/31 disabled=no list=route-github
+add address=13.105.220.184/30 disabled=no list=route-github
 add address=13.105.220.184/31 disabled=no list=route-github
 add address=13.105.220.186/31 disabled=no list=route-github
 add address=13.105.220.188/31 disabled=no list=route-github
@@ -730,10 +737,11 @@ add address=20.20.53.64/26 disabled=no list=route-github
 add address=20.20.55.0/27 disabled=no list=route-github
 add address=20.20.76.0/23 disabled=no list=route-github
 add address=20.20.78.0/25 disabled=no list=route-github
-add address=20.20.78.128/27 disabled=no list=route-github
-add address=20.20.78.160/31 disabled=no list=route-github
+add address=20.20.78.128/26 disabled=no list=route-github
+add address=20.20.78.192/28 disabled=no list=route-github
 add address=20.20.92.0/23 disabled=no list=route-github
 add address=20.20.94.0/27 disabled=no list=route-github
+add address=20.20.94.32/28 disabled=no list=route-github
 add address=20.20.100.0/24 disabled=no list=route-github
 add address=20.20.101.0/25 disabled=no list=route-github
 add address=20.20.101.128/29 disabled=no list=route-github
@@ -1449,6 +1457,7 @@ add address=20.153.107.0/24 disabled=no list=route-github
 add address=20.153.108.0/24 disabled=no list=route-github
 add address=20.153.110.0/24 disabled=no list=route-github
 add address=20.153.113.0/24 disabled=no list=route-github
+add address=20.153.115.0/24 disabled=no list=route-github
 add address=20.153.130.0/24 disabled=no list=route-github
 add address=20.153.134.0/24 disabled=no list=route-github
 add address=20.153.135.0/24 disabled=no list=route-github
@@ -3439,7 +3448,6 @@ add address=52.112.191.0/24 disabled=no list=route-github
 add address=52.112.192.0/24 disabled=no list=route-github
 add address=52.112.197.0/24 disabled=no list=route-github
 add address=52.112.216.0/21 disabled=no list=route-github
-add address=52.112.228.128/25 disabled=no list=route-github
 add address=52.112.229.0/24 disabled=no list=route-github
 add address=52.112.232.0/24 disabled=no list=route-github
 add address=52.112.233.0/24 disabled=no list=route-github
@@ -4078,9 +4086,9 @@ add address=57.157.2.96/28 disabled=no list=route-github
 add address=57.157.2.112/29 disabled=no list=route-github
 add address=57.157.2.120/30 disabled=no list=route-github
 add address=57.157.2.126/31 disabled=no list=route-github
-add address=57.157.2.128/28 disabled=no list=route-github
-add address=57.157.2.144/29 disabled=no list=route-github
-add address=57.157.2.152/31 disabled=no list=route-github
+add address=57.157.2.128/26 disabled=no list=route-github
+add address=57.157.2.192/27 disabled=no list=route-github
+add address=57.157.2.224/31 disabled=no list=route-github
 add address=57.157.4.0/24 disabled=no list=route-github
 add address=57.157.5.0/26 disabled=no list=route-github
 add address=57.157.5.64/27 disabled=no list=route-github
@@ -4090,13 +4098,15 @@ add address=57.157.5.128/26 disabled=no list=route-github
 add address=57.157.5.192/29 disabled=no list=route-github
 add address=57.157.5.202/31 disabled=no list=route-github
 add address=57.157.5.204/30 disabled=no list=route-github
-add address=57.157.8.0/24 disabled=no list=route-github
-add address=57.157.9.0/25 disabled=no list=route-github
-add address=57.157.9.128/26 disabled=no list=route-github
-add address=57.157.9.192/28 disabled=no list=route-github
-add address=57.157.9.208/29 disabled=no list=route-github
-add address=57.157.9.216/30 disabled=no list=route-github
-add address=57.157.9.220/31 disabled=no list=route-github
+add address=57.157.5.208/28 disabled=no list=route-github
+add address=57.157.5.224/27 disabled=no list=route-github
+add address=57.157.6.0/28 disabled=no list=route-github
+add address=57.157.6.16/29 disabled=no list=route-github
+add address=57.157.8.0/23 disabled=no list=route-github
+add address=57.157.10.0/26 disabled=no list=route-github
+add address=57.157.10.64/28 disabled=no list=route-github
+add address=57.157.10.80/29 disabled=no list=route-github
+add address=57.157.10.88/30 disabled=no list=route-github
 add address=57.157.12.0/23 disabled=no list=route-github
 add address=57.157.14.0/27 disabled=no list=route-github
 add address=57.157.14.32/29 disabled=no list=route-github
@@ -4485,6 +4495,8 @@ add address=135.130.116.0/23 disabled=no list=route-github
 add address=135.130.118.0/23 disabled=no list=route-github
 add address=135.130.120.0/23 disabled=no list=route-github
 add address=135.130.122.0/23 disabled=no list=route-github
+add address=135.130.134.0/23 disabled=no list=route-github
+add address=135.130.136.0/23 disabled=no list=route-github
 add address=135.222.0.0/17 disabled=no list=route-github
 add address=135.222.128.0/18 disabled=no list=route-github
 add address=135.222.192.0/18 disabled=no list=route-github

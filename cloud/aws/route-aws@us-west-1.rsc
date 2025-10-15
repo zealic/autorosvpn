@@ -342,6 +342,8 @@ add address=69.107.10.0/29 disabled=no list=route-aws@us-west-1
 add address=69.107.10.8/29 disabled=no list=route-aws@us-west-1
 add address=69.107.10.32/29 disabled=no list=route-aws@us-west-1
 add address=69.107.10.40/29 disabled=no list=route-aws@us-west-1
+add address=69.107.10.64/29 disabled=no list=route-aws@us-west-1
+add address=69.107.10.72/29 disabled=no list=route-aws@us-west-1
 add address=99.77.132.0/24 disabled=no list=route-aws@us-west-1
 add address=99.77.154.0/24 disabled=no list=route-aws@us-west-1
 add address=99.77.251.0/24 disabled=no list=route-aws@us-west-1
