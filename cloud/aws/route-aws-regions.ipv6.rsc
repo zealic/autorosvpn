@@ -2171,6 +2171,8 @@ add address=2606:7b40:a3e:280::/60 disabled=no list=route-aws@us
 add address=2606:7b40:f000:1500::/56 disabled=no list=route-aws@us
 add address=2606:7b40:f000:1600::/56 disabled=no list=route-aws@us
 add address=2606:7b40:f000:1700::/56 disabled=no list=route-aws@us
+add address=2606:8140:100::/40 disabled=no list=route-aws@us
+add address=2606:8140:200::/40 disabled=no list=route-aws@us
 add address=2606:8140:400::/40 disabled=no list=route-aws@us
 add address=2606:8140:500::/40 disabled=no list=route-aws@us
 add address=2606:f40:8a00::/40 disabled=no list=route-aws@us
