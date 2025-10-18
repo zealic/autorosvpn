@@ -10,6 +10,7 @@ add address=2600:1f01:4844::/47 disabled=no list=route-aws@us-east
 add address=2600:1f01:4850::/47 disabled=no list=route-aws@us-east
 add address=2600:1f01:4890::/47 disabled=no list=route-aws@us-east
 add address=2600:1f01:4900:100::/56 disabled=no list=route-aws@us-east
+add address=2600:1f01:4900:200::/56 disabled=no list=route-aws@us-east
 add address=2600:1f1a:8000::/36 disabled=no list=route-aws@us-east
 add address=2600:1f1a:c000::/36 disabled=no list=route-aws@us-east
 add address=2600:1f1b:4000::/36 disabled=no list=route-aws@us-east
