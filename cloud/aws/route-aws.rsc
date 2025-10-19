@@ -3884,6 +3884,15 @@ add address=35.50.134.0/24 disabled=no list=route-aws
 add address=35.50.135.0/24 disabled=no list=route-aws
 add address=35.50.135.0/24 disabled=no list=route-aws
 add address=35.50.135.0/24 disabled=no list=route-aws
+add address=35.50.137.0/24 disabled=no list=route-aws
+add address=35.50.137.0/24 disabled=no list=route-aws
+add address=35.50.137.0/24 disabled=no list=route-aws
+add address=35.50.139.0/24 disabled=no list=route-aws
+add address=35.50.139.0/24 disabled=no list=route-aws
+add address=35.50.139.0/24 disabled=no list=route-aws
+add address=35.50.141.0/24 disabled=no list=route-aws
+add address=35.50.141.0/24 disabled=no list=route-aws
+add address=35.50.141.0/24 disabled=no list=route-aws
 add address=35.50.142.0/24 disabled=no list=route-aws
 add address=35.50.142.0/24 disabled=no list=route-aws
 add address=35.50.142.0/24 disabled=no list=route-aws

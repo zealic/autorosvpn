@@ -5606,6 +5606,9 @@ add address=35.50.132.0/24 disabled=no list=route-aws@us
 add address=35.50.133.0/24 disabled=no list=route-aws@us
 add address=35.50.134.0/24 disabled=no list=route-aws@us
 add address=35.50.135.0/24 disabled=no list=route-aws@us
+add address=35.50.137.0/24 disabled=no list=route-aws@us
+add address=35.50.139.0/24 disabled=no list=route-aws@us
+add address=35.50.141.0/24 disabled=no list=route-aws@us
 add address=35.50.142.0/24 disabled=no list=route-aws@us
 add address=35.50.143.0/24 disabled=no list=route-aws@us
 add address=35.50.144.0/24 disabled=no list=route-aws@us
