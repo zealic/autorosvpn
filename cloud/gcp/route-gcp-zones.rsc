@@ -278,6 +278,7 @@ add address=34.1.224.0/19 disabled=no list=route-gcp@europe-west
 add address=34.2.96.0/20 disabled=no list=route-gcp@europe-west
 add address=34.3.80.0/20 disabled=no list=route-gcp@europe-west
 add address=34.4.48.0/20 disabled=no list=route-gcp@europe-west
+add address=34.4.80.0/20 disabled=no list=route-gcp@europe-west
 add address=34.6.0.0/15 disabled=no list=route-gcp@europe-west
 add address=34.12.0.0/16 disabled=no list=route-gcp@europe-west
 add address=34.13.0.0/18 disabled=no list=route-gcp@europe-west
