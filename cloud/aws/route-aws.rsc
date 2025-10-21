@@ -39,8 +39,6 @@ add address=1.178.88.0/24 disabled=no list=route-aws
 add address=1.178.89.0/24 disabled=no list=route-aws
 add address=1.178.89.0/24 disabled=no list=route-aws
 add address=1.178.89.0/24 disabled=no list=route-aws
-add address=1.178.192.0/24 disabled=no list=route-aws
-add address=1.178.192.0/24 disabled=no list=route-aws
 add address=3.0.0.0/15 disabled=no list=route-aws
 add address=3.0.0.0/15 disabled=no list=route-aws
 add address=3.0.5.32/29 disabled=no list=route-aws

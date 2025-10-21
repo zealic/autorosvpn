@@ -4013,7 +4013,14 @@ add address=2606:7b40:1b0f:fa00::/56 disabled=no list=route-aws
 add address=2606:7b40:1b0f:fa00::/56 disabled=no list=route-aws
 add address=2606:7b40:1b0f:fd00::/56 disabled=no list=route-aws
 add address=2606:7b40:1b0f:fd00::/56 disabled=no list=route-aws
-add address=2606:7b40:1b10::/48 disabled=no list=route-aws
+add address=2606:7b40:1b10::/44 disabled=no list=route-aws
+add address=2606:7b40:1b20::/44 disabled=no list=route-aws
+add address=2606:7b40:1b30::/44 disabled=no list=route-aws
+add address=2606:7b40:1b40::/44 disabled=no list=route-aws
+add address=2606:7b40:1b50::/44 disabled=no list=route-aws
+add address=2606:7b40:1b60::/44 disabled=no list=route-aws
+add address=2606:7b40:1b70::/44 disabled=no list=route-aws
+add address=2606:7b40:1b80::/44 disabled=no list=route-aws
 add address=2606:7b40:1f00::/40 disabled=no list=route-aws
 add address=2606:7b40:1f00::/40 disabled=no list=route-aws
 add address=2606:7b40:9fc::/48 disabled=no list=route-aws
