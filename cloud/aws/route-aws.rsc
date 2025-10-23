@@ -8109,6 +8109,8 @@ add address=104.255.57.164/32 disabled=no list=route-aws
 add address=104.255.57.165/32 disabled=no list=route-aws
 add address=104.255.57.166/32 disabled=no list=route-aws
 add address=104.255.57.167/32 disabled=no list=route-aws
+add address=104.255.57.168/32 disabled=no list=route-aws
+add address=104.255.57.169/32 disabled=no list=route-aws
 add address=104.255.58.0/32 disabled=no list=route-aws
 add address=104.255.58.43/32 disabled=no list=route-aws
 add address=104.255.59.81/32 disabled=no list=route-aws

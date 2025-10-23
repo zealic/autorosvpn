@@ -52,8 +52,6 @@ add address=2a05:d079:800::/40 disabled=no list=route-aws@me
 add address=2a05:d079:e000::/40 disabled=no list=route-aws@me
 add address=2a05:d07a:e000::/40 disabled=no list=route-aws@me
 add address=2a05:d07c:e000::/40 disabled=no list=route-aws@me
-add address=2a05:d07d:800::/40 disabled=no list=route-aws@me
-add address=2a05:d07d:e000::/40 disabled=no list=route-aws@me
 add address=2a05:d07e:800::/40 disabled=no list=route-aws@me
 add address=2a05:d07e:e000::/40 disabled=no list=route-aws@me
 add address=2a05:d07f:800::/40 disabled=no list=route-aws@me
@@ -83,7 +81,6 @@ add address=2406:daf6:7000::/40 disabled=no list=route-aws@me
 add address=2406:daf8:7000::/40 disabled=no list=route-aws@me
 add address=2406:daf9:7000::/40 disabled=no list=route-aws@me
 add address=2406:dafc:7000::/40 disabled=no list=route-aws@me
-add address=2406:dafd:7000::/40 disabled=no list=route-aws@me
 add address=2406:dafe:7000::/40 disabled=no list=route-aws@me
 add address=2406:daff:7000::/40 disabled=no list=route-aws@me
 add address=2600:1f01:48e0::/47 disabled=no list=route-aws@me

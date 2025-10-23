@@ -101,9 +101,6 @@ add address=2406:dafa:6000::/40 disabled=no list=route-aws@ap-northeast
 add address=2406:dafc:2000::/40 disabled=no list=route-aws@ap-northeast
 add address=2406:dafc:4000::/40 disabled=no list=route-aws@ap-northeast
 add address=2406:dafc:6000::/40 disabled=no list=route-aws@ap-northeast
-add address=2406:dafd:2000::/40 disabled=no list=route-aws@ap-northeast
-add address=2406:dafd:4000::/40 disabled=no list=route-aws@ap-northeast
-add address=2406:dafd:6000::/40 disabled=no list=route-aws@ap-northeast
 add address=2406:dafe:2000::/40 disabled=no list=route-aws@ap-northeast
 add address=2406:dafe:4000::/40 disabled=no list=route-aws@ap-northeast
 add address=2406:dafe:6000::/40 disabled=no list=route-aws@ap-northeast

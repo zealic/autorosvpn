@@ -58,8 +58,6 @@ add address=2406:daf9:8800::/40 disabled=no list=route-aws@ap-southeast-1
 add address=2406:daf9:a800::/40 disabled=no list=route-aws@ap-southeast-1
 add address=2406:dafa:8000::/40 disabled=no list=route-aws@ap-southeast-1
 add address=2406:dafc:8000::/40 disabled=no list=route-aws@ap-southeast-1
-add address=2406:dafd:8000::/40 disabled=no list=route-aws@ap-southeast-1
-add address=2406:dafd:8800::/40 disabled=no list=route-aws@ap-southeast-1
 add address=2406:dafe:8000::/40 disabled=no list=route-aws@ap-southeast-1
 add address=2406:dafe:8800::/40 disabled=no list=route-aws@ap-southeast-1
 add address=2406:dafe:a800::/40 disabled=no list=route-aws@ap-southeast-1
