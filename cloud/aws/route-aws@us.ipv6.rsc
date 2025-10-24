@@ -644,5 +644,6 @@ add address=2620:108:7000::/44 disabled=no list=route-aws@us
 add address=2620:108:d000::/44 disabled=no list=route-aws@us
 add address=2620:108:d00f::/64 disabled=no list=route-aws@us
 add address=2631:0:1::/48 disabled=no list=route-aws@us
+add address=2631:1:4fc0::/48 disabled=no list=route-aws@us
 add address=2631:1:4ff0::/48 disabled=no list=route-aws@us
 add address=2631::/48 disabled=no list=route-aws@us
