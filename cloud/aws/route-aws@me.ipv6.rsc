@@ -84,6 +84,7 @@ add address=2406:dafc:7000::/40 disabled=no list=route-aws@me
 add address=2406:dafe:7000::/40 disabled=no list=route-aws@me
 add address=2406:daff:7000::/40 disabled=no list=route-aws@me
 add address=2600:1f01:48e0::/47 disabled=no list=route-aws@me
+add address=2600:1f01:4910::/47 disabled=no list=route-aws@me
 add address=2600:9000:520d::/48 disabled=no list=route-aws@me
 add address=2600:f0f0:552a::/48 disabled=no list=route-aws@me
 add address=2600:f0f0:552b::/48 disabled=no list=route-aws@me

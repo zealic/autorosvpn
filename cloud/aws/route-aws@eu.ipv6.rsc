@@ -377,7 +377,9 @@ add address=2600:f0f0:c043::/48 disabled=no list=route-aws@eu
 add address=2600:f0f0:c044::/48 disabled=no list=route-aws@eu
 add address=2600:f0f0:c045::/48 disabled=no list=route-aws@eu
 add address=2600:f0f1:8b01::/48 disabled=no list=route-aws@eu
+add address=2600:f0f1:80::/48 disabled=no list=route-aws@eu
 add address=2600:f0f2:701c::/48 disabled=no list=route-aws@eu
+add address=2600:f0f2:701f::/48 disabled=no list=route-aws@eu
 add address=2600:f0f2:7015::/48 disabled=no list=route-aws@eu
 add address=2600:f0f2:7018::/48 disabled=no list=route-aws@eu
 add address=2600:f0f2:7102::/48 disabled=no list=route-aws@eu
@@ -398,6 +400,7 @@ add address=2606:7b40:1b0d:4100::/56 disabled=no list=route-aws@eu
 add address=2606:7b40:1b0d:8000::/56 disabled=no list=route-aws@eu
 add address=2606:7b40:1b0d::/56 disabled=no list=route-aws@eu
 add address=2606:7b40:1b0d:c000::/56 disabled=no list=route-aws@eu
+add address=2606:7b40:1b0d:c100::/56 disabled=no list=route-aws@eu
 add address=2606:f40:1000::/39 disabled=no list=route-aws@eu
 add address=2606:f40:1400::/40 disabled=no list=route-aws@eu
 add address=2606:f40:1800::/40 disabled=no list=route-aws@eu
@@ -419,4 +422,11 @@ add address=2606:f40:fffa::/48 disabled=no list=route-aws@eu
 add address=2606:f40:fffb::/48 disabled=no list=route-aws@eu
 add address=2620:107:4002::/48 disabled=no list=route-aws@eu
 add address=2620:107:4003::/48 disabled=no list=route-aws@eu
+add address=2631:1:4c00::/48 disabled=no list=route-aws@eu
+add address=2631:1:4c40::/48 disabled=no list=route-aws@eu
+add address=2631:1:4cc0::/48 disabled=no list=route-aws@eu
+add address=2631:1:4d00::/48 disabled=no list=route-aws@eu
 add address=2631:1:4d40::/48 disabled=no list=route-aws@eu
+add address=2631:1:4d41::/48 disabled=no list=route-aws@eu
+add address=2631:1:4d80::/48 disabled=no list=route-aws@eu
+add address=2631:1:4dc0::/48 disabled=no list=route-aws@eu

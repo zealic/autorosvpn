@@ -70,6 +70,7 @@ add address=2600:f0f0:4107::/48 disabled=no list=route-aws@ca
 add address=2600:f0f0:6110::/48 disabled=no list=route-aws@ca
 add address=2600:f0f0:6120::/48 disabled=no list=route-aws@ca
 add address=2600:f0f0:c042::/48 disabled=no list=route-aws@ca
+add address=2600:f0f2:701e::/48 disabled=no list=route-aws@ca
 add address=2600:f0f2:7104::/48 disabled=no list=route-aws@ca
 add address=2600:f0fb:f10c::/48 disabled=no list=route-aws@ca
 add address=2600:f0fb:f108::/48 disabled=no list=route-aws@ca
@@ -82,3 +83,5 @@ add address=2620:107:4000:7800::/56 disabled=no list=route-aws@ca
 add address=2620:107:4000:9014::/64 disabled=no list=route-aws@ca
 add address=2620:107:4000:9015::/64 disabled=no list=route-aws@ca
 add address=2620:107:4000:a::/64 disabled=no list=route-aws@ca
+add address=2631:1:4e00::/48 disabled=no list=route-aws@ca
+add address=2631:1:4e40::/48 disabled=no list=route-aws@ca

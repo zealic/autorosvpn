@@ -29,3 +29,4 @@ add address=2a05:d07f:9000::/40 disabled=no list=route-aws@eu-central-2
 add address=2600:f0f0:6121::/48 disabled=no list=route-aws@eu-central-2
 add address=2600:f0fb:f110::/48 disabled=no list=route-aws@eu-central-2
 add address=2606:7b40:1b0c:4000::/56 disabled=no list=route-aws@eu-central-2
+add address=2631:1:4c40::/48 disabled=no list=route-aws@eu-central-2

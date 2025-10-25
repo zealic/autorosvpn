@@ -99,6 +99,7 @@ add address=150.222.7.0/24 disabled=no list=route-aws@me-south-1
 add address=150.222.45.0/27 disabled=no list=route-aws@me-south-1
 add address=150.222.45.32/27 disabled=no list=route-aws@me-south-1
 add address=150.222.45.64/27 disabled=no list=route-aws@me-south-1
+add address=150.247.40.0/24 disabled=no list=route-aws@me-south-1
 add address=157.175.0.0/16 disabled=no list=route-aws@me-south-1
 add address=157.175.102.96/27 disabled=no list=route-aws@me-south-1
 add address=157.175.102.128/27 disabled=no list=route-aws@me-south-1
