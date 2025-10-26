@@ -415,10 +415,12 @@ add address=34.157.250.0/23 disabled=no list=route-gcp
 add address=34.157.252.0/23 disabled=no list=route-gcp
 add address=34.157.254.0/24 disabled=no list=route-gcp
 add address=34.157.255.0/24 disabled=no list=route-gcp
+add address=34.158.16.0/20 disabled=no list=route-gcp
 add address=34.158.32.0/19 disabled=no list=route-gcp
 add address=34.158.64.0/18 disabled=no list=route-gcp
 add address=34.158.128.0/18 disabled=no list=route-gcp
 add address=34.158.192.0/19 disabled=no list=route-gcp
+add address=34.158.224.0/20 disabled=no list=route-gcp
 add address=34.159.0.0/16 disabled=no list=route-gcp
 add address=34.160.0.0/16 disabled=no list=route-gcp
 add address=34.161.0.0/16 disabled=no list=route-gcp

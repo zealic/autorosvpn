@@ -239,6 +239,7 @@ add address=34.116.128.0/17 disabled=no list=route-gcp@europe-central
 add address=34.118.0.0/17 disabled=no list=route-gcp@europe-central
 add address=34.124.52.0/22 disabled=no list=route-gcp@europe-central
 add address=34.128.208.0/20 disabled=no list=route-gcp@europe-central
+add address=34.158.224.0/20 disabled=no list=route-gcp@europe-central
 /ip firewall address-list remove [/ip firewall address-list find list="route-gcp@europe-north"]
 /ip firewall address-list
 add address=34.2.48.0/20 disabled=no list=route-gcp@europe-north
@@ -354,6 +355,7 @@ add address=34.157.208.0/23 disabled=no list=route-gcp@europe-west
 add address=34.157.220.0/22 disabled=no list=route-gcp@europe-west
 add address=34.157.249.0/24 disabled=no list=route-gcp@europe-west
 add address=34.157.250.0/23 disabled=no list=route-gcp@europe-west
+add address=34.158.16.0/20 disabled=no list=route-gcp@europe-west
 add address=34.158.64.0/18 disabled=no list=route-gcp@europe-west
 add address=34.158.128.0/18 disabled=no list=route-gcp@europe-west
 add address=34.159.0.0/16 disabled=no list=route-gcp@europe-west

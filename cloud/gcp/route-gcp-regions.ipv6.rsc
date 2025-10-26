@@ -64,3 +64,4 @@ add address=2600:1900:4280::/44 disabled=no list=route-gcp@us
 add address=2600:1901:8130::/44 disabled=no list=route-gcp@us
 add address=2600:1901:8140::/44 disabled=no list=route-gcp@us
 add address=2600:1901:8150::/44 disabled=no list=route-gcp@us
+add address=2600:1902::/44 disabled=no list=route-gcp@us

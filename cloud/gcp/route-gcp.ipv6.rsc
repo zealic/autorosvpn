@@ -48,3 +48,4 @@ add address=2600:1901:8160::/44 disabled=no list=route-gcp
 add address=2600:1901:8170::/44 disabled=no list=route-gcp
 add address=2600:1901:8180::/44 disabled=no list=route-gcp
 add address=2600:1901::/48 disabled=no list=route-gcp
+add address=2600:1902::/44 disabled=no list=route-gcp
