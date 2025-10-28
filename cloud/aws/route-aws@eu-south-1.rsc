@@ -151,4 +151,5 @@ add address=150.222.48.64/27 disabled=no list=route-aws@eu-south-1
 add address=150.222.48.96/27 disabled=no list=route-aws@eu-south-1
 add address=150.222.48.128/27 disabled=no list=route-aws@eu-south-1
 add address=150.222.229.0/24 disabled=no list=route-aws@eu-south-1
+add address=150.247.45.0/24 disabled=no list=route-aws@eu-south-1
 add address=173.83.208.0/24 disabled=no list=route-aws@eu-south-1

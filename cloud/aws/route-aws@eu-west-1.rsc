@@ -365,6 +365,7 @@ add address=150.222.200.61/32 disabled=no list=route-aws@eu-west-1
 add address=150.222.202.0/24 disabled=no list=route-aws@eu-west-1
 add address=150.222.204.0/24 disabled=no list=route-aws@eu-west-1
 add address=150.222.239.0/24 disabled=no list=route-aws@eu-west-1
+add address=150.247.44.0/24 disabled=no list=route-aws@eu-west-1
 add address=151.148.34.0/24 disabled=no list=route-aws@eu-west-1
 add address=162.213.232.0/24 disabled=no list=route-aws@eu-west-1
 add address=162.213.233.0/24 disabled=no list=route-aws@eu-west-1
