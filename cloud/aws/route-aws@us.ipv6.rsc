@@ -201,6 +201,12 @@ add address=2600:1fbb:5000::/40 disabled=no list=route-aws@us
 add address=2600:1fbb:6000::/40 disabled=no list=route-aws@us
 add address=2600:1fbb:8000::/39 disabled=no list=route-aws@us
 add address=2600:1fbb:c000::/40 disabled=no list=route-aws@us
+add address=2600:1fea:2000::/40 disabled=no list=route-aws@us
+add address=2600:1fea:4000::/39 disabled=no list=route-aws@us
+add address=2600:1fea:5000::/40 disabled=no list=route-aws@us
+add address=2600:1fea:6000::/40 disabled=no list=route-aws@us
+add address=2600:1fea:8000::/39 disabled=no list=route-aws@us
+add address=2600:1fea:c000::/40 disabled=no list=route-aws@us
 add address=2600:1fef:2000::/40 disabled=no list=route-aws@us
 add address=2600:1fef:4000::/39 disabled=no list=route-aws@us
 add address=2600:1fef:5000::/40 disabled=no list=route-aws@us

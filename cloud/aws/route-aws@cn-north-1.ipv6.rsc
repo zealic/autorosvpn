@@ -36,5 +36,6 @@ add address=2400:7fc0::/40 disabled=no list=route-aws@cn-north-1
 add address=2400:7fc0:a000::/36 disabled=no list=route-aws@cn-north-1
 add address=2400:7fc0:bb00::/40 disabled=no list=route-aws@cn-north-1
 add address=2400:7fc0:c000::/36 disabled=no list=route-aws@cn-north-1
+add address=2400:7fc0:ea00::/40 disabled=no list=route-aws@cn-north-1
 add address=2400:7fc0:ef00::/40 disabled=no list=route-aws@cn-north-1
 add address=2600:f0f0:6123::/48 disabled=no list=route-aws@cn-north-1

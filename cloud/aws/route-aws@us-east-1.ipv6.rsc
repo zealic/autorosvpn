@@ -76,6 +76,7 @@ add address=2600:1fa0:8000::/39 disabled=no list=route-aws@us-east-1
 add address=2600:1fb8:8000::/39 disabled=no list=route-aws@us-east-1
 add address=2600:1fb9:8000::/39 disabled=no list=route-aws@us-east-1
 add address=2600:1fbb:8000::/39 disabled=no list=route-aws@us-east-1
+add address=2600:1fea:8000::/39 disabled=no list=route-aws@us-east-1
 add address=2600:1fef:8000::/39 disabled=no list=route-aws@us-east-1
 add address=2600:1ff0:8000::/39 disabled=no list=route-aws@us-east-1
 add address=2600:1ff1:8000::/39 disabled=no list=route-aws@us-east-1

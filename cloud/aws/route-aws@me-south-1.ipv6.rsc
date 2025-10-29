@@ -21,6 +21,7 @@ add address=2a05:d040:e000::/40 disabled=no list=route-aws@me-south-1
 add address=2a05:d050:e000::/40 disabled=no list=route-aws@me-south-1
 add address=2a05:d059:e000::/40 disabled=no list=route-aws@me-south-1
 add address=2a05:d05b:e000::/40 disabled=no list=route-aws@me-south-1
+add address=2a05:d06a:e000::/40 disabled=no list=route-aws@me-south-1
 add address=2a05:d06f:e000::/40 disabled=no list=route-aws@me-south-1
 add address=2a05:d070:e000::/40 disabled=no list=route-aws@me-south-1
 add address=2a05:d072:e000::/40 disabled=no list=route-aws@me-south-1
