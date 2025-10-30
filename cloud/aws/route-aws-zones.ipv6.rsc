@@ -1652,6 +1652,7 @@ add address=2600:1f30:ec00::/40 disabled=no list=route-aws@sa-west
 add address=2600:1f32:ec00::/40 disabled=no list=route-aws@sa-west
 add address=2600:1f36:ec00::/40 disabled=no list=route-aws@sa-west
 add address=2600:1f38:ec00::/40 disabled=no list=route-aws@sa-west
+add address=2600:1f60:ec00::/40 disabled=no list=route-aws@sa-west
 add address=2600:1f61:ec00::/40 disabled=no list=route-aws@sa-west
 add address=2600:1f70:ec00::/40 disabled=no list=route-aws@sa-west
 add address=2600:1fa0:ec00::/40 disabled=no list=route-aws@sa-west
