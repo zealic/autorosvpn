@@ -6017,6 +6017,7 @@ add address=137.59.88.0/22 disabled=no list=chnroutes
 add address=138.252.72.0/23 disabled=no list=chnroutes
 add address=138.252.78.0/23 disabled=no list=chnroutes
 add address=138.252.96.0/23 disabled=no list=chnroutes
+add address=138.252.118.0/23 disabled=no list=chnroutes
 add address=139.5.56.0/22 disabled=no list=chnroutes
 add address=139.5.60.0/22 disabled=no list=chnroutes
 add address=139.5.80.0/22 disabled=no list=chnroutes
