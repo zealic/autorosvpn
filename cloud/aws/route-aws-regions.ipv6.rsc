@@ -839,8 +839,6 @@ add address=2404:c2c0:c000::/36 disabled=no list=route-aws@cn
 add address=2404:c2c0:c400::/40 disabled=no list=route-aws@cn
 add address=2404:c2c0:ea00::/40 disabled=no list=route-aws@cn
 add address=2404:c2c0:ef00::/40 disabled=no list=route-aws@cn
-add address=2600:f0f0:6123::/48 disabled=no list=route-aws@cn
-add address=2600:f0f0:6124::/48 disabled=no list=route-aws@cn
 /ipv6 firewall address-list remove [/ipv6 firewall address-list find list="route-aws@eu"]
 /ipv6 firewall address-list
 add address=2a01:578:0:12::/64 disabled=no list=route-aws@eu

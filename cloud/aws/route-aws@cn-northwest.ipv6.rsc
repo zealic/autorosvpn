@@ -41,4 +41,3 @@ add address=2404:c2c0:c000::/36 disabled=no list=route-aws@cn-northwest
 add address=2404:c2c0:c400::/40 disabled=no list=route-aws@cn-northwest
 add address=2404:c2c0:ea00::/40 disabled=no list=route-aws@cn-northwest
 add address=2404:c2c0:ef00::/40 disabled=no list=route-aws@cn-northwest
-add address=2600:f0f0:6124::/48 disabled=no list=route-aws@cn-northwest

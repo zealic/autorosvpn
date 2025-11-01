@@ -3580,10 +3580,6 @@ add address=2600:f0f0:6121::/48 disabled=no list=route-aws
 add address=2600:f0f0:6121::/48 disabled=no list=route-aws
 add address=2600:f0f0:6122::/48 disabled=no list=route-aws
 add address=2600:f0f0:6122::/48 disabled=no list=route-aws
-add address=2600:f0f0:6123::/48 disabled=no list=route-aws
-add address=2600:f0f0:6123::/48 disabled=no list=route-aws
-add address=2600:f0f0:6124::/48 disabled=no list=route-aws
-add address=2600:f0f0:6124::/48 disabled=no list=route-aws
 add address=2600:f0f0:a0::/48 disabled=no list=route-aws
 add address=2600:f0f0:a0::/48 disabled=no list=route-aws
 add address=2600:f0f0:a::/47 disabled=no list=route-aws
@@ -3684,6 +3680,7 @@ add address=2600:f0f1:8b02::/48 disabled=no list=route-aws
 add address=2600:f0f1:8b02::/48 disabled=no list=route-aws
 add address=2600:f0f1:80::/48 disabled=no list=route-aws
 add address=2600:f0f1:80::/48 disabled=no list=route-aws
+add address=2600:f0f1:80::/48 disabled=no list=route-aws
 add address=2600:f0f1:8801::/48 disabled=no list=route-aws
 add address=2600:f0f1:8801::/48 disabled=no list=route-aws
 add address=2600:f0f1:8802::/48 disabled=no list=route-aws
@@ -3696,12 +3693,14 @@ add address=2600:f0f2:701b::/48 disabled=no list=route-aws
 add address=2600:f0f2:701b::/48 disabled=no list=route-aws
 add address=2600:f0f2:701c::/48 disabled=no list=route-aws
 add address=2600:f0f2:701c::/48 disabled=no list=route-aws
+add address=2600:f0f2:701c::/48 disabled=no list=route-aws
 add address=2600:f0f2:701d::/48 disabled=no list=route-aws
 add address=2600:f0f2:701d::/48 disabled=no list=route-aws
 add address=2600:f0f2:701d::/48 disabled=no list=route-aws
 add address=2600:f0f2:701e::/48 disabled=no list=route-aws
 add address=2600:f0f2:701e::/48 disabled=no list=route-aws
 add address=2600:f0f2:701e::/48 disabled=no list=route-aws
+add address=2600:f0f2:701f::/48 disabled=no list=route-aws
 add address=2600:f0f2:701f::/48 disabled=no list=route-aws
 add address=2600:f0f2:701f::/48 disabled=no list=route-aws
 add address=2600:f0f2:710a::/48 disabled=no list=route-aws

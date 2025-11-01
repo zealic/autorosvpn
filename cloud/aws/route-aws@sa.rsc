@@ -87,6 +87,8 @@ add address=15.251.0.24/32 disabled=no list=route-aws@sa
 add address=15.251.0.25/32 disabled=no list=route-aws@sa
 add address=16.12.0.0/23 disabled=no list=route-aws@sa
 add address=16.12.2.0/24 disabled=no list=route-aws@sa
+add address=16.12.120.0/22 disabled=no list=route-aws@sa
+add address=16.15.24.0/22 disabled=no list=route-aws@sa
 add address=18.96.64.0/19 disabled=no list=route-aws@sa
 add address=18.228.0.0/16 disabled=no list=route-aws@sa
 add address=18.228.1.0/29 disabled=no list=route-aws@sa
