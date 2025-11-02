@@ -2036,6 +2036,7 @@ add address=2620:108:d00f::/64 disabled=no list=route-aws@us-gov-west
 add address=2600:1f00:4000::/40 disabled=no list=route-aws@us-west
 add address=2600:1f00:c000::/40 disabled=no list=route-aws@us-west
 add address=2600:1f01:48a0::/47 disabled=no list=route-aws@us-west
+add address=2600:1f01:491a::/47 disabled=no list=route-aws@us-west
 add address=2600:1f01:4874::/47 disabled=no list=route-aws@us-west
 add address=2600:1f01:4904::/47 disabled=no list=route-aws@us-west
 add address=2600:1f1b:8000::/36 disabled=no list=route-aws@us-west
