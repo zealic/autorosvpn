@@ -1,6 +1,7 @@
 /ipv6 firewall address-list remove [/ipv6 firewall address-list find list="route-gcp@africa"]
 /ipv6 firewall address-list
 add address=2600:1900:8000::/44 disabled=no list=route-gcp@africa
+add address=2600:1902:10::/44 disabled=no list=route-gcp@africa
 /ipv6 firewall address-list remove [/ipv6 firewall address-list find list="route-gcp@asia"]
 /ipv6 firewall address-list
 add address=2600:1900:40a0::/44 disabled=no list=route-gcp@asia
@@ -13,10 +14,21 @@ add address=2600:1900:4050::/44 disabled=no list=route-gcp@asia
 add address=2600:1900:4080::/44 disabled=no list=route-gcp@asia
 add address=2600:1901:8170::/44 disabled=no list=route-gcp@asia
 add address=2600:1901:8180::/44 disabled=no list=route-gcp@asia
+add address=2600:1902:20::/44 disabled=no list=route-gcp@asia
+add address=2600:1902:30::/44 disabled=no list=route-gcp@asia
+add address=2600:1902:40::/44 disabled=no list=route-gcp@asia
+add address=2600:1902:50::/44 disabled=no list=route-gcp@asia
+add address=2600:1902:60::/44 disabled=no list=route-gcp@asia
+add address=2600:1902:70::/44 disabled=no list=route-gcp@asia
+add address=2600:1902:80::/44 disabled=no list=route-gcp@asia
+add address=2600:1902:90::/44 disabled=no list=route-gcp@asia
+add address=2600:1902:a0::/44 disabled=no list=route-gcp@asia
 /ipv6 firewall address-list remove [/ipv6 firewall address-list find list="route-gcp@australia"]
 /ipv6 firewall address-list
 add address=2600:1900:40b0::/44 disabled=no list=route-gcp@australia
 add address=2600:1900:41c0::/44 disabled=no list=route-gcp@australia
+add address=2600:1902:b0::/44 disabled=no list=route-gcp@australia
+add address=2600:1902:c0::/44 disabled=no list=route-gcp@australia
 /ipv6 firewall address-list remove [/ipv6 firewall address-list find list="route-gcp@europe"]
 /ipv6 firewall address-list
 add address=2600:1900:40c0::/44 disabled=no list=route-gcp@europe
@@ -33,6 +45,19 @@ add address=2600:1901:81f0::/44 disabled=no list=route-gcp@europe
 add address=2600:1901:8100::/44 disabled=no list=route-gcp@europe
 add address=2600:1901:8110::/44 disabled=no list=route-gcp@europe
 add address=2600:1901:8120::/44 disabled=no list=route-gcp@europe
+add address=2600:1902:100::/44 disabled=no list=route-gcp@europe
+add address=2600:1902:110::/44 disabled=no list=route-gcp@europe
+add address=2600:1902:120::/44 disabled=no list=route-gcp@europe
+add address=2600:1902:130::/44 disabled=no list=route-gcp@europe
+add address=2600:1902:140::/44 disabled=no list=route-gcp@europe
+add address=2600:1902:150::/44 disabled=no list=route-gcp@europe
+add address=2600:1902:160::/44 disabled=no list=route-gcp@europe
+add address=2600:1902:170::/44 disabled=no list=route-gcp@europe
+add address=2600:1902:180::/44 disabled=no list=route-gcp@europe
+add address=2600:1902:190::/44 disabled=no list=route-gcp@europe
+add address=2600:1902:d0::/44 disabled=no list=route-gcp@europe
+add address=2600:1902:e0::/44 disabled=no list=route-gcp@europe
+add address=2600:1902:f0::/44 disabled=no list=route-gcp@europe
 /ipv6 firewall address-list remove [/ipv6 firewall address-list find list="route-gcp@global"]
 /ipv6 firewall address-list
 add address=2600:1901::/48 disabled=no list=route-gcp@global
@@ -41,15 +66,23 @@ add address=2600:1901::/48 disabled=no list=route-gcp@global
 add address=2600:1900:5400::/44 disabled=no list=route-gcp@me
 add address=2600:1901:81c0::/44 disabled=no list=route-gcp@me
 add address=2600:1901:8160::/44 disabled=no list=route-gcp@me
+add address=2600:1902:1a0::/44 disabled=no list=route-gcp@me
+add address=2600:1902:1b0::/44 disabled=no list=route-gcp@me
+add address=2600:1902:1c0::/44 disabled=no list=route-gcp@me
 /ipv6 firewall address-list remove [/ipv6 firewall address-list find list="route-gcp@northamerica"]
 /ipv6 firewall address-list
 add address=2600:1900:40e0::/44 disabled=no list=route-gcp@northamerica
 add address=2600:1900:41e0::/44 disabled=no list=route-gcp@northamerica
 add address=2600:1900:4290::/44 disabled=no list=route-gcp@northamerica
+add address=2600:1902:1d0::/44 disabled=no list=route-gcp@northamerica
+add address=2600:1902:1e0::/44 disabled=no list=route-gcp@northamerica
+add address=2600:1902:1f0::/44 disabled=no list=route-gcp@northamerica
 /ipv6 firewall address-list remove [/ipv6 firewall address-list find list="route-gcp@southamerica"]
 /ipv6 firewall address-list
 add address=2600:1900:40f0::/44 disabled=no list=route-gcp@southamerica
 add address=2600:1901:4010::/44 disabled=no list=route-gcp@southamerica
+add address=2600:1902:200::/44 disabled=no list=route-gcp@southamerica
+add address=2600:1902:210::/44 disabled=no list=route-gcp@southamerica
 /ipv6 firewall address-list remove [/ipv6 firewall address-list find list="route-gcp@us"]
 /ipv6 firewall address-list
 add address=2600:1900:4000::/44 disabled=no list=route-gcp@us
@@ -64,4 +97,15 @@ add address=2600:1900:4280::/44 disabled=no list=route-gcp@us
 add address=2600:1901:8130::/44 disabled=no list=route-gcp@us
 add address=2600:1901:8140::/44 disabled=no list=route-gcp@us
 add address=2600:1901:8150::/44 disabled=no list=route-gcp@us
+add address=2600:1902:2a0::/44 disabled=no list=route-gcp@us
+add address=2600:1902:2b0::/44 disabled=no list=route-gcp@us
+add address=2600:1902:2c0::/44 disabled=no list=route-gcp@us
+add address=2600:1902:2d0::/44 disabled=no list=route-gcp@us
+add address=2600:1902:220::/44 disabled=no list=route-gcp@us
+add address=2600:1902:230::/44 disabled=no list=route-gcp@us
+add address=2600:1902:250::/44 disabled=no list=route-gcp@us
+add address=2600:1902:260::/44 disabled=no list=route-gcp@us
+add address=2600:1902:270::/44 disabled=no list=route-gcp@us
+add address=2600:1902:280::/44 disabled=no list=route-gcp@us
+add address=2600:1902:290::/44 disabled=no list=route-gcp@us
 add address=2600:1902::/44 disabled=no list=route-gcp@us

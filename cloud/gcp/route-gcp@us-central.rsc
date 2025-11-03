@@ -7,6 +7,7 @@ add address=8.35.192.0/21 disabled=no list=route-gcp@us-central
 add address=23.236.48.0/20 disabled=no list=route-gcp@us-central
 add address=23.251.144.0/20 disabled=no list=route-gcp@us-central
 add address=34.0.225.0/24 disabled=no list=route-gcp@us-central
+add address=34.4.96.0/22 disabled=no list=route-gcp@us-central
 add address=34.9.0.0/16 disabled=no list=route-gcp@us-central
 add address=34.10.0.0/16 disabled=no list=route-gcp@us-central
 add address=34.13.68.0/22 disabled=no list=route-gcp@us-central
@@ -66,6 +67,8 @@ add address=35.232.0.0/16 disabled=no list=route-gcp@us-central
 add address=35.238.0.0/15 disabled=no list=route-gcp@us-central
 add address=35.242.46.0/24 disabled=no list=route-gcp@us-central
 add address=35.242.96.0/19 disabled=no list=route-gcp@us-central
+add address=35.253.0.0/16 disabled=no list=route-gcp@us-central
+add address=35.254.0.0/15 disabled=no list=route-gcp@us-central
 add address=104.154.16.0/20 disabled=no list=route-gcp@us-central
 add address=104.154.32.0/19 disabled=no list=route-gcp@us-central
 add address=104.154.64.0/19 disabled=no list=route-gcp@us-central
