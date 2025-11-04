@@ -4371,6 +4371,7 @@ add address=2620:108:d000::/44 disabled=no list=route-aws
 add address=2620:108:d00f::/64 disabled=no list=route-aws
 add address=2631:0:1::/48 disabled=no list=route-aws
 add address=2631:0:1::/48 disabled=no list=route-aws
+add address=2631:0:2::/48 disabled=no list=route-aws
 add address=2631:1:4c00::/48 disabled=no list=route-aws
 add address=2631:1:4c00::/48 disabled=no list=route-aws
 add address=2631:1:4c40::/48 disabled=no list=route-aws
