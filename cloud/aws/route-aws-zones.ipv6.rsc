@@ -2332,6 +2332,8 @@ add address=2631:0:1::/48 disabled=no list=route-aws@us-west
 add address=2631:0:2::/48 disabled=no list=route-aws@us-west
 add address=2631:1:4f80::/48 disabled=no list=route-aws@us-west
 add address=2631:1:4fc0::/48 disabled=no list=route-aws@us-west
+add address=2631:1:4fc1::/48 disabled=no list=route-aws@us-west
+add address=2631:1:4fc2::/48 disabled=no list=route-aws@us-west
 add address=2631:1:4fef::/48 disabled=no list=route-aws@us-west
 add address=2631:1:4ff0::/48 disabled=no list=route-aws@us-west
 add address=2631:1:4ff2::/48 disabled=no list=route-aws@us-west

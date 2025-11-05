@@ -4395,8 +4395,6 @@ add address=35.96.26.0/23 disabled=no list=route-aws
 add address=35.96.26.0/23 disabled=no list=route-aws
 add address=35.96.28.0/23 disabled=no list=route-aws
 add address=35.96.28.0/23 disabled=no list=route-aws
-add address=35.96.30.0/23 disabled=no list=route-aws
-add address=35.96.30.0/23 disabled=no list=route-aws
 add address=35.96.32.0/24 disabled=no list=route-aws
 add address=35.96.32.0/24 disabled=no list=route-aws
 add address=35.96.33.0/24 disabled=no list=route-aws

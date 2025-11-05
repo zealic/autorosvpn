@@ -6600,7 +6600,6 @@ add address=35.96.11.0/24 disabled=no list=route-aws@us-west
 add address=35.96.14.0/24 disabled=no list=route-aws@us-west
 add address=35.96.15.0/24 disabled=no list=route-aws@us-west
 add address=35.96.16.0/23 disabled=no list=route-aws@us-west
-add address=35.96.30.0/23 disabled=no list=route-aws@us-west
 add address=35.96.33.0/24 disabled=no list=route-aws@us-west
 add address=35.96.45.0/24 disabled=no list=route-aws@us-west
 add address=35.96.46.0/24 disabled=no list=route-aws@us-west
