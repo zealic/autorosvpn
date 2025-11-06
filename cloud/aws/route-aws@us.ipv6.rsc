@@ -254,6 +254,8 @@ add address=2600:1ff8:6000::/40 disabled=no list=route-aws@us
 add address=2600:1ff8:8000::/40 disabled=no list=route-aws@us
 add address=2600:1ff8:c000::/40 disabled=no list=route-aws@us
 add address=2600:1ff9:2c00::/40 disabled=no list=route-aws@us
+add address=2600:1ff9:41a0::/46 disabled=no list=route-aws@us
+add address=2600:1ff9:41c0::/46 disabled=no list=route-aws@us
 add address=2600:1ff9:2000::/40 disabled=no list=route-aws@us
 add address=2600:1ff9:4000::/39 disabled=no list=route-aws@us
 add address=2600:1ff9:4000::/40 disabled=no list=route-aws@us
