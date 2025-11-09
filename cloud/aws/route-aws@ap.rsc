@@ -885,6 +885,7 @@ add address=35.96.42.0/24 disabled=no list=route-aws@ap
 add address=35.96.128.0/20 disabled=no list=route-aws@ap
 add address=35.96.240.0/24 disabled=no list=route-aws@ap
 add address=35.154.0.0/16 disabled=no list=route-aws@ap
+add address=40.168.224.0/24 disabled=no list=route-aws@ap
 add address=40.192.0.0/17 disabled=no list=route-aws@ap
 add address=40.192.128.0/17 disabled=no list=route-aws@ap
 add address=40.193.0.0/16 disabled=no list=route-aws@ap
