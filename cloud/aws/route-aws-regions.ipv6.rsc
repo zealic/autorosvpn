@@ -1184,6 +1184,7 @@ add address=2600:f003:a200::/40 disabled=no list=route-aws@eu
 add address=2600:f00e:400::/40 disabled=no list=route-aws@eu
 add address=2600:f00e:600::/40 disabled=no list=route-aws@eu
 add address=2600:f00e::/39 disabled=no list=route-aws@eu
+add address=2600:f0f0:0:d00::/56 disabled=no list=route-aws@eu
 add address=2600:f0f0:1:1a00::/56 disabled=no list=route-aws@eu
 add address=2600:f0f0:1:1b00::/56 disabled=no list=route-aws@eu
 add address=2600:f0f0:1:1c00::/56 disabled=no list=route-aws@eu

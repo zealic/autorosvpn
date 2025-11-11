@@ -3076,6 +3076,8 @@ add address=2600:f0f0:0:218::/62 disabled=no list=route-aws
 add address=2600:f0f0:0:218::/62 disabled=no list=route-aws
 add address=2600:f0f0:0:300::/56 disabled=no list=route-aws
 add address=2600:f0f0:0:300::/56 disabled=no list=route-aws
+add address=2600:f0f0:0:d00::/56 disabled=no list=route-aws
+add address=2600:f0f0:0:d00::/56 disabled=no list=route-aws
 add address=2600:f0f0:1:1a00::/56 disabled=no list=route-aws
 add address=2600:f0f0:1:1a00::/56 disabled=no list=route-aws
 add address=2600:f0f0:1:1b00::/56 disabled=no list=route-aws
