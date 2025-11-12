@@ -736,6 +736,7 @@ add address=136.8.0.0/15 disabled=no list=route-aws@us-west
 add address=136.18.21.0/24 disabled=no list=route-aws@us-west
 add address=139.56.16.0/23 disabled=no list=route-aws@us-west
 add address=139.56.32.0/23 disabled=no list=route-aws@us-west
+add address=149.128.64.0/18 disabled=no list=route-aws@us-west
 add address=150.222.15.132/31 disabled=no list=route-aws@us-west
 add address=150.222.30.0/23 disabled=no list=route-aws@us-west
 add address=150.222.36.128/26 disabled=no list=route-aws@us-west
