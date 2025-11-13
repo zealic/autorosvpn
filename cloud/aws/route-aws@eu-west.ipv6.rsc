@@ -176,6 +176,5 @@ add address=2606:f40:ffe8::/48 disabled=no list=route-aws@eu-west
 add address=2606:f40:fff0::/48 disabled=no list=route-aws@eu-west
 add address=2606:f40:fff2::/48 disabled=no list=route-aws@eu-west
 add address=2631:1:4d40::/48 disabled=no list=route-aws@eu-west
-add address=2631:1:4d41::/48 disabled=no list=route-aws@eu-west
 add address=2631:1:4d80::/48 disabled=no list=route-aws@eu-west
 add address=2631:1:4dc0::/48 disabled=no list=route-aws@eu-west

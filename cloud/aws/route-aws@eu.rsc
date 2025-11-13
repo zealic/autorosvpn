@@ -1673,3 +1673,4 @@ add address=216.244.9.0/24 disabled=no list=route-aws@eu
 add address=216.244.10.0/24 disabled=no list=route-aws@eu
 add address=216.244.14.0/23 disabled=no list=route-aws@eu
 add address=216.244.16.0/21 disabled=no list=route-aws@eu
+add address=216.244.38.0/23 disabled=no list=route-aws@eu

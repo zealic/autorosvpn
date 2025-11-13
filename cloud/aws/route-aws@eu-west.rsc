@@ -816,3 +816,4 @@ add address=208.86.90.0/23 disabled=no list=route-aws@eu-west
 add address=209.54.184.0/21 disabled=no list=route-aws@eu-west
 add address=216.39.136.0/21 disabled=no list=route-aws@eu-west
 add address=216.39.152.0/21 disabled=no list=route-aws@eu-west
+add address=216.244.38.0/23 disabled=no list=route-aws@eu-west
