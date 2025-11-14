@@ -1621,6 +1621,7 @@ add address=15.134.0.0/16 disabled=no list=route-aws
 add address=15.134.0.0/16 disabled=no list=route-aws
 add address=15.134.66.0/23 disabled=no list=route-aws
 add address=15.135.0.0/16 disabled=no list=route-aws
+add address=15.135.0.0/16 disabled=no list=route-aws
 add address=15.145.0.0/23 disabled=no list=route-aws
 add address=15.145.0.0/23 disabled=no list=route-aws
 add address=15.145.2.0/23 disabled=no list=route-aws
@@ -3782,6 +3783,10 @@ add address=23.228.198.0/24 disabled=no list=route-aws
 add address=23.228.198.0/24 disabled=no list=route-aws
 add address=23.228.221.0/24 disabled=no list=route-aws
 add address=23.228.221.0/24 disabled=no list=route-aws
+add address=23.228.228.0/22 disabled=no list=route-aws
+add address=23.228.228.0/22 disabled=no list=route-aws
+add address=23.228.232.0/22 disabled=no list=route-aws
+add address=23.228.232.0/22 disabled=no list=route-aws
 add address=23.254.0.0/21 disabled=no list=route-aws
 add address=23.254.0.0/21 disabled=no list=route-aws
 add address=23.254.8.0/21 disabled=no list=route-aws
@@ -5058,7 +5063,6 @@ add address=51.224.192.0/23 disabled=no list=route-aws
 add address=51.224.194.0/23 disabled=no list=route-aws
 add address=51.224.196.0/23 disabled=no list=route-aws
 add address=51.224.254.0/23 disabled=no list=route-aws
-add address=51.226.0.0/15 disabled=no list=route-aws
 add address=52.0.0.0/15 disabled=no list=route-aws
 add address=52.0.0.0/15 disabled=no list=route-aws
 add address=52.2.0.0/15 disabled=no list=route-aws
@@ -9377,6 +9381,8 @@ add address=216.198.208.0/22 disabled=no list=route-aws
 add address=216.198.208.0/22 disabled=no list=route-aws
 add address=216.198.216.0/21 disabled=no list=route-aws
 add address=216.198.216.0/21 disabled=no list=route-aws
+add address=216.198.224.0/22 disabled=no list=route-aws
+add address=216.198.224.0/22 disabled=no list=route-aws
 add address=216.216.0.0/15 disabled=no list=route-aws
 add address=216.244.0.0/24 disabled=no list=route-aws
 add address=216.244.0.0/24 disabled=no list=route-aws
