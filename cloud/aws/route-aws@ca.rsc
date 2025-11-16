@@ -182,3 +182,4 @@ add address=150.222.52.160/27 disabled=no list=route-aws@ca
 add address=150.222.109.0/24 disabled=no list=route-aws@ca
 add address=161.193.128.0/18 disabled=no list=route-aws@ca
 add address=173.83.217.0/24 disabled=no list=route-aws@ca
+add address=216.198.235.0/24 disabled=no list=route-aws@ca

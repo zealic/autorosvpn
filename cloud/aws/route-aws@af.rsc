@@ -89,3 +89,4 @@ add address=150.222.48.192/27 disabled=no list=route-aws@af
 add address=150.222.48.224/27 disabled=no list=route-aws@af
 add address=150.222.92.0/22 disabled=no list=route-aws@af
 add address=150.222.208.0/24 disabled=no list=route-aws@af
+add address=216.198.232.0/24 disabled=no list=route-aws@af
