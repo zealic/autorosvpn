@@ -114,6 +114,7 @@ add address=18.144.158.0/27 disabled=no list=route-aws@us-west-1
 add address=18.144.158.64/26 disabled=no list=route-aws@us-west-1
 add address=18.144.184.0/23 disabled=no list=route-aws@us-west-1
 add address=18.144.202.192/26 disabled=no list=route-aws@us-west-1
+add address=23.228.219.0/24 disabled=no list=route-aws@us-west-1
 add address=35.71.117.0/24 disabled=no list=route-aws@us-west-1
 add address=35.96.33.0/24 disabled=no list=route-aws@us-west-1
 add address=35.96.255.0/24 disabled=no list=route-aws@us-west-1
