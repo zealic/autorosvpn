@@ -439,6 +439,7 @@ add address=2606:f40:fffa::/48 disabled=no list=route-aws@eu
 add address=2606:f40:fffb::/48 disabled=no list=route-aws@eu
 add address=2620:107:4002::/48 disabled=no list=route-aws@eu
 add address=2620:107:4003::/48 disabled=no list=route-aws@eu
+add address=2631:0:3::/48 disabled=no list=route-aws@eu
 add address=2631:1:4c00::/48 disabled=no list=route-aws@eu
 add address=2631:1:4c40::/48 disabled=no list=route-aws@eu
 add address=2631:1:4cc0::/48 disabled=no list=route-aws@eu

@@ -420,6 +420,7 @@ add address=52.199.127.192/26 disabled=no list=route-aws@ap-northeast
 add address=52.219.0.0/20 disabled=no list=route-aws@ap-northeast
 add address=52.219.16.0/22 disabled=no list=route-aws@ap-northeast
 add address=52.219.20.0/24 disabled=no list=route-aws@ap-northeast
+add address=52.219.21.0/24 disabled=no list=route-aws@ap-northeast
 add address=52.219.56.0/22 disabled=no list=route-aws@ap-northeast
 add address=52.219.60.0/23 disabled=no list=route-aws@ap-northeast
 add address=52.219.68.0/22 disabled=no list=route-aws@ap-northeast
