@@ -1480,7 +1480,6 @@ add address=43.218.222.160/28 disabled=no list=route-aws@ap-southeast
 add address=43.218.222.176/28 disabled=no list=route-aws@ap-southeast
 add address=43.220.0.0/16 disabled=no list=route-aws@ap-southeast
 add address=43.221.0.0/16 disabled=no list=route-aws@ap-southeast
-add address=43.226.24.0/23 disabled=no list=route-aws@ap-southeast
 add address=43.249.44.0/24 disabled=no list=route-aws@ap-southeast
 add address=43.250.192.0/24 disabled=no list=route-aws@ap-southeast
 add address=43.250.193.0/24 disabled=no list=route-aws@ap-southeast
@@ -1772,6 +1771,7 @@ add address=108.137.58.128/26 disabled=no list=route-aws@ap-southeast
 add address=108.137.58.192/26 disabled=no list=route-aws@ap-southeast
 add address=108.137.114.0/28 disabled=no list=route-aws@ap-southeast
 add address=108.137.114.64/26 disabled=no list=route-aws@ap-southeast
+add address=122.200.61.0/24 disabled=no list=route-aws@ap-southeast
 add address=122.248.192.0/18 disabled=no list=route-aws@ap-southeast
 add address=136.18.22.0/24 disabled=no list=route-aws@ap-southeast
 add address=136.18.23.0/24 disabled=no list=route-aws@ap-southeast
@@ -3911,13 +3911,10 @@ add address=51.0.29.0/28 disabled=no list=route-aws@eusc-de-east
 add address=51.0.29.128/28 disabled=no list=route-aws@eusc-de-east
 add address=51.0.31.0/24 disabled=no list=route-aws@eusc-de-east
 add address=51.0.128.0/21 disabled=no list=route-aws@eusc-de-east
-add address=51.0.136.0/23 disabled=no list=route-aws@eusc-de-east
-add address=51.0.138.0/23 disabled=no list=route-aws@eusc-de-east
-add address=51.0.140.0/23 disabled=no list=route-aws@eusc-de-east
-add address=51.0.142.0/23 disabled=no list=route-aws@eusc-de-east
 add address=51.0.252.0/24 disabled=no list=route-aws@eusc-de-east
 add address=51.72.0.0/15 disabled=no list=route-aws@eusc-de-east
 add address=51.74.0.0/20 disabled=no list=route-aws@eusc-de-east
+add address=51.74.16.0/24 disabled=no list=route-aws@eusc-de-east
 add address=51.164.0.0/15 disabled=no list=route-aws@eusc-de-east
 add address=51.166.0.0/15 disabled=no list=route-aws@eusc-de-east
 add address=51.224.0.0/15 disabled=no list=route-aws@eusc-de-east
@@ -4012,6 +4009,8 @@ add address=23.228.220.0/24 disabled=no list=route-aws@global
 add address=23.228.221.0/24 disabled=no list=route-aws@global
 add address=23.228.222.0/24 disabled=no list=route-aws@global
 add address=23.228.223.0/24 disabled=no list=route-aws@global
+add address=23.228.224.0/24 disabled=no list=route-aws@global
+add address=23.228.225.0/24 disabled=no list=route-aws@global
 add address=23.228.226.0/24 disabled=no list=route-aws@global
 add address=23.228.227.0/24 disabled=no list=route-aws@global
 add address=23.228.237.0/24 disabled=no list=route-aws@global
