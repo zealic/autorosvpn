@@ -298,7 +298,6 @@ add address=52.32.0.0/14 disabled=no list=route-aws@us-west-2
 add address=52.36.0.0/14 disabled=no list=route-aws@us-west-2
 add address=52.40.0.0/14 disabled=no list=route-aws@us-west-2
 add address=52.43.76.88/29 disabled=no list=route-aws@us-west-2
-add address=52.46.180.0/22 disabled=no list=route-aws@us-west-2
 add address=52.46.216.0/22 disabled=no list=route-aws@us-west-2
 add address=52.46.249.0/24 disabled=no list=route-aws@us-west-2
 add address=52.75.0.0/16 disabled=no list=route-aws@us-west-2

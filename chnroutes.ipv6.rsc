@@ -1953,7 +1953,6 @@ add address=2407:cb80::/32 disabled=no list=chnroutes.ipv6
 add address=2407:cc80::/32 disabled=no list=chnroutes.ipv6
 add address=2407:cd80::/32 disabled=no list=chnroutes.ipv6
 add address=2407:ce80::/32 disabled=no list=chnroutes.ipv6
-add address=2407:cf00::/32 disabled=no list=chnroutes.ipv6
 add address=2407:cf80::/32 disabled=no list=chnroutes.ipv6
 add address=2407:d480::/32 disabled=no list=chnroutes.ipv6
 add address=2407:d580::/32 disabled=no list=chnroutes.ipv6

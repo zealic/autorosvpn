@@ -270,7 +270,6 @@ add address=35.159.206.0/23 disabled=no list=route-aws@eu-central-1
 add address=35.159.209.0/24 disabled=no list=route-aws@eu-central-1
 add address=52.28.0.0/16 disabled=no list=route-aws@eu-central-1
 add address=52.29.0.0/16 disabled=no list=route-aws@eu-central-1
-add address=52.46.184.0/22 disabled=no list=route-aws@eu-central-1
 add address=52.57.0.0/16 disabled=no list=route-aws@eu-central-1
 add address=52.57.254.0/24 disabled=no list=route-aws@eu-central-1
 add address=52.58.0.0/15 disabled=no list=route-aws@eu-central-1
