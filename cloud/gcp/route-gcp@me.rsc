@@ -9,8 +9,10 @@ add address=34.152.102.0/24 disabled=no list=route-gcp@me
 add address=34.153.62.128/25 disabled=no list=route-gcp@me
 add address=34.153.252.128/25 disabled=no list=route-gcp@me
 add address=34.157.90.0/23 disabled=no list=route-gcp@me
+add address=34.157.122.128/25 disabled=no list=route-gcp@me
 add address=34.157.126.0/23 disabled=no list=route-gcp@me
 add address=34.157.216.0/23 disabled=no list=route-gcp@me
+add address=34.157.218.128/25 disabled=no list=route-gcp@me
 add address=34.157.252.0/23 disabled=no list=route-gcp@me
 add address=34.165.0.0/16 disabled=no list=route-gcp@me
 add address=34.166.0.0/16 disabled=no list=route-gcp@me
