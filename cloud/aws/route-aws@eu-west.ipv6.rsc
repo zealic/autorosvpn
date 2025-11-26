@@ -115,6 +115,7 @@ add address=2a05:d07f:2000::/40 disabled=no list=route-aws@eu-west
 add address=2a05:d07f:8000::/40 disabled=no list=route-aws@eu-west
 add address=2a05:d07f:c000::/40 disabled=no list=route-aws@eu-west
 add address=2600:1f01:490c::/47 disabled=no list=route-aws@eu-west
+add address=2600:1f01:491c::/47 disabled=no list=route-aws@eu-west
 add address=2600:1f01:4802::/47 disabled=no list=route-aws@eu-west
 add address=2600:1f01:4810::/47 disabled=no list=route-aws@eu-west
 add address=2600:1f01:4820::/47 disabled=no list=route-aws@eu-west

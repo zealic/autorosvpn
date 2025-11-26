@@ -3870,6 +3870,7 @@ add address=150.222.242.84/31 disabled=no list=route-aws@eu-west
 add address=150.222.242.214/31 disabled=no list=route-aws@eu-west
 add address=150.247.38.0/24 disabled=no list=route-aws@eu-west
 add address=150.247.44.0/24 disabled=no list=route-aws@eu-west
+add address=150.247.47.0/24 disabled=no list=route-aws@eu-west
 add address=151.148.34.0/24 disabled=no list=route-aws@eu-west
 add address=151.148.41.0/24 disabled=no list=route-aws@eu-west
 add address=162.213.232.0/24 disabled=no list=route-aws@eu-west
@@ -4004,6 +4005,7 @@ add address=23.228.198.0/24 disabled=no list=route-aws@global
 add address=23.228.220.0/24 disabled=no list=route-aws@global
 add address=23.228.221.0/24 disabled=no list=route-aws@global
 add address=23.228.222.0/24 disabled=no list=route-aws@global
+add address=23.228.223.0/24 disabled=no list=route-aws@global
 add address=24.110.32.0/19 disabled=no list=route-aws@global
 add address=31.220.247.0/24 disabled=no list=route-aws@global
 add address=35.55.0.0/17 disabled=no list=route-aws@global
@@ -5673,7 +5675,6 @@ add address=52.95.28.0/24 disabled=no list=route-aws@us-east
 add address=52.95.29.0/26 disabled=no list=route-aws@us-east
 add address=52.95.41.0/24 disabled=no list=route-aws@us-east
 add address=52.95.48.0/22 disabled=no list=route-aws@us-east
-add address=52.95.52.0/22 disabled=no list=route-aws@us-east
 add address=52.95.62.0/24 disabled=no list=route-aws@us-east
 add address=52.95.63.0/24 disabled=no list=route-aws@us-east
 add address=52.95.108.0/23 disabled=no list=route-aws@us-east
@@ -6920,6 +6921,7 @@ add address=52.94.249.64/28 disabled=no list=route-aws@us-west
 add address=52.94.249.80/28 disabled=no list=route-aws@us-west
 add address=52.95.40.0/24 disabled=no list=route-aws@us-west
 add address=52.95.42.0/24 disabled=no list=route-aws@us-west
+add address=52.95.52.0/22 disabled=no list=route-aws@us-west
 add address=52.95.230.0/24 disabled=no list=route-aws@us-west
 add address=52.95.246.0/24 disabled=no list=route-aws@us-west
 add address=52.95.247.0/24 disabled=no list=route-aws@us-west

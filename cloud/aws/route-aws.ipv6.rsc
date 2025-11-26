@@ -1981,6 +1981,7 @@ add address=2600:1f01:490a::/47 disabled=no list=route-aws
 add address=2600:1f01:490c::/47 disabled=no list=route-aws
 add address=2600:1f01:490e::/47 disabled=no list=route-aws
 add address=2600:1f01:491a::/47 disabled=no list=route-aws
+add address=2600:1f01:491c::/47 disabled=no list=route-aws
 add address=2600:1f01:4800::/47 disabled=no list=route-aws
 add address=2600:1f01:4800::/47 disabled=no list=route-aws
 add address=2600:1f01:4802::/47 disabled=no list=route-aws
@@ -2017,6 +2018,7 @@ add address=2600:1f01:4890::/47 disabled=no list=route-aws
 add address=2600:1f01:4900:100::/56 disabled=no list=route-aws
 add address=2600:1f01:4900:200::/56 disabled=no list=route-aws
 add address=2600:1f01:4900:300::/56 disabled=no list=route-aws
+add address=2600:1f01:4900:400::/56 disabled=no list=route-aws
 add address=2600:1f01:4904::/47 disabled=no list=route-aws
 add address=2600:1f01:4906::/47 disabled=no list=route-aws
 add address=2600:1f01:4908::/47 disabled=no list=route-aws
