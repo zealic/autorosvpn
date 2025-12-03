@@ -6081,6 +6081,7 @@ add address=144.79.4.0/23 disabled=no list=chnroutes
 add address=144.79.10.0/23 disabled=no list=chnroutes
 add address=144.79.28.0/23 disabled=no list=chnroutes
 add address=144.79.42.0/23 disabled=no list=chnroutes
+add address=144.79.54.0/23 disabled=no list=chnroutes
 add address=144.123.0.0/16 disabled=no list=chnroutes
 add address=144.255.0.0/16 disabled=no list=chnroutes
 add address=146.56.192.0/18 disabled=no list=chnroutes
