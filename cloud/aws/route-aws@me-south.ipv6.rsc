@@ -43,6 +43,7 @@ add address=2600:f0f0:552d::/48 disabled=no list=route-aws@me-south
 add address=2600:f0f0:552e::/48 disabled=no list=route-aws@me-south
 add address=2600:f0f0:552f::/48 disabled=no list=route-aws@me-south
 add address=2600:f0f0:6111::/48 disabled=no list=route-aws@me-south
+add address=2600:f0f0:8107::/48 disabled=no list=route-aws@me-south
 add address=2600:f0f0:e04::/48 disabled=no list=route-aws@me-south
 add address=2600:f0f0:e05::/48 disabled=no list=route-aws@me-south
 add address=2600:f0f0:e06::/48 disabled=no list=route-aws@me-south
