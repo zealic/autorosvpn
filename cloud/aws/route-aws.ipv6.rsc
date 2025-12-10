@@ -1990,6 +1990,7 @@ add address=2600:1f01:4804::/47 disabled=no list=route-aws
 add address=2600:1f01:4804::/47 disabled=no list=route-aws
 add address=2600:1f01:4806::/47 disabled=no list=route-aws
 add address=2600:1f01:4806::/47 disabled=no list=route-aws
+add address=2600:1f01:4808::/47 disabled=no list=route-aws
 add address=2600:1f01:4810::/47 disabled=no list=route-aws
 add address=2600:1f01:4810::/47 disabled=no list=route-aws
 add address=2600:1f01:4814::/47 disabled=no list=route-aws

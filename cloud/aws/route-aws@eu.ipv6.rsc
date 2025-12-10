@@ -312,6 +312,7 @@ add address=2600:1f01:48f2::/47 disabled=no list=route-aws@eu
 add address=2600:1f01:490c::/47 disabled=no list=route-aws@eu
 add address=2600:1f01:491c::/47 disabled=no list=route-aws@eu
 add address=2600:1f01:4802::/47 disabled=no list=route-aws@eu
+add address=2600:1f01:4808::/47 disabled=no list=route-aws@eu
 add address=2600:1f01:4810::/47 disabled=no list=route-aws@eu
 add address=2600:1f01:4820::/47 disabled=no list=route-aws@eu
 add address=2600:1f01:4822::/56 disabled=no list=route-aws@eu

@@ -79,6 +79,7 @@ add address=56.136.121.0/25 disabled=no list=route-aws@us-gov-west
 add address=56.136.224.0/23 disabled=no list=route-aws@us-gov-west
 add address=56.137.0.0/16 disabled=no list=route-aws@us-gov-west
 add address=56.137.38.0/23 disabled=no list=route-aws@us-gov-west
+add address=56.137.224.0/23 disabled=no list=route-aws@us-gov-west
 add address=56.138.0.0/16 disabled=no list=route-aws@us-gov-west
 add address=56.139.0.0/16 disabled=no list=route-aws@us-gov-west
 add address=75.79.0.0/16 disabled=no list=route-aws@us-gov-west
