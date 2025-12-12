@@ -122,6 +122,8 @@ add address=56.229.0.0/16 disabled=no list=route-aws@eu-north-1
 add address=56.230.0.0/16 disabled=no list=route-aws@eu-north-1
 add address=56.231.0.0/16 disabled=no list=route-aws@eu-north-1
 add address=63.246.112.0/24 disabled=no list=route-aws@eu-north-1
+add address=69.107.11.0/29 disabled=no list=route-aws@eu-north-1
+add address=69.107.11.8/29 disabled=no list=route-aws@eu-north-1
 add address=80.126.0.0/24 disabled=no list=route-aws@eu-north-1
 add address=96.0.24.0/21 disabled=no list=route-aws@eu-north-1
 add address=96.0.32.0/22 disabled=no list=route-aws@eu-north-1

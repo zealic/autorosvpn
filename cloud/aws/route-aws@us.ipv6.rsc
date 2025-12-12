@@ -397,6 +397,8 @@ add address=2600:f0f0:6101::/48 disabled=no list=route-aws@us
 add address=2600:f0f0:6103::/48 disabled=no list=route-aws@us
 add address=2600:f0f0:6104::/48 disabled=no list=route-aws@us
 add address=2600:f0f0:6115::/48 disabled=no list=route-aws@us
+add address=2600:f0f0:6123::/48 disabled=no list=route-aws@us
+add address=2600:f0f0:6124::/48 disabled=no list=route-aws@us
 add address=2600:f0f0:8101::/48 disabled=no list=route-aws@us
 add address=2600:f0f0:8106::/48 disabled=no list=route-aws@us
 add address=2600:f0f0:a0::/48 disabled=no list=route-aws@us
