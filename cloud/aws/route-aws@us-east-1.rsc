@@ -977,5 +977,6 @@ add address=216.182.232.0/22 disabled=no list=route-aws@us-east-1
 add address=216.182.238.0/23 disabled=no list=route-aws@us-east-1
 add address=216.198.193.0/24 disabled=no list=route-aws@us-east-1
 add address=216.198.224.0/22 disabled=no list=route-aws@us-east-1
+add address=216.198.240.0/22 disabled=no list=route-aws@us-east-1
 add address=216.244.7.0/24 disabled=no list=route-aws@us-east-1
 add address=216.244.40.0/21 disabled=no list=route-aws@us-east-1
