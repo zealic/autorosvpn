@@ -248,6 +248,7 @@ add address=35.155.0.0/16 disabled=no list=route-aws@us-west-2
 add address=35.160.0.0/13 disabled=no list=route-aws@us-west-2
 add address=35.162.63.192/26 disabled=no list=route-aws@us-west-2
 add address=35.167.191.128/26 disabled=no list=route-aws@us-west-2
+add address=43.226.27.0/24 disabled=no list=route-aws@us-west-2
 add address=44.224.0.0/11 disabled=no list=route-aws@us-west-2
 add address=44.227.178.0/24 disabled=no list=route-aws@us-west-2
 add address=44.233.54.0/23 disabled=no list=route-aws@us-west-2

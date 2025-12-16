@@ -1192,6 +1192,8 @@ add address=104.255.56.23/32 disabled=no list=route-aws@us-east
 add address=104.255.56.24/32 disabled=no list=route-aws@us-east
 add address=104.255.56.25/32 disabled=no list=route-aws@us-east
 add address=104.255.56.26/32 disabled=no list=route-aws@us-east
+add address=104.255.56.27/32 disabled=no list=route-aws@us-east
+add address=104.255.56.28/32 disabled=no list=route-aws@us-east
 add address=104.255.56.29/32 disabled=no list=route-aws@us-east
 add address=104.255.57.0/32 disabled=no list=route-aws@us-east
 add address=104.255.57.41/32 disabled=no list=route-aws@us-east
