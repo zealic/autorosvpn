@@ -300,6 +300,7 @@ add address=52.95.255.96/28 disabled=no list=route-aws@us-west-1
 add address=52.119.176.0/21 disabled=no list=route-aws@us-west-1
 add address=52.144.194.192/26 disabled=no list=route-aws@us-west-1
 add address=52.144.205.0/26 disabled=no list=route-aws@us-west-1
+add address=52.219.23.0/24 disabled=no list=route-aws@us-west-1
 add address=52.219.24.0/21 disabled=no list=route-aws@us-west-1
 add address=52.219.112.0/21 disabled=no list=route-aws@us-west-1
 add address=52.219.120.0/22 disabled=no list=route-aws@us-west-1
