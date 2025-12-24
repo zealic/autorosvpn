@@ -4685,6 +4685,9 @@ add address=150.222.44.160/27 disabled=no list=route-aws@sa
 add address=150.222.50.224/27 disabled=no list=route-aws@sa
 add address=150.222.51.0/27 disabled=no list=route-aws@sa
 add address=150.222.51.32/27 disabled=no list=route-aws@sa
+add address=150.222.55.96/27 disabled=no list=route-aws@sa
+add address=150.222.55.128/27 disabled=no list=route-aws@sa
+add address=150.222.55.160/27 disabled=no list=route-aws@sa
 add address=150.222.69.0/24 disabled=no list=route-aws@sa
 add address=150.222.70.0/24 disabled=no list=route-aws@sa
 add address=150.222.228.0/24 disabled=no list=route-aws@sa
