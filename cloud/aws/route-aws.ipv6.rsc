@@ -4487,6 +4487,7 @@ add address=2631:0:1::/48 disabled=no list=route-aws
 add address=2631:0:1::/48 disabled=no list=route-aws
 add address=2631:0:2::/48 disabled=no list=route-aws
 add address=2631:0:3::/48 disabled=no list=route-aws
+add address=2631:0:4::/48 disabled=no list=route-aws
 add address=2631:1:4c00::/48 disabled=no list=route-aws
 add address=2631:1:4c00::/48 disabled=no list=route-aws
 add address=2631:1:4c40::/48 disabled=no list=route-aws

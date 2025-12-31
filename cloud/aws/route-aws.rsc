@@ -4533,6 +4533,7 @@ add address=35.97.0.0/20 disabled=no list=route-aws
 add address=35.97.0.0/20 disabled=no list=route-aws
 add address=35.97.128.0/24 disabled=no list=route-aws
 add address=35.97.129.0/24 disabled=no list=route-aws
+add address=35.97.130.0/24 disabled=no list=route-aws
 add address=35.111.128.0/22 disabled=no list=route-aws
 add address=35.111.128.0/22 disabled=no list=route-aws
 add address=35.111.132.0/22 disabled=no list=route-aws
