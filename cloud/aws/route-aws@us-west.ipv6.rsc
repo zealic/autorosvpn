@@ -305,6 +305,7 @@ add address=2620:108:700f::/64 disabled=no list=route-aws@us-west
 add address=2620:108:7000::/44 disabled=no list=route-aws@us-west
 add address=2631:0:1::/48 disabled=no list=route-aws@us-west
 add address=2631:0:2::/48 disabled=no list=route-aws@us-west
+add address=2631:0:1800::/39 disabled=no list=route-aws@us-west
 add address=2631:1:4f80::/48 disabled=no list=route-aws@us-west
 add address=2631:1:4fc0::/48 disabled=no list=route-aws@us-west
 add address=2631:1:4fc1::/48 disabled=no list=route-aws@us-west
