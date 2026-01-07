@@ -401,7 +401,13 @@ add address=2600:f0f0:c043::/48 disabled=no list=route-aws@eu
 add address=2600:f0f0:c044::/48 disabled=no list=route-aws@eu
 add address=2600:f0f0:c045::/48 disabled=no list=route-aws@eu
 add address=2600:f0f1:8b01::/48 disabled=no list=route-aws@eu
+add address=2600:f0f1:41c0::/42 disabled=no list=route-aws@eu
+add address=2600:f0f1:43c0::/42 disabled=no list=route-aws@eu
 add address=2600:f0f1:80::/48 disabled=no list=route-aws@eu
+add address=2600:f0f1:4000::/42 disabled=no list=route-aws@eu
+add address=2600:f0f1:4100::/42 disabled=no list=route-aws@eu
+add address=2600:f0f1:4200::/42 disabled=no list=route-aws@eu
+add address=2600:f0f1:4400::/42 disabled=no list=route-aws@eu
 add address=2600:f0f2:701c::/48 disabled=no list=route-aws@eu
 add address=2600:f0f2:701f::/48 disabled=no list=route-aws@eu
 add address=2600:f0f2:7015::/48 disabled=no list=route-aws@eu

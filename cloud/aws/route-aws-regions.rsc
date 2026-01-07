@@ -4479,6 +4479,7 @@ add address=150.222.53.160/27 disabled=no list=route-aws@mx
 add address=150.222.53.192/27 disabled=no list=route-aws@mx
 /ip firewall address-list remove [/ip firewall address-list find list="route-aws@sa"]
 /ip firewall address-list
+add address=1.178.95.0/24 disabled=no list=route-aws@sa
 add address=3.2.49.0/24 disabled=no list=route-aws@sa
 add address=3.2.80.0/24 disabled=no list=route-aws@sa
 add address=3.4.12.31/32 disabled=no list=route-aws@sa
