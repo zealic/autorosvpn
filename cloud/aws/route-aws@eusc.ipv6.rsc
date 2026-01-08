@@ -13,8 +13,12 @@ add address=2001:3fc5:800::/40 disabled=no list=route-aws@eusc
 add address=2001:3fc5:8800::/40 disabled=no list=route-aws@eusc
 add address=2001:3fc6:0:100::/56 disabled=no list=route-aws@eusc
 add address=2001:3fc6:8::/45 disabled=no list=route-aws@eusc
+add address=2001:3fc6:8::/47 disabled=no list=route-aws@eusc
 add address=2001:3fc6:100::/48 disabled=no list=route-aws@eusc
 add address=2001:3fc6::/56 disabled=no list=route-aws@eusc
+add address=2001:3fc6:a::/47 disabled=no list=route-aws@eusc
+add address=2001:3fc6:c::/47 disabled=no list=route-aws@eusc
+add address=2001:3fc6:e::/47 disabled=no list=route-aws@eusc
 add address=2001:3fc7:800::/40 disabled=no list=route-aws@eusc
 add address=2001:3fc7:1800::/40 disabled=no list=route-aws@eusc
 add address=2001:3fc7:2800::/40 disabled=no list=route-aws@eusc

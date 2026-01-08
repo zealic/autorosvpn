@@ -2,6 +2,7 @@
 /ip firewall address-list
 add address=1.178.7.0/24 disabled=no list=route-aws@eu
 add address=1.178.10.0/24 disabled=no list=route-aws@eu
+add address=1.178.17.0/24 disabled=no list=route-aws@eu
 add address=1.178.90.0/24 disabled=no list=route-aws@eu
 add address=1.178.93.0/24 disabled=no list=route-aws@eu
 add address=1.178.94.0/24 disabled=no list=route-aws@eu
@@ -734,6 +735,8 @@ add address=18.196.161.88/29 disabled=no list=route-aws@eu
 add address=18.196.161.184/29 disabled=no list=route-aws@eu
 add address=18.196.161.192/29 disabled=no list=route-aws@eu
 add address=18.196.161.200/29 disabled=no list=route-aws@eu
+add address=18.196.222.0/24 disabled=no list=route-aws@eu
+add address=18.196.223.0/24 disabled=no list=route-aws@eu
 add address=18.198.0.0/15 disabled=no list=route-aws@eu
 add address=18.199.68.0/22 disabled=no list=route-aws@eu
 add address=18.199.72.0/22 disabled=no list=route-aws@eu
@@ -901,6 +904,7 @@ add address=52.46.64.0/20 disabled=no list=route-aws@eu
 add address=52.46.80.0/21 disabled=no list=route-aws@eu
 add address=52.46.88.0/22 disabled=no list=route-aws@eu
 add address=52.46.92.0/22 disabled=no list=route-aws@eu
+add address=52.46.184.0/22 disabled=no list=route-aws@eu
 add address=52.46.192.0/20 disabled=no list=route-aws@eu
 add address=52.46.208.0/21 disabled=no list=route-aws@eu
 add address=52.46.220.0/22 disabled=no list=route-aws@eu

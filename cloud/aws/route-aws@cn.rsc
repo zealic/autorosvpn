@@ -60,6 +60,8 @@ add address=52.82.169.0/28 disabled=no list=route-aws@cn
 add address=52.82.169.16/28 disabled=no list=route-aws@cn
 add address=52.82.170.0/24 disabled=no list=route-aws@cn
 add address=52.82.171.0/24 disabled=no list=route-aws@cn
+add address=52.82.176.0/22 disabled=no list=route-aws@cn
+add address=52.82.180.0/22 disabled=no list=route-aws@cn
 add address=52.82.184.0/23 disabled=no list=route-aws@cn
 add address=52.82.187.0/24 disabled=no list=route-aws@cn
 add address=52.82.188.0/22 disabled=no list=route-aws@cn
@@ -101,6 +103,8 @@ add address=52.93.127.103/32 disabled=no list=route-aws@cn
 add address=52.93.127.104/32 disabled=no list=route-aws@cn
 add address=52.93.127.105/32 disabled=no list=route-aws@cn
 add address=54.222.0.0/19 disabled=no list=route-aws@cn
+add address=54.222.32.0/22 disabled=no list=route-aws@cn
+add address=54.222.36.0/22 disabled=no list=route-aws@cn
 add address=54.222.48.0/22 disabled=no list=route-aws@cn
 add address=54.222.52.0/22 disabled=no list=route-aws@cn
 add address=54.222.57.0/24 disabled=no list=route-aws@cn

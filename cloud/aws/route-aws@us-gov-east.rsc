@@ -2,6 +2,8 @@
 /ip firewall address-list
 add address=3.2.100.0/24 disabled=no list=route-aws@us-gov-east
 add address=3.4.24.0/21 disabled=no list=route-aws@us-gov-east
+add address=3.4.24.0/23 disabled=no list=route-aws@us-gov-east
+add address=3.4.26.0/23 disabled=no list=route-aws@us-gov-east
 add address=16.64.0.0/17 disabled=no list=route-aws@us-gov-east
 add address=16.64.36.0/23 disabled=no list=route-aws@us-gov-east
 add address=16.64.102.0/23 disabled=no list=route-aws@us-gov-east

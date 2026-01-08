@@ -404,6 +404,7 @@ add address=2600:f0f1:8b01::/48 disabled=no list=route-aws@eu
 add address=2600:f0f1:41c0::/42 disabled=no list=route-aws@eu
 add address=2600:f0f1:43c0::/42 disabled=no list=route-aws@eu
 add address=2600:f0f1:80::/48 disabled=no list=route-aws@eu
+add address=2600:f0f1:87::/48 disabled=no list=route-aws@eu
 add address=2600:f0f1:4000::/42 disabled=no list=route-aws@eu
 add address=2600:f0f1:4100::/42 disabled=no list=route-aws@eu
 add address=2600:f0f1:4200::/42 disabled=no list=route-aws@eu
