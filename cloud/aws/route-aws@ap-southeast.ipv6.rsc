@@ -288,13 +288,17 @@ add address=2600:f0f0:c049::/48 disabled=no list=route-aws@ap-southeast
 add address=2600:f0f0:e2e::/48 disabled=no list=route-aws@ap-southeast
 add address=2600:f0f0:e2f::/48 disabled=no list=route-aws@ap-southeast
 add address=2600:f0f0:e30::/48 disabled=no list=route-aws@ap-southeast
+add address=2600:f0f1:8e::/48 disabled=no list=route-aws@ap-southeast
 add address=2600:f0f1:84::/48 disabled=no list=route-aws@ap-southeast
+add address=2600:f0f1:89::/48 disabled=no list=route-aws@ap-southeast
 add address=2600:f0f1:4380::/42 disabled=no list=route-aws@ap-southeast
 add address=2600:f0f1:4500::/42 disabled=no list=route-aws@ap-southeast
 add address=2600:f0f1:4540::/42 disabled=no list=route-aws@ap-southeast
 add address=2600:f0f1:4840::/42 disabled=no list=route-aws@ap-southeast
 add address=2600:f0f2:701b::/48 disabled=no list=route-aws@ap-southeast
 add address=2600:f0f2:7019::/48 disabled=no list=route-aws@ap-southeast
+add address=2600:f0f2:7021::/48 disabled=no list=route-aws@ap-southeast
+add address=2600:f0f2:7022::/48 disabled=no list=route-aws@ap-southeast
 add address=2600:f0f2:7105::/48 disabled=no list=route-aws@ap-southeast
 add address=2600:f0f2:7107::/48 disabled=no list=route-aws@ap-southeast
 add address=2600:f0fb:f026::/48 disabled=no list=route-aws@ap-southeast
