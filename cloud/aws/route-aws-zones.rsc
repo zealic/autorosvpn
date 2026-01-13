@@ -4066,6 +4066,7 @@ add address=31.220.247.0/24 disabled=no list=route-aws@global
 add address=35.55.0.0/17 disabled=no list=route-aws@global
 add address=35.71.128.0/17 disabled=no list=route-aws@global
 add address=35.97.0.0/20 disabled=no list=route-aws@global
+add address=35.97.16.0/20 disabled=no list=route-aws@global
 add address=36.103.232.0/25 disabled=no list=route-aws@global
 add address=36.103.232.128/26 disabled=no list=route-aws@global
 add address=40.168.224.0/24 disabled=no list=route-aws@global
