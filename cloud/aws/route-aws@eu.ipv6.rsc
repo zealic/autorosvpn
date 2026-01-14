@@ -198,6 +198,15 @@ add address=2a05:d06a:9000::/40 disabled=no list=route-aws@eu
 add address=2a05:d06a:a000::/40 disabled=no list=route-aws@eu
 add address=2a05:d06a:b000::/40 disabled=no list=route-aws@eu
 add address=2a05:d06a:c000::/40 disabled=no list=route-aws@eu
+add address=2a05:d06b:1000::/40 disabled=no list=route-aws@eu
+add address=2a05:d06b:2000::/40 disabled=no list=route-aws@eu
+add address=2a05:d06b:4000::/40 disabled=no list=route-aws@eu
+add address=2a05:d06b:6000::/40 disabled=no list=route-aws@eu
+add address=2a05:d06b:8000::/40 disabled=no list=route-aws@eu
+add address=2a05:d06b:9000::/40 disabled=no list=route-aws@eu
+add address=2a05:d06b:a000::/40 disabled=no list=route-aws@eu
+add address=2a05:d06b:b000::/40 disabled=no list=route-aws@eu
+add address=2a05:d06b:c000::/40 disabled=no list=route-aws@eu
 add address=2a05:d06f:1000::/40 disabled=no list=route-aws@eu
 add address=2a05:d06f:2000::/40 disabled=no list=route-aws@eu
 add address=2a05:d06f:4000::/40 disabled=no list=route-aws@eu

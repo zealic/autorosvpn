@@ -734,6 +734,7 @@ add address=18.99.75.128/25 disabled=no list=route-aws@ap
 add address=18.99.160.0/20 disabled=no list=route-aws@ap
 add address=18.99.176.0/20 disabled=no list=route-aws@ap
 add address=18.99.192.0/20 disabled=no list=route-aws@ap
+add address=18.99.193.0/25 disabled=no list=route-aws@ap
 add address=18.136.0.0/16 disabled=no list=route-aws@ap
 add address=18.136.1.192/27 disabled=no list=route-aws@ap
 add address=18.136.1.224/27 disabled=no list=route-aws@ap
