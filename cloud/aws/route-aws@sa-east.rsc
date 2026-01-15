@@ -155,6 +155,7 @@ add address=52.95.164.0/23 disabled=no list=route-aws@sa-east
 add address=52.95.240.0/24 disabled=no list=route-aws@sa-east
 add address=52.95.255.0/28 disabled=no list=route-aws@sa-east
 add address=54.20.0.0/15 disabled=no list=route-aws@sa-east
+add address=54.20.12.0/23 disabled=no list=route-aws@sa-east
 add address=54.94.0.0/16 disabled=no list=route-aws@sa-east
 add address=54.207.0.0/16 disabled=no list=route-aws@sa-east
 add address=54.232.0.0/16 disabled=no list=route-aws@sa-east

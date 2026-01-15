@@ -1418,6 +1418,7 @@ add address=2001:3fc6:e::/47 disabled=no list=route-aws@eusc-de-east
 add address=2001:3fc7:800::/40 disabled=no list=route-aws@eusc-de-east
 add address=2001:3fc7:1800::/40 disabled=no list=route-aws@eusc-de-east
 add address=2001:3fc7:2800::/40 disabled=no list=route-aws@eusc-de-east
+add address=2001:3fc7:3000::/40 disabled=no list=route-aws@eusc-de-east
 add address=2001:3fc7:4800::/40 disabled=no list=route-aws@eusc-de-east
 add address=2001:3fc7:5800::/40 disabled=no list=route-aws@eusc-de-east
 add address=2001:3fc7:6800::/40 disabled=no list=route-aws@eusc-de-east
@@ -2123,6 +2124,7 @@ add address=2600:1ffa:5000::/40 disabled=no list=route-aws@us-gov-east
 add address=2600:1ffc:5000::/40 disabled=no list=route-aws@us-gov-east
 add address=2600:1ffe:5000::/40 disabled=no list=route-aws@us-gov-east
 add address=2600:1fff:5000::/40 disabled=no list=route-aws@us-gov-east
+add address=2600:f0f0:78::/45 disabled=no list=route-aws@us-gov-east
 add address=2600:f0f0:4141::/48 disabled=no list=route-aws@us-gov-east
 add address=2600:f0f0:6124::/48 disabled=no list=route-aws@us-gov-east
 add address=2606:8140:200::/40 disabled=no list=route-aws@us-gov-east
@@ -2158,7 +2160,7 @@ add address=2600:1ffa:2000::/40 disabled=no list=route-aws@us-gov-west
 add address=2600:1ffc:2000::/40 disabled=no list=route-aws@us-gov-west
 add address=2600:1ffe:2000::/40 disabled=no list=route-aws@us-gov-west
 add address=2600:1fff:2000::/40 disabled=no list=route-aws@us-gov-west
-add address=2600:f0f0:70::/44 disabled=no list=route-aws@us-gov-west
+add address=2600:f0f0:70::/45 disabled=no list=route-aws@us-gov-west
 add address=2600:f0f0:4140::/48 disabled=no list=route-aws@us-gov-west
 add address=2600:f0f0:6123::/48 disabled=no list=route-aws@us-gov-west
 add address=2600:f0f2:7140::/48 disabled=no list=route-aws@us-gov-west

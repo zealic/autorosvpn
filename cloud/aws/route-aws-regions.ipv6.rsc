@@ -1402,6 +1402,7 @@ add address=2001:3fc6:e::/47 disabled=no list=route-aws@eusc
 add address=2001:3fc7:800::/40 disabled=no list=route-aws@eusc
 add address=2001:3fc7:1800::/40 disabled=no list=route-aws@eusc
 add address=2001:3fc7:2800::/40 disabled=no list=route-aws@eusc
+add address=2001:3fc7:3000::/40 disabled=no list=route-aws@eusc
 add address=2001:3fc7:4800::/40 disabled=no list=route-aws@eusc
 add address=2001:3fc7:5800::/40 disabled=no list=route-aws@eusc
 add address=2001:3fc7:6800::/40 disabled=no list=route-aws@eusc
@@ -2111,7 +2112,8 @@ add address=2600:f0f0:11ff::/48 disabled=no list=route-aws@us
 add address=2600:f0f0:30::/44 disabled=no list=route-aws@us
 add address=2600:f0f0:30e::/48 disabled=no list=route-aws@us
 add address=2600:f0f0:60::/44 disabled=no list=route-aws@us
-add address=2600:f0f0:70::/44 disabled=no list=route-aws@us
+add address=2600:f0f0:70::/45 disabled=no list=route-aws@us
+add address=2600:f0f0:78::/45 disabled=no list=route-aws@us
 add address=2600:f0f0:80::/48 disabled=no list=route-aws@us
 add address=2600:f0f0:81::/48 disabled=no list=route-aws@us
 add address=2600:f0f0:85::/48 disabled=no list=route-aws@us

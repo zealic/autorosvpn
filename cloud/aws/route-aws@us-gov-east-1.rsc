@@ -66,6 +66,7 @@ add address=52.94.249.112/28 disabled=no list=route-aws@us-gov-east-1
 add address=54.239.1.64/28 disabled=no list=route-aws@us-gov-east-1
 add address=99.77.183.0/24 disabled=no list=route-aws@us-gov-east-1
 add address=99.151.96.0/21 disabled=no list=route-aws@us-gov-east-1
+add address=103.13.189.0/24 disabled=no list=route-aws@us-gov-east-1
 add address=108.175.52.0/22 disabled=no list=route-aws@us-gov-east-1
 add address=108.175.60.0/22 disabled=no list=route-aws@us-gov-east-1
 add address=182.28.0.0/16 disabled=no list=route-aws@us-gov-east-1
