@@ -1401,6 +1401,8 @@ add address=69.107.11.16/29 disabled=no list=route-aws@eu
 add address=69.107.11.24/29 disabled=no list=route-aws@eu
 add address=69.107.11.32/29 disabled=no list=route-aws@eu
 add address=69.107.11.40/29 disabled=no list=route-aws@eu
+add address=69.107.11.80/29 disabled=no list=route-aws@eu
+add address=69.107.11.88/29 disabled=no list=route-aws@eu
 add address=70.232.96.0/20 disabled=no list=route-aws@eu
 add address=70.232.112.0/21 disabled=no list=route-aws@eu
 add address=70.232.120.0/22 disabled=no list=route-aws@eu

@@ -32,4 +32,3 @@ add address=2600:f0f0:611b::/48 disabled=no list=route-aws@ap-southeast-5
 add address=2600:f0f0:8103::/48 disabled=no list=route-aws@ap-southeast-5
 add address=2600:f0f1:84::/48 disabled=no list=route-aws@ap-southeast-5
 add address=2600:f0f1:4380::/42 disabled=no list=route-aws@ap-southeast-5
-add address=2600:f0f2:7021::/48 disabled=no list=route-aws@ap-southeast-5
