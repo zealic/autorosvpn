@@ -1,5 +1,6 @@
 /ip firewall address-list remove [/ip firewall address-list find list="route-gcp@me"]
 /ip firewall address-list
+add address=8.228.192.0/19 disabled=no list=route-gcp@me
 add address=34.0.64.0/19 disabled=no list=route-gcp@me
 add address=34.1.32.0/20 disabled=no list=route-gcp@me
 add address=34.1.48.0/20 disabled=no list=route-gcp@me
