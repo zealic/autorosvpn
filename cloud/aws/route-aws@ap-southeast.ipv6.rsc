@@ -314,7 +314,13 @@ add address=2600:f0fb:f026::/48 disabled=no list=route-aws@ap-southeast
 add address=2600:f0fb:f027::/48 disabled=no list=route-aws@ap-southeast
 add address=2600:f0fb:f10e::/48 disabled=no list=route-aws@ap-southeast
 add address=2600:f0fb:f105::/48 disabled=no list=route-aws@ap-southeast
+add address=2606:7b40:1b05:4000::/56 disabled=no list=route-aws@ap-southeast
+add address=2606:7b40:1b07:100::/56 disabled=no list=route-aws@ap-southeast
 add address=2606:7b40:1b07:4000::/56 disabled=no list=route-aws@ap-southeast
+add address=2606:7b40:1b07:4100::/56 disabled=no list=route-aws@ap-southeast
+add address=2606:7b40:1b07:4200::/56 disabled=no list=route-aws@ap-southeast
+add address=2606:7b40:1b07::/56 disabled=no list=route-aws@ap-southeast
+add address=2606:7b40:1b07:c000::/56 disabled=no list=route-aws@ap-southeast
 add address=2606:7b40:10ff:80::/59 disabled=no list=route-aws@ap-southeast
 add address=2606:f40:2a00::/40 disabled=no list=route-aws@ap-southeast
 add address=2606:f40:2800::/40 disabled=no list=route-aws@ap-southeast

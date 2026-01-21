@@ -50,6 +50,7 @@ add address=2600:f0f1:44c0::/42 disabled=no list=route-aws@us-west-1
 add address=2600:f0f1:82::/48 disabled=no list=route-aws@us-west-1
 add address=2606:7b40:1b00:500::/56 disabled=no list=route-aws@us-west-1
 add address=2606:7b40:1b0f:8000::/56 disabled=no list=route-aws@us-west-1
+add address=2606:7b40:1b0f:8100::/56 disabled=no list=route-aws@us-west-1
 add address=2606:f40:8a00::/40 disabled=no list=route-aws@us-west-1
 add address=2606:f40:a00::/40 disabled=no list=route-aws@us-west-1
 add address=2606:f40:ffeb::/48 disabled=no list=route-aws@us-west-1

@@ -82,6 +82,7 @@ add address=2600:f0f1:81::/48 disabled=no list=route-aws@sa
 add address=2600:f0f1:4240::/42 disabled=no list=route-aws@sa
 add address=2606:7b40:1b09:100::/56 disabled=no list=route-aws@sa
 add address=2606:7b40:1b09:200::/56 disabled=no list=route-aws@sa
+add address=2606:7b40:1b09:300::/56 disabled=no list=route-aws@sa
 add address=2606:7b40:1b09::/56 disabled=no list=route-aws@sa
 add address=2606:7b40:10ff:40::/59 disabled=no list=route-aws@sa
 add address=2606:f40:3e00::/40 disabled=no list=route-aws@sa

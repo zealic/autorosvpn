@@ -1503,6 +1503,7 @@ add address=43.221.0.0/16 disabled=no list=route-aws@ap-southeast
 add address=43.249.44.0/24 disabled=no list=route-aws@ap-southeast
 add address=43.250.192.0/24 disabled=no list=route-aws@ap-southeast
 add address=43.250.193.0/24 disabled=no list=route-aws@ap-southeast
+add address=45.33.164.0/24 disabled=no list=route-aws@ap-southeast
 add address=45.57.128.0/18 disabled=no list=route-aws@ap-southeast
 add address=46.51.216.0/21 disabled=no list=route-aws@ap-southeast
 add address=46.137.192.0/19 disabled=no list=route-aws@ap-southeast
@@ -1687,6 +1688,8 @@ add address=69.107.10.16/29 disabled=no list=route-aws@ap-southeast
 add address=69.107.10.24/29 disabled=no list=route-aws@ap-southeast
 add address=69.107.10.112/29 disabled=no list=route-aws@ap-southeast
 add address=69.107.10.120/29 disabled=no list=route-aws@ap-southeast
+add address=69.107.12.0/29 disabled=no list=route-aws@ap-southeast
+add address=69.107.12.8/29 disabled=no list=route-aws@ap-southeast
 add address=70.232.64.0/20 disabled=no list=route-aws@ap-southeast
 add address=70.232.80.0/21 disabled=no list=route-aws@ap-southeast
 add address=70.232.86.124/32 disabled=no list=route-aws@ap-southeast
@@ -5989,6 +5992,8 @@ add address=104.255.56.26/32 disabled=no list=route-aws@us-east
 add address=104.255.56.27/32 disabled=no list=route-aws@us-east
 add address=104.255.56.28/32 disabled=no list=route-aws@us-east
 add address=104.255.56.29/32 disabled=no list=route-aws@us-east
+add address=104.255.56.51/32 disabled=no list=route-aws@us-east
+add address=104.255.56.52/32 disabled=no list=route-aws@us-east
 add address=104.255.57.0/32 disabled=no list=route-aws@us-east
 add address=104.255.57.41/32 disabled=no list=route-aws@us-east
 add address=104.255.57.164/32 disabled=no list=route-aws@us-east
@@ -6321,6 +6326,7 @@ add address=182.30.85.128/25 disabled=no list=route-aws@us-gov-east
 add address=182.30.157.0/26 disabled=no list=route-aws@us-gov-east
 /ip firewall address-list remove [/ip firewall address-list find list="route-aws@us-gov-west"]
 /ip firewall address-list
+add address=1.178.30.0/24 disabled=no list=route-aws@us-gov-west
 add address=3.2.99.0/24 disabled=no list=route-aws@us-gov-west
 add address=3.4.16.0/21 disabled=no list=route-aws@us-gov-west
 add address=3.30.0.0/15 disabled=no list=route-aws@us-gov-west
