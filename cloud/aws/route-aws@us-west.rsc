@@ -888,6 +888,7 @@ add address=168.185.7.0/24 disabled=no list=route-aws@us-west
 add address=168.192.0.0/15 disabled=no list=route-aws@us-west
 add address=173.83.204.0/23 disabled=no list=route-aws@us-west
 add address=173.83.209.0/24 disabled=no list=route-aws@us-west
+add address=173.83.224.0/22 disabled=no list=route-aws@us-west
 add address=176.32.112.0/21 disabled=no list=route-aws@us-west
 add address=176.32.125.0/25 disabled=no list=route-aws@us-west
 add address=184.32.0.0/14 disabled=no list=route-aws@us-west
