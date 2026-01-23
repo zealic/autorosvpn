@@ -4106,6 +4106,10 @@ add address=2600:f0f2:7023::/48 disabled=no list=route-aws
 add address=2600:f0f2:7023::/48 disabled=no list=route-aws
 add address=2600:f0f2:7025::/48 disabled=no list=route-aws
 add address=2600:f0f2:7025::/48 disabled=no list=route-aws
+add address=2600:f0f2:7028::/48 disabled=no list=route-aws
+add address=2600:f0f2:7028::/48 disabled=no list=route-aws
+add address=2600:f0f2:7029::/48 disabled=no list=route-aws
+add address=2600:f0f2:7029::/48 disabled=no list=route-aws
 add address=2600:f0f2:7100::/40 disabled=no list=route-aws
 add address=2600:f0f2:7100::/40 disabled=no list=route-aws
 add address=2600:f0f2:7100::/48 disabled=no list=route-aws
