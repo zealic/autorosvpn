@@ -6223,6 +6223,9 @@ add address=150.242.248.0/22 disabled=no list=chnroutes
 add address=150.248.0.0/16 disabled=no list=chnroutes
 add address=150.255.0.0/16 disabled=no list=chnroutes
 add address=151.158.14.0/23 disabled=no list=chnroutes
+add address=151.158.72.0/23 disabled=no list=chnroutes
+add address=151.158.78.0/23 disabled=no list=chnroutes
+add address=151.158.80.0/23 disabled=no list=chnroutes
 add address=152.104.128.0/17 disabled=no list=chnroutes
 add address=152.136.0.0/16 disabled=no list=chnroutes
 add address=153.0.0.0/16 disabled=no list=chnroutes

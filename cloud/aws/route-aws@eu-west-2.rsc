@@ -273,6 +273,7 @@ add address=64.252.82.0/24 disabled=no list=route-aws@eu-west-2
 add address=64.252.83.0/24 disabled=no list=route-aws@eu-west-2
 add address=64.252.84.0/24 disabled=no list=route-aws@eu-west-2
 add address=64.252.85.0/24 disabled=no list=route-aws@eu-west-2
+add address=65.176.0.0/15 disabled=no list=route-aws@eu-west-2
 add address=69.107.10.240/29 disabled=no list=route-aws@eu-west-2
 add address=69.107.10.248/29 disabled=no list=route-aws@eu-west-2
 add address=69.107.11.32/29 disabled=no list=route-aws@eu-west-2

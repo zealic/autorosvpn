@@ -1425,6 +1425,7 @@ add address=2001:3fc4:800::/40 disabled=no list=route-aws@eusc
 add address=2001:3fc5:800::/40 disabled=no list=route-aws@eusc
 add address=2001:3fc5:8800::/40 disabled=no list=route-aws@eusc
 add address=2001:3fc6:0:100::/56 disabled=no list=route-aws@eusc
+add address=2001:3fc6:1::/48 disabled=no list=route-aws@eusc
 add address=2001:3fc6:8::/45 disabled=no list=route-aws@eusc
 add address=2001:3fc6:8::/47 disabled=no list=route-aws@eusc
 add address=2001:3fc6:100::/48 disabled=no list=route-aws@eusc

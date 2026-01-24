@@ -1426,6 +1426,7 @@ add address=65.1.174.0/23 disabled=no list=route-aws@ap
 add address=65.2.14.0/23 disabled=no list=route-aws@ap
 add address=65.2.16.0/23 disabled=no list=route-aws@ap
 add address=65.2.192.0/26 disabled=no list=route-aws@ap
+add address=65.178.0.0/15 disabled=no list=route-aws@ap
 add address=69.107.6.160/29 disabled=no list=route-aws@ap
 add address=69.107.6.168/29 disabled=no list=route-aws@ap
 add address=69.107.6.200/29 disabled=no list=route-aws@ap
