@@ -12,15 +12,3 @@ add address=2600:1900:4280::/44 disabled=no list=route-gcp@us
 add address=2600:1901:8130::/44 disabled=no list=route-gcp@us
 add address=2600:1901:8140::/44 disabled=no list=route-gcp@us
 add address=2600:1901:8150::/44 disabled=no list=route-gcp@us
-add address=2600:1902:2a0::/44 disabled=no list=route-gcp@us
-add address=2600:1902:2b0::/44 disabled=no list=route-gcp@us
-add address=2600:1902:2c0::/44 disabled=no list=route-gcp@us
-add address=2600:1902:2d0::/44 disabled=no list=route-gcp@us
-add address=2600:1902:220::/44 disabled=no list=route-gcp@us
-add address=2600:1902:230::/44 disabled=no list=route-gcp@us
-add address=2600:1902:250::/44 disabled=no list=route-gcp@us
-add address=2600:1902:260::/44 disabled=no list=route-gcp@us
-add address=2600:1902:270::/44 disabled=no list=route-gcp@us
-add address=2600:1902:280::/44 disabled=no list=route-gcp@us
-add address=2600:1902:290::/44 disabled=no list=route-gcp@us
-add address=2600:1902::/44 disabled=no list=route-gcp@us

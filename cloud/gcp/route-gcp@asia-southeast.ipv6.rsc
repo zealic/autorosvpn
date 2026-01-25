@@ -3,5 +3,3 @@
 add address=2600:1900:42e0::/44 disabled=no list=route-gcp@asia-southeast
 add address=2600:1900:4080::/44 disabled=no list=route-gcp@asia-southeast
 add address=2600:1901:8170::/44 disabled=no list=route-gcp@asia-southeast
-add address=2600:1902:90::/44 disabled=no list=route-gcp@asia-southeast
-add address=2600:1902:a0::/44 disabled=no list=route-gcp@asia-southeast

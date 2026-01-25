@@ -124,6 +124,8 @@ add address=40.177.52.0/23 disabled=no list=route-aws@ca
 add address=40.178.0.0/15 disabled=no list=route-aws@ca
 add address=40.186.0.0/16 disabled=no list=route-aws@ca
 add address=40.187.0.0/16 disabled=no list=route-aws@ca
+add address=40.188.0.0/16 disabled=no list=route-aws@ca
+add address=40.201.0.0/16 disabled=no list=route-aws@ca
 add address=52.60.0.0/16 disabled=no list=route-aws@ca
 add address=52.93.5.0/24 disabled=no list=route-aws@ca
 add address=52.93.45.128/25 disabled=no list=route-aws@ca

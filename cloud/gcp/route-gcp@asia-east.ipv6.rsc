@@ -2,5 +2,3 @@
 /ipv6 firewall address-list
 add address=2600:1900:41a0::/44 disabled=no list=route-gcp@asia-east
 add address=2600:1900:4030::/44 disabled=no list=route-gcp@asia-east
-add address=2600:1902:20::/44 disabled=no list=route-gcp@asia-east
-add address=2600:1902:30::/44 disabled=no list=route-gcp@asia-east

@@ -14,16 +14,3 @@ add address=2600:1901:81f0::/44 disabled=no list=route-gcp@europe
 add address=2600:1901:8100::/44 disabled=no list=route-gcp@europe
 add address=2600:1901:8110::/44 disabled=no list=route-gcp@europe
 add address=2600:1901:8120::/44 disabled=no list=route-gcp@europe
-add address=2600:1902:100::/44 disabled=no list=route-gcp@europe
-add address=2600:1902:110::/44 disabled=no list=route-gcp@europe
-add address=2600:1902:120::/44 disabled=no list=route-gcp@europe
-add address=2600:1902:130::/44 disabled=no list=route-gcp@europe
-add address=2600:1902:140::/44 disabled=no list=route-gcp@europe
-add address=2600:1902:150::/44 disabled=no list=route-gcp@europe
-add address=2600:1902:160::/44 disabled=no list=route-gcp@europe
-add address=2600:1902:170::/44 disabled=no list=route-gcp@europe
-add address=2600:1902:180::/44 disabled=no list=route-gcp@europe
-add address=2600:1902:190::/44 disabled=no list=route-gcp@europe
-add address=2600:1902:d0::/44 disabled=no list=route-gcp@europe
-add address=2600:1902:e0::/44 disabled=no list=route-gcp@europe
-add address=2600:1902:f0::/44 disabled=no list=route-gcp@europe

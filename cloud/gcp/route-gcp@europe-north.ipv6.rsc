@@ -2,5 +2,3 @@
 /ipv6 firewall address-list
 add address=2600:1900:42a0::/44 disabled=no list=route-gcp@europe-north
 add address=2600:1900:4150::/44 disabled=no list=route-gcp@europe-north
-add address=2600:1902:e0::/44 disabled=no list=route-gcp@europe-north
-add address=2600:1902:f0::/44 disabled=no list=route-gcp@europe-north
