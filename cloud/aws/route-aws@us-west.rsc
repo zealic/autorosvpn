@@ -370,6 +370,7 @@ add address=35.96.245.0/24 disabled=no list=route-aws@us-west
 add address=35.96.249.0/24 disabled=no list=route-aws@us-west
 add address=35.96.255.0/24 disabled=no list=route-aws@us-west
 add address=35.97.129.0/24 disabled=no list=route-aws@us-west
+add address=35.97.131.0/24 disabled=no list=route-aws@us-west
 add address=35.97.192.0/24 disabled=no list=route-aws@us-west
 add address=35.111.254.0/24 disabled=no list=route-aws@us-west
 add address=35.155.0.0/16 disabled=no list=route-aws@us-west

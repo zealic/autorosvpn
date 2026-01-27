@@ -78,6 +78,7 @@ add address=3.27.127.184/29 disabled=no list=route-aws@ap-southeast
 add address=3.27.176.0/22 disabled=no list=route-aws@ap-southeast
 add address=3.44.0.0/18 disabled=no list=route-aws@ap-southeast
 add address=3.44.64.0/18 disabled=no list=route-aws@ap-southeast
+add address=3.44.64.128/25 disabled=no list=route-aws@ap-southeast
 add address=3.102.0.0/15 disabled=no list=route-aws@ap-southeast
 add address=3.102.38.0/24 disabled=no list=route-aws@ap-southeast
 add address=3.102.47.0/24 disabled=no list=route-aws@ap-southeast
@@ -581,6 +582,8 @@ add address=54.255.0.0/16 disabled=no list=route-aws@ap-southeast
 add address=54.255.254.192/26 disabled=no list=route-aws@ap-southeast
 add address=56.10.0.0/16 disabled=no list=route-aws@ap-southeast
 add address=56.11.0.0/16 disabled=no list=route-aws@ap-southeast
+add address=56.61.0.0/16 disabled=no list=route-aws@ap-southeast
+add address=56.62.0.0/16 disabled=no list=route-aws@ap-southeast
 add address=56.68.0.0/17 disabled=no list=route-aws@ap-southeast
 add address=56.68.33.32/28 disabled=no list=route-aws@ap-southeast
 add address=56.68.33.56/29 disabled=no list=route-aws@ap-southeast
@@ -597,6 +600,7 @@ add address=56.128.0.0/16 disabled=no list=route-aws@ap-southeast
 add address=56.129.0.0/16 disabled=no list=route-aws@ap-southeast
 add address=56.130.0.0/16 disabled=no list=route-aws@ap-southeast
 add address=56.131.0.0/16 disabled=no list=route-aws@ap-southeast
+add address=64.232.0.0/16 disabled=no list=route-aws@ap-southeast
 add address=64.252.102.0/24 disabled=no list=route-aws@ap-southeast
 add address=64.252.103.0/24 disabled=no list=route-aws@ap-southeast
 add address=64.252.104.0/24 disabled=no list=route-aws@ap-southeast
@@ -605,6 +609,7 @@ add address=64.252.106.0/24 disabled=no list=route-aws@ap-southeast
 add address=64.252.107.0/24 disabled=no list=route-aws@ap-southeast
 add address=64.252.108.0/24 disabled=no list=route-aws@ap-southeast
 add address=64.252.109.0/24 disabled=no list=route-aws@ap-southeast
+add address=65.4.0.0/16 disabled=no list=route-aws@ap-southeast
 add address=65.178.0.0/15 disabled=no list=route-aws@ap-southeast
 add address=69.107.6.160/29 disabled=no list=route-aws@ap-southeast
 add address=69.107.6.168/29 disabled=no list=route-aws@ap-southeast

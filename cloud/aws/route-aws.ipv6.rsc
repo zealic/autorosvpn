@@ -1046,6 +1046,7 @@ add address=2406:da1c:8000::/36 disabled=no list=route-aws
 add address=2406:da1c:8000::/36 disabled=no list=route-aws
 add address=2406:da1c::/35 disabled=no list=route-aws
 add address=2406:da1c::/35 disabled=no list=route-aws
+add address=2406:da1c:b86:9800::/56 disabled=no list=route-aws
 add address=2406:da1c:fff:f800::/56 disabled=no list=route-aws
 add address=2406:da1d::/36 disabled=no list=route-aws
 add address=2406:da1d::/36 disabled=no list=route-aws
@@ -2207,6 +2208,7 @@ add address=2600:1f11::/36 disabled=no list=route-aws
 add address=2600:1f11:ae3:700::/56 disabled=no list=route-aws
 add address=2600:1f11:c000::/36 disabled=no list=route-aws
 add address=2600:1f11:c000::/36 disabled=no list=route-aws
+add address=2600:1f11:e4a:df00::/56 disabled=no list=route-aws
 add address=2600:1f12:4000::/36 disabled=no list=route-aws
 add address=2600:1f12:4000::/36 disabled=no list=route-aws
 add address=2600:1f12:8000::/36 disabled=no list=route-aws
@@ -3397,6 +3399,7 @@ add address=2600:f0f0:600::/55 disabled=no list=route-aws
 add address=2600:f0f0:600::/55 disabled=no list=route-aws
 add address=2600:f0f0:610a::/48 disabled=no list=route-aws
 add address=2600:f0f0:610a::/48 disabled=no list=route-aws
+add address=2600:f0f0:610a::/48 disabled=no list=route-aws
 add address=2600:f0f0:610b::/48 disabled=no list=route-aws
 add address=2600:f0f0:610b::/48 disabled=no list=route-aws
 add address=2600:f0f0:610c::/48 disabled=no list=route-aws
@@ -3687,6 +3690,8 @@ add address=2600:f0f0:6102::/48 disabled=no list=route-aws
 add address=2600:f0f0:6102::/48 disabled=no list=route-aws
 add address=2600:f0f0:6103::/48 disabled=no list=route-aws
 add address=2600:f0f0:6103::/48 disabled=no list=route-aws
+add address=2600:f0f0:6103::/48 disabled=no list=route-aws
+add address=2600:f0f0:6104::/48 disabled=no list=route-aws
 add address=2600:f0f0:6104::/48 disabled=no list=route-aws
 add address=2600:f0f0:6104::/48 disabled=no list=route-aws
 add address=2600:f0f0:6105::/48 disabled=no list=route-aws
