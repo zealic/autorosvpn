@@ -822,6 +822,7 @@ add address=35.96.250.0/24 disabled=no list=route-aws@eu
 add address=35.97.128.0/24 disabled=no list=route-aws@eu
 add address=35.97.130.0/24 disabled=no list=route-aws@eu
 add address=35.97.193.0/24 disabled=no list=route-aws@eu
+add address=35.97.194.0/24 disabled=no list=route-aws@eu
 add address=35.152.0.0/16 disabled=no list=route-aws@eu
 add address=35.152.74.128/29 disabled=no list=route-aws@eu
 add address=35.152.74.136/30 disabled=no list=route-aws@eu

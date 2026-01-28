@@ -128,12 +128,12 @@ add address=2600:1ff4:8000::/39 disabled=no list=route-aws@us-east
 add address=2600:1ff5:8000::/39 disabled=no list=route-aws@us-east
 add address=2600:1ff6:6000::/40 disabled=no list=route-aws@us-east
 add address=2600:1ff6:8000::/39 disabled=no list=route-aws@us-east
+add address=2600:1ff8:2c00::/40 disabled=no list=route-aws@us-east
 add address=2600:1ff8:6000::/40 disabled=no list=route-aws@us-east
-add address=2600:1ff8:8000::/40 disabled=no list=route-aws@us-east
+add address=2600:1ff8:8000::/39 disabled=no list=route-aws@us-east
 add address=2600:1ff9:2c00::/40 disabled=no list=route-aws@us-east
 add address=2600:1ff9:6000::/40 disabled=no list=route-aws@us-east
 add address=2600:1ff9:8000::/39 disabled=no list=route-aws@us-east
-add address=2600:1ff9:8000::/40 disabled=no list=route-aws@us-east
 add address=2600:1ffa:6000::/40 disabled=no list=route-aws@us-east
 add address=2600:1ffa:8000::/40 disabled=no list=route-aws@us-east
 add address=2600:1ffc:6000::/40 disabled=no list=route-aws@us-east

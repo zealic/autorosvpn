@@ -53,6 +53,7 @@ add address=2600:1ff4:ec00::/40 disabled=no list=route-aws@sa
 add address=2600:1ff6:e000::/40 disabled=no list=route-aws@sa
 add address=2600:1ff6:ec00::/40 disabled=no list=route-aws@sa
 add address=2600:1ff8:e000::/40 disabled=no list=route-aws@sa
+add address=2600:1ff8:ec00::/40 disabled=no list=route-aws@sa
 add address=2600:1ff9:e000::/40 disabled=no list=route-aws@sa
 add address=2600:1ff9:ec00::/40 disabled=no list=route-aws@sa
 add address=2600:1ffa:e000::/40 disabled=no list=route-aws@sa

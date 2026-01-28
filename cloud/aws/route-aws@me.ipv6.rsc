@@ -51,6 +51,7 @@ add address=2a05:d074:800::/40 disabled=no list=route-aws@me
 add address=2a05:d074:e000::/40 disabled=no list=route-aws@me
 add address=2a05:d076:800::/40 disabled=no list=route-aws@me
 add address=2a05:d076:e000::/40 disabled=no list=route-aws@me
+add address=2a05:d078:800::/40 disabled=no list=route-aws@me
 add address=2a05:d078:e000::/40 disabled=no list=route-aws@me
 add address=2a05:d079:800::/40 disabled=no list=route-aws@me
 add address=2a05:d079:e000::/40 disabled=no list=route-aws@me
