@@ -3,6 +3,7 @@
 add address=2600:1f00:a400::/40 disabled=no list=route-aws@ca-west
 add address=2600:1f1a:4ff6:d500::/56 disabled=no list=route-aws@ca-west
 add address=2600:1f1a:4000::/36 disabled=no list=route-aws@ca-west
+add address=2600:1f1a:4040:b100::/56 disabled=no list=route-aws@ca-west
 add address=2600:1f2a:4000::/36 disabled=no list=route-aws@ca-west
 add address=2600:1f30:a400::/40 disabled=no list=route-aws@ca-west
 add address=2600:1f32:a400::/40 disabled=no list=route-aws@ca-west

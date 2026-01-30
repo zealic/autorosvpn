@@ -755,6 +755,7 @@ add address=2600:1f00:a400::/40 disabled=no list=route-aws@ca
 add address=2600:1f01:48c0::/47 disabled=no list=route-aws@ca
 add address=2600:1f1a:4ff6:d500::/56 disabled=no list=route-aws@ca
 add address=2600:1f1a:4000::/36 disabled=no list=route-aws@ca
+add address=2600:1f1a:4040:b100::/56 disabled=no list=route-aws@ca
 add address=2600:1f1e:4000::/36 disabled=no list=route-aws@ca
 add address=2600:1f2a:4000::/36 disabled=no list=route-aws@ca
 add address=2600:1f2e:4000::/36 disabled=no list=route-aws@ca
@@ -1255,6 +1256,7 @@ add address=2406:dafc:ff80::/46 disabled=no list=route-aws@eu
 add address=2406:dafc:ffa0::/46 disabled=no list=route-aws@eu
 add address=2600:1f01:48d0::/47 disabled=no list=route-aws@eu
 add address=2600:1f01:48f2::/47 disabled=no list=route-aws@eu
+add address=2600:1f01:480e::/47 disabled=no list=route-aws@eu
 add address=2600:1f01:490c::/47 disabled=no list=route-aws@eu
 add address=2600:1f01:491c::/47 disabled=no list=route-aws@eu
 add address=2600:1f01:4802::/47 disabled=no list=route-aws@eu
@@ -1407,6 +1409,7 @@ add address=2606:f40:e100::/40 disabled=no list=route-aws@eu
 add address=2606:f40:ffe8::/48 disabled=no list=route-aws@eu
 add address=2606:f40:fff0::/48 disabled=no list=route-aws@eu
 add address=2606:f40:fff2::/48 disabled=no list=route-aws@eu
+add address=2606:f40:fff5::/48 disabled=no list=route-aws@eu
 add address=2606:f40:fff8::/48 disabled=no list=route-aws@eu
 add address=2606:f40:fff9::/48 disabled=no list=route-aws@eu
 add address=2606:f40:fffa::/48 disabled=no list=route-aws@eu
@@ -1514,6 +1517,7 @@ add address=2600:9000:fff::/48 disabled=no list=route-aws@global
 add address=2600:f0f0:400::/44 disabled=no list=route-aws@global
 add address=2600:f0f0:1100::/40 disabled=no list=route-aws@global
 add address=2600:f0f0:4100::/40 disabled=no list=route-aws@global
+add address=2600:f0f0:5504::/46 disabled=no list=route-aws@global
 add address=2600:f0f2:7000::/44 disabled=no list=route-aws@global
 add address=2600:f0f2:7100::/40 disabled=no list=route-aws@global
 add address=2600:f0f3:f000::/44 disabled=no list=route-aws@global

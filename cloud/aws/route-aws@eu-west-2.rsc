@@ -278,6 +278,8 @@ add address=69.107.10.240/29 disabled=no list=route-aws@eu-west-2
 add address=69.107.10.248/29 disabled=no list=route-aws@eu-west-2
 add address=69.107.11.32/29 disabled=no list=route-aws@eu-west-2
 add address=69.107.11.40/29 disabled=no list=route-aws@eu-west-2
+add address=69.107.12.32/29 disabled=no list=route-aws@eu-west-2
+add address=69.107.12.40/29 disabled=no list=route-aws@eu-west-2
 add address=83.119.64.0/18 disabled=no list=route-aws@eu-west-2
 add address=99.77.134.0/24 disabled=no list=route-aws@eu-west-2
 add address=99.77.156.0/24 disabled=no list=route-aws@eu-west-2

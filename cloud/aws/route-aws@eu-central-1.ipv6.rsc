@@ -117,6 +117,7 @@ add address=2606:f40:1800::/40 disabled=no list=route-aws@eu-central-1
 add address=2606:f40:5800::/40 disabled=no list=route-aws@eu-central-1
 add address=2606:f40:9800::/40 disabled=no list=route-aws@eu-central-1
 add address=2606:f40:d800::/40 disabled=no list=route-aws@eu-central-1
+add address=2606:f40:fff5::/48 disabled=no list=route-aws@eu-central-1
 add address=2606:f40:fff8::/48 disabled=no list=route-aws@eu-central-1
 add address=2606:f40:fff9::/48 disabled=no list=route-aws@eu-central-1
 add address=2620:107:4002::/48 disabled=no list=route-aws@eu-central-1

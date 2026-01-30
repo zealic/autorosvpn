@@ -1016,7 +1016,6 @@ add address=46.51.216.0/21 disabled=no list=route-aws@ap
 add address=46.51.224.0/19 disabled=no list=route-aws@ap
 add address=46.137.192.0/19 disabled=no list=route-aws@ap
 add address=46.137.224.0/19 disabled=no list=route-aws@ap
-add address=46.168.0.0/15 disabled=no list=route-aws@ap
 add address=47.128.0.0/14 disabled=no list=route-aws@ap
 add address=47.128.4.0/22 disabled=no list=route-aws@ap
 add address=47.128.8.0/23 disabled=no list=route-aws@ap
