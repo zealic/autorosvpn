@@ -6954,6 +6954,8 @@ add address=54.25.15.0/24 disabled=no list=route-aws
 add address=54.25.15.0/24 disabled=no list=route-aws
 add address=54.25.20.0/24 disabled=no list=route-aws
 add address=54.25.20.0/24 disabled=no list=route-aws
+add address=54.25.32.0/19 disabled=no list=route-aws
+add address=54.25.32.0/19 disabled=no list=route-aws
 add address=54.25.82.0/24 disabled=no list=route-aws
 add address=54.25.82.0/24 disabled=no list=route-aws
 add address=54.26.166.0/24 disabled=no list=route-aws

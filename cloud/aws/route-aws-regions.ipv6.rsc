@@ -2263,7 +2263,8 @@ add address=2600:f0f0:f00:300::/56 disabled=no list=route-aws@us
 add address=2600:f0f0:f00:400::/56 disabled=no list=route-aws@us
 add address=2600:f0f0:f00:500::/56 disabled=no list=route-aws@us
 add address=2600:f0f0:f00::/56 disabled=no list=route-aws@us
-add address=2600:f0f1:8a00::/40 disabled=no list=route-aws@us
+add address=2600:f0f1:8a00::/44 disabled=no list=route-aws@us
+add address=2600:f0f1:8a10::/48 disabled=no list=route-aws@us
 add address=2600:f0f1:8b00::/48 disabled=no list=route-aws@us
 add address=2600:f0f1:8b02::/48 disabled=no list=route-aws@us
 add address=2600:f0f1:42c0::/42 disabled=no list=route-aws@us
