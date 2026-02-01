@@ -32,6 +32,7 @@ add address=34.145.128.0/17 disabled=no list=route-gcp@us-east
 add address=34.148.0.0/16 disabled=no list=route-gcp@us-east
 add address=34.150.128.0/17 disabled=no list=route-gcp@us-east
 add address=34.152.72.0/21 disabled=no list=route-gcp@us-east
+add address=34.152.110.192/26 disabled=no list=route-gcp@us-east
 add address=34.152.112.0/20 disabled=no list=route-gcp@us-east
 add address=34.153.16.0/20 disabled=no list=route-gcp@us-east
 add address=34.157.0.0/21 disabled=no list=route-gcp@us-east
@@ -40,6 +41,7 @@ add address=34.157.32.0/22 disabled=no list=route-gcp@us-east
 add address=34.157.128.0/21 disabled=no list=route-gcp@us-east
 add address=34.157.144.0/20 disabled=no list=route-gcp@us-east
 add address=34.157.160.0/22 disabled=no list=route-gcp@us-east
+add address=34.157.219.192/26 disabled=no list=route-gcp@us-east
 add address=34.161.0.0/16 disabled=no list=route-gcp@us-east
 add address=34.162.0.0/16 disabled=no list=route-gcp@us-east
 add address=34.177.40.0/21 disabled=no list=route-gcp@us-east
