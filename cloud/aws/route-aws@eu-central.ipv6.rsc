@@ -156,5 +156,3 @@ add address=2620:107:4002::/48 disabled=no list=route-aws@eu-central
 add address=2620:107:4003::/48 disabled=no list=route-aws@eu-central
 add address=2631:0:3::/48 disabled=no list=route-aws@eu-central
 add address=2631:0:8::/48 disabled=no list=route-aws@eu-central
-add address=2631:1:4c00::/48 disabled=no list=route-aws@eu-central
-add address=2631:1:4c40::/48 disabled=no list=route-aws@eu-central

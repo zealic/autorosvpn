@@ -68,4 +68,3 @@ add address=2620:107:4000:9006::/64 disabled=no list=route-aws@us-west-1
 add address=2620:107:4000:9011::/64 disabled=no list=route-aws@us-west-1
 add address=2620:107:4000:9018::/64 disabled=no list=route-aws@us-west-1
 add address=2620:107:4000:9019::/64 disabled=no list=route-aws@us-west-1
-add address=2631:1:4f80::/48 disabled=no list=route-aws@us-west-1

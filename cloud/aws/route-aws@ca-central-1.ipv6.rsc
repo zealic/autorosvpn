@@ -61,4 +61,3 @@ add address=2620:107:4000:7800::/56 disabled=no list=route-aws@ca-central-1
 add address=2620:107:4000:9014::/64 disabled=no list=route-aws@ca-central-1
 add address=2620:107:4000:9015::/64 disabled=no list=route-aws@ca-central-1
 add address=2620:107:4000:a::/64 disabled=no list=route-aws@ca-central-1
-add address=2631:1:4e00::/48 disabled=no list=route-aws@ca-central-1

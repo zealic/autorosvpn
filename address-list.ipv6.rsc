@@ -744,6 +744,7 @@ add address=2402:4a80::/32 disabled=no list=novpn.ipv6
 add address=2402:4ac0::/32 disabled=no list=novpn.ipv6
 add address=2402:4b80::/32 disabled=no list=novpn.ipv6
 add address=2402:4bc0::/32 disabled=no list=novpn.ipv6
+add address=2402:4be0::/32 disabled=no list=novpn.ipv6
 add address=2402:4c40::/32 disabled=no list=novpn.ipv6
 add address=2402:4d80::/32 disabled=no list=novpn.ipv6
 add address=2402:4e00::/32 disabled=no list=novpn.ipv6

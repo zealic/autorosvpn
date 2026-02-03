@@ -90,6 +90,5 @@ add address=2606:f40:3e00::/40 disabled=no list=route-aws@sa
 add address=2606:f40:be00::/40 disabled=no list=route-aws@sa
 add address=2606:f40:ffed::/48 disabled=no list=route-aws@sa
 add address=2620:107:4000:8300::/56 disabled=no list=route-aws@sa
-add address=2631:1:4900::/48 disabled=no list=route-aws@sa
 add address=2804:800::/48 disabled=no list=route-aws@sa
 add address=2804:800:ff00::/48 disabled=no list=route-aws@sa

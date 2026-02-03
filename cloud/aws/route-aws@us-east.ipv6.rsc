@@ -312,5 +312,3 @@ add address=2620:107:4000:9017::/64 disabled=no list=route-aws@us-east
 add address=2620:107:4000::/64 disabled=no list=route-aws@us-east
 add address=2620:107:4000:ff::/64 disabled=no list=route-aws@us-east
 add address=2620:107:4007::/64 disabled=no list=route-aws@us-east
-add address=2631:1:4f00::/48 disabled=no list=route-aws@us-east
-add address=2631:1:4f40::/48 disabled=no list=route-aws@us-east

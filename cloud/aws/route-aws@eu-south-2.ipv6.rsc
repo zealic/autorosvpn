@@ -41,4 +41,3 @@ add address=2606:f40:a100::/40 disabled=no list=route-aws@eu-south-2
 add address=2606:f40:e100::/40 disabled=no list=route-aws@eu-south-2
 add address=2606:f40:fffa::/48 disabled=no list=route-aws@eu-south-2
 add address=2606:f40:fffb::/48 disabled=no list=route-aws@eu-south-2
-add address=2631:1:4d00::/48 disabled=no list=route-aws@eu-south-2

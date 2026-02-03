@@ -42,7 +42,6 @@ add address=2600:f0f2:710b::/48 disabled=no list=route-aws@af
 add address=2606:7b40:1b08:100::/56 disabled=no list=route-aws@af
 add address=2606:7b40:1b08::/56 disabled=no list=route-aws@af
 add address=2606:7b40:10ff:60::/59 disabled=no list=route-aws@af
-add address=2631:1:4800::/48 disabled=no list=route-aws@af
 /ipv6 firewall address-list remove [/ipv6 firewall address-list find list="route-aws@ap"]
 /ipv6 firewall address-list
 add address=2400:6500:0:3::/64 disabled=no list=route-aws@ap
@@ -744,10 +743,6 @@ add address=2620:107:4000:a840::/58 disabled=no list=route-aws@ap
 add address=2620:107:4000:a880::/58 disabled=no list=route-aws@ap
 add address=2620:107:4000:a900::/58 disabled=no list=route-aws@ap
 add address=2620:107:4000:a940::/58 disabled=no list=route-aws@ap
-add address=2631:1:45c0::/48 disabled=no list=route-aws@ap
-add address=2631:1:46c0::/48 disabled=no list=route-aws@ap
-add address=2631:1:4680::/48 disabled=no list=route-aws@ap
-add address=2631:1:4740::/48 disabled=no list=route-aws@ap
 /ipv6 firewall address-list remove [/ipv6 firewall address-list find list="route-aws@ca"]
 /ipv6 firewall address-list
 add address=2600:1f00:1000::/40 disabled=no list=route-aws@ca
@@ -845,8 +840,6 @@ add address=2620:107:4000:7800::/56 disabled=no list=route-aws@ca
 add address=2620:107:4000:9014::/64 disabled=no list=route-aws@ca
 add address=2620:107:4000:9015::/64 disabled=no list=route-aws@ca
 add address=2620:107:4000:a::/64 disabled=no list=route-aws@ca
-add address=2631:1:4e00::/48 disabled=no list=route-aws@ca
-add address=2631:1:4e40::/48 disabled=no list=route-aws@ca
 /ipv6 firewall address-list remove [/ipv6 firewall address-list find list="route-aws@cn"]
 /ipv6 firewall address-list
 add address=240f:80a0:4000::/40 disabled=no list=route-aws@cn
@@ -1420,13 +1413,6 @@ add address=2631:0:3::/48 disabled=no list=route-aws@eu
 add address=2631:0:4::/48 disabled=no list=route-aws@eu
 add address=2631:0:7::/48 disabled=no list=route-aws@eu
 add address=2631:0:8::/48 disabled=no list=route-aws@eu
-add address=2631:1:4c00::/48 disabled=no list=route-aws@eu
-add address=2631:1:4c40::/48 disabled=no list=route-aws@eu
-add address=2631:1:4cc0::/48 disabled=no list=route-aws@eu
-add address=2631:1:4d00::/48 disabled=no list=route-aws@eu
-add address=2631:1:4d40::/48 disabled=no list=route-aws@eu
-add address=2631:1:4d80::/48 disabled=no list=route-aws@eu
-add address=2631:1:4dc0::/48 disabled=no list=route-aws@eu
 /ipv6 firewall address-list remove [/ipv6 firewall address-list find list="route-aws@eusc"]
 /ipv6 firewall address-list
 add address=2001:3fc0:800::/40 disabled=no list=route-aws@eusc
@@ -1818,7 +1804,6 @@ add address=2606:f40:3e00::/40 disabled=no list=route-aws@sa
 add address=2606:f40:be00::/40 disabled=no list=route-aws@sa
 add address=2606:f40:ffed::/48 disabled=no list=route-aws@sa
 add address=2620:107:4000:8300::/56 disabled=no list=route-aws@sa
-add address=2631:1:4900::/48 disabled=no list=route-aws@sa
 add address=2804:800::/48 disabled=no list=route-aws@sa
 add address=2804:800:ff00::/48 disabled=no list=route-aws@sa
 /ipv6 firewall address-list remove [/ipv6 firewall address-list find list="route-aws@us"]
@@ -2537,14 +2522,4 @@ add address=2631:0:1::/48 disabled=no list=route-aws@us
 add address=2631:0:2::/48 disabled=no list=route-aws@us
 add address=2631:0:9::/48 disabled=no list=route-aws@us
 add address=2631:0:1800::/39 disabled=no list=route-aws@us
-add address=2631:1:4f00::/48 disabled=no list=route-aws@us
-add address=2631:1:4f40::/48 disabled=no list=route-aws@us
-add address=2631:1:4f80::/48 disabled=no list=route-aws@us
-add address=2631:1:4fc0::/48 disabled=no list=route-aws@us
-add address=2631:1:4fc1::/48 disabled=no list=route-aws@us
-add address=2631:1:4fc2::/48 disabled=no list=route-aws@us
-add address=2631:1:4fef::/48 disabled=no list=route-aws@us
-add address=2631:1:4ff0::/48 disabled=no list=route-aws@us
-add address=2631:1:4ff2::/48 disabled=no list=route-aws@us
-add address=2631:1:4ff4::/48 disabled=no list=route-aws@us
 add address=2631::/48 disabled=no list=route-aws@us
