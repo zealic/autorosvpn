@@ -75,7 +75,11 @@ add address=2406:dafc:ff80::/46 disabled=no list=route-aws@eu-central-1
 add address=2406:dafc:ffa0::/46 disabled=no list=route-aws@eu-central-1
 add address=2600:1f01:48f2::/47 disabled=no list=route-aws@eu-central-1
 add address=2600:1f01:4830::/47 disabled=no list=route-aws@eu-central-1
+add address=2600:1f01:4902:0:8000::/65 disabled=no list=route-aws@eu-central-1
+add address=2600:1f01:4902:1:8000::/65 disabled=no list=route-aws@eu-central-1
+add address=2600:1f01:4902:1::/65 disabled=no list=route-aws@eu-central-1
 add address=2600:1f01:4902:100::/56 disabled=no list=route-aws@eu-central-1
+add address=2600:1f01:4902::/65 disabled=no list=route-aws@eu-central-1
 add address=2600:1ffd:80a7::/48 disabled=no list=route-aws@eu-central-1
 add address=2600:1ffd:80c8::/48 disabled=no list=route-aws@eu-central-1
 add address=2600:1ffd:80cb::/48 disabled=no list=route-aws@eu-central-1

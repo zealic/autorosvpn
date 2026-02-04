@@ -1259,7 +1259,11 @@ add address=2600:1f01:4820::/47 disabled=no list=route-aws@eu
 add address=2600:1f01:4822::/56 disabled=no list=route-aws@eu
 add address=2600:1f01:4830::/47 disabled=no list=route-aws@eu
 add address=2600:1f01:4870::/47 disabled=no list=route-aws@eu
+add address=2600:1f01:4902:0:8000::/65 disabled=no list=route-aws@eu
+add address=2600:1f01:4902:1:8000::/65 disabled=no list=route-aws@eu
+add address=2600:1f01:4902:1::/65 disabled=no list=route-aws@eu
 add address=2600:1f01:4902:100::/56 disabled=no list=route-aws@eu
+add address=2600:1f01:4902::/65 disabled=no list=route-aws@eu
 add address=2600:1f01:4914::/47 disabled=no list=route-aws@eu
 add address=2600:1f01:4916::/47 disabled=no list=route-aws@eu
 add address=2600:1f01:4918::/47 disabled=no list=route-aws@eu
