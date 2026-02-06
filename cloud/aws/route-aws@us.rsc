@@ -1033,6 +1033,7 @@ add address=35.55.126.0/24 disabled=no list=route-aws@us
 add address=35.55.127.0/24 disabled=no list=route-aws@us
 add address=35.71.64.0/22 disabled=no list=route-aws@us
 add address=35.71.68.0/22 disabled=no list=route-aws@us
+add address=35.71.76.0/22 disabled=no list=route-aws@us
 add address=35.71.102.0/24 disabled=no list=route-aws@us
 add address=35.71.115.0/24 disabled=no list=route-aws@us
 add address=35.71.116.0/24 disabled=no list=route-aws@us
