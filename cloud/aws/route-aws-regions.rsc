@@ -5537,6 +5537,8 @@ add address=15.248.140.0/24 disabled=no list=route-aws@us
 add address=15.248.143.0/24 disabled=no list=route-aws@us
 add address=15.248.160.0/24 disabled=no list=route-aws@us
 add address=15.248.161.0/24 disabled=no list=route-aws@us
+add address=15.248.162.0/32 disabled=no list=route-aws@us
+add address=15.248.162.1/32 disabled=no list=route-aws@us
 add address=15.251.0.0/32 disabled=no list=route-aws@us
 add address=15.251.0.1/32 disabled=no list=route-aws@us
 add address=15.251.0.2/32 disabled=no list=route-aws@us

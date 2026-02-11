@@ -2980,6 +2980,8 @@ add address=15.248.144.0/21 disabled=no list=route-aws
 add address=15.248.152.0/21 disabled=no list=route-aws
 add address=15.248.160.0/24 disabled=no list=route-aws
 add address=15.248.161.0/24 disabled=no list=route-aws
+add address=15.248.162.0/32 disabled=no list=route-aws
+add address=15.248.162.1/32 disabled=no list=route-aws
 add address=15.248.168.0/21 disabled=no list=route-aws
 add address=15.249.0.0/16 disabled=no list=route-aws
 add address=15.251.0.0/32 disabled=no list=route-aws
