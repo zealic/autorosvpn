@@ -99,6 +99,7 @@ add address=2600:f0f0:552c::/48 disabled=no list=route-aws@me
 add address=2600:f0f0:552d::/48 disabled=no list=route-aws@me
 add address=2600:f0f0:552e::/48 disabled=no list=route-aws@me
 add address=2600:f0f0:552f::/48 disabled=no list=route-aws@me
+add address=2600:f0f0:5403::/48 disabled=no list=route-aws@me
 add address=2600:f0f0:5530::/48 disabled=no list=route-aws@me
 add address=2600:f0f0:5531::/48 disabled=no list=route-aws@me
 add address=2600:f0f0:5532::/48 disabled=no list=route-aws@me

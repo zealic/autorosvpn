@@ -116,6 +116,7 @@ add address=18.96.96.0/19 disabled=no list=route-aws@me
 add address=18.99.224.0/20 disabled=no list=route-aws@me
 add address=23.254.16.0/21 disabled=no list=route-aws@me
 add address=35.50.208.0/24 disabled=no list=route-aws@me
+add address=35.50.209.0/24 disabled=no list=route-aws@me
 add address=35.50.210.0/24 disabled=no list=route-aws@me
 add address=35.50.211.0/24 disabled=no list=route-aws@me
 add address=35.50.212.0/24 disabled=no list=route-aws@me
