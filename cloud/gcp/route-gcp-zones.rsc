@@ -46,6 +46,7 @@ add address=130.211.240.0/20 disabled=no list=route-gcp@asia-east
 /ip firewall address-list remove [/ip firewall address-list find list="route-gcp@asia-northeast"]
 /ip firewall address-list
 add address=8.228.128.0/18 disabled=no list=route-gcp@asia-northeast
+add address=8.230.0.0/19 disabled=no list=route-gcp@asia-northeast
 add address=34.0.96.0/19 disabled=no list=route-gcp@asia-northeast
 add address=34.4.128.0/18 disabled=no list=route-gcp@asia-northeast
 add address=34.22.64.0/19 disabled=no list=route-gcp@asia-northeast
@@ -450,7 +451,6 @@ add address=192.158.28.0/22 disabled=no list=route-gcp@europe-west
 /ip firewall address-list remove [/ip firewall address-list find list="route-gcp@global"]
 /ip firewall address-list
 add address=8.228.224.0/20 disabled=no list=route-gcp@global
-add address=34.3.2.0/27 disabled=no list=route-gcp@global
 add address=34.8.0.0/16 disabled=no list=route-gcp@global
 add address=34.13.72.0/21 disabled=no list=route-gcp@global
 add address=34.13.112.0/20 disabled=no list=route-gcp@global
@@ -505,6 +505,7 @@ add address=34.177.70.0/24 disabled=no list=route-gcp@me-central
 add address=35.252.32.0/19 disabled=no list=route-gcp@me-central
 /ip firewall address-list remove [/ip firewall address-list find list="route-gcp@me-west"]
 /ip firewall address-list
+add address=8.230.32.0/19 disabled=no list=route-gcp@me-west
 add address=34.0.64.0/19 disabled=no list=route-gcp@me-west
 add address=34.153.62.128/25 disabled=no list=route-gcp@me-west
 add address=34.153.252.128/25 disabled=no list=route-gcp@me-west
@@ -801,6 +802,7 @@ add address=34.174.0.0/16 disabled=no list=route-gcp@us-south
 /ip firewall address-list remove [/ip firewall address-list find list="route-gcp@us-west"]
 /ip firewall address-list
 add address=8.228.0.0/19 disabled=no list=route-gcp@us-west
+add address=8.229.0.0/16 disabled=no list=route-gcp@us-west
 add address=34.2.32.0/20 disabled=no list=route-gcp@us-west
 add address=34.2.76.0/23 disabled=no list=route-gcp@us-west
 add address=34.3.96.0/20 disabled=no list=route-gcp@us-west
