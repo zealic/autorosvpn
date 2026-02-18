@@ -1533,7 +1533,8 @@ add address=2600:9000:f580::/41 disabled=no list=route-aws@global
 add address=2600:9000:f600::/39 disabled=no list=route-aws@global
 add address=2600:9000:f800::/37 disabled=no list=route-aws@global
 add address=2600:9000:fff::/48 disabled=no list=route-aws@global
-add address=2600:f0f0:400::/44 disabled=no list=route-aws@global
+add address=2600:f0f0:601::/48 disabled=no list=route-aws@global
+add address=2600:f0f0:602::/47 disabled=no list=route-aws@global
 add address=2600:f0f0:1100::/40 disabled=no list=route-aws@global
 add address=2600:f0f0:4100::/40 disabled=no list=route-aws@global
 add address=2600:f0f0:5504::/46 disabled=no list=route-aws@global
@@ -2194,6 +2195,7 @@ add address=2600:1ffc:5000::/40 disabled=no list=route-aws@us-gov-east
 add address=2600:1ffe:5000::/40 disabled=no list=route-aws@us-gov-east
 add address=2600:1fff:5000::/40 disabled=no list=route-aws@us-gov-east
 add address=2600:f0f0:78::/45 disabled=no list=route-aws@us-gov-east
+add address=2600:f0f0:400::/44 disabled=no list=route-aws@us-gov-east
 add address=2600:f0f0:4141::/48 disabled=no list=route-aws@us-gov-east
 add address=2600:f0f0:6124::/48 disabled=no list=route-aws@us-gov-east
 add address=2600:f0f2:7028::/48 disabled=no list=route-aws@us-gov-east

@@ -361,6 +361,7 @@ add address=2600:f0f0:111d::/48 disabled=no list=route-aws@us
 add address=2600:f0f0:111f::/48 disabled=no list=route-aws@us
 add address=2600:f0f0:300:100::/56 disabled=no list=route-aws@us
 add address=2600:f0f0:310::/48 disabled=no list=route-aws@us
+add address=2600:f0f0:400::/44 disabled=no list=route-aws@us
 add address=2600:f0f0:410d::/48 disabled=no list=route-aws@us
 add address=2600:f0f0:410e::/48 disabled=no list=route-aws@us
 add address=2600:f0f0:500::/48 disabled=no list=route-aws@us
