@@ -13,6 +13,7 @@ add address=3.5.232.0/22 disabled=no list=route-aws@sa-east-1
 add address=3.44.192.0/18 disabled=no list=route-aws@sa-east-1
 add address=13.248.104.0/24 disabled=no list=route-aws@sa-east-1
 add address=13.248.114.0/24 disabled=no list=route-aws@sa-east-1
+add address=15.129.30.0/24 disabled=no list=route-aws@sa-east-1
 add address=15.177.70.0/23 disabled=no list=route-aws@sa-east-1
 add address=15.177.88.0/24 disabled=no list=route-aws@sa-east-1
 add address=15.193.172.0/22 disabled=no list=route-aws@sa-east-1

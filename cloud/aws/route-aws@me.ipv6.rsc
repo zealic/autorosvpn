@@ -4,7 +4,7 @@ add address=2a01:578:0:7a00::/56 disabled=no list=route-aws@me
 add address=2a01:578:0:7600::1/128 disabled=no list=route-aws@me
 add address=2a01:578:0:7601::1/128 disabled=no list=route-aws@me
 add address=2a01:578:0:7602::1/128 disabled=no list=route-aws@me
-add address=2a05:d000:800::/64 disabled=no list=route-aws@me
+add address=2a05:d000:800::/40 disabled=no list=route-aws@me
 add address=2a05:d000:e000::/40 disabled=no list=route-aws@me
 add address=2a05:d010:8000::/36 disabled=no list=route-aws@me
 add address=2a05:d01e:27f:ac00::/56 disabled=no list=route-aws@me
