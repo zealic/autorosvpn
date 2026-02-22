@@ -2136,6 +2136,7 @@ add address=2600:1f01:4900:400::/56 disabled=no list=route-aws
 add address=2600:1f01:4900:500::/56 disabled=no list=route-aws
 add address=2600:1f01:4900:600::/56 disabled=no list=route-aws
 add address=2600:1f01:4900:700::/56 disabled=no list=route-aws
+add address=2600:1f01:4900:800::/56 disabled=no list=route-aws
 add address=2600:1f01:4902:0:8000::/65 disabled=no list=route-aws
 add address=2600:1f01:4902:1:8000::/65 disabled=no list=route-aws
 add address=2600:1f01:4902:1::/65 disabled=no list=route-aws

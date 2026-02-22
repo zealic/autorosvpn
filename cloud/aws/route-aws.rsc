@@ -7877,6 +7877,8 @@ add address=69.107.12.48/29 disabled=no list=route-aws
 add address=69.107.12.56/29 disabled=no list=route-aws
 add address=69.107.12.64/29 disabled=no list=route-aws
 add address=69.107.12.72/29 disabled=no list=route-aws
+add address=69.107.12.80/29 disabled=no list=route-aws
+add address=69.107.12.88/29 disabled=no list=route-aws
 add address=69.230.192.0/18 disabled=no list=route-aws
 add address=69.230.192.0/18 disabled=no list=route-aws
 add address=69.230.219.0/24 disabled=no list=route-aws
