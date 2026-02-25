@@ -157,6 +157,7 @@ add address=13.248.119.0/24 disabled=no list=route-aws@eu-west
 add address=13.248.120.0/24 disabled=no list=route-aws@eu-west
 add address=13.248.121.0/24 disabled=no list=route-aws@eu-west
 add address=15.129.8.0/21 disabled=no list=route-aws@eu-west
+add address=15.129.31.0/24 disabled=no list=route-aws@eu-west
 add address=15.145.20.0/22 disabled=no list=route-aws@eu-west
 add address=15.145.24.0/23 disabled=no list=route-aws@eu-west
 add address=15.177.74.0/24 disabled=no list=route-aws@eu-west
