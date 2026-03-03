@@ -7,8 +7,17 @@ add address=3.4.12.31/32 disabled=no list=route-aws@sa
 add address=3.4.12.32/32 disabled=no list=route-aws@sa
 add address=3.4.12.49/32 disabled=no list=route-aws@sa
 add address=3.4.12.50/32 disabled=no list=route-aws@sa
+add address=3.4.12.55/32 disabled=no list=route-aws@sa
+add address=3.4.12.56/32 disabled=no list=route-aws@sa
+add address=3.4.12.57/32 disabled=no list=route-aws@sa
+add address=3.4.12.58/32 disabled=no list=route-aws@sa
+add address=3.4.12.59/32 disabled=no list=route-aws@sa
+add address=3.4.12.60/32 disabled=no list=route-aws@sa
 add address=3.4.15.88/29 disabled=no list=route-aws@sa
 add address=3.4.15.152/29 disabled=no list=route-aws@sa
+add address=3.4.15.176/29 disabled=no list=route-aws@sa
+add address=3.4.15.184/29 disabled=no list=route-aws@sa
+add address=3.4.15.192/29 disabled=no list=route-aws@sa
 add address=3.5.232.0/22 disabled=no list=route-aws@sa
 add address=3.44.192.0/18 disabled=no list=route-aws@sa
 add address=13.248.81.0/24 disabled=no list=route-aws@sa
