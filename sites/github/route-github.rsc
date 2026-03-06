@@ -434,6 +434,7 @@ add address=20.26.156.210/32 disabled=no list=route-github
 add address=20.26.156.211/32 disabled=no list=route-github
 add address=20.26.156.214/32 disabled=no list=route-github
 add address=20.26.156.215/32 disabled=no list=route-github
+add address=20.27.101.128/28 disabled=no list=route-github
 add address=20.27.177.113/32 disabled=no list=route-github
 add address=20.27.177.116/32 disabled=no list=route-github
 add address=20.27.177.117/32 disabled=no list=route-github
@@ -731,6 +732,9 @@ add address=20.61.127.48/28 disabled=no list=route-github
 add address=20.61.206.192/28 disabled=no list=route-github
 add address=20.62.0.0/17 disabled=no list=route-github
 add address=20.62.128.0/17 disabled=no list=route-github
+add address=20.63.210.192/28 disabled=no list=route-github
+add address=20.63.212.48/28 disabled=no list=route-github
+add address=20.63.217.192/28 disabled=no list=route-github
 add address=20.64.0.0/17 disabled=no list=route-github
 add address=20.64.128.0/17 disabled=no list=route-github
 add address=20.65.0.0/17 disabled=no list=route-github
@@ -4420,6 +4424,7 @@ add address=104.46.32.0/19 disabled=no list=route-github
 add address=104.46.64.0/19 disabled=no list=route-github
 add address=104.46.96.0/19 disabled=no list=route-github
 add address=104.46.192.0/20 disabled=no list=route-github
+add address=104.46.239.0/28 disabled=no list=route-github
 add address=104.47.128.0/18 disabled=no list=route-github
 add address=104.47.200.0/21 disabled=no list=route-github
 add address=104.47.208.0/23 disabled=no list=route-github
@@ -4645,6 +4650,7 @@ add address=137.117.128.0/17 disabled=no list=route-github
 add address=137.135.0.0/18 disabled=no list=route-github
 add address=137.135.64.0/18 disabled=no list=route-github
 add address=137.135.128.0/17 disabled=no list=route-github
+add address=138.91.25.112/28 disabled=no list=route-github
 add address=138.91.48.0/20 disabled=no list=route-github
 add address=138.91.64.0/19 disabled=no list=route-github
 add address=138.91.96.0/19 disabled=no list=route-github
