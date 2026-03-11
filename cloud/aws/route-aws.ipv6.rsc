@@ -4745,6 +4745,8 @@ add address=2606:8140:400::/40 disabled=no list=route-aws
 add address=2606:8140:400::/40 disabled=no list=route-aws
 add address=2606:8140:500::/40 disabled=no list=route-aws
 add address=2606:8140:500::/40 disabled=no list=route-aws
+add address=2606:8140:900::/40 disabled=no list=route-aws
+add address=2606:8140:900::/40 disabled=no list=route-aws
 add address=2606:f40:2a00::/40 disabled=no list=route-aws
 add address=2606:f40:2a00::/40 disabled=no list=route-aws
 add address=2606:f40:3e00::/40 disabled=no list=route-aws
