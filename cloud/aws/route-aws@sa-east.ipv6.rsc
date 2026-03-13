@@ -11,6 +11,7 @@ add address=2600:1f2e:14::/48 disabled=no list=route-aws@sa-east
 add address=2600:1f2e::/36 disabled=no list=route-aws@sa-east
 add address=2600:1f30:e000::/40 disabled=no list=route-aws@sa-east
 add address=2600:1f32:e000::/40 disabled=no list=route-aws@sa-east
+add address=2600:1f33:e000::/40 disabled=no list=route-aws@sa-east
 add address=2600:1f36:e000::/40 disabled=no list=route-aws@sa-east
 add address=2600:1f38:e000::/40 disabled=no list=route-aws@sa-east
 add address=2600:1f60:e000::/40 disabled=no list=route-aws@sa-east
@@ -22,7 +23,9 @@ add address=2600:1f70:e000::/40 disabled=no list=route-aws@sa-east
 add address=2600:1f70:e000::/56 disabled=no list=route-aws@sa-east
 add address=2600:1fa0:e000::/40 disabled=no list=route-aws@sa-east
 add address=2600:1fb9:e000::/40 disabled=no list=route-aws@sa-east
+add address=2600:1fba:e000::/40 disabled=no list=route-aws@sa-east
 add address=2600:1fbb:e000::/40 disabled=no list=route-aws@sa-east
+add address=2600:1fe9:e000::/40 disabled=no list=route-aws@sa-east
 add address=2600:1fea:e000::/40 disabled=no list=route-aws@sa-east
 add address=2600:1feb:e000::/40 disabled=no list=route-aws@sa-east
 add address=2600:1fef:e000::/40 disabled=no list=route-aws@sa-east

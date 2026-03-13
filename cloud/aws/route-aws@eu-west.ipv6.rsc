@@ -39,6 +39,9 @@ add address=2a05:d031:c000::/40 disabled=no list=route-aws@eu-west
 add address=2a05:d032:2000::/40 disabled=no list=route-aws@eu-west
 add address=2a05:d032:8000::/40 disabled=no list=route-aws@eu-west
 add address=2a05:d032:c000::/40 disabled=no list=route-aws@eu-west
+add address=2a05:d033:2000::/40 disabled=no list=route-aws@eu-west
+add address=2a05:d033:8000::/40 disabled=no list=route-aws@eu-west
+add address=2a05:d033:c000::/40 disabled=no list=route-aws@eu-west
 add address=2a05:d036:2000::/40 disabled=no list=route-aws@eu-west
 add address=2a05:d036:8000::/40 disabled=no list=route-aws@eu-west
 add address=2a05:d036:c000::/40 disabled=no list=route-aws@eu-west
@@ -72,6 +75,9 @@ add address=2a05:d050:c000::/40 disabled=no list=route-aws@eu-west
 add address=2a05:d059:2000::/40 disabled=no list=route-aws@eu-west
 add address=2a05:d059:8000::/40 disabled=no list=route-aws@eu-west
 add address=2a05:d059:c000::/40 disabled=no list=route-aws@eu-west
+add address=2a05:d05a:2000::/40 disabled=no list=route-aws@eu-west
+add address=2a05:d05a:8000::/40 disabled=no list=route-aws@eu-west
+add address=2a05:d05a:c000::/40 disabled=no list=route-aws@eu-west
 add address=2a05:d05b:2000::/40 disabled=no list=route-aws@eu-west
 add address=2a05:d05b:8000::/40 disabled=no list=route-aws@eu-west
 add address=2a05:d05b:c000::/40 disabled=no list=route-aws@eu-west
@@ -111,6 +117,9 @@ add address=2a05:d07a:c000::/40 disabled=no list=route-aws@eu-west
 add address=2a05:d07c:2000::/40 disabled=no list=route-aws@eu-west
 add address=2a05:d07c:8000::/40 disabled=no list=route-aws@eu-west
 add address=2a05:d07c:c000::/40 disabled=no list=route-aws@eu-west
+add address=2a05:d07d:2000::/40 disabled=no list=route-aws@eu-west
+add address=2a05:d07d:8000::/40 disabled=no list=route-aws@eu-west
+add address=2a05:d07d:c000::/40 disabled=no list=route-aws@eu-west
 add address=2a05:d07e:2000::/40 disabled=no list=route-aws@eu-west
 add address=2a05:d07e:8000::/40 disabled=no list=route-aws@eu-west
 add address=2a05:d07e:c000::/40 disabled=no list=route-aws@eu-west

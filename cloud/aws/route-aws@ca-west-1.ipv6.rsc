@@ -7,6 +7,7 @@ add address=2600:1f1a:4040:b100::/56 disabled=no list=route-aws@ca-west-1
 add address=2600:1f2a:4000::/36 disabled=no list=route-aws@ca-west-1
 add address=2600:1f30:a400::/40 disabled=no list=route-aws@ca-west-1
 add address=2600:1f32:a400::/40 disabled=no list=route-aws@ca-west-1
+add address=2600:1f33:a400::/40 disabled=no list=route-aws@ca-west-1
 add address=2600:1f36:a400::/40 disabled=no list=route-aws@ca-west-1
 add address=2600:1f38:a400::/40 disabled=no list=route-aws@ca-west-1
 add address=2600:1f60:a400::/40 disabled=no list=route-aws@ca-west-1
@@ -14,7 +15,9 @@ add address=2600:1f61:a400::/40 disabled=no list=route-aws@ca-west-1
 add address=2600:1f70:a400::/40 disabled=no list=route-aws@ca-west-1
 add address=2600:1fa0:a400::/40 disabled=no list=route-aws@ca-west-1
 add address=2600:1fb9:a400::/40 disabled=no list=route-aws@ca-west-1
+add address=2600:1fba:a400::/40 disabled=no list=route-aws@ca-west-1
 add address=2600:1fbb:a400::/40 disabled=no list=route-aws@ca-west-1
+add address=2600:1fe9:a400::/40 disabled=no list=route-aws@ca-west-1
 add address=2600:1fea:a400::/40 disabled=no list=route-aws@ca-west-1
 add address=2600:1feb:a400::/40 disabled=no list=route-aws@ca-west-1
 add address=2600:1fef:a400::/40 disabled=no list=route-aws@ca-west-1

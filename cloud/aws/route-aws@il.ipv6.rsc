@@ -10,12 +10,14 @@ add address=2a05:d025::/36 disabled=no list=route-aws@il
 add address=2a05:d030:5000::/40 disabled=no list=route-aws@il
 add address=2a05:d031:5000::/40 disabled=no list=route-aws@il
 add address=2a05:d032:5000::/40 disabled=no list=route-aws@il
+add address=2a05:d033:5000::/40 disabled=no list=route-aws@il
 add address=2a05:d036:5000::/40 disabled=no list=route-aws@il
 add address=2a05:d038:5000::/40 disabled=no list=route-aws@il
 add address=2a05:d03a:5000::/40 disabled=no list=route-aws@il
 add address=2a05:d040:5000::/40 disabled=no list=route-aws@il
 add address=2a05:d050:5000::/40 disabled=no list=route-aws@il
 add address=2a05:d059:5000::/40 disabled=no list=route-aws@il
+add address=2a05:d05a:5000::/40 disabled=no list=route-aws@il
 add address=2a05:d05b:5000::/40 disabled=no list=route-aws@il
 add address=2a05:d06a:5000::/40 disabled=no list=route-aws@il
 add address=2a05:d06b:5000::/40 disabled=no list=route-aws@il
@@ -28,6 +30,7 @@ add address=2a05:d076:5000::/40 disabled=no list=route-aws@il
 add address=2a05:d078:5000::/40 disabled=no list=route-aws@il
 add address=2a05:d079:5000::/40 disabled=no list=route-aws@il
 add address=2a05:d07c:5000::/40 disabled=no list=route-aws@il
+add address=2a05:d07d:5000::/40 disabled=no list=route-aws@il
 add address=2a05:d07e:5000::/40 disabled=no list=route-aws@il
 add address=2a05:d07f:5000::/40 disabled=no list=route-aws@il
 add address=2600:f0f0:20::/48 disabled=no list=route-aws@il

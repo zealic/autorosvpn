@@ -7,6 +7,7 @@ add address=2600:1f25:14::/48 disabled=no list=route-aws@us-gov-east-1
 add address=2600:1f25::/36 disabled=no list=route-aws@us-gov-east-1
 add address=2600:1f30:5000::/40 disabled=no list=route-aws@us-gov-east-1
 add address=2600:1f32:5000::/40 disabled=no list=route-aws@us-gov-east-1
+add address=2600:1f33:5000::/40 disabled=no list=route-aws@us-gov-east-1
 add address=2600:1f36:5000::/40 disabled=no list=route-aws@us-gov-east-1
 add address=2600:1f38:5000::/40 disabled=no list=route-aws@us-gov-east-1
 add address=2600:1f60:5000::/40 disabled=no list=route-aws@us-gov-east-1
@@ -14,7 +15,9 @@ add address=2600:1f61:5000::/40 disabled=no list=route-aws@us-gov-east-1
 add address=2600:1f70:5000::/40 disabled=no list=route-aws@us-gov-east-1
 add address=2600:1fa0:5000::/40 disabled=no list=route-aws@us-gov-east-1
 add address=2600:1fb9:5000::/40 disabled=no list=route-aws@us-gov-east-1
+add address=2600:1fba:5000::/40 disabled=no list=route-aws@us-gov-east-1
 add address=2600:1fbb:5000::/40 disabled=no list=route-aws@us-gov-east-1
+add address=2600:1fe9:5000::/40 disabled=no list=route-aws@us-gov-east-1
 add address=2600:1fea:5000::/40 disabled=no list=route-aws@us-gov-east-1
 add address=2600:1feb:5000::/40 disabled=no list=route-aws@us-gov-east-1
 add address=2600:1fef:5000::/40 disabled=no list=route-aws@us-gov-east-1

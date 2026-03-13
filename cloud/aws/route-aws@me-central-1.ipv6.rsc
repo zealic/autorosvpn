@@ -8,6 +8,7 @@ add address=2406:da27:4::/48 disabled=no list=route-aws@me-central-1
 add address=2406:da27::/36 disabled=no list=route-aws@me-central-1
 add address=2406:da30:7000::/40 disabled=no list=route-aws@me-central-1
 add address=2406:da32:7000::/40 disabled=no list=route-aws@me-central-1
+add address=2406:da33:7000::/40 disabled=no list=route-aws@me-central-1
 add address=2406:da36:7000::/40 disabled=no list=route-aws@me-central-1
 add address=2406:da38:7000::/40 disabled=no list=route-aws@me-central-1
 add address=2406:da60:7000::/40 disabled=no list=route-aws@me-central-1
@@ -15,7 +16,9 @@ add address=2406:da61:7000::/40 disabled=no list=route-aws@me-central-1
 add address=2406:da70:7000::/40 disabled=no list=route-aws@me-central-1
 add address=2406:daa0:7000::/40 disabled=no list=route-aws@me-central-1
 add address=2406:dab9:7000::/40 disabled=no list=route-aws@me-central-1
+add address=2406:daba:7000::/40 disabled=no list=route-aws@me-central-1
 add address=2406:dabb:7000::/40 disabled=no list=route-aws@me-central-1
+add address=2406:dae9:7000::/40 disabled=no list=route-aws@me-central-1
 add address=2406:daea:7000::/40 disabled=no list=route-aws@me-central-1
 add address=2406:daeb:7000::/40 disabled=no list=route-aws@me-central-1
 add address=2406:daef:7000::/40 disabled=no list=route-aws@me-central-1

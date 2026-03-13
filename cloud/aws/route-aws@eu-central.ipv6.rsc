@@ -28,6 +28,9 @@ add address=2a05:d031:b000::/40 disabled=no list=route-aws@eu-central
 add address=2a05:d032:4000::/40 disabled=no list=route-aws@eu-central
 add address=2a05:d032:9000::/40 disabled=no list=route-aws@eu-central
 add address=2a05:d032:b000::/40 disabled=no list=route-aws@eu-central
+add address=2a05:d033:4000::/40 disabled=no list=route-aws@eu-central
+add address=2a05:d033:9000::/40 disabled=no list=route-aws@eu-central
+add address=2a05:d033:b000::/40 disabled=no list=route-aws@eu-central
 add address=2a05:d036:4000::/40 disabled=no list=route-aws@eu-central
 add address=2a05:d036:9000::/40 disabled=no list=route-aws@eu-central
 add address=2a05:d036:b000::/40 disabled=no list=route-aws@eu-central
@@ -52,6 +55,9 @@ add address=2a05:d050:f000::/40 disabled=no list=route-aws@eu-central
 add address=2a05:d059:4000::/40 disabled=no list=route-aws@eu-central
 add address=2a05:d059:9000::/40 disabled=no list=route-aws@eu-central
 add address=2a05:d059:b000::/40 disabled=no list=route-aws@eu-central
+add address=2a05:d05a:4000::/40 disabled=no list=route-aws@eu-central
+add address=2a05:d05a:9000::/40 disabled=no list=route-aws@eu-central
+add address=2a05:d05a:b000::/40 disabled=no list=route-aws@eu-central
 add address=2a05:d05b:4000::/40 disabled=no list=route-aws@eu-central
 add address=2a05:d05b:9000::/40 disabled=no list=route-aws@eu-central
 add address=2a05:d05b:b000::/40 disabled=no list=route-aws@eu-central
@@ -90,6 +96,9 @@ add address=2a05:d079:f000::/40 disabled=no list=route-aws@eu-central
 add address=2a05:d07a:4000::/40 disabled=no list=route-aws@eu-central
 add address=2a05:d07c:4000::/40 disabled=no list=route-aws@eu-central
 add address=2a05:d07c:9000::/40 disabled=no list=route-aws@eu-central
+add address=2a05:d07d:4000::/40 disabled=no list=route-aws@eu-central
+add address=2a05:d07d:9000::/40 disabled=no list=route-aws@eu-central
+add address=2a05:d07d:b000::/40 disabled=no list=route-aws@eu-central
 add address=2a05:d07e:4000::/40 disabled=no list=route-aws@eu-central
 add address=2a05:d07e:9000::/40 disabled=no list=route-aws@eu-central
 add address=2a05:d07e:b000::/40 disabled=no list=route-aws@eu-central
