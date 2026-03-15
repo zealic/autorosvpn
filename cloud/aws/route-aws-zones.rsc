@@ -5533,6 +5533,7 @@ add address=35.96.144.0/20 disabled=no list=route-aws@us-east
 add address=35.96.246.0/24 disabled=no list=route-aws@us-east
 add address=35.96.253.0/24 disabled=no list=route-aws@us-east
 add address=35.96.254.0/24 disabled=no list=route-aws@us-east
+add address=35.97.208.0/20 disabled=no list=route-aws@us-east
 add address=35.111.128.0/22 disabled=no list=route-aws@us-east
 add address=35.111.132.0/22 disabled=no list=route-aws@us-east
 add address=35.111.136.0/22 disabled=no list=route-aws@us-east
