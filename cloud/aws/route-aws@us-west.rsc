@@ -92,6 +92,7 @@ add address=13.248.99.0/24 disabled=no list=route-aws@us-west
 add address=13.248.112.0/24 disabled=no list=route-aws@us-west
 add address=15.129.4.0/22 disabled=no list=route-aws@us-west
 add address=15.129.34.0/23 disabled=no list=route-aws@us-west
+add address=15.129.40.0/23 disabled=no list=route-aws@us-west
 add address=15.177.80.0/24 disabled=no list=route-aws@us-west
 add address=15.177.81.0/24 disabled=no list=route-aws@us-west
 add address=15.181.0.0/20 disabled=no list=route-aws@us-west
