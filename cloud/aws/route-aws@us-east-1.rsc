@@ -288,8 +288,6 @@ add address=15.230.254.0/31 disabled=no list=route-aws@us-east-1
 add address=15.230.254.2/31 disabled=no list=route-aws@us-east-1
 add address=15.230.254.4/32 disabled=no list=route-aws@us-east-1
 add address=15.248.138.0/24 disabled=no list=route-aws@us-east-1
-add address=15.248.139.1/32 disabled=no list=route-aws@us-east-1
-add address=15.248.139.2/32 disabled=no list=route-aws@us-east-1
 add address=15.248.140.0/24 disabled=no list=route-aws@us-east-1
 add address=15.248.143.0/24 disabled=no list=route-aws@us-east-1
 add address=15.248.160.0/24 disabled=no list=route-aws@us-east-1
