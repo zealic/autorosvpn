@@ -2745,10 +2745,7 @@ add address=2600:1f60:e000::/40 disabled=no list=route-aws
 add address=2600:1f60:e000::/40 disabled=no list=route-aws
 add address=2600:1f60:ec00::/40 disabled=no list=route-aws
 add address=2600:1f60:ec00::/40 disabled=no list=route-aws
-add address=2600:1f60:ec00::/56 disabled=no list=route-aws
-add address=2600:1f60:ec40::/48 disabled=no list=route-aws
-add address=2600:1f60:ec80::/48 disabled=no list=route-aws
-add address=2600:1f60:ecc0::/48 disabled=no list=route-aws
+add address=2600:1f60:ec00::/40 disabled=no list=route-aws
 add address=2600:1f61:1000::/40 disabled=no list=route-aws
 add address=2600:1f61:1000::/40 disabled=no list=route-aws
 add address=2600:1f61:2000::/40 disabled=no list=route-aws
