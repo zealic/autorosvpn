@@ -520,3 +520,4 @@ add address=2631:0:3::/48 disabled=no list=route-aws@eu
 add address=2631:0:4::/48 disabled=no list=route-aws@eu
 add address=2631:0:7::/48 disabled=no list=route-aws@eu
 add address=2631:0:8::/48 disabled=no list=route-aws@eu
+add address=2631:1:101::/48 disabled=no list=route-aws@eu
