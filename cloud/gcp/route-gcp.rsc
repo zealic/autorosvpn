@@ -17,6 +17,7 @@ add address=8.229.0.0/16 disabled=no list=route-gcp
 add address=8.230.0.0/19 disabled=no list=route-gcp
 add address=8.230.32.0/19 disabled=no list=route-gcp
 add address=8.230.64.0/19 disabled=no list=route-gcp
+add address=8.230.96.0/19 disabled=no list=route-gcp
 add address=23.236.48.0/20 disabled=no list=route-gcp
 add address=23.251.128.0/20 disabled=no list=route-gcp
 add address=23.251.144.0/20 disabled=no list=route-gcp
