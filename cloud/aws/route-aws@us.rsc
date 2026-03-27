@@ -945,6 +945,7 @@ add address=31.220.252.0/24 disabled=no list=route-aws@us
 add address=32.184.0.0/13 disabled=no list=route-aws@us
 add address=32.192.0.0/13 disabled=no list=route-aws@us
 add address=32.192.104.4/30 disabled=no list=route-aws@us
+add address=32.194.144.0/23 disabled=no list=route-aws@us
 add address=32.200.0.0/13 disabled=no list=route-aws@us
 add address=34.192.0.0/12 disabled=no list=route-aws@us
 add address=34.195.252.0/24 disabled=no list=route-aws@us
