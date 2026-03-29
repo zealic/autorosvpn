@@ -1532,6 +1532,7 @@ add address=2606:f40:fff0::/48 disabled=no list=route-aws@eu-west
 add address=2606:f40:fff2::/48 disabled=no list=route-aws@eu-west
 add address=2631:0:4::/48 disabled=no list=route-aws@eu-west
 add address=2631:0:7::/48 disabled=no list=route-aws@eu-west
+add address=2631:0:1000::/39 disabled=no list=route-aws@eu-west
 add address=2631:1:101::/48 disabled=no list=route-aws@eu-west
 /ipv6 firewall address-list remove [/ipv6 firewall address-list find list="route-aws@eusc-de-east"]
 /ipv6 firewall address-list
