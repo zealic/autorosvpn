@@ -71,11 +71,13 @@ add address=3.146.42.74/31 disabled=no list=route-aws@us-east-2
 add address=3.146.42.80/30 disabled=no list=route-aws@us-east-2
 add address=3.146.43.0/25 disabled=no list=route-aws@us-east-2
 add address=3.146.44.0/23 disabled=no list=route-aws@us-east-2
+add address=3.146.72.40/29 disabled=no list=route-aws@us-east-2
 add address=3.146.84.0/22 disabled=no list=route-aws@us-east-2
 add address=3.146.232.0/22 disabled=no list=route-aws@us-east-2
 add address=3.147.164.0/22 disabled=no list=route-aws@us-east-2
 add address=3.147.244.0/22 disabled=no list=route-aws@us-east-2
 add address=3.148.161.192/26 disabled=no list=route-aws@us-east-2
+add address=3.149.13.208/29 disabled=no list=route-aws@us-east-2
 add address=3.149.210.128/26 disabled=no list=route-aws@us-east-2
 add address=3.151.45.0/24 disabled=no list=route-aws@us-east-2
 add address=13.58.0.0/15 disabled=no list=route-aws@us-east-2

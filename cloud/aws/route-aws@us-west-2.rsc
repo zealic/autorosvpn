@@ -74,6 +74,8 @@ add address=16.71.64.0/18 disabled=no list=route-aws@us-west-2
 add address=16.144.0.0/16 disabled=no list=route-aws@us-west-2
 add address=16.145.0.0/16 disabled=no list=route-aws@us-west-2
 add address=16.146.0.0/16 disabled=no list=route-aws@us-west-2
+add address=16.146.161.48/29 disabled=no list=route-aws@us-west-2
+add address=16.146.161.56/29 disabled=no list=route-aws@us-west-2
 add address=16.147.0.0/16 disabled=no list=route-aws@us-west-2
 add address=16.147.182.0/23 disabled=no list=route-aws@us-west-2
 add address=16.148.0.0/16 disabled=no list=route-aws@us-west-2
