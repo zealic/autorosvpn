@@ -9768,6 +9768,7 @@ add address=182.30.85.128/25 disabled=no list=route-aws
 add address=182.30.157.0/26 disabled=no list=route-aws
 add address=184.32.0.0/14 disabled=no list=route-aws
 add address=184.32.0.0/14 disabled=no list=route-aws
+add address=184.34.158.0/23 disabled=no list=route-aws
 add address=184.36.0.0/14 disabled=no list=route-aws
 add address=184.36.0.0/14 disabled=no list=route-aws
 add address=184.40.0.0/13 disabled=no list=route-aws
