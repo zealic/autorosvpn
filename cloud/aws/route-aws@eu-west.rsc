@@ -359,6 +359,8 @@ add address=35.97.130.0/24 disabled=no list=route-aws@eu-west
 add address=35.97.144.0/20 disabled=no list=route-aws@eu-west
 add address=35.97.194.0/24 disabled=no list=route-aws@eu-west
 add address=35.97.240.0/20 disabled=no list=route-aws@eu-west
+add address=35.98.0.0/20 disabled=no list=route-aws@eu-west
+add address=35.98.16.0/20 disabled=no list=route-aws@eu-west
 add address=35.176.0.0/15 disabled=no list=route-aws@eu-west
 add address=35.176.32.0/24 disabled=no list=route-aws@eu-west
 add address=35.176.92.32/29 disabled=no list=route-aws@eu-west
