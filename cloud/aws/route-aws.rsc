@@ -4804,6 +4804,9 @@ add address=35.97.224.0/20 disabled=no list=route-aws
 add address=35.97.240.0/20 disabled=no list=route-aws
 add address=35.98.0.0/20 disabled=no list=route-aws
 add address=35.98.16.0/20 disabled=no list=route-aws
+add address=35.98.32.0/20 disabled=no list=route-aws
+add address=35.98.48.0/20 disabled=no list=route-aws
+add address=35.98.64.0/20 disabled=no list=route-aws
 add address=35.111.128.0/22 disabled=no list=route-aws
 add address=35.111.128.0/22 disabled=no list=route-aws
 add address=35.111.132.0/22 disabled=no list=route-aws

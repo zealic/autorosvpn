@@ -758,6 +758,8 @@ add address=2631:0:2::/48 disabled=no list=route-aws@us
 add address=2631:0:9::/48 disabled=no list=route-aws@us
 add address=2631:0:1600::/39 disabled=no list=route-aws@us
 add address=2631:0:1800::/39 disabled=no list=route-aws@us
+add address=2631:0:a00::/39 disabled=no list=route-aws@us
 add address=2631:0:a::/48 disabled=no list=route-aws@us
+add address=2631:0:c00::/39 disabled=no list=route-aws@us
 add address=2631:1:105::/48 disabled=no list=route-aws@us
 add address=2631::/48 disabled=no list=route-aws@us

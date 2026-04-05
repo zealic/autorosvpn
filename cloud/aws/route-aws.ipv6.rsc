@@ -5299,12 +5299,16 @@ add address=2631:0:9::/48 disabled=no list=route-aws
 add address=2631:0:200::/39 disabled=no list=route-aws
 add address=2631:0:400::/39 disabled=no list=route-aws
 add address=2631:0:600::/39 disabled=no list=route-aws
+add address=2631:0:800::/39 disabled=no list=route-aws
 add address=2631:0:1000::/39 disabled=no list=route-aws
+add address=2631:0:1200::/39 disabled=no list=route-aws
 add address=2631:0:1400::/39 disabled=no list=route-aws
 add address=2631:0:1600::/39 disabled=no list=route-aws
 add address=2631:0:1800::/39 disabled=no list=route-aws
+add address=2631:0:a00::/39 disabled=no list=route-aws
 add address=2631:0:a::/48 disabled=no list=route-aws
 add address=2631:0:a::/48 disabled=no list=route-aws
+add address=2631:0:c00::/39 disabled=no list=route-aws
 add address=2631:1:101::/48 disabled=no list=route-aws
 add address=2631:1:101::/48 disabled=no list=route-aws
 add address=2631:1:105::/48 disabled=no list=route-aws

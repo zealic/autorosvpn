@@ -97,3 +97,4 @@ add address=2620:107:4000:4703::/64 disabled=no list=route-aws@us-east-2
 add address=2620:107:4000:4704::/64 disabled=no list=route-aws@us-east-2
 add address=2620:107:4000:4705::/64 disabled=no list=route-aws@us-east-2
 add address=2620:107:4000:7700::/56 disabled=no list=route-aws@us-east-2
+add address=2631:0:a00::/39 disabled=no list=route-aws@us-east-2
