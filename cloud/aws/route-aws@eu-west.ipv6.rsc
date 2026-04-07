@@ -21,7 +21,7 @@ add address=2a05:d018::/35 disabled=no list=route-aws@eu-west
 add address=2a05:d018:b3d:8200::/56 disabled=no list=route-aws@eu-west
 add address=2a05:d018:fff:f800::/56 disabled=no list=route-aws@eu-west
 add address=2a05:d01c:4ac:3100::/56 disabled=no list=route-aws@eu-west
-add address=2a05:d01c::/36 disabled=no list=route-aws@eu-west
+add address=2a05:d01c::/35 disabled=no list=route-aws@eu-west
 add address=2a05:d01c:d06:1800::/56 disabled=no list=route-aws@eu-west
 add address=2a05:d022:1c::/48 disabled=no list=route-aws@eu-west
 add address=2a05:d022::/36 disabled=no list=route-aws@eu-west
