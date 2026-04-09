@@ -1034,6 +1034,8 @@ add address=35.50.141.0/24 disabled=no list=route-aws@us
 add address=35.50.142.0/24 disabled=no list=route-aws@us
 add address=35.50.143.0/24 disabled=no list=route-aws@us
 add address=35.50.144.0/24 disabled=no list=route-aws@us
+add address=35.50.160.0/24 disabled=no list=route-aws@us
+add address=35.50.161.0/24 disabled=no list=route-aws@us
 add address=35.54.32.0/21 disabled=no list=route-aws@us
 add address=35.54.40.0/22 disabled=no list=route-aws@us
 add address=35.54.62.0/24 disabled=no list=route-aws@us

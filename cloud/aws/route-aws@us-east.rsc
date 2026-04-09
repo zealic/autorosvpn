@@ -620,6 +620,8 @@ add address=35.50.141.0/24 disabled=no list=route-aws@us-east
 add address=35.50.142.0/24 disabled=no list=route-aws@us-east
 add address=35.50.143.0/24 disabled=no list=route-aws@us-east
 add address=35.50.144.0/24 disabled=no list=route-aws@us-east
+add address=35.50.160.0/24 disabled=no list=route-aws@us-east
+add address=35.50.161.0/24 disabled=no list=route-aws@us-east
 add address=35.54.32.0/21 disabled=no list=route-aws@us-east
 add address=35.55.29.0/24 disabled=no list=route-aws@us-east
 add address=35.55.30.0/24 disabled=no list=route-aws@us-east

@@ -67,3 +67,4 @@ add address=2606:f40:1400::/40 disabled=no list=route-aws@eu-west-2
 add address=2606:f40:9400::/40 disabled=no list=route-aws@eu-west-2
 add address=2606:f40:ffe8::/48 disabled=no list=route-aws@eu-west-2
 add address=2631:0:600::/39 disabled=no list=route-aws@eu-west-2
+add address=2631:1:10d::/48 disabled=no list=route-aws@eu-west-2
