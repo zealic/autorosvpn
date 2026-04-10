@@ -649,6 +649,9 @@ add address=16.12.80.0/24 disabled=no list=route-aws@ap
 add address=16.12.81.0/24 disabled=no list=route-aws@ap
 add address=16.12.82.0/23 disabled=no list=route-aws@ap
 add address=16.15.8.0/22 disabled=no list=route-aws@ap
+add address=16.15.54.0/23 disabled=no list=route-aws@ap
+add address=16.15.56.0/23 disabled=no list=route-aws@ap
+add address=16.15.58.0/23 disabled=no list=route-aws@ap
 add address=16.26.0.0/16 disabled=no list=route-aws@ap
 add address=16.27.0.0/16 disabled=no list=route-aws@ap
 add address=16.50.0.0/15 disabled=no list=route-aws@ap

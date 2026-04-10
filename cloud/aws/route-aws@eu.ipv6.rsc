@@ -529,3 +529,4 @@ add address=2631:0:1400::/39 disabled=no list=route-aws@eu
 add address=2631:1:10d::/48 disabled=no list=route-aws@eu
 add address=2631:1:10f::/48 disabled=no list=route-aws@eu
 add address=2631:1:101::/48 disabled=no list=route-aws@eu
+add address=2631:1:108::/48 disabled=no list=route-aws@eu

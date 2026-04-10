@@ -9,6 +9,7 @@ add address=15.177.97.0/24 disabled=no list=route-aws@eu-south-2
 add address=15.193.148.0/22 disabled=no list=route-aws@eu-south-2
 add address=15.216.0.0/16 disabled=no list=route-aws@eu-south-2
 add address=15.217.0.0/16 disabled=no list=route-aws@eu-south-2
+add address=15.217.96.0/24 disabled=no list=route-aws@eu-south-2
 add address=16.15.12.0/22 disabled=no list=route-aws@eu-south-2
 add address=16.214.24.0/22 disabled=no list=route-aws@eu-south-2
 add address=18.96.192.0/19 disabled=no list=route-aws@eu-south-2

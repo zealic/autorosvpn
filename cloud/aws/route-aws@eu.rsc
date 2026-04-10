@@ -346,6 +346,7 @@ add address=15.193.148.0/22 disabled=no list=route-aws@eu
 add address=15.193.152.0/22 disabled=no list=route-aws@eu
 add address=15.216.0.0/16 disabled=no list=route-aws@eu
 add address=15.217.0.0/16 disabled=no list=route-aws@eu
+add address=15.217.96.0/24 disabled=no list=route-aws@eu
 add address=15.220.48.0/21 disabled=no list=route-aws@eu
 add address=15.220.64.0/20 disabled=no list=route-aws@eu
 add address=15.220.144.0/23 disabled=no list=route-aws@eu

@@ -471,6 +471,8 @@ add address=2600:f0f0:e11::/48 disabled=no list=route-aws@us
 add address=2600:f0f0:e12::/48 disabled=no list=route-aws@us
 add address=2600:f0f0:e13::/48 disabled=no list=route-aws@us
 add address=2600:f0f0:e14::/48 disabled=no list=route-aws@us
+add address=2600:f0f0:e34::/48 disabled=no list=route-aws@us
+add address=2600:f0f0:e35::/48 disabled=no list=route-aws@us
 add address=2600:f0f0:f00:100::/56 disabled=no list=route-aws@us
 add address=2600:f0f0:f00:200::/56 disabled=no list=route-aws@us
 add address=2600:f0f0:f00:300::/56 disabled=no list=route-aws@us
