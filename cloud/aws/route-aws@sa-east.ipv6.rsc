@@ -5,6 +5,7 @@ add address=2600:1f01:491e::/47 disabled=no list=route-aws@sa-east
 add address=2600:1f01:4840::/47 disabled=no list=route-aws@sa-east
 add address=2600:1f1e:7ff:f800::/56 disabled=no list=route-aws@sa-east
 add address=2600:1f1e::/36 disabled=no list=route-aws@sa-east
+add address=2600:1f1e:cd1:5100::/56 disabled=no list=route-aws@sa-east
 add address=2600:1f1e:d1d:e700::/56 disabled=no list=route-aws@sa-east
 add address=2600:1f1e:fff:f800::/56 disabled=no list=route-aws@sa-east
 add address=2600:1f2e:14::/48 disabled=no list=route-aws@sa-east

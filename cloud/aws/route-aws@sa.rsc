@@ -20,6 +20,7 @@ add address=3.4.15.184/29 disabled=no list=route-aws@sa
 add address=3.4.15.192/29 disabled=no list=route-aws@sa
 add address=3.5.232.0/22 disabled=no list=route-aws@sa
 add address=3.44.192.0/18 disabled=no list=route-aws@sa
+add address=3.44.193.128/25 disabled=no list=route-aws@sa
 add address=13.248.81.0/24 disabled=no list=route-aws@sa
 add address=13.248.104.0/24 disabled=no list=route-aws@sa
 add address=13.248.114.0/24 disabled=no list=route-aws@sa

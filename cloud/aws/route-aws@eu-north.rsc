@@ -84,6 +84,7 @@ add address=16.197.0.0/16 disabled=no list=route-aws@eu-north
 add address=16.198.0.0/16 disabled=no list=route-aws@eu-north
 add address=16.199.0.0/16 disabled=no list=route-aws@eu-north
 add address=18.99.96.0/20 disabled=no list=route-aws@eu-north
+add address=18.99.100.128/25 disabled=no list=route-aws@eu-north
 add address=35.55.40.0/24 disabled=no list=route-aws@eu-north
 add address=35.55.41.0/24 disabled=no list=route-aws@eu-north
 add address=35.55.42.0/24 disabled=no list=route-aws@eu-north

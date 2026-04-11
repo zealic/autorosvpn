@@ -1296,7 +1296,6 @@ add address=2404:8580::/32 disabled=no list=chnroutes.ipv6
 add address=2404:8700::/32 disabled=no list=chnroutes.ipv6
 add address=2404:8880::/32 disabled=no list=chnroutes.ipv6
 add address=2404:8a80::/32 disabled=no list=chnroutes.ipv6
-add address=2404:8b00::/32 disabled=no list=chnroutes.ipv6
 add address=2404:8dc0::/32 disabled=no list=chnroutes.ipv6
 add address=2404:9340::/32 disabled=no list=chnroutes.ipv6
 add address=2404:9b80::/32 disabled=no list=chnroutes.ipv6
