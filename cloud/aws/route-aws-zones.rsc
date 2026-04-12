@@ -4972,6 +4972,9 @@ add address=3.4.15.112/29 disabled=no list=route-aws@us-east
 add address=3.5.0.0/19 disabled=no list=route-aws@us-east
 add address=3.5.88.0/22 disabled=no list=route-aws@us-east
 add address=3.5.92.0/23 disabled=no list=route-aws@us-east
+add address=3.5.100.0/22 disabled=no list=route-aws@us-east
+add address=3.5.104.0/22 disabled=no list=route-aws@us-east
+add address=3.5.108.0/22 disabled=no list=route-aws@us-east
 add address=3.5.128.0/22 disabled=no list=route-aws@us-east
 add address=3.5.132.0/23 disabled=no list=route-aws@us-east
 add address=3.12.0.0/16 disabled=no list=route-aws@us-east
