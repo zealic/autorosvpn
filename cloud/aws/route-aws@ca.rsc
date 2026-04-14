@@ -84,6 +84,7 @@ add address=16.49.0.0/16 disabled=no list=route-aws@ca
 add address=16.52.0.0/16 disabled=no list=route-aws@ca
 add address=16.53.0.0/16 disabled=no list=route-aws@ca
 add address=16.54.0.0/15 disabled=no list=route-aws@ca
+add address=16.54.170.0/23 disabled=no list=route-aws@ca
 add address=16.174.0.0/16 disabled=no list=route-aws@ca
 add address=16.174.54.0/23 disabled=no list=route-aws@ca
 add address=16.175.0.0/16 disabled=no list=route-aws@ca

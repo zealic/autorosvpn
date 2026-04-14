@@ -4061,6 +4061,12 @@ add address=2600:f0f0:6000::/44 disabled=no list=route-aws
 add address=2600:f0f0:6000::/44 disabled=no list=route-aws
 add address=2600:f0f0:6010::/44 disabled=no list=route-aws
 add address=2600:f0f0:6010::/44 disabled=no list=route-aws
+add address=2600:f0f0:6025::/48 disabled=no list=route-aws
+add address=2600:f0f0:6025::/48 disabled=no list=route-aws
+add address=2600:f0f0:6026::/48 disabled=no list=route-aws
+add address=2600:f0f0:6026::/48 disabled=no list=route-aws
+add address=2600:f0f0:6027::/48 disabled=no list=route-aws
+add address=2600:f0f0:6027::/48 disabled=no list=route-aws
 add address=2600:f0f0:6100::/48 disabled=no list=route-aws
 add address=2600:f0f0:6100::/48 disabled=no list=route-aws
 add address=2600:f0f0:6100::/48 disabled=no list=route-aws
