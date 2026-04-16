@@ -241,3 +241,4 @@ add address=2620:107:4000::/64 disabled=no list=route-aws@us-east-1
 add address=2620:107:4000:ff::/64 disabled=no list=route-aws@us-east-1
 add address=2620:107:4007::/64 disabled=no list=route-aws@us-east-1
 add address=2631:0:c00::/39 disabled=no list=route-aws@us-east-1
+add address=2631:0:e00::/39 disabled=no list=route-aws@us-east-1
