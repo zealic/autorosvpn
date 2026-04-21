@@ -756,6 +756,7 @@ add address=2402:52c0::/32 disabled=no list=chnroutes.ipv6
 add address=2402:5340::/32 disabled=no list=chnroutes.ipv6
 add address=2402:5820::/32 disabled=no list=chnroutes.ipv6
 add address=2402:5880::/32 disabled=no list=chnroutes.ipv6
+add address=2402:5920::/32 disabled=no list=chnroutes.ipv6
 add address=2402:5940::/32 disabled=no list=chnroutes.ipv6
 add address=2402:59c0::/32 disabled=no list=chnroutes.ipv6
 add address=2402:5a40::/32 disabled=no list=chnroutes.ipv6
@@ -1639,7 +1640,6 @@ add address=2406:3280::/32 disabled=no list=chnroutes.ipv6
 add address=2406:3300::/32 disabled=no list=chnroutes.ipv6
 add address=2406:3340::/32 disabled=no list=chnroutes.ipv6
 add address=2406:3380::/32 disabled=no list=chnroutes.ipv6
-add address=2406:3440::/32 disabled=no list=chnroutes.ipv6
 add address=2406:3480::/32 disabled=no list=chnroutes.ipv6
 add address=2406:34c0::/32 disabled=no list=chnroutes.ipv6
 add address=2406:3580::/32 disabled=no list=chnroutes.ipv6

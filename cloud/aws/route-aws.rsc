@@ -280,6 +280,7 @@ add address=3.2.98.0/24 disabled=no list=route-aws
 add address=3.2.98.0/24 disabled=no list=route-aws
 add address=3.2.99.0/24 disabled=no list=route-aws
 add address=3.2.99.0/24 disabled=no list=route-aws
+add address=3.2.99.0/24 disabled=no list=route-aws
 add address=3.2.100.0/24 disabled=no list=route-aws
 add address=3.2.100.0/24 disabled=no list=route-aws
 add address=3.2.101.0/24 disabled=no list=route-aws
@@ -4145,6 +4146,7 @@ add address=31.220.247.0/24 disabled=no list=route-aws
 add address=31.220.252.0/24 disabled=no list=route-aws
 add address=31.220.252.0/24 disabled=no list=route-aws
 add address=31.220.252.0/24 disabled=no list=route-aws
+add address=32.184.0.0/13 disabled=no list=route-aws
 add address=32.184.0.0/13 disabled=no list=route-aws
 add address=32.192.0.0/13 disabled=no list=route-aws
 add address=32.192.0.0/13 disabled=no list=route-aws
