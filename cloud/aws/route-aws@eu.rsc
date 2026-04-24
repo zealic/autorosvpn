@@ -603,6 +603,7 @@ add address=16.60.228.0/25 disabled=no list=route-aws@eu
 add address=16.60.228.160/29 disabled=no list=route-aws@eu
 add address=16.60.228.168/29 disabled=no list=route-aws@eu
 add address=16.61.0.0/16 disabled=no list=route-aws@eu
+add address=16.61.68.0/23 disabled=no list=route-aws@eu
 add address=16.62.0.0/15 disabled=no list=route-aws@eu
 add address=16.62.7.192/26 disabled=no list=route-aws@eu
 add address=16.62.51.0/24 disabled=no list=route-aws@eu
