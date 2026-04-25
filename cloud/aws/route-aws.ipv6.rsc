@@ -5356,6 +5356,7 @@ add address=2631:0:1400::/39 disabled=no list=route-aws
 add address=2631:0:1600::/39 disabled=no list=route-aws
 add address=2631:0:1800::/39 disabled=no list=route-aws
 add address=2631:0:2000::/39 disabled=no list=route-aws
+add address=2631:0:2200::/39 disabled=no list=route-aws
 add address=2631:0:a00::/39 disabled=no list=route-aws
 add address=2631:0:a::/48 disabled=no list=route-aws
 add address=2631:0:a::/48 disabled=no list=route-aws
