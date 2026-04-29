@@ -818,6 +818,7 @@ add address=3.78.202.0/23 disabled=no list=route-aws
 add address=3.78.204.0/22 disabled=no list=route-aws
 add address=3.80.0.0/12 disabled=no list=route-aws
 add address=3.80.0.0/12 disabled=no list=route-aws
+add address=3.80.16.0/23 disabled=no list=route-aws
 add address=3.83.168.0/22 disabled=no list=route-aws
 add address=3.91.171.128/25 disabled=no list=route-aws
 add address=3.96.0.0/15 disabled=no list=route-aws

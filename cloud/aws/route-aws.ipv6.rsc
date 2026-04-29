@@ -4427,6 +4427,8 @@ add address=2600:f0f1:10::/47 disabled=no list=route-aws
 add address=2600:f0f1:10::/47 disabled=no list=route-aws
 add address=2600:f0f1:12::/47 disabled=no list=route-aws
 add address=2600:f0f1:12::/47 disabled=no list=route-aws
+add address=2600:f0f1:14::/46 disabled=no list=route-aws
+add address=2600:f0f1:14::/46 disabled=no list=route-aws
 add address=2600:f0f1:40c0::/42 disabled=no list=route-aws
 add address=2600:f0f1:40c0::/42 disabled=no list=route-aws
 add address=2600:f0f1:41c0::/42 disabled=no list=route-aws
