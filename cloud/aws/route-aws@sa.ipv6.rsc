@@ -103,5 +103,6 @@ add address=2620:107:4000:8300::/56 disabled=no list=route-aws@sa
 add address=2631:0:1200::/39 disabled=no list=route-aws@sa
 add address=2631:0:2000::/39 disabled=no list=route-aws@sa
 add address=2631:0:2200::/39 disabled=no list=route-aws@sa
+add address=2631:1:106::/48 disabled=no list=route-aws@sa
 add address=2804:800::/48 disabled=no list=route-aws@sa
 add address=2804:800:ff00::/48 disabled=no list=route-aws@sa

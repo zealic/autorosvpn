@@ -6358,6 +6358,7 @@ add address=161.248.108.0/23 disabled=no list=chnroutes
 add address=161.248.110.0/23 disabled=no list=chnroutes
 add address=161.248.112.0/23 disabled=no list=chnroutes
 add address=161.248.136.0/23 disabled=no list=chnroutes
+add address=162.4.54.0/23 disabled=no list=chnroutes
 add address=162.14.0.0/16 disabled=no list=chnroutes
 add address=162.105.0.0/16 disabled=no list=chnroutes
 add address=163.0.0.0/16 disabled=no list=chnroutes

@@ -175,4 +175,5 @@ add address=2631:0:3::/48 disabled=no list=route-aws@eu-central
 add address=2631:0:8::/48 disabled=no list=route-aws@eu-central
 add address=2631:0:200::/39 disabled=no list=route-aws@eu-central
 add address=2631:0:1400::/39 disabled=no list=route-aws@eu-central
+add address=2631:0:2400::/39 disabled=no list=route-aws@eu-central
 add address=2631:1:108::/48 disabled=no list=route-aws@eu-central
