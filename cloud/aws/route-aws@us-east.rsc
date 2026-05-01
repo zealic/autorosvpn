@@ -760,6 +760,7 @@ add address=45.33.163.0/24 disabled=no list=route-aws@us-east
 add address=45.33.166.0/24 disabled=no list=route-aws@us-east
 add address=45.33.167.0/24 disabled=no list=route-aws@us-east
 add address=45.33.170.0/24 disabled=no list=route-aws@us-east
+add address=45.33.176.0/24 disabled=no list=route-aws@us-east
 add address=46.51.208.0/22 disabled=no list=route-aws@us-east
 add address=50.16.0.0/15 disabled=no list=route-aws@us-east
 add address=50.19.0.0/16 disabled=no list=route-aws@us-east
