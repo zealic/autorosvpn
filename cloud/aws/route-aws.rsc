@@ -1706,7 +1706,6 @@ add address=13.248.104.0/24 disabled=no list=route-aws
 add address=13.248.105.0/24 disabled=no list=route-aws
 add address=13.248.105.0/24 disabled=no list=route-aws
 add address=13.248.106.0/24 disabled=no list=route-aws
-add address=13.248.106.0/24 disabled=no list=route-aws
 add address=13.248.107.0/24 disabled=no list=route-aws
 add address=13.248.107.0/24 disabled=no list=route-aws
 add address=13.248.108.0/24 disabled=no list=route-aws
