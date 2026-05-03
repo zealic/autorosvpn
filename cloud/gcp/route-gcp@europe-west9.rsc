@@ -5,3 +5,5 @@ add address=34.155.0.0/16 disabled=no list=route-gcp@europe-west9
 add address=34.157.12.0/22 disabled=no list=route-gcp@europe-west9
 add address=34.157.140.0/22 disabled=no list=route-gcp@europe-west9
 add address=34.163.0.0/16 disabled=no list=route-gcp@europe-west9
+add address=34.183.73.0/24 disabled=no list=route-gcp@europe-west9
+add address=34.184.72.0/24 disabled=no list=route-gcp@europe-west9

@@ -8,5 +8,7 @@ add address=34.157.90.0/23 disabled=no list=route-gcp@me-west1
 add address=34.157.216.0/23 disabled=no list=route-gcp@me-west1
 add address=34.165.0.0/16 disabled=no list=route-gcp@me-west1
 add address=34.183.20.128/25 disabled=no list=route-gcp@me-west1
+add address=34.183.61.0/24 disabled=no list=route-gcp@me-west1
 add address=34.184.3.128/25 disabled=no list=route-gcp@me-west1
+add address=34.184.64.0/24 disabled=no list=route-gcp@me-west1
 add address=35.252.0.0/19 disabled=no list=route-gcp@me-west1
