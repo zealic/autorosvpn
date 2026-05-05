@@ -792,6 +792,8 @@ add address=69.107.12.80/29 disabled=no list=route-aws@us-east-1
 add address=69.107.12.88/29 disabled=no list=route-aws@us-east-1
 add address=69.107.12.144/29 disabled=no list=route-aws@us-east-1
 add address=69.107.12.152/29 disabled=no list=route-aws@us-east-1
+add address=69.107.12.224/29 disabled=no list=route-aws@us-east-1
+add address=69.107.12.232/29 disabled=no list=route-aws@us-east-1
 add address=70.232.92.0/22 disabled=no list=route-aws@us-east-1
 add address=72.21.192.0/19 disabled=no list=route-aws@us-east-1
 add address=72.41.0.0/20 disabled=no list=route-aws@us-east-1

@@ -48,3 +48,4 @@ add address=2600:f0f0:e29::/48 disabled=no list=route-aws@ap-northeast-3
 add address=2600:f0f1:83::/48 disabled=no list=route-aws@ap-northeast-3
 add address=2600:f0f1:4340::/42 disabled=no list=route-aws@ap-northeast-3
 add address=2600:f0f2:710a::/48 disabled=no list=route-aws@ap-northeast-3
+add address=2605:b140:9a02::/48 disabled=no list=route-aws@ap-northeast-3
