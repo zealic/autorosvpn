@@ -494,6 +494,7 @@ add address=2406:daf6:4000::/40 disabled=no list=route-aws@ap
 add address=2406:daf6:4800::/40 disabled=no list=route-aws@ap
 add address=2406:daf6:6000::/40 disabled=no list=route-aws@ap
 add address=2406:daf6:8000::/40 disabled=no list=route-aws@ap
+add address=2406:daf6:8000::/48 disabled=no list=route-aws@ap
 add address=2406:daf6:8800::/40 disabled=no list=route-aws@ap
 add address=2406:daf6:9000::/40 disabled=no list=route-aws@ap
 add address=2406:daf6:a000::/40 disabled=no list=route-aws@ap
@@ -812,6 +813,7 @@ add address=2620:107:4000:a840::/58 disabled=no list=route-aws@ap
 add address=2620:107:4000:a880::/58 disabled=no list=route-aws@ap
 add address=2620:107:4000:a900::/58 disabled=no list=route-aws@ap
 add address=2620:107:4000:a940::/58 disabled=no list=route-aws@ap
+add address=2631:0:2600::/39 disabled=no list=route-aws@ap
 /ipv6 firewall address-list remove [/ipv6 firewall address-list find list="route-aws@ca"]
 /ipv6 firewall address-list
 add address=2600:1f00:1000::/40 disabled=no list=route-aws@ca
@@ -1560,6 +1562,7 @@ add address=2001:3fc3:a800::/40 disabled=no list=route-aws@eusc
 add address=2001:3fc4:800::/40 disabled=no list=route-aws@eusc
 add address=2001:3fc5:800::/40 disabled=no list=route-aws@eusc
 add address=2001:3fc5:1000::/40 disabled=no list=route-aws@eusc
+add address=2001:3fc5:2000::/40 disabled=no list=route-aws@eusc
 add address=2001:3fc5:8800::/40 disabled=no list=route-aws@eusc
 add address=2001:3fc6:0:100::/56 disabled=no list=route-aws@eusc
 add address=2001:3fc6:1::/48 disabled=no list=route-aws@eusc

@@ -72,3 +72,4 @@ add address=2606:7b40:1b07:4200::/56 disabled=no list=route-aws@ap-southeast-2
 add address=2606:f40:2a00::/40 disabled=no list=route-aws@ap-southeast-2
 add address=2606:f40:aa00::/40 disabled=no list=route-aws@ap-southeast-2
 add address=2606:f40:ffef::/48 disabled=no list=route-aws@ap-southeast-2
+add address=2631:0:2600::/39 disabled=no list=route-aws@ap-southeast-2

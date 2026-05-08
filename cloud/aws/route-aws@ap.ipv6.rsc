@@ -447,6 +447,7 @@ add address=2406:daf6:4000::/40 disabled=no list=route-aws@ap
 add address=2406:daf6:4800::/40 disabled=no list=route-aws@ap
 add address=2406:daf6:6000::/40 disabled=no list=route-aws@ap
 add address=2406:daf6:8000::/40 disabled=no list=route-aws@ap
+add address=2406:daf6:8000::/48 disabled=no list=route-aws@ap
 add address=2406:daf6:8800::/40 disabled=no list=route-aws@ap
 add address=2406:daf6:9000::/40 disabled=no list=route-aws@ap
 add address=2406:daf6:a000::/40 disabled=no list=route-aws@ap
@@ -765,3 +766,4 @@ add address=2620:107:4000:a840::/58 disabled=no list=route-aws@ap
 add address=2620:107:4000:a880::/58 disabled=no list=route-aws@ap
 add address=2620:107:4000:a900::/58 disabled=no list=route-aws@ap
 add address=2620:107:4000:a940::/58 disabled=no list=route-aws@ap
+add address=2631:0:2600::/39 disabled=no list=route-aws@ap

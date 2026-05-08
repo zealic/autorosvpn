@@ -907,6 +907,8 @@ add address=2001:3fc5:800::/40 disabled=no list=route-aws
 add address=2001:3fc5:800::/40 disabled=no list=route-aws
 add address=2001:3fc5:1000::/40 disabled=no list=route-aws
 add address=2001:3fc5:1000::/40 disabled=no list=route-aws
+add address=2001:3fc5:2000::/40 disabled=no list=route-aws
+add address=2001:3fc5:2000::/40 disabled=no list=route-aws
 add address=2001:3fc5:8800::/40 disabled=no list=route-aws
 add address=2001:3fc5:8800::/40 disabled=no list=route-aws
 add address=2001:3fc6:0:100::/56 disabled=no list=route-aws
@@ -2080,6 +2082,7 @@ add address=2406:daf6:7000::/40 disabled=no list=route-aws
 add address=2406:daf6:7000::/40 disabled=no list=route-aws
 add address=2406:daf6:8000::/40 disabled=no list=route-aws
 add address=2406:daf6:8000::/40 disabled=no list=route-aws
+add address=2406:daf6:8000::/48 disabled=no list=route-aws
 add address=2406:daf6:8800::/40 disabled=no list=route-aws
 add address=2406:daf6:8800::/40 disabled=no list=route-aws
 add address=2406:daf6:9000::/40 disabled=no list=route-aws
@@ -5397,6 +5400,7 @@ add address=2631:0:1800::/39 disabled=no list=route-aws
 add address=2631:0:2000::/39 disabled=no list=route-aws
 add address=2631:0:2200::/39 disabled=no list=route-aws
 add address=2631:0:2400::/39 disabled=no list=route-aws
+add address=2631:0:2600::/39 disabled=no list=route-aws
 add address=2631:0:a00::/39 disabled=no list=route-aws
 add address=2631:0:a::/48 disabled=no list=route-aws
 add address=2631:0:a::/48 disabled=no list=route-aws
