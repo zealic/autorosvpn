@@ -595,6 +595,7 @@ add address=16.16.0.0/16 disabled=no list=route-aws@eu
 add address=16.16.2.0/23 disabled=no list=route-aws@eu
 add address=16.16.108.0/23 disabled=no list=route-aws@eu
 add address=16.18.0.0/16 disabled=no list=route-aws@eu
+add address=16.18.68.0/22 disabled=no list=route-aws@eu
 add address=16.19.0.0/16 disabled=no list=route-aws@eu
 add address=16.22.0.0/16 disabled=no list=route-aws@eu
 add address=16.23.0.0/16 disabled=no list=route-aws@eu
