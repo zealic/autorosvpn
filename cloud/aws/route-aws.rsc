@@ -5537,6 +5537,8 @@ add address=51.74.16.0/24 disabled=no list=route-aws
 add address=51.74.16.0/24 disabled=no list=route-aws
 add address=51.74.17.0/24 disabled=no list=route-aws
 add address=51.74.17.0/24 disabled=no list=route-aws
+add address=51.74.128.0/18 disabled=no list=route-aws
+add address=51.74.128.0/18 disabled=no list=route-aws
 add address=51.74.192.0/18 disabled=no list=route-aws
 add address=51.74.192.0/18 disabled=no list=route-aws
 add address=51.84.0.0/16 disabled=no list=route-aws

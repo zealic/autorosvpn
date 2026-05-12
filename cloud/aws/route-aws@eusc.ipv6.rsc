@@ -5,6 +5,7 @@ add address=2001:3fc1:8000::/36 disabled=no list=route-aws@eusc
 add address=2001:3fc2:8000::/36 disabled=no list=route-aws@eusc
 add address=2001:3fc3:800::/40 disabled=no list=route-aws@eusc
 add address=2001:3fc3:2800::/40 disabled=no list=route-aws@eusc
+add address=2001:3fc3:3000::/36 disabled=no list=route-aws@eusc
 add address=2001:3fc3:6800::/40 disabled=no list=route-aws@eusc
 add address=2001:3fc3:8800::/40 disabled=no list=route-aws@eusc
 add address=2001:3fc3:a800::/40 disabled=no list=route-aws@eusc
