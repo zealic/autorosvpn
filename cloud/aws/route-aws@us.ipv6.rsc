@@ -290,6 +290,7 @@ add address=2600:1ff6:6000::/40 disabled=no list=route-aws@us
 add address=2600:1ff6:6000::/48 disabled=no list=route-aws@us
 add address=2600:1ff6:8000::/39 disabled=no list=route-aws@us
 add address=2600:1ff6:c000::/40 disabled=no list=route-aws@us
+add address=2600:1ff6:c000::/48 disabled=no list=route-aws@us
 add address=2600:1ff8:2c00::/40 disabled=no list=route-aws@us
 add address=2600:1ff8:2000::/40 disabled=no list=route-aws@us
 add address=2600:1ff8:4000::/39 disabled=no list=route-aws@us

@@ -907,6 +907,8 @@ add address=136.18.132.0/23 disabled=no list=route-aws@us-east-1
 add address=136.18.136.0/23 disabled=no list=route-aws@us-east-1
 add address=136.18.138.0/23 disabled=no list=route-aws@us-east-1
 add address=136.18.160.0/23 disabled=no list=route-aws@us-east-1
+add address=136.18.162.0/23 disabled=no list=route-aws@us-east-1
+add address=136.18.168.0/21 disabled=no list=route-aws@us-east-1
 add address=136.18.254.0/23 disabled=no list=route-aws@us-east-1
 add address=139.56.18.0/23 disabled=no list=route-aws@us-east-1
 add address=139.56.20.0/23 disabled=no list=route-aws@us-east-1
