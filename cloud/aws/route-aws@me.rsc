@@ -44,7 +44,6 @@ add address=13.248.106.96/28 disabled=no list=route-aws@me
 add address=13.248.106.112/28 disabled=no list=route-aws@me
 add address=13.248.106.128/27 disabled=no list=route-aws@me
 add address=13.248.106.160/27 disabled=no list=route-aws@me
-add address=13.248.106.192/28 disabled=no list=route-aws@me
 add address=13.248.106.208/28 disabled=no list=route-aws@me
 add address=15.148.0.0/16 disabled=no list=route-aws@me
 add address=15.159.0.0/16 disabled=no list=route-aws@me

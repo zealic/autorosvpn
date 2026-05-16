@@ -12,7 +12,6 @@ add address=13.248.106.96/28 disabled=no list=route-aws@me-south-1
 add address=13.248.106.112/28 disabled=no list=route-aws@me-south-1
 add address=13.248.106.128/27 disabled=no list=route-aws@me-south-1
 add address=13.248.106.160/27 disabled=no list=route-aws@me-south-1
-add address=13.248.106.192/28 disabled=no list=route-aws@me-south-1
 add address=13.248.106.208/28 disabled=no list=route-aws@me-south-1
 add address=15.177.87.0/24 disabled=no list=route-aws@me-south-1
 add address=15.184.0.0/16 disabled=no list=route-aws@me-south-1
