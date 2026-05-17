@@ -15,7 +15,9 @@ add address=34.159.0.0/16 disabled=no list=route-gcp@europe-west3
 add address=34.179.0.0/16 disabled=no list=route-gcp@europe-west3
 add address=34.181.0.0/17 disabled=no list=route-gcp@europe-west3
 add address=34.183.37.0/24 disabled=no list=route-gcp@europe-west3
+add address=34.183.82.0/24 disabled=no list=route-gcp@europe-west3
 add address=34.184.54.0/24 disabled=no list=route-gcp@europe-west3
+add address=34.184.81.0/24 disabled=no list=route-gcp@europe-west3
 add address=34.185.128.0/17 disabled=no list=route-gcp@europe-west3
 add address=35.198.64.0/18 disabled=no list=route-gcp@europe-west3
 add address=35.198.128.0/18 disabled=no list=route-gcp@europe-west3

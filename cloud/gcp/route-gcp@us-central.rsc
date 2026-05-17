@@ -96,6 +96,7 @@ add address=130.211.112.0/20 disabled=no list=route-gcp@us-central
 add address=130.211.128.0/18 disabled=no list=route-gcp@us-central
 add address=130.211.192.0/19 disabled=no list=route-gcp@us-central
 add address=130.211.224.0/20 disabled=no list=route-gcp@us-central
+add address=136.64.0.0/15 disabled=no list=route-gcp@us-central
 add address=136.111.0.0/16 disabled=no list=route-gcp@us-central
 add address=136.112.0.0/14 disabled=no list=route-gcp@us-central
 add address=136.116.0.0/16 disabled=no list=route-gcp@us-central

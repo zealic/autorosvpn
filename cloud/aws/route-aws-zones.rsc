@@ -6713,6 +6713,7 @@ add address=205.251.236.0/22 disabled=no list=route-aws@us-gov-west
 /ip firewall address-list remove [/ip firewall address-list find list="route-aws@us-south"]
 /ip firewall address-list
 add address=1.179.103.0/24 disabled=no list=route-aws@us-south
+add address=13.248.82.0/24 disabled=no list=route-aws@us-south
 add address=15.177.108.0/24 disabled=no list=route-aws@us-south
 add address=15.190.176.0/20 disabled=no list=route-aws@us-south
 add address=15.190.224.0/22 disabled=no list=route-aws@us-south

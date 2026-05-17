@@ -1687,6 +1687,8 @@ add address=13.248.80.0/24 disabled=no list=route-aws
 add address=13.248.80.0/24 disabled=no list=route-aws
 add address=13.248.81.0/24 disabled=no list=route-aws
 add address=13.248.81.0/24 disabled=no list=route-aws
+add address=13.248.82.0/24 disabled=no list=route-aws
+add address=13.248.82.0/24 disabled=no list=route-aws
 add address=13.248.96.0/24 disabled=no list=route-aws
 add address=13.248.96.0/24 disabled=no list=route-aws
 add address=13.248.97.0/24 disabled=no list=route-aws
