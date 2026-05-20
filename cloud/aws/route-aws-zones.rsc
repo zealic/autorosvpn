@@ -4123,6 +4123,7 @@ add address=51.0.136.0/23 disabled=no list=route-aws@eusc-de-east
 add address=51.0.138.0/23 disabled=no list=route-aws@eusc-de-east
 add address=51.0.140.0/23 disabled=no list=route-aws@eusc-de-east
 add address=51.0.142.0/23 disabled=no list=route-aws@eusc-de-east
+add address=51.0.250.0/31 disabled=no list=route-aws@eusc-de-east
 add address=51.0.251.0/24 disabled=no list=route-aws@eusc-de-east
 add address=51.0.252.0/24 disabled=no list=route-aws@eusc-de-east
 add address=51.72.0.0/15 disabled=no list=route-aws@eusc-de-east
@@ -4152,7 +4153,6 @@ add address=150.222.54.64/27 disabled=no list=route-aws@eusc-de-east
 /ip firewall address-list
 add address=1.178.72.0/21 disabled=no list=route-aws@global
 add address=1.178.172.0/23 disabled=no list=route-aws@global
-add address=1.178.180.0/22 disabled=no list=route-aws@global
 add address=1.179.14.0/23 disabled=no list=route-aws@global
 add address=1.179.60.0/23 disabled=no list=route-aws@global
 add address=3.2.1.0/24 disabled=no list=route-aws@global
@@ -6717,6 +6717,7 @@ add address=13.248.82.0/24 disabled=no list=route-aws@us-south
 add address=15.177.108.0/24 disabled=no list=route-aws@us-south
 add address=15.190.176.0/20 disabled=no list=route-aws@us-south
 add address=15.190.224.0/22 disabled=no list=route-aws@us-south
+add address=15.248.176.0/21 disabled=no list=route-aws@us-south
 add address=23.254.32.0/21 disabled=no list=route-aws@us-south
 add address=46.168.0.0/15 disabled=no list=route-aws@us-south
 add address=52.94.250.192/28 disabled=no list=route-aws@us-south

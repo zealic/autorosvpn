@@ -741,6 +741,7 @@ add address=15.248.162.3/32 disabled=no list=route-aws@us
 add address=15.248.162.4/32 disabled=no list=route-aws@us
 add address=15.248.162.5/32 disabled=no list=route-aws@us
 add address=15.248.164.0/24 disabled=no list=route-aws@us
+add address=15.248.176.0/21 disabled=no list=route-aws@us
 add address=15.248.184.0/21 disabled=no list=route-aws@us
 add address=15.251.0.0/32 disabled=no list=route-aws@us
 add address=15.251.0.1/32 disabled=no list=route-aws@us
