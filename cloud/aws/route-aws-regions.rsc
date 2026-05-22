@@ -2963,6 +2963,7 @@ add address=18.89.0.0/18 disabled=no list=route-aws@eu
 add address=18.96.32.0/19 disabled=no list=route-aws@eu
 add address=18.96.39.128/25 disabled=no list=route-aws@eu
 add address=18.96.192.0/19 disabled=no list=route-aws@eu
+add address=18.96.194.0/25 disabled=no list=route-aws@eu
 add address=18.97.192.0/18 disabled=no list=route-aws@eu
 add address=18.97.198.128/25 disabled=no list=route-aws@eu
 add address=18.98.64.0/19 disabled=no list=route-aws@eu

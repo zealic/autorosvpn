@@ -47,6 +47,7 @@ add address=2a05:d000:e000::/40 disabled=no list=route-aws
 add address=2a05:d000:e000::/40 disabled=no list=route-aws
 add address=2a05:d010:8000::/36 disabled=no list=route-aws
 add address=2a05:d010:8000::/36 disabled=no list=route-aws
+add address=2a05:d011:95f:c900::/56 disabled=no list=route-aws
 add address=2a05:d011::/36 disabled=no list=route-aws
 add address=2a05:d011::/36 disabled=no list=route-aws
 add address=2a05:d011:cbe:f700::/56 disabled=no list=route-aws
@@ -4170,6 +4171,8 @@ add address=2600:f0f0:6124::/48 disabled=no list=route-aws
 add address=2600:f0f0:6124::/48 disabled=no list=route-aws
 add address=2600:f0f0:6125::/48 disabled=no list=route-aws
 add address=2600:f0f0:6125::/48 disabled=no list=route-aws
+add address=2600:f0f0:6125::/48 disabled=no list=route-aws
+add address=2600:f0f0:6126::/48 disabled=no list=route-aws
 add address=2600:f0f0:6126::/48 disabled=no list=route-aws
 add address=2600:f0f0:6126::/48 disabled=no list=route-aws
 add address=2600:f0f0:8100::/48 disabled=no list=route-aws
@@ -5144,6 +5147,10 @@ add address=2606:7b40:1042::/56 disabled=no list=route-aws
 add address=2606:7b40:1042::/56 disabled=no list=route-aws
 add address=2606:7b40:1800::/40 disabled=no list=route-aws
 add address=2606:7b40:1800::/40 disabled=no list=route-aws
+add address=2606:7b40:3000:4000::/50 disabled=no list=route-aws
+add address=2606:7b40:3000:4000::/50 disabled=no list=route-aws
+add address=2606:7b40:3000::/50 disabled=no list=route-aws
+add address=2606:7b40:3000::/50 disabled=no list=route-aws
 add address=2606:7b40:a3e:3c00::/54 disabled=no list=route-aws
 add address=2606:7b40:a3e:3c00::/54 disabled=no list=route-aws
 add address=2606:7b40:a3e:200::/60 disabled=no list=route-aws
@@ -5352,6 +5359,7 @@ add address=2620:107:4000:8300::/56 disabled=no list=route-aws
 add address=2620:107:4000:8400::/56 disabled=no list=route-aws
 add address=2620:107:4000:8500::/56 disabled=no list=route-aws
 add address=2620:107:4000:8600::/56 disabled=no list=route-aws
+add address=2620:107:4000:8700::/56 disabled=no list=route-aws
 add address=2620:107:4000:9000::/63 disabled=no list=route-aws
 add address=2620:107:4000:9002::/64 disabled=no list=route-aws
 add address=2620:107:4000:9003::/64 disabled=no list=route-aws
