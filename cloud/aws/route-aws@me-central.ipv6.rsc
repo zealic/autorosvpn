@@ -18,6 +18,7 @@ add address=2406:daa0:7000::/40 disabled=no list=route-aws@me-central
 add address=2406:dab9:7000::/40 disabled=no list=route-aws@me-central
 add address=2406:daba:7000::/40 disabled=no list=route-aws@me-central
 add address=2406:dabb:7000::/40 disabled=no list=route-aws@me-central
+add address=2406:dae8:7000::/40 disabled=no list=route-aws@me-central
 add address=2406:dae9:7000::/40 disabled=no list=route-aws@me-central
 add address=2406:daea:7000::/40 disabled=no list=route-aws@me-central
 add address=2406:daeb:7000::/40 disabled=no list=route-aws@me-central

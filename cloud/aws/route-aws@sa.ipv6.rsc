@@ -41,6 +41,8 @@ add address=2600:1fba:e000::/40 disabled=no list=route-aws@sa
 add address=2600:1fba:ec00::/40 disabled=no list=route-aws@sa
 add address=2600:1fbb:e000::/40 disabled=no list=route-aws@sa
 add address=2600:1fbb:ec00::/40 disabled=no list=route-aws@sa
+add address=2600:1fe8:e000::/40 disabled=no list=route-aws@sa
+add address=2600:1fe8:ec00::/40 disabled=no list=route-aws@sa
 add address=2600:1fe9:e000::/40 disabled=no list=route-aws@sa
 add address=2600:1fe9:ec00::/40 disabled=no list=route-aws@sa
 add address=2600:1fea:e000::/40 disabled=no list=route-aws@sa

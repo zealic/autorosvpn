@@ -26,6 +26,7 @@ add address=2600:1fa0:1000::/40 disabled=no list=route-aws@ca-central
 add address=2600:1fb9:1000::/40 disabled=no list=route-aws@ca-central
 add address=2600:1fba:1000::/40 disabled=no list=route-aws@ca-central
 add address=2600:1fbb:1000::/40 disabled=no list=route-aws@ca-central
+add address=2600:1fe8:1000::/40 disabled=no list=route-aws@ca-central
 add address=2600:1fe9:1000::/40 disabled=no list=route-aws@ca-central
 add address=2600:1fea:1000::/40 disabled=no list=route-aws@ca-central
 add address=2600:1feb:1000::/40 disabled=no list=route-aws@ca-central

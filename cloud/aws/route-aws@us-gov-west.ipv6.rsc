@@ -17,6 +17,7 @@ add address=2600:1fa0:2000::/40 disabled=no list=route-aws@us-gov-west
 add address=2600:1fb9:2000::/40 disabled=no list=route-aws@us-gov-west
 add address=2600:1fba:2000::/40 disabled=no list=route-aws@us-gov-west
 add address=2600:1fbb:2000::/40 disabled=no list=route-aws@us-gov-west
+add address=2600:1fe8:2000::/40 disabled=no list=route-aws@us-gov-west
 add address=2600:1fe9:2000::/40 disabled=no list=route-aws@us-gov-west
 add address=2600:1fea:2000::/40 disabled=no list=route-aws@us-gov-west
 add address=2600:1feb:2000::/40 disabled=no list=route-aws@us-gov-west
