@@ -1277,6 +1277,10 @@ add address=104.255.56.57/32 disabled=no list=route-aws@us-east
 add address=104.255.56.60/32 disabled=no list=route-aws@us-east
 add address=104.255.56.63/32 disabled=no list=route-aws@us-east
 add address=104.255.56.64/32 disabled=no list=route-aws@us-east
+add address=104.255.56.65/32 disabled=no list=route-aws@us-east
+add address=104.255.56.66/32 disabled=no list=route-aws@us-east
+add address=104.255.56.67/32 disabled=no list=route-aws@us-east
+add address=104.255.56.68/32 disabled=no list=route-aws@us-east
 add address=104.255.57.0/32 disabled=no list=route-aws@us-east
 add address=104.255.57.41/32 disabled=no list=route-aws@us-east
 add address=104.255.57.164/32 disabled=no list=route-aws@us-east

@@ -1574,6 +1574,8 @@ add address=104.255.58.44/32 disabled=no list=route-aws@eu
 add address=104.255.58.63/32 disabled=no list=route-aws@eu
 add address=104.255.58.84/32 disabled=no list=route-aws@eu
 add address=104.255.58.91/32 disabled=no list=route-aws@eu
+add address=104.255.58.238/32 disabled=no list=route-aws@eu
+add address=104.255.58.239/32 disabled=no list=route-aws@eu
 add address=108.128.0.0/13 disabled=no list=route-aws@eu
 add address=108.128.160.0/23 disabled=no list=route-aws@eu
 add address=108.128.162.0/24 disabled=no list=route-aws@eu

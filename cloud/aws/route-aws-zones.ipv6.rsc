@@ -2525,6 +2525,7 @@ add address=2600:1ff9:800::/40 disabled=no list=route-aws@us-south
 add address=2600:1ffe:800::/40 disabled=no list=route-aws@us-south
 add address=2600:1fff:800::/40 disabled=no list=route-aws@us-south
 add address=2600:f0f0:6027::/48 disabled=no list=route-aws@us-south
+add address=2620:107:4000:8800::/56 disabled=no list=route-aws@us-south
 /ipv6 firewall address-list remove [/ipv6 firewall address-list find list="route-aws@us-west"]
 /ipv6 firewall address-list
 add address=2600:1f00:4000::/40 disabled=no list=route-aws@us-west
