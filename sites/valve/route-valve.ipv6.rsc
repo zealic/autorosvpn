@@ -9,6 +9,7 @@ add address=2a01:bc80:6::/48 disabled=no list=route-valve
 add address=2a01:bc80:7::/48 disabled=no list=route-valve
 add address=2a01:bc80:8::/48 disabled=no list=route-valve
 add address=2a01:bc80:9::/48 disabled=no list=route-valve
+add address=2a01:bc80::/48 disabled=no list=route-valve
 add address=2a01:bc80:a::/48 disabled=no list=route-valve
 add address=2a01:bc80:b::/48 disabled=no list=route-valve
 add address=2a01:bc80:c::/48 disabled=no list=route-valve

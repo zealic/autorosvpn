@@ -4125,6 +4125,7 @@ add address=51.0.138.0/23 disabled=no list=route-aws@eusc-de-east
 add address=51.0.140.0/23 disabled=no list=route-aws@eusc-de-east
 add address=51.0.142.0/23 disabled=no list=route-aws@eusc-de-east
 add address=51.0.250.0/31 disabled=no list=route-aws@eusc-de-east
+add address=51.0.250.2/31 disabled=no list=route-aws@eusc-de-east
 add address=51.0.251.0/24 disabled=no list=route-aws@eusc-de-east
 add address=51.0.252.0/24 disabled=no list=route-aws@eusc-de-east
 add address=51.72.0.0/15 disabled=no list=route-aws@eusc-de-east
@@ -5243,6 +5244,7 @@ add address=3.239.157.96/30 disabled=no list=route-aws@us-east
 add address=3.239.157.188/30 disabled=no list=route-aws@us-east
 add address=3.239.157.192/26 disabled=no list=route-aws@us-east
 add address=3.239.232.0/24 disabled=no list=route-aws@us-east
+add address=5.60.16.0/24 disabled=no list=route-aws@us-east
 add address=5.60.64.0/19 disabled=no list=route-aws@us-east
 add address=5.179.96.0/20 disabled=no list=route-aws@us-east
 add address=13.58.0.0/15 disabled=no list=route-aws@us-east
