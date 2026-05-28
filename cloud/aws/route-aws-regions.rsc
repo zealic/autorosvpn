@@ -2140,9 +2140,12 @@ add address=43.192.202.0/24 disabled=no list=route-aws@cn
 add address=43.193.0.0/18 disabled=no list=route-aws@cn
 add address=43.193.64.0/24 disabled=no list=route-aws@cn
 add address=43.193.65.0/24 disabled=no list=route-aws@cn
+add address=43.193.66.0/23 disabled=no list=route-aws@cn
 add address=43.194.0.0/20 disabled=no list=route-aws@cn
 add address=43.194.16.0/24 disabled=no list=route-aws@cn
 add address=43.195.0.0/20 disabled=no list=route-aws@cn
+add address=43.195.16.0/22 disabled=no list=route-aws@cn
+add address=43.195.20.0/23 disabled=no list=route-aws@cn
 add address=43.196.0.0/16 disabled=no list=route-aws@cn
 add address=43.196.3.64/26 disabled=no list=route-aws@cn
 add address=43.196.14.0/23 disabled=no list=route-aws@cn
