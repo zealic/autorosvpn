@@ -32,9 +32,11 @@ add address=34.180.0.0/18 disabled=no list=route-gcp@asia-south
 add address=34.183.3.0/25 disabled=no list=route-gcp@asia-south
 add address=34.183.28.0/24 disabled=no list=route-gcp@asia-south
 add address=34.183.36.0/24 disabled=no list=route-gcp@asia-south
+add address=34.183.106.0/23 disabled=no list=route-gcp@asia-south
 add address=34.184.3.0/25 disabled=no list=route-gcp@asia-south
 add address=34.184.23.0/24 disabled=no list=route-gcp@asia-south
 add address=34.184.35.0/24 disabled=no list=route-gcp@asia-south
+add address=34.184.106.0/23 disabled=no list=route-gcp@asia-south
 add address=35.200.128.0/17 disabled=no list=route-gcp@asia-south
 add address=35.201.41.0/24 disabled=no list=route-gcp@asia-south
 add address=35.207.192.0/18 disabled=no list=route-gcp@asia-south
