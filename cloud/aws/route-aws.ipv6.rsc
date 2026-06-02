@@ -1239,6 +1239,7 @@ add address=2406:da11::/36 disabled=no list=route-aws
 add address=2406:da11::/36 disabled=no list=route-aws
 add address=2406:da12:1e1:d900::/56 disabled=no list=route-aws
 add address=2406:da12:8f1:3d00::/56 disabled=no list=route-aws
+add address=2406:da12:80b3:4800::/56 disabled=no list=route-aws
 add address=2406:da12:8000::/36 disabled=no list=route-aws
 add address=2406:da12:8000::/36 disabled=no list=route-aws
 add address=2406:da12::/36 disabled=no list=route-aws
@@ -2573,6 +2574,8 @@ add address=2600:1f2f:8000::/36 disabled=no list=route-aws
 add address=2600:1f2f:8000::/36 disabled=no list=route-aws
 add address=2600:1f2f:c000::/36 disabled=no list=route-aws
 add address=2600:1f2f:c000::/36 disabled=no list=route-aws
+add address=2600:1f10:2000::/36 disabled=no list=route-aws
+add address=2600:1f10:2000::/36 disabled=no list=route-aws
 add address=2600:1f10:4000::/36 disabled=no list=route-aws
 add address=2600:1f10:4000::/36 disabled=no list=route-aws
 add address=2600:1f10:8000::/36 disabled=no list=route-aws
@@ -4996,6 +4999,8 @@ add address=2605:b140:9802::/48 disabled=no list=route-aws
 add address=2605:b140:9802::/48 disabled=no list=route-aws
 add address=2605:b140:9803::/48 disabled=no list=route-aws
 add address=2605:b140:9803::/48 disabled=no list=route-aws
+add address=2605:b140:9804::/48 disabled=no list=route-aws
+add address=2605:b140:9804::/48 disabled=no list=route-aws
 add address=2605:b140:9900::/48 disabled=no list=route-aws
 add address=2605:b140:9900::/48 disabled=no list=route-aws
 add address=2605:b140:9901::/48 disabled=no list=route-aws
