@@ -516,6 +516,7 @@ add address=2606:7b40:1b0d:8300::/56 disabled=no list=route-aws@eu
 add address=2606:7b40:1b0d::/56 disabled=no list=route-aws@eu
 add address=2606:7b40:1b0d:c000::/56 disabled=no list=route-aws@eu
 add address=2606:7b40:1b0d:c100::/56 disabled=no list=route-aws@eu
+add address=2606:7b40:1b0d:c200::/56 disabled=no list=route-aws@eu
 add address=2606:7b40:10ff:a0::/59 disabled=no list=route-aws@eu
 add address=2606:f40:1000::/39 disabled=no list=route-aws@eu
 add address=2606:f40:1400::/40 disabled=no list=route-aws@eu

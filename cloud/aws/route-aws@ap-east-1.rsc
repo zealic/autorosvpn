@@ -9,6 +9,7 @@ add address=13.248.32.0/20 disabled=no list=route-aws@ap-east-1
 add address=13.248.48.0/21 disabled=no list=route-aws@ap-east-1
 add address=13.248.56.0/22 disabled=no list=route-aws@ap-east-1
 add address=13.248.60.0/22 disabled=no list=route-aws@ap-east-1
+add address=15.129.62.0/23 disabled=no list=route-aws@ap-east-1
 add address=15.177.85.0/24 disabled=no list=route-aws@ap-east-1
 add address=15.177.86.0/24 disabled=no list=route-aws@ap-east-1
 add address=15.230.73.192/26 disabled=no list=route-aws@ap-east-1

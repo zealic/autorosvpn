@@ -399,6 +399,8 @@ add address=15.129.52.0/22 disabled=no list=route-aws@us
 add address=15.129.57.0/24 disabled=no list=route-aws@us
 add address=15.129.58.0/23 disabled=no list=route-aws@us
 add address=15.129.60.0/24 disabled=no list=route-aws@us
+add address=15.129.64.0/23 disabled=no list=route-aws@us
+add address=15.129.66.0/23 disabled=no list=route-aws@us
 add address=15.177.64.0/23 disabled=no list=route-aws@us
 add address=15.177.66.0/23 disabled=no list=route-aws@us
 add address=15.177.80.0/24 disabled=no list=route-aws@us
