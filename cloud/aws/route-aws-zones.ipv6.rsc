@@ -1595,8 +1595,10 @@ add address=2606:7b40:1b0d:c100::/56 disabled=no list=route-aws@eu-west
 add address=2606:7b40:1b0d:c200::/56 disabled=no list=route-aws@eu-west
 add address=2606:f40:1000::/39 disabled=no list=route-aws@eu-west
 add address=2606:f40:1400::/40 disabled=no list=route-aws@eu-west
+add address=2606:f40:5000::/39 disabled=no list=route-aws@eu-west
 add address=2606:f40:9000::/39 disabled=no list=route-aws@eu-west
 add address=2606:f40:9400::/40 disabled=no list=route-aws@eu-west
+add address=2606:f40:d000::/39 disabled=no list=route-aws@eu-west
 add address=2606:f40:ffe8::/48 disabled=no list=route-aws@eu-west
 add address=2606:f40:fff0::/48 disabled=no list=route-aws@eu-west
 add address=2606:f40:fff2::/48 disabled=no list=route-aws@eu-west

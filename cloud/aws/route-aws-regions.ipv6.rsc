@@ -1560,12 +1560,14 @@ add address=2606:f40:1000::/39 disabled=no list=route-aws@eu
 add address=2606:f40:1400::/40 disabled=no list=route-aws@eu
 add address=2606:f40:1800::/40 disabled=no list=route-aws@eu
 add address=2606:f40:2100::/40 disabled=no list=route-aws@eu
+add address=2606:f40:5000::/39 disabled=no list=route-aws@eu
 add address=2606:f40:5800::/40 disabled=no list=route-aws@eu
 add address=2606:f40:6100::/40 disabled=no list=route-aws@eu
 add address=2606:f40:9000::/39 disabled=no list=route-aws@eu
 add address=2606:f40:9400::/40 disabled=no list=route-aws@eu
 add address=2606:f40:9800::/40 disabled=no list=route-aws@eu
 add address=2606:f40:a100::/40 disabled=no list=route-aws@eu
+add address=2606:f40:d000::/39 disabled=no list=route-aws@eu
 add address=2606:f40:d800::/40 disabled=no list=route-aws@eu
 add address=2606:f40:e100::/40 disabled=no list=route-aws@eu
 add address=2606:f40:ffe8::/48 disabled=no list=route-aws@eu
