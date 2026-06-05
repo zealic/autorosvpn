@@ -345,6 +345,7 @@ add address=2620:107:4000:8004::/64 disabled=no list=route-aws@us-east
 add address=2620:107:4000:8500::/56 disabled=no list=route-aws@us-east
 add address=2620:107:4000:8600::/56 disabled=no list=route-aws@us-east
 add address=2620:107:4000:8700::/56 disabled=no list=route-aws@us-east
+add address=2620:107:4000:8900::/56 disabled=no list=route-aws@us-east
 add address=2620:107:4000:9000::/63 disabled=no list=route-aws@us-east
 add address=2620:107:4000:9002::/64 disabled=no list=route-aws@us-east
 add address=2620:107:4000:9005::/64 disabled=no list=route-aws@us-east
