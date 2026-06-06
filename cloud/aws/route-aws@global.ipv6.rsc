@@ -16,6 +16,7 @@ add address=2600:9000:5310::/44 disabled=no list=route-aws@global
 add address=2600:9000:5320::/43 disabled=no list=route-aws@global
 add address=2600:9000:5340::/42 disabled=no list=route-aws@global
 add address=2600:9000:5380::/41 disabled=no list=route-aws@global
+add address=2600:9000:6000::/36 disabled=no list=route-aws@global
 add address=2600:9000:a100::/40 disabled=no list=route-aws@global
 add address=2600:9000:a104::/48 disabled=no list=route-aws@global
 add address=2600:9000:a105::/48 disabled=no list=route-aws@global

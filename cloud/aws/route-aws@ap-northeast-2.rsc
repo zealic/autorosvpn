@@ -4,7 +4,13 @@ add address=1.178.91.0/24 disabled=no list=route-aws@ap-northeast-2
 add address=3.2.75.0/24 disabled=no list=route-aws@ap-northeast-2
 add address=3.4.12.11/32 disabled=no list=route-aws@ap-northeast-2
 add address=3.4.12.12/32 disabled=no list=route-aws@ap-northeast-2
+add address=3.4.12.71/32 disabled=no list=route-aws@ap-northeast-2
+add address=3.4.12.72/32 disabled=no list=route-aws@ap-northeast-2
+add address=3.4.12.73/32 disabled=no list=route-aws@ap-northeast-2
+add address=3.4.12.74/32 disabled=no list=route-aws@ap-northeast-2
 add address=3.4.15.0/29 disabled=no list=route-aws@ap-northeast-2
+add address=3.4.15.240/29 disabled=no list=route-aws@ap-northeast-2
+add address=3.4.15.248/29 disabled=no list=route-aws@ap-northeast-2
 add address=3.5.140.0/22 disabled=no list=route-aws@ap-northeast-2
 add address=3.5.144.0/23 disabled=no list=route-aws@ap-northeast-2
 add address=3.5.184.0/21 disabled=no list=route-aws@ap-northeast-2

@@ -593,6 +593,10 @@ add address=2605:b140:9800::/48 disabled=no list=route-aws@us
 add address=2605:b140:9801::/48 disabled=no list=route-aws@us
 add address=2605:b140:9802::/48 disabled=no list=route-aws@us
 add address=2605:b140:9803::/48 disabled=no list=route-aws@us
+add address=2606:7b40:1a0f:c000::/60 disabled=no list=route-aws@us
+add address=2606:7b40:1a1f:c000::/60 disabled=no list=route-aws@us
+add address=2606:7b40:1a2f::/60 disabled=no list=route-aws@us
+add address=2606:7b40:1a2f:c000::/60 disabled=no list=route-aws@us
 add address=2606:7b40:1a2f:c200::/60 disabled=no list=route-aws@us
 add address=2606:7b40:1a2f:c310::/60 disabled=no list=route-aws@us
 add address=2606:7b40:1a2f:c320::/60 disabled=no list=route-aws@us
