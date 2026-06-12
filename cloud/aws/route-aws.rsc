@@ -8383,6 +8383,7 @@ add address=78.13.88.0/23 disabled=no list=route-aws
 add address=78.13.188.0/23 disabled=no list=route-aws
 add address=78.14.0.0/15 disabled=no list=route-aws
 add address=78.14.0.0/15 disabled=no list=route-aws
+add address=78.14.116.0/23 disabled=no list=route-aws
 add address=79.125.0.0/17 disabled=no list=route-aws
 add address=79.125.0.0/17 disabled=no list=route-aws
 add address=80.126.0.0/24 disabled=no list=route-aws

@@ -105,6 +105,7 @@ add address=2406:da24:28::/48 disabled=no list=route-aws@ap
 add address=2406:da24:8000::/36 disabled=no list=route-aws@ap
 add address=2406:da24::/36 disabled=no list=route-aws@ap
 add address=2406:da25::/36 disabled=no list=route-aws@ap
+add address=2406:da26:1c::/48 disabled=no list=route-aws@ap
 add address=2406:da26::/36 disabled=no list=route-aws@ap
 add address=2406:da28:28::/48 disabled=no list=route-aws@ap
 add address=2406:da28:8000::/36 disabled=no list=route-aws@ap

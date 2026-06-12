@@ -153,6 +153,7 @@ add address=2406:da24:28::/48 disabled=no list=route-aws@ap
 add address=2406:da24:8000::/36 disabled=no list=route-aws@ap
 add address=2406:da24::/36 disabled=no list=route-aws@ap
 add address=2406:da25::/36 disabled=no list=route-aws@ap
+add address=2406:da26:1c::/48 disabled=no list=route-aws@ap
 add address=2406:da26::/36 disabled=no list=route-aws@ap
 add address=2406:da28:28::/48 disabled=no list=route-aws@ap
 add address=2406:da28:8000::/36 disabled=no list=route-aws@ap
@@ -845,6 +846,7 @@ add address=2600:1f1a:4ff6:d500::/56 disabled=no list=route-aws@ca
 add address=2600:1f1a:4000::/36 disabled=no list=route-aws@ca
 add address=2600:1f1a:4040:b100::/56 disabled=no list=route-aws@ca
 add address=2600:1f1e:4000::/36 disabled=no list=route-aws@ca
+add address=2600:1f2a:401c::/48 disabled=no list=route-aws@ca
 add address=2600:1f2a:4000::/36 disabled=no list=route-aws@ca
 add address=2600:1f2e:4000::/36 disabled=no list=route-aws@ca
 add address=2600:1f11::/36 disabled=no list=route-aws@ca
@@ -1103,6 +1105,7 @@ add address=2a05:d027::/36 disabled=no list=route-aws@eu
 add address=2a05:d028:40::/48 disabled=no list=route-aws@eu
 add address=2a05:d028:8000::/36 disabled=no list=route-aws@eu
 add address=2a05:d028::/36 disabled=no list=route-aws@eu
+add address=2a05:d029:4::/48 disabled=no list=route-aws@eu
 add address=2a05:d029::/36 disabled=no list=route-aws@eu
 add address=2a05:d02a:4::/48 disabled=no list=route-aws@eu
 add address=2a05:d02a::/36 disabled=no list=route-aws@eu
@@ -2530,6 +2533,7 @@ add address=2600:f0f0:c002::/48 disabled=no list=route-aws@us
 add address=2600:f0f0:c003::/48 disabled=no list=route-aws@us
 add address=2600:f0f0:c040::/48 disabled=no list=route-aws@us
 add address=2600:f0f0:c041::/48 disabled=no list=route-aws@us
+add address=2600:f0f0:c102::/48 disabled=no list=route-aws@us
 add address=2600:f0f0:cfb::/48 disabled=no list=route-aws@us
 add address=2600:f0f0:cfc::/48 disabled=no list=route-aws@us
 add address=2600:f0f0:cfd::/48 disabled=no list=route-aws@us

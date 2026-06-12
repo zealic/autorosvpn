@@ -64,6 +64,7 @@ add address=2a05:d027::/36 disabled=no list=route-aws@eu
 add address=2a05:d028:40::/48 disabled=no list=route-aws@eu
 add address=2a05:d028:8000::/36 disabled=no list=route-aws@eu
 add address=2a05:d028::/36 disabled=no list=route-aws@eu
+add address=2a05:d029:4::/48 disabled=no list=route-aws@eu
 add address=2a05:d029::/36 disabled=no list=route-aws@eu
 add address=2a05:d02a:4::/48 disabled=no list=route-aws@eu
 add address=2a05:d02a::/36 disabled=no list=route-aws@eu
