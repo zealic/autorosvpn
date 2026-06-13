@@ -648,6 +648,7 @@ add address=2606:7b40:1f00::/40 disabled=no list=route-aws@us
 add address=2606:7b40:9fc::/48 disabled=no list=route-aws@us
 add address=2606:7b40:9fd::/48 disabled=no list=route-aws@us
 add address=2606:7b40:10f4:32a0::/60 disabled=no list=route-aws@us
+add address=2606:7b40:10f4:32d0::/60 disabled=no list=route-aws@us
 add address=2606:7b40:10f4:32e0::/60 disabled=no list=route-aws@us
 add address=2606:7b40:10f4:3220::/60 disabled=no list=route-aws@us
 add address=2606:7b40:10f8::/46 disabled=no list=route-aws@us

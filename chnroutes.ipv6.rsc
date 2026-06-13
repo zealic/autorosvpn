@@ -76,7 +76,6 @@ add address=2001:df4:e141::/48 disabled=no list=chnroutes.ipv6
 add address=2001:df4:e142::/47 disabled=no list=chnroutes.ipv6
 add address=2001:df5:1440::/48 disabled=no list=chnroutes.ipv6
 add address=2001:df5:2fc0::/48 disabled=no list=chnroutes.ipv6
-add address=2001:df5:44c0::/48 disabled=no list=chnroutes.ipv6
 add address=2001:df5:4740::/48 disabled=no list=chnroutes.ipv6
 add address=2001:df5:4cc0::/48 disabled=no list=chnroutes.ipv6
 add address=2001:df5:5f80::/48 disabled=no list=chnroutes.ipv6
