@@ -1430,6 +1430,9 @@ add address=63.184.0.0/13 disabled=no list=route-aws@eu
 add address=63.185.196.0/23 disabled=no list=route-aws@eu
 add address=63.246.112.0/24 disabled=no list=route-aws@eu
 add address=63.246.113.0/24 disabled=no list=route-aws@eu
+add address=63.249.154.0/24 disabled=no list=route-aws@eu
+add address=63.249.155.0/24 disabled=no list=route-aws@eu
+add address=63.249.156.0/24 disabled=no list=route-aws@eu
 add address=64.252.82.0/24 disabled=no list=route-aws@eu
 add address=64.252.83.0/24 disabled=no list=route-aws@eu
 add address=64.252.84.0/24 disabled=no list=route-aws@eu
