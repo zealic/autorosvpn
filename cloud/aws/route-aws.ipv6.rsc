@@ -968,6 +968,8 @@ add address=2001:3fc6:20::/43 disabled=no list=route-aws
 add address=2001:3fc6:100::/48 disabled=no list=route-aws
 add address=2001:3fc6:100::/48 disabled=no list=route-aws
 add address=2001:3fc6:100::/48 disabled=no list=route-aws
+add address=2001:3fc6:200::/40 disabled=no list=route-aws
+add address=2001:3fc6:200::/40 disabled=no list=route-aws
 add address=2001:3fc6::/56 disabled=no list=route-aws
 add address=2001:3fc6:a::/47 disabled=no list=route-aws
 add address=2001:3fc6:c::/47 disabled=no list=route-aws
