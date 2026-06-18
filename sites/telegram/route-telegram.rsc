@@ -9,10 +9,14 @@ add address=91.108.8.0/23 disabled=no list=route-telegram
 add address=91.108.10.0/23 disabled=no list=route-telegram
 add address=91.108.12.0/22 disabled=no list=route-telegram
 add address=91.108.16.0/22 disabled=no list=route-telegram
+add address=91.108.16.0/23 disabled=no list=route-telegram
+add address=91.108.18.0/23 disabled=no list=route-telegram
 add address=91.108.20.0/22 disabled=no list=route-telegram
 add address=91.108.20.0/23 disabled=no list=route-telegram
 add address=91.108.56.0/22 disabled=no list=route-telegram
 add address=91.108.56.0/23 disabled=no list=route-telegram
+add address=91.108.56.0/24 disabled=no list=route-telegram
+add address=91.108.57.0/24 disabled=no list=route-telegram
 add address=95.161.64.0/20 disabled=no list=route-telegram
 add address=95.161.64.0/21 disabled=no list=route-telegram
 add address=95.161.72.0/21 disabled=no list=route-telegram

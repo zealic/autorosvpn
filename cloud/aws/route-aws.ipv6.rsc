@@ -5356,6 +5356,10 @@ add address=2606:7b40:1000:2270::/60 disabled=no list=route-aws
 add address=2606:7b40:1000:2270::/60 disabled=no list=route-aws
 add address=2606:7b40:1000:3000::/56 disabled=no list=route-aws
 add address=2606:7b40:1000:3000::/56 disabled=no list=route-aws
+add address=2606:7b40:1000:6280::/60 disabled=no list=route-aws
+add address=2606:7b40:1000:6280::/60 disabled=no list=route-aws
+add address=2606:7b40:1000:6290::/60 disabled=no list=route-aws
+add address=2606:7b40:1000:6290::/60 disabled=no list=route-aws
 add address=2606:7b40:1000:7000::/56 disabled=no list=route-aws
 add address=2606:7b40:1000:7000::/56 disabled=no list=route-aws
 add address=2606:7b40:1000:7200::/60 disabled=no list=route-aws

@@ -173,6 +173,9 @@ add address=56.112.70.0/23 disabled=no list=route-aws@ca
 add address=56.113.0.0/16 disabled=no list=route-aws@ca
 add address=56.114.0.0/16 disabled=no list=route-aws@ca
 add address=56.115.0.0/16 disabled=no list=route-aws@ca
+add address=63.249.201.0/24 disabled=no list=route-aws@ca
+add address=63.249.202.0/24 disabled=no list=route-aws@ca
+add address=63.249.203.0/24 disabled=no list=route-aws@ca
 add address=64.252.124.0/24 disabled=no list=route-aws@ca
 add address=76.223.170.0/28 disabled=no list=route-aws@ca
 add address=99.77.150.0/24 disabled=no list=route-aws@ca
