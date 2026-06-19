@@ -710,10 +710,13 @@ add address=63.32.0.0/14 disabled=no list=route-aws@eu-west
 add address=63.34.60.0/22 disabled=no list=route-aws@eu-west
 add address=63.246.113.0/24 disabled=no list=route-aws@eu-west
 add address=63.249.138.0/24 disabled=no list=route-aws@eu-west
+add address=63.249.140.0/24 disabled=no list=route-aws@eu-west
 add address=63.249.150.0/24 disabled=no list=route-aws@eu-west
 add address=63.249.151.0/24 disabled=no list=route-aws@eu-west
 add address=63.249.152.0/24 disabled=no list=route-aws@eu-west
 add address=63.249.153.0/24 disabled=no list=route-aws@eu-west
+add address=63.249.176.0/24 disabled=no list=route-aws@eu-west
+add address=63.249.177.0/24 disabled=no list=route-aws@eu-west
 add address=63.249.178.0/24 disabled=no list=route-aws@eu-west
 add address=64.252.82.0/24 disabled=no list=route-aws@eu-west
 add address=64.252.83.0/24 disabled=no list=route-aws@eu-west

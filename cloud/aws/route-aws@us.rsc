@@ -1999,11 +1999,12 @@ add address=56.137.224.0/23 disabled=no list=route-aws@us
 add address=56.138.0.0/16 disabled=no list=route-aws@us
 add address=56.139.0.0/16 disabled=no list=route-aws@us
 add address=63.246.119.0/24 disabled=no list=route-aws@us
+add address=63.249.145.0/24 disabled=no list=route-aws@us
+add address=63.249.146.0/24 disabled=no list=route-aws@us
 add address=64.73.193.0/24 disabled=no list=route-aws@us
 add address=64.73.195.0/24 disabled=no list=route-aws@us
 add address=64.73.196.0/24 disabled=no list=route-aws@us
 add address=64.73.197.0/24 disabled=no list=route-aws@us
-add address=64.73.201.0/24 disabled=no list=route-aws@us
 add address=64.73.202.0/24 disabled=no list=route-aws@us
 add address=64.73.203.0/24 disabled=no list=route-aws@us
 add address=64.73.204.0/24 disabled=no list=route-aws@us
