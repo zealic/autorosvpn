@@ -1432,7 +1432,9 @@ add address=63.246.112.0/24 disabled=no list=route-aws@eu
 add address=63.246.113.0/24 disabled=no list=route-aws@eu
 add address=63.249.131.0/24 disabled=no list=route-aws@eu
 add address=63.249.132.0/24 disabled=no list=route-aws@eu
+add address=63.249.133.0/24 disabled=no list=route-aws@eu
 add address=63.249.138.0/24 disabled=no list=route-aws@eu
+add address=63.249.139.0/24 disabled=no list=route-aws@eu
 add address=63.249.140.0/24 disabled=no list=route-aws@eu
 add address=63.249.150.0/24 disabled=no list=route-aws@eu
 add address=63.249.151.0/24 disabled=no list=route-aws@eu

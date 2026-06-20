@@ -370,6 +370,7 @@ add address=52.219.224.0/22 disabled=no list=route-aws@us-east-2
 add address=52.219.228.0/22 disabled=no list=route-aws@us-east-2
 add address=52.219.232.0/22 disabled=no list=route-aws@us-east-2
 add address=54.239.0.224/28 disabled=no list=route-aws@us-east-2
+add address=63.249.144.0/24 disabled=no list=route-aws@us-east-2
 add address=63.249.145.0/24 disabled=no list=route-aws@us-east-2
 add address=63.249.146.0/24 disabled=no list=route-aws@us-east-2
 add address=64.252.74.0/24 disabled=no list=route-aws@us-east-2

@@ -100,6 +100,7 @@ add address=56.159.0.0/16 disabled=no list=route-aws@ap-northeast-3
 add address=56.162.0.0/16 disabled=no list=route-aws@ap-northeast-3
 add address=56.164.0.0/16 disabled=no list=route-aws@ap-northeast-3
 add address=63.249.170.0/24 disabled=no list=route-aws@ap-northeast-3
+add address=63.249.171.0/24 disabled=no list=route-aws@ap-northeast-3
 add address=63.249.172.0/24 disabled=no list=route-aws@ap-northeast-3
 add address=69.107.6.200/29 disabled=no list=route-aws@ap-northeast-3
 add address=69.107.6.208/29 disabled=no list=route-aws@ap-northeast-3

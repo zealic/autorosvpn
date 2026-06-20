@@ -353,6 +353,7 @@ add address=2a05:d07f:2000::/40 disabled=no list=route-aws@eu
 add address=2a05:d07f:4000::/40 disabled=no list=route-aws@eu
 add address=2a05:d07f:6000::/40 disabled=no list=route-aws@eu
 add address=2a05:d07f:8000::/40 disabled=no list=route-aws@eu
+add address=2a05:d07f:8800::/40 disabled=no list=route-aws@eu
 add address=2a05:d07f:9000::/40 disabled=no list=route-aws@eu
 add address=2a05:d07f:a000::/40 disabled=no list=route-aws@eu
 add address=2a05:d07f:b000::/40 disabled=no list=route-aws@eu
