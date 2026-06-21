@@ -751,6 +751,7 @@ add address=2606:7b40:1b05:4000::/56 disabled=no list=route-aws@ap
 add address=2606:7b40:1b05::/56 disabled=no list=route-aws@ap
 add address=2606:7b40:1b05:c000::/56 disabled=no list=route-aws@ap
 add address=2606:7b40:1b05:c100::/56 disabled=no list=route-aws@ap
+add address=2606:7b40:1b06:4000::/56 disabled=no list=route-aws@ap
 add address=2606:7b40:1b06:8000::/56 disabled=no list=route-aws@ap
 add address=2606:7b40:1b06:8100::/56 disabled=no list=route-aws@ap
 add address=2606:7b40:1b06::/56 disabled=no list=route-aws@ap
