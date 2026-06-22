@@ -25,3 +25,4 @@ add address=35.220.40.0/24 disabled=no list=route-gcp@southamerica
 add address=35.235.0.0/20 disabled=no list=route-gcp@southamerica
 add address=35.242.40.0/24 disabled=no list=route-gcp@southamerica
 add address=35.247.192.0/18 disabled=no list=route-gcp@southamerica
+add address=136.83.64.0/18 disabled=no list=route-gcp@southamerica
