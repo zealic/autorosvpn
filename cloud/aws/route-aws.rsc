@@ -5123,6 +5123,7 @@ add address=40.38.0.0/16 disabled=no list=route-aws
 add address=40.38.0.0/16 disabled=no list=route-aws
 add address=40.38.204.0/23 disabled=no list=route-aws
 add address=40.39.0.0/16 disabled=no list=route-aws
+add address=40.39.0.0/16 disabled=no list=route-aws
 add address=40.138.216.0/22 disabled=no list=route-aws
 add address=40.143.64.0/21 disabled=no list=route-aws
 add address=40.164.0.0/16 disabled=no list=route-aws
