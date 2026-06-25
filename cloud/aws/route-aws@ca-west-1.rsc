@@ -43,6 +43,7 @@ add address=56.112.70.0/23 disabled=no list=route-aws@ca-west-1
 add address=56.113.0.0/16 disabled=no list=route-aws@ca-west-1
 add address=56.114.0.0/16 disabled=no list=route-aws@ca-west-1
 add address=56.115.0.0/16 disabled=no list=route-aws@ca-west-1
+add address=63.249.204.0/24 disabled=no list=route-aws@ca-west-1
 add address=76.223.170.0/28 disabled=no list=route-aws@ca-west-1
 add address=99.151.168.0/21 disabled=no list=route-aws@ca-west-1
 add address=150.222.52.96/27 disabled=no list=route-aws@ca-west-1
