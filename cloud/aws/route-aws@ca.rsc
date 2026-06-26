@@ -177,6 +177,8 @@ add address=63.249.201.0/24 disabled=no list=route-aws@ca
 add address=63.249.202.0/24 disabled=no list=route-aws@ca
 add address=63.249.203.0/24 disabled=no list=route-aws@ca
 add address=63.249.204.0/24 disabled=no list=route-aws@ca
+add address=63.249.205.0/24 disabled=no list=route-aws@ca
+add address=63.249.206.0/24 disabled=no list=route-aws@ca
 add address=64.252.124.0/24 disabled=no list=route-aws@ca
 add address=76.223.170.0/28 disabled=no list=route-aws@ca
 add address=99.77.150.0/24 disabled=no list=route-aws@ca

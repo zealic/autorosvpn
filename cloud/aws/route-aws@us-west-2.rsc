@@ -380,6 +380,7 @@ add address=54.244.46.0/23 disabled=no list=route-aws@us-west-2
 add address=54.244.52.192/26 disabled=no list=route-aws@us-west-2
 add address=54.245.0.0/16 disabled=no list=route-aws@us-west-2
 add address=54.245.168.0/26 disabled=no list=route-aws@us-west-2
+add address=64.66.128.0/24 disabled=no list=route-aws@us-west-2
 add address=64.73.203.0/24 disabled=no list=route-aws@us-west-2
 add address=64.73.204.0/24 disabled=no list=route-aws@us-west-2
 add address=64.73.205.0/24 disabled=no list=route-aws@us-west-2
