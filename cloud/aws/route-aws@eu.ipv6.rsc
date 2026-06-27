@@ -502,6 +502,10 @@ add address=2606:7b40:1a2c:330::/60 disabled=no list=route-aws@eu
 add address=2606:7b40:1a2c::/60 disabled=no list=route-aws@eu
 add address=2606:7b40:1a3c:330::/60 disabled=no list=route-aws@eu
 add address=2606:7b40:1a4c:330::/60 disabled=no list=route-aws@eu
+add address=2606:7b40:1a4c:340::/60 disabled=no list=route-aws@eu
+add address=2606:7b40:1a4d:4340::/60 disabled=no list=route-aws@eu
+add address=2606:7b40:1a4d:8340::/60 disabled=no list=route-aws@eu
+add address=2606:7b40:1a4d:c340::/60 disabled=no list=route-aws@eu
 add address=2606:7b40:1b0c:100::/56 disabled=no list=route-aws@eu
 add address=2606:7b40:1b0c:200::/56 disabled=no list=route-aws@eu
 add address=2606:7b40:1b0c:300::/56 disabled=no list=route-aws@eu

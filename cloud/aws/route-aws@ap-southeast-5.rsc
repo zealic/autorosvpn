@@ -43,6 +43,7 @@ add address=56.69.0.0/16 disabled=no list=route-aws@ap-southeast-5
 add address=56.69.112.0/23 disabled=no list=route-aws@ap-southeast-5
 add address=56.70.0.0/16 disabled=no list=route-aws@ap-southeast-5
 add address=56.71.0.0/16 disabled=no list=route-aws@ap-southeast-5
+add address=63.249.173.0/24 disabled=no list=route-aws@ap-southeast-5
 add address=63.249.174.0/24 disabled=no list=route-aws@ap-southeast-5
 add address=63.249.175.0/24 disabled=no list=route-aws@ap-southeast-5
 add address=76.223.170.32/28 disabled=no list=route-aws@ap-southeast-5

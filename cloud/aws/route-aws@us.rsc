@@ -2004,6 +2004,13 @@ add address=63.249.144.0/24 disabled=no list=route-aws@us
 add address=63.249.145.0/24 disabled=no list=route-aws@us
 add address=63.249.146.0/24 disabled=no list=route-aws@us
 add address=64.66.128.0/24 disabled=no list=route-aws@us
+add address=64.66.129.0/24 disabled=no list=route-aws@us
+add address=64.66.130.0/24 disabled=no list=route-aws@us
+add address=64.66.131.0/24 disabled=no list=route-aws@us
+add address=64.66.134.0/24 disabled=no list=route-aws@us
+add address=64.66.135.0/24 disabled=no list=route-aws@us
+add address=64.66.136.0/24 disabled=no list=route-aws@us
+add address=64.66.137.0/24 disabled=no list=route-aws@us
 add address=64.73.193.0/24 disabled=no list=route-aws@us
 add address=64.73.195.0/24 disabled=no list=route-aws@us
 add address=64.73.196.0/24 disabled=no list=route-aws@us
