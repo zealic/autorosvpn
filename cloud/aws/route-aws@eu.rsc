@@ -1447,6 +1447,7 @@ add address=63.249.176.0/24 disabled=no list=route-aws@eu
 add address=63.249.177.0/24 disabled=no list=route-aws@eu
 add address=63.249.178.0/24 disabled=no list=route-aws@eu
 add address=63.249.182.0/24 disabled=no list=route-aws@eu
+add address=63.249.183.0/24 disabled=no list=route-aws@eu
 add address=63.249.184.0/24 disabled=no list=route-aws@eu
 add address=63.249.207.0/24 disabled=no list=route-aws@eu
 add address=63.249.208.0/24 disabled=no list=route-aws@eu
@@ -1454,6 +1455,14 @@ add address=63.249.209.0/24 disabled=no list=route-aws@eu
 add address=63.249.213.0/24 disabled=no list=route-aws@eu
 add address=63.249.214.0/24 disabled=no list=route-aws@eu
 add address=63.249.215.0/24 disabled=no list=route-aws@eu
+add address=64.66.138.0/24 disabled=no list=route-aws@eu
+add address=64.66.139.0/24 disabled=no list=route-aws@eu
+add address=64.66.141.0/24 disabled=no list=route-aws@eu
+add address=64.66.144.0/24 disabled=no list=route-aws@eu
+add address=64.66.147.0/24 disabled=no list=route-aws@eu
+add address=64.66.154.0/24 disabled=no list=route-aws@eu
+add address=64.66.158.0/24 disabled=no list=route-aws@eu
+add address=64.66.160.0/24 disabled=no list=route-aws@eu
 add address=64.252.82.0/24 disabled=no list=route-aws@eu
 add address=64.252.83.0/24 disabled=no list=route-aws@eu
 add address=64.252.84.0/24 disabled=no list=route-aws@eu

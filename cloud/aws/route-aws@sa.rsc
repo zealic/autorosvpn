@@ -208,6 +208,7 @@ add address=56.127.0.0/16 disabled=no list=route-aws@sa
 add address=63.249.157.0/24 disabled=no list=route-aws@sa
 add address=63.249.158.0/24 disabled=no list=route-aws@sa
 add address=63.249.159.0/24 disabled=no list=route-aws@sa
+add address=64.66.159.0/24 disabled=no list=route-aws@sa
 add address=64.252.78.0/24 disabled=no list=route-aws@sa
 add address=64.252.79.0/24 disabled=no list=route-aws@sa
 add address=64.252.80.0/24 disabled=no list=route-aws@sa
