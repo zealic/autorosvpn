@@ -8058,6 +8058,12 @@ add address=63.249.193.0/24 disabled=no list=route-aws
 add address=63.249.193.0/24 disabled=no list=route-aws
 add address=63.249.194.0/24 disabled=no list=route-aws
 add address=63.249.194.0/24 disabled=no list=route-aws
+add address=63.249.195.0/24 disabled=no list=route-aws
+add address=63.249.195.0/24 disabled=no list=route-aws
+add address=63.249.196.0/24 disabled=no list=route-aws
+add address=63.249.196.0/24 disabled=no list=route-aws
+add address=63.249.197.0/24 disabled=no list=route-aws
+add address=63.249.197.0/24 disabled=no list=route-aws
 add address=63.249.198.0/24 disabled=no list=route-aws
 add address=63.249.198.0/24 disabled=no list=route-aws
 add address=63.249.199.0/24 disabled=no list=route-aws
