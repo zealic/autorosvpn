@@ -313,5 +313,4 @@ add address=2631:0:1600::/39 disabled=no list=route-aws@us-west-2
 add address=2631:0:1800::/39 disabled=no list=route-aws@us-west-2
 add address=2631:0:a::/48 disabled=no list=route-aws@us-west-2
 add address=2631:1:105::/48 disabled=no list=route-aws@us-west-2
-add address=2631:1:200::/40 disabled=no list=route-aws@us-west-2
 add address=2631::/48 disabled=no list=route-aws@us-west-2

@@ -133,6 +133,13 @@ add address=54.222.128.0/17 disabled=no list=route-aws@cn
 add address=54.223.0.0/16 disabled=no list=route-aws@cn
 add address=54.239.0.144/28 disabled=no list=route-aws@cn
 add address=54.239.0.176/28 disabled=no list=route-aws@cn
+add address=63.249.134.0/24 disabled=no list=route-aws@cn
+add address=63.249.135.0/24 disabled=no list=route-aws@cn
+add address=63.249.136.0/24 disabled=no list=route-aws@cn
+add address=63.249.137.0/24 disabled=no list=route-aws@cn
+add address=63.249.210.0/24 disabled=no list=route-aws@cn
+add address=63.249.211.0/24 disabled=no list=route-aws@cn
+add address=63.249.212.0/24 disabled=no list=route-aws@cn
 add address=68.79.0.0/18 disabled=no list=route-aws@cn
 add address=68.79.2.64/27 disabled=no list=route-aws@cn
 add address=68.79.2.192/28 disabled=no list=route-aws@cn
