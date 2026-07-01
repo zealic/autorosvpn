@@ -13,4 +13,6 @@ add address=34.152.68.0/24 disabled=no list=route-gcp@asia-southeast2
 add address=34.153.44.0/24 disabled=no list=route-gcp@asia-southeast2
 add address=34.153.236.0/24 disabled=no list=route-gcp@asia-southeast2
 add address=34.157.254.0/24 disabled=no list=route-gcp@asia-southeast2
+add address=34.183.111.0/24 disabled=no list=route-gcp@asia-southeast2
+add address=34.184.110.0/24 disabled=no list=route-gcp@asia-southeast2
 add address=35.219.0.0/17 disabled=no list=route-gcp@asia-southeast2

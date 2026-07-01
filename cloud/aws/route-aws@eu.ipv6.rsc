@@ -531,6 +531,10 @@ add address=2606:f40:1000::/39 disabled=no list=route-aws@eu
 add address=2606:f40:1400::/40 disabled=no list=route-aws@eu
 add address=2606:f40:1800::/40 disabled=no list=route-aws@eu
 add address=2606:f40:2100::/40 disabled=no list=route-aws@eu
+add address=2606:f40:4300::/40 disabled=no list=route-aws@eu
+add address=2606:f40:4600::/40 disabled=no list=route-aws@eu
+add address=2606:f40:4901::/48 disabled=no list=route-aws@eu
+add address=2606:f40:4902::/48 disabled=no list=route-aws@eu
 add address=2606:f40:5000::/39 disabled=no list=route-aws@eu
 add address=2606:f40:5800::/40 disabled=no list=route-aws@eu
 add address=2606:f40:6100::/40 disabled=no list=route-aws@eu

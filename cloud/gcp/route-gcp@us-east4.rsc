@@ -48,5 +48,6 @@ add address=35.245.0.0/16 disabled=no list=route-gcp@us-east4
 add address=136.23.64.0/18 disabled=no list=route-gcp@us-east4
 add address=136.70.64.0/18 disabled=no list=route-gcp@us-east4
 add address=136.70.128.0/17 disabled=no list=route-gcp@us-east4
+add address=136.75.0.0/16 disabled=no list=route-gcp@us-east4
 add address=136.90.0.0/16 disabled=no list=route-gcp@us-east4
 add address=136.107.0.0/16 disabled=no list=route-gcp@us-east4

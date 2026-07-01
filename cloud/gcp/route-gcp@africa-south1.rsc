@@ -4,3 +4,5 @@ add address=34.1.208.0/20 disabled=no list=route-gcp@africa-south1
 add address=34.35.0.0/16 disabled=no list=route-gcp@africa-south1
 add address=34.152.86.0/23 disabled=no list=route-gcp@africa-south1
 add address=34.177.50.0/23 disabled=no list=route-gcp@africa-south1
+add address=34.183.123.0/24 disabled=no list=route-gcp@africa-south1
+add address=34.184.122.0/24 disabled=no list=route-gcp@africa-south1

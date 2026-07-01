@@ -21,8 +21,10 @@ add address=34.153.252.0/25 disabled=no list=route-gcp@australia-southeast
 add address=34.177.69.0/24 disabled=no list=route-gcp@australia-southeast
 add address=34.183.2.0/24 disabled=no list=route-gcp@australia-southeast
 add address=34.183.59.0/24 disabled=no list=route-gcp@australia-southeast
+add address=34.183.119.0/24 disabled=no list=route-gcp@australia-southeast
 add address=34.184.2.0/24 disabled=no list=route-gcp@australia-southeast
 add address=34.184.58.0/24 disabled=no list=route-gcp@australia-southeast
+add address=34.184.118.0/24 disabled=no list=route-gcp@australia-southeast
 add address=35.189.0.0/18 disabled=no list=route-gcp@australia-southeast
 add address=35.197.160.0/19 disabled=no list=route-gcp@australia-southeast
 add address=35.201.0.0/19 disabled=no list=route-gcp@australia-southeast

@@ -29,4 +29,5 @@ add address=35.235.32.0/20 disabled=no list=route-gcp@europe-west3
 add address=35.242.18.0/23 disabled=no list=route-gcp@europe-west3
 add address=35.242.192.0/18 disabled=no list=route-gcp@europe-west3
 add address=35.246.128.0/17 disabled=no list=route-gcp@europe-west3
+add address=136.77.128.0/17 disabled=no list=route-gcp@europe-west3
 add address=136.92.0.0/17 disabled=no list=route-gcp@europe-west3

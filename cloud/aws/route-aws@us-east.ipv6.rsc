@@ -303,6 +303,7 @@ add address=2605:b140:9803::/48 disabled=no list=route-aws@us-east
 add address=2606:7b40:1a2f::/60 disabled=no list=route-aws@us-east
 add address=2606:7b40:1a3f:4200::/60 disabled=no list=route-aws@us-east
 add address=2606:7b40:1a4f:340::/60 disabled=no list=route-aws@us-east
+add address=2606:7b40:1a4f:4000::/60 disabled=no list=route-aws@us-east
 add address=2606:7b40:1a4f:4340::/60 disabled=no list=route-aws@us-east
 add address=2606:7b40:1b00:600::/56 disabled=no list=route-aws@us-east
 add address=2606:7b40:1b0f:100::/56 disabled=no list=route-aws@us-east

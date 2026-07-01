@@ -39,6 +39,7 @@ add address=130.211.16.0/20 disabled=no list=route-gcp@global
 add address=130.211.32.0/20 disabled=no list=route-gcp@global
 add address=136.68.0.0/16 disabled=no list=route-gcp@global
 add address=136.69.0.0/17 disabled=no list=route-gcp@global
+add address=136.79.0.0/17 disabled=no list=route-gcp@global
 add address=136.81.0.0/16 disabled=no list=route-gcp@global
 add address=136.82.0.0/16 disabled=no list=route-gcp@global
 add address=136.110.128.0/17 disabled=no list=route-gcp@global

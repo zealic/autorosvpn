@@ -747,6 +747,7 @@ add address=2605:b140:9a02::/48 disabled=no list=route-aws@ap
 add address=2605:b140:9a03::/48 disabled=no list=route-aws@ap
 add address=2605:b140:9a04::/48 disabled=no list=route-aws@ap
 add address=2605:b140:9a05::/48 disabled=no list=route-aws@ap
+add address=2606:7b40:1a45:c000::/60 disabled=no list=route-aws@ap
 add address=2606:7b40:1a45:c340::/60 disabled=no list=route-aws@ap
 add address=2606:7b40:1a47:4340::/60 disabled=no list=route-aws@ap
 add address=2606:7b40:1b05:4000::/56 disabled=no list=route-aws@ap
