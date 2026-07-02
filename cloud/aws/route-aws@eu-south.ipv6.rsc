@@ -9,6 +9,7 @@ add address=2a05:d011::/36 disabled=no list=route-aws@eu-south
 add address=2a05:d011:cbe:f700::/56 disabled=no list=route-aws@eu-south
 add address=2a05:d01a::/36 disabled=no list=route-aws@eu-south
 add address=2a05:d01a:c03:4a00::/56 disabled=no list=route-aws@eu-south
+add address=2a05:d01a:eae:1b00::/56 disabled=no list=route-aws@eu-south
 add address=2a05:d021::/36 disabled=no list=route-aws@eu-south
 add address=2a05:d021:c::/48 disabled=no list=route-aws@eu-south
 add address=2a05:d02a:4::/48 disabled=no list=route-aws@eu-south
@@ -75,6 +76,7 @@ add address=2a05:d07f:a000::/40 disabled=no list=route-aws@eu-south
 add address=2600:1f01:4808::/47 disabled=no list=route-aws@eu-south
 add address=2600:1f01:4918::/47 disabled=no list=route-aws@eu-south
 add address=2600:f003:a200::/40 disabled=no list=route-aws@eu-south
+add address=2600:f008:200::/40 disabled=no list=route-aws@eu-south
 add address=2600:f00e:400::/40 disabled=no list=route-aws@eu-south
 add address=2600:f0f0:611d::/48 disabled=no list=route-aws@eu-south
 add address=2600:f0f0:4145::/48 disabled=no list=route-aws@eu-south
