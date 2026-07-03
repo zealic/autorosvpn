@@ -924,6 +924,7 @@ add address=40.143.64.0/21 disabled=no list=route-aws@eu
 add address=40.180.0.0/15 disabled=no list=route-aws@eu
 add address=45.33.172.0/24 disabled=no list=route-aws@eu
 add address=45.33.175.0/24 disabled=no list=route-aws@eu
+add address=45.33.181.0/24 disabled=no list=route-aws@eu
 add address=45.34.0.0/15 disabled=no list=route-aws@eu
 add address=46.51.128.0/18 disabled=no list=route-aws@eu
 add address=46.51.192.0/20 disabled=no list=route-aws@eu

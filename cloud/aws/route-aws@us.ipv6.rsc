@@ -558,9 +558,11 @@ add address=2600:f0f2:7140::/48 disabled=no list=route-aws@us
 add address=2600:f0f2:7148::/48 disabled=no list=route-aws@us
 add address=2600:f0f3:f000::/44 disabled=no list=route-aws@us
 add address=2600:f0f3:f010:200::/56 disabled=no list=route-aws@us
+add address=2600:f0f3:f010:300::/56 disabled=no list=route-aws@us
 add address=2600:f0f3:f010::/56 disabled=no list=route-aws@us
 add address=2600:f0fb:8000::/40 disabled=no list=route-aws@us
 add address=2600:f0fb:c000::/48 disabled=no list=route-aws@us
+add address=2600:f0fb:c002::/56 disabled=no list=route-aws@us
 add address=2600:f0fb:e000::/40 disabled=no list=route-aws@us
 add address=2600:f0fb:e100::/40 disabled=no list=route-aws@us
 add address=2600:f0fb:e200::/40 disabled=no list=route-aws@us
