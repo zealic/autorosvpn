@@ -9109,9 +9109,14 @@ add address=99.83.103.0/24 disabled=no list=route-aws
 add address=99.83.104.0/24 disabled=no list=route-aws
 add address=99.83.104.0/24 disabled=no list=route-aws
 add address=99.83.105.0/24 disabled=no list=route-aws
+add address=99.83.105.0/24 disabled=no list=route-aws
+add address=99.83.106.0/24 disabled=no list=route-aws
 add address=99.83.106.0/24 disabled=no list=route-aws
 add address=99.83.107.0/24 disabled=no list=route-aws
+add address=99.83.107.0/24 disabled=no list=route-aws
 add address=99.83.108.0/24 disabled=no list=route-aws
+add address=99.83.108.0/24 disabled=no list=route-aws
+add address=99.83.109.0/24 disabled=no list=route-aws
 add address=99.83.109.0/24 disabled=no list=route-aws
 add address=99.83.112.0/21 disabled=no list=route-aws
 add address=99.83.120.0/22 disabled=no list=route-aws
