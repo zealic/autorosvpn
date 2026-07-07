@@ -2943,4 +2943,5 @@ add address=2631:0:c00::/39 disabled=no list=route-aws@us
 add address=2631:0:e00::/39 disabled=no list=route-aws@us
 add address=2631:1:10b::/48 disabled=no list=route-aws@us
 add address=2631:1:105::/48 disabled=no list=route-aws@us
+add address=2631:1:200::/40 disabled=no list=route-aws@us
 add address=2631::/48 disabled=no list=route-aws@us

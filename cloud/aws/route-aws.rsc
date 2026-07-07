@@ -9816,6 +9816,9 @@ add address=150.222.55.64/27 disabled=no list=route-aws
 add address=150.222.55.96/27 disabled=no list=route-aws
 add address=150.222.55.128/27 disabled=no list=route-aws
 add address=150.222.55.160/27 disabled=no list=route-aws
+add address=150.222.55.192/27 disabled=no list=route-aws
+add address=150.222.55.224/27 disabled=no list=route-aws
+add address=150.222.56.0/27 disabled=no list=route-aws
 add address=150.222.64.0/24 disabled=no list=route-aws
 add address=150.222.65.0/24 disabled=no list=route-aws
 add address=150.222.66.0/24 disabled=no list=route-aws

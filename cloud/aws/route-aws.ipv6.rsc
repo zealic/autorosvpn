@@ -5807,6 +5807,8 @@ add address=2631:1:107::/48 disabled=no list=route-aws
 add address=2631:1:107::/48 disabled=no list=route-aws
 add address=2631:1:108::/48 disabled=no list=route-aws
 add address=2631:1:108::/48 disabled=no list=route-aws
+add address=2631:1:200::/40 disabled=no list=route-aws
+add address=2631:1:200::/40 disabled=no list=route-aws
 add address=2631::/48 disabled=no list=route-aws
 add address=2631::/48 disabled=no list=route-aws
 add address=2804:800::/48 disabled=no list=route-aws

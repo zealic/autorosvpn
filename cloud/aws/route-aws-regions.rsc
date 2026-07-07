@@ -7558,6 +7558,9 @@ add address=150.222.39.64/26 disabled=no list=route-aws@us
 add address=150.222.40.64/26 disabled=no list=route-aws@us
 add address=150.222.40.128/26 disabled=no list=route-aws@us
 add address=150.222.40.192/26 disabled=no list=route-aws@us
+add address=150.222.55.192/27 disabled=no list=route-aws@us
+add address=150.222.55.224/27 disabled=no list=route-aws@us
+add address=150.222.56.0/27 disabled=no list=route-aws@us
 add address=150.222.66.0/24 disabled=no list=route-aws@us
 add address=150.222.68.116/31 disabled=no list=route-aws@us
 add address=150.222.71.0/24 disabled=no list=route-aws@us
