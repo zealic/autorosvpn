@@ -295,6 +295,8 @@ add address=2606:7b40:1042::/56 disabled=no list=route-aws@us-west
 add address=2606:7b40:1800::/40 disabled=no list=route-aws@us-west
 add address=2606:7b40:3000:4000::/50 disabled=no list=route-aws@us-west
 add address=2606:7b40:3000::/50 disabled=no list=route-aws@us-west
+add address=2606:7b40:3001:c000::/52 disabled=no list=route-aws@us-west
+add address=2606:7b40:3002::/56 disabled=no list=route-aws@us-west
 add address=2606:7b40:3004:c000::/50 disabled=no list=route-aws@us-west
 add address=2606:7b40:3005:4000::/50 disabled=no list=route-aws@us-west
 add address=2606:7b40:3005:8000::/50 disabled=no list=route-aws@us-west
