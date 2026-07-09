@@ -653,6 +653,7 @@ add address=16.171.80.0/22 disabled=no list=route-aws@eu
 add address=16.188.0.0/16 disabled=no list=route-aws@eu
 add address=16.189.0.0/16 disabled=no list=route-aws@eu
 add address=16.192.0.0/16 disabled=no list=route-aws@eu
+add address=16.192.132.0/23 disabled=no list=route-aws@eu
 add address=16.193.0.0/16 disabled=no list=route-aws@eu
 add address=16.194.0.0/16 disabled=no list=route-aws@eu
 add address=16.195.0.0/16 disabled=no list=route-aws@eu
