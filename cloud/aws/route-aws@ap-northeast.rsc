@@ -326,7 +326,6 @@ add address=35.76.252.0/23 disabled=no list=route-aws@ap-northeast
 add address=35.77.0.128/26 disabled=no list=route-aws@ap-northeast
 add address=35.77.112.0/22 disabled=no list=route-aws@ap-northeast
 add address=35.77.124.0/23 disabled=no list=route-aws@ap-northeast
-add address=35.96.38.0/24 disabled=no list=route-aws@ap-northeast
 add address=43.200.0.0/14 disabled=no list=route-aws@ap-northeast
 add address=43.201.155.152/29 disabled=no list=route-aws@ap-northeast
 add address=43.201.155.160/29 disabled=no list=route-aws@ap-northeast
@@ -465,6 +464,7 @@ add address=54.92.0.0/17 disabled=no list=route-aws@ap-northeast
 add address=54.95.0.0/16 disabled=no list=route-aws@ap-northeast
 add address=54.116.0.0/15 disabled=no list=route-aws@ap-northeast
 add address=54.116.70.0/23 disabled=no list=route-aws@ap-northeast
+add address=54.116.148.128/25 disabled=no list=route-aws@ap-northeast
 add address=54.150.0.0/16 disabled=no list=route-aws@ap-northeast
 add address=54.168.0.0/16 disabled=no list=route-aws@ap-northeast
 add address=54.178.0.0/16 disabled=no list=route-aws@ap-northeast

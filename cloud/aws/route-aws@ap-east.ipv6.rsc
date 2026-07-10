@@ -5,7 +5,9 @@ add address=2400:6500:0:7e00::/56 disabled=no list=route-aws@ap-east
 add address=2400:6500:0:7300::/56 disabled=no list=route-aws@ap-east
 add address=2406:da00:c800::/40 disabled=no list=route-aws@ap-east
 add address=2406:da00:e000::/40 disabled=no list=route-aws@ap-east
+add address=2406:da1c:80f0:7500::/56 disabled=no list=route-aws@ap-east
 add address=2406:da1c:8000::/36 disabled=no list=route-aws@ap-east
+add address=2406:da1e:5ac:e700::/56 disabled=no list=route-aws@ap-east
 add address=2406:da1e:10e:a00::/56 disabled=no list=route-aws@ap-east
 add address=2406:da1e::/32 disabled=no list=route-aws@ap-east
 add address=2406:da1e:da1:3c00::/56 disabled=no list=route-aws@ap-east

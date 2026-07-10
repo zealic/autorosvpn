@@ -4,6 +4,7 @@ add address=2400:6500:0:7b00::/56 disabled=no list=route-aws@ap-southeast-4
 add address=2406:da00:f000::/40 disabled=no list=route-aws@ap-southeast-4
 add address=2406:da1f:51b:1a00::/56 disabled=no list=route-aws@ap-southeast-4
 add address=2406:da1f::/36 disabled=no list=route-aws@ap-southeast-4
+add address=2406:da1f:b03:cb00::/56 disabled=no list=route-aws@ap-southeast-4
 add address=2406:da1f:b4f:4600::/56 disabled=no list=route-aws@ap-southeast-4
 add address=2406:da2f::/36 disabled=no list=route-aws@ap-southeast-4
 add address=2406:da30:f000::/40 disabled=no list=route-aws@ap-southeast-4

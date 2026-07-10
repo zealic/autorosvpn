@@ -13,6 +13,7 @@ add address=2406:da2d::/36 disabled=no list=route-aws@ap-northeast
 add address=2406:da12:1e1:d900::/56 disabled=no list=route-aws@ap-northeast
 add address=2406:da12:8f1:3d00::/56 disabled=no list=route-aws@ap-northeast
 add address=2406:da12::/36 disabled=no list=route-aws@ap-northeast
+add address=2406:da12:ab7:7200::/56 disabled=no list=route-aws@ap-northeast
 add address=2406:da13::/36 disabled=no list=route-aws@ap-northeast
 add address=2406:da14:1c18:2100::/56 disabled=no list=route-aws@ap-northeast
 add address=2406:da14:7ff:f800::/56 disabled=no list=route-aws@ap-northeast
