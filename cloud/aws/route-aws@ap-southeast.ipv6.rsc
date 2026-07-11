@@ -392,5 +392,3 @@ add address=2620:107:4000:a840::/58 disabled=no list=route-aws@ap-southeast
 add address=2620:107:4000:a880::/58 disabled=no list=route-aws@ap-southeast
 add address=2620:107:4000:a900::/58 disabled=no list=route-aws@ap-southeast
 add address=2620:107:4000:a940::/58 disabled=no list=route-aws@ap-southeast
-add address=2631:0:2600::/39 disabled=no list=route-aws@ap-southeast
-add address=2631:1:107::/48 disabled=no list=route-aws@ap-southeast

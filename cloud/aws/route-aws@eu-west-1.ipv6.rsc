@@ -82,15 +82,9 @@ add address=2606:7b40:1b0c:4100::/56 disabled=no list=route-aws@eu-west-1
 add address=2606:7b40:1b0d:4000::/56 disabled=no list=route-aws@eu-west-1
 add address=2606:7b40:1b0d:4100::/56 disabled=no list=route-aws@eu-west-1
 add address=2606:7b40:1b0d:4200::/56 disabled=no list=route-aws@eu-west-1
-add address=2606:f40:4b00::/40 disabled=no list=route-aws@eu-west-1
 add address=2606:f40:1000::/39 disabled=no list=route-aws@eu-west-1
-add address=2606:f40:4904::/48 disabled=no list=route-aws@eu-west-1
 add address=2606:f40:5000::/39 disabled=no list=route-aws@eu-west-1
 add address=2606:f40:9000::/39 disabled=no list=route-aws@eu-west-1
 add address=2606:f40:d000::/39 disabled=no list=route-aws@eu-west-1
 add address=2606:f40:fff0::/48 disabled=no list=route-aws@eu-west-1
 add address=2606:f40:fff2::/48 disabled=no list=route-aws@eu-west-1
-add address=2631:0:4::/48 disabled=no list=route-aws@eu-west-1
-add address=2631:0:7::/48 disabled=no list=route-aws@eu-west-1
-add address=2631:0:1000::/39 disabled=no list=route-aws@eu-west-1
-add address=2631:1:101::/48 disabled=no list=route-aws@eu-west-1
