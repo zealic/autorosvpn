@@ -972,6 +972,7 @@ add address=23.228.219.0/24 disabled=no list=route-aws@us
 add address=23.228.228.0/22 disabled=no list=route-aws@us
 add address=23.254.24.0/23 disabled=no list=route-aws@us
 add address=23.254.26.0/23 disabled=no list=route-aws@us
+add address=23.254.28.0/23 disabled=no list=route-aws@us
 add address=23.254.32.0/21 disabled=no list=route-aws@us
 add address=24.110.8.0/23 disabled=no list=route-aws@us
 add address=24.110.16.0/20 disabled=no list=route-aws@us
