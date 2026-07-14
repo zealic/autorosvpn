@@ -97,6 +97,7 @@ add address=2600:f0fb:f10c::/48 disabled=no list=route-aws@ca
 add address=2600:f0fb:f108::/48 disabled=no list=route-aws@ca
 add address=2605:b140:9804::/48 disabled=no list=route-aws@ca
 add address=2605:b140:9805::/48 disabled=no list=route-aws@ca
+add address=2606:7b40:1a4e:340::/60 disabled=no list=route-aws@ca
 add address=2606:7b40:1a4e::/60 disabled=no list=route-aws@ca
 add address=2606:7b40:1b0e:100::/56 disabled=no list=route-aws@ca
 add address=2606:7b40:1b0e:200::/56 disabled=no list=route-aws@ca
