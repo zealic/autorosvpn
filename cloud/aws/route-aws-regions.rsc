@@ -5982,6 +5982,7 @@ add address=18.217.41.216/29 disabled=no list=route-aws@us
 add address=18.220.0.0/14 disabled=no list=route-aws@us
 add address=18.224.0.0/14 disabled=no list=route-aws@us
 add address=18.226.2.0/23 disabled=no list=route-aws@us
+add address=18.227.204.0/23 disabled=no list=route-aws@us
 add address=18.232.0.0/14 disabled=no list=route-aws@us
 add address=18.232.1.32/30 disabled=no list=route-aws@us
 add address=18.232.1.36/30 disabled=no list=route-aws@us
