@@ -408,6 +408,7 @@ add address=2600:f002:c000::/40 disabled=no list=route-aws@eu
 add address=2600:f003:a200::/40 disabled=no list=route-aws@eu
 add address=2600:f008:100::/40 disabled=no list=route-aws@eu
 add address=2600:f008:200::/40 disabled=no list=route-aws@eu
+add address=2600:f008:400::/40 disabled=no list=route-aws@eu
 add address=2600:f00e:400::/40 disabled=no list=route-aws@eu
 add address=2600:f00e:600::/40 disabled=no list=route-aws@eu
 add address=2600:f00e::/39 disabled=no list=route-aws@eu
