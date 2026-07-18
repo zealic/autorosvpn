@@ -1291,6 +1291,10 @@ add address=45.33.177.0/24 disabled=no list=route-aws@us
 add address=45.33.178.0/24 disabled=no list=route-aws@us
 add address=45.33.179.0/24 disabled=no list=route-aws@us
 add address=45.33.180.0/24 disabled=no list=route-aws@us
+add address=45.33.183.0/24 disabled=no list=route-aws@us
+add address=45.33.184.0/24 disabled=no list=route-aws@us
+add address=45.33.185.0/24 disabled=no list=route-aws@us
+add address=45.33.186.0/24 disabled=no list=route-aws@us
 add address=46.51.208.0/22 disabled=no list=route-aws@us
 add address=46.168.0.0/15 disabled=no list=route-aws@us
 add address=50.16.0.0/15 disabled=no list=route-aws@us
