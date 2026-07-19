@@ -818,6 +818,9 @@ add address=2600:f0f0:c049::/48 disabled=no list=route-aws@ap-southeast
 add address=2600:f0f0:e2e::/48 disabled=no list=route-aws@ap-southeast
 add address=2600:f0f0:e2f::/48 disabled=no list=route-aws@ap-southeast
 add address=2600:f0f0:e30::/48 disabled=no list=route-aws@ap-southeast
+add address=2600:f0f0:e36::/48 disabled=no list=route-aws@ap-southeast
+add address=2600:f0f0:e37::/48 disabled=no list=route-aws@ap-southeast
+add address=2600:f0f0:e38::/48 disabled=no list=route-aws@ap-southeast
 add address=2600:f0f1:8e::/48 disabled=no list=route-aws@ap-southeast
 add address=2600:f0f1:84::/48 disabled=no list=route-aws@ap-southeast
 add address=2600:f0f1:89::/48 disabled=no list=route-aws@ap-southeast
@@ -2575,6 +2578,7 @@ add address=2620:108:d00f::/64 disabled=no list=route-aws@us-gov-west
 /ipv6 firewall address-list
 add address=2600:1f00:800::/64 disabled=no list=route-aws@us-south
 add address=2600:1f10:8000::/36 disabled=no list=route-aws@us-south
+add address=2600:1f12:2000::/36 disabled=no list=route-aws@us-south
 add address=2600:1f20:8000::/36 disabled=no list=route-aws@us-south
 add address=2600:1f30:800::/40 disabled=no list=route-aws@us-south
 add address=2600:1f32:800::/40 disabled=no list=route-aws@us-south

@@ -6891,6 +6891,7 @@ add address=15.190.224.0/22 disabled=no list=route-aws@us-south
 add address=15.248.176.0/21 disabled=no list=route-aws@us-south
 add address=23.254.28.0/23 disabled=no list=route-aws@us-south
 add address=23.254.32.0/21 disabled=no list=route-aws@us-south
+add address=35.128.128.0/18 disabled=no list=route-aws@us-south
 add address=46.168.0.0/15 disabled=no list=route-aws@us-south
 add address=52.94.250.192/28 disabled=no list=route-aws@us-south
 add address=76.223.170.144/28 disabled=no list=route-aws@us-south

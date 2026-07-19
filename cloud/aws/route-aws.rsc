@@ -4920,6 +4920,8 @@ add address=35.94.128.248/30 disabled=no list=route-aws
 add address=35.95.152.0/25 disabled=no list=route-aws
 add address=35.128.64.0/18 disabled=no list=route-aws
 add address=35.128.64.0/18 disabled=no list=route-aws
+add address=35.128.128.0/18 disabled=no list=route-aws
+add address=35.128.128.0/18 disabled=no list=route-aws
 add address=35.152.0.0/16 disabled=no list=route-aws
 add address=35.152.0.0/16 disabled=no list=route-aws
 add address=35.152.74.128/29 disabled=no list=route-aws
