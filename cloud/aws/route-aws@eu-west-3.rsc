@@ -9,9 +9,15 @@ add address=3.4.12.77/32 disabled=no list=route-aws@eu-west-3
 add address=3.4.12.78/32 disabled=no list=route-aws@eu-west-3
 add address=3.4.12.79/32 disabled=no list=route-aws@eu-west-3
 add address=3.4.12.80/32 disabled=no list=route-aws@eu-west-3
+add address=3.4.12.81/32 disabled=no list=route-aws@eu-west-3
+add address=3.4.12.82/32 disabled=no list=route-aws@eu-west-3
+add address=3.4.12.83/32 disabled=no list=route-aws@eu-west-3
+add address=3.4.12.84/32 disabled=no list=route-aws@eu-west-3
 add address=3.4.14.0/29 disabled=no list=route-aws@eu-west-3
 add address=3.4.14.8/29 disabled=no list=route-aws@eu-west-3
 add address=3.4.14.16/29 disabled=no list=route-aws@eu-west-3
+add address=3.4.14.24/29 disabled=no list=route-aws@eu-west-3
+add address=3.4.14.32/29 disabled=no list=route-aws@eu-west-3
 add address=3.5.204.0/22 disabled=no list=route-aws@eu-west-3
 add address=3.5.224.0/22 disabled=no list=route-aws@eu-west-3
 add address=13.36.0.0/14 disabled=no list=route-aws@eu-west-3

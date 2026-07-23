@@ -318,6 +318,7 @@ add address=35.50.132.0/24 disabled=no list=route-aws@us-west
 add address=35.50.133.0/24 disabled=no list=route-aws@us-west
 add address=35.50.134.0/24 disabled=no list=route-aws@us-west
 add address=35.50.135.0/24 disabled=no list=route-aws@us-west
+add address=35.50.145.0/24 disabled=no list=route-aws@us-west
 add address=35.54.40.0/22 disabled=no list=route-aws@us-west
 add address=35.54.62.0/24 disabled=no list=route-aws@us-west
 add address=35.55.36.0/24 disabled=no list=route-aws@us-west
