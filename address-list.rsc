@@ -6331,6 +6331,7 @@ add address=160.202.244.0/22 disabled=no list=novpn
 add address=160.202.248.0/22 disabled=no list=novpn
 add address=160.202.252.0/22 disabled=no list=novpn
 add address=160.236.78.0/23 disabled=no list=novpn
+add address=160.236.148.0/23 disabled=no list=novpn
 add address=160.250.14.0/23 disabled=no list=novpn
 add address=160.250.16.0/23 disabled=no list=novpn
 add address=160.250.18.0/23 disabled=no list=novpn

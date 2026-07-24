@@ -96,6 +96,7 @@ add address=69.107.7.16/29 disabled=no list=route-aws@ap-east-1
 add address=69.107.12.64/29 disabled=no list=route-aws@ap-east-1
 add address=69.107.12.72/29 disabled=no list=route-aws@ap-east-1
 add address=76.162.0.0/15 disabled=no list=route-aws@ap-east-1
+add address=80.126.2.0/24 disabled=no list=route-aws@ap-east-1
 add address=95.40.0.0/15 disabled=no list=route-aws@ap-east-1
 add address=95.40.214.128/25 disabled=no list=route-aws@ap-east-1
 add address=99.77.142.0/24 disabled=no list=route-aws@ap-east-1

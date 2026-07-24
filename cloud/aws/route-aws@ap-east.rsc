@@ -135,6 +135,7 @@ add address=69.107.12.72/29 disabled=no list=route-aws@ap-east
 add address=72.242.0.0/15 disabled=no list=route-aws@ap-east
 add address=76.162.0.0/15 disabled=no list=route-aws@ap-east
 add address=76.223.170.80/28 disabled=no list=route-aws@ap-east
+add address=80.126.2.0/24 disabled=no list=route-aws@ap-east
 add address=95.40.0.0/15 disabled=no list=route-aws@ap-east
 add address=95.40.214.128/25 disabled=no list=route-aws@ap-east
 add address=99.77.142.0/24 disabled=no list=route-aws@ap-east

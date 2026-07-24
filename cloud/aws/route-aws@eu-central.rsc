@@ -382,6 +382,7 @@ add address=63.249.156.0/24 disabled=no list=route-aws@eu-central
 add address=63.249.213.0/24 disabled=no list=route-aws@eu-central
 add address=63.249.214.0/24 disabled=no list=route-aws@eu-central
 add address=63.249.215.0/24 disabled=no list=route-aws@eu-central
+add address=63.249.216.0/24 disabled=no list=route-aws@eu-central
 add address=64.66.139.0/24 disabled=no list=route-aws@eu-central
 add address=64.66.144.0/24 disabled=no list=route-aws@eu-central
 add address=64.252.86.0/24 disabled=no list=route-aws@eu-central
