@@ -515,7 +515,6 @@ add address=63.249.171.0/24 disabled=no list=route-aws@ap-northeast
 add address=63.249.172.0/24 disabled=no list=route-aws@ap-northeast
 add address=63.249.185.0/24 disabled=no list=route-aws@ap-northeast
 add address=63.249.186.0/24 disabled=no list=route-aws@ap-northeast
-add address=63.249.187.0/24 disabled=no list=route-aws@ap-northeast
 add address=63.249.188.0/24 disabled=no list=route-aws@ap-northeast
 add address=64.66.133.0/24 disabled=no list=route-aws@ap-northeast
 add address=64.66.140.0/24 disabled=no list=route-aws@ap-northeast
