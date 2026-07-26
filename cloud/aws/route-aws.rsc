@@ -124,6 +124,10 @@ add address=1.178.174.0/24 disabled=no list=route-aws
 add address=1.179.2.0/23 disabled=no list=route-aws
 add address=1.179.14.0/23 disabled=no list=route-aws
 add address=1.179.14.0/23 disabled=no list=route-aws
+add address=1.179.52.0/22 disabled=no list=route-aws
+add address=1.179.52.0/22 disabled=no list=route-aws
+add address=1.179.56.0/22 disabled=no list=route-aws
+add address=1.179.56.0/22 disabled=no list=route-aws
 add address=1.179.60.0/23 disabled=no list=route-aws
 add address=1.179.60.0/23 disabled=no list=route-aws
 add address=1.179.101.0/24 disabled=no list=route-aws

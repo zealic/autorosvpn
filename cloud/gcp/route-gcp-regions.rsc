@@ -751,6 +751,8 @@ add address=34.124.8.0/22 disabled=no list=route-gcp@us
 add address=34.124.60.0/23 disabled=no list=route-gcp@us
 add address=34.125.0.0/16 disabled=no list=route-gcp@us
 add address=34.127.0.0/17 disabled=no list=route-gcp@us
+add address=34.127.145.0/24 disabled=no list=route-gcp@us
+add address=34.127.146.0/24 disabled=no list=route-gcp@us
 add address=34.127.156.0/22 disabled=no list=route-gcp@us
 add address=34.127.160.0/20 disabled=no list=route-gcp@us
 add address=34.127.180.0/24 disabled=no list=route-gcp@us
