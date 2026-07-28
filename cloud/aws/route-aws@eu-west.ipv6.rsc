@@ -137,6 +137,7 @@ add address=2600:1f01:480e::/47 disabled=no list=route-aws@eu-west
 add address=2600:1f01:490c::/47 disabled=no list=route-aws@eu-west
 add address=2600:1f01:491c::/47 disabled=no list=route-aws@eu-west
 add address=2600:1f01:493a::/47 disabled=no list=route-aws@eu-west
+add address=2600:1f01:494a::/47 disabled=no list=route-aws@eu-west
 add address=2600:1f01:4802::/47 disabled=no list=route-aws@eu-west
 add address=2600:1f01:4810::/47 disabled=no list=route-aws@eu-west
 add address=2600:1f01:4820::/47 disabled=no list=route-aws@eu-west

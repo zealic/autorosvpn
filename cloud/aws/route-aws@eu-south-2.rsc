@@ -109,3 +109,4 @@ add address=136.18.2.0/24 disabled=no list=route-aws@eu-south-2
 add address=150.222.50.32/27 disabled=no list=route-aws@eu-south-2
 add address=150.222.50.64/27 disabled=no list=route-aws@eu-south-2
 add address=150.222.50.96/27 disabled=no list=route-aws@eu-south-2
+add address=173.83.223.0/24 disabled=no list=route-aws@eu-south-2

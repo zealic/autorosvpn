@@ -85,6 +85,8 @@ add address=23.228.221.0/24 disabled=no list=route-aws@global
 add address=23.228.222.0/24 disabled=no list=route-aws@global
 add address=23.228.223.0/24 disabled=no list=route-aws@global
 add address=23.228.244.0/24 disabled=no list=route-aws@global
+add address=23.228.246.0/24 disabled=no list=route-aws@global
+add address=23.228.247.0/24 disabled=no list=route-aws@global
 add address=23.228.248.0/24 disabled=no list=route-aws@global
 add address=23.228.249.0/24 disabled=no list=route-aws@global
 add address=23.228.250.0/24 disabled=no list=route-aws@global
