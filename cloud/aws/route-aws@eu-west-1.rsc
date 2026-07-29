@@ -317,6 +317,8 @@ add address=69.107.10.160/29 disabled=no list=route-aws@eu-west-1
 add address=69.107.10.168/29 disabled=no list=route-aws@eu-west-1
 add address=69.107.11.80/29 disabled=no list=route-aws@eu-west-1
 add address=69.107.11.88/29 disabled=no list=route-aws@eu-west-1
+add address=69.107.13.48/29 disabled=no list=route-aws@eu-west-1
+add address=69.107.13.56/29 disabled=no list=route-aws@eu-west-1
 add address=70.232.124.0/22 disabled=no list=route-aws@eu-west-1
 add address=79.125.0.0/17 disabled=no list=route-aws@eu-west-1
 add address=87.238.80.0/21 disabled=no list=route-aws@eu-west-1
