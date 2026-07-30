@@ -260,6 +260,7 @@ add address=2606:f40:c400::/39 disabled=no list=route-aws@us-west-2
 add address=2606:f40:fffd::/48 disabled=no list=route-aws@us-west-2
 add address=2606:f40:ffff::/48 disabled=no list=route-aws@us-west-2
 add address=2620:107:4000:3::/64 disabled=no list=route-aws@us-west-2
+add address=2620:107:4000:8a00::/56 disabled=no list=route-aws@us-west-2
 add address=2620:107:4000:4200::/64 disabled=no list=route-aws@us-west-2
 add address=2620:107:4000:4201::/64 disabled=no list=route-aws@us-west-2
 add address=2620:107:4000:4202::/64 disabled=no list=route-aws@us-west-2
