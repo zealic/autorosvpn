@@ -14,6 +14,7 @@ add address=2404:c2c0:2a00::/40 disabled=no list=route-aws@cn-northwest-1
 add address=2404:c2c0:2c00::/40 disabled=no list=route-aws@cn-northwest-1
 add address=2404:c2c0:2e80::/48 disabled=no list=route-aws@cn-northwest-1
 add address=2404:c2c0:2f00::/40 disabled=no list=route-aws@cn-northwest-1
+add address=2404:c2c0:8b03:e600::/56 disabled=no list=route-aws@cn-northwest-1
 add address=2404:c2c0:83cc:cc00::/56 disabled=no list=route-aws@cn-northwest-1
 add address=2404:c2c0:83cc:cd00::/56 disabled=no list=route-aws@cn-northwest-1
 add address=2404:c2c0:83cc:ce00::/56 disabled=no list=route-aws@cn-northwest-1
