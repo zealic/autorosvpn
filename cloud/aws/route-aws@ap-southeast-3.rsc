@@ -15,6 +15,7 @@ add address=15.230.64.128/26 disabled=no list=route-aws@ap-southeast-3
 add address=15.230.178.0/24 disabled=no list=route-aws@ap-southeast-3
 add address=15.230.217.0/24 disabled=no list=route-aws@ap-southeast-3
 add address=15.232.0.0/16 disabled=no list=route-aws@ap-southeast-3
+add address=15.232.192.0/22 disabled=no list=route-aws@ap-southeast-3
 add address=15.233.0.0/16 disabled=no list=route-aws@ap-southeast-3
 add address=16.78.0.0/16 disabled=no list=route-aws@ap-southeast-3
 add address=16.79.0.0/16 disabled=no list=route-aws@ap-southeast-3

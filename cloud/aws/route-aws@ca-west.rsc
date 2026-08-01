@@ -14,6 +14,7 @@ add address=16.174.0.0/16 disabled=no list=route-aws@ca-west
 add address=16.174.54.0/23 disabled=no list=route-aws@ca-west
 add address=16.174.56.0/22 disabled=no list=route-aws@ca-west
 add address=16.174.90.128/25 disabled=no list=route-aws@ca-west
+add address=16.174.136.0/22 disabled=no list=route-aws@ca-west
 add address=16.175.0.0/16 disabled=no list=route-aws@ca-west
 add address=18.99.128.0/20 disabled=no list=route-aws@ca-west
 add address=18.99.129.0/25 disabled=no list=route-aws@ca-west

@@ -16,6 +16,7 @@ add address=2600:1f01:4930::/47 disabled=no list=route-aws@us-west-1
 add address=2600:1f1c:7ff:f800::/56 disabled=no list=route-aws@us-west-1
 add address=2600:1f1c:12d:e900::/56 disabled=no list=route-aws@us-west-1
 add address=2600:1f1c::/36 disabled=no list=route-aws@us-west-1
+add address=2600:1f1c:f8e:5d00::/56 disabled=no list=route-aws@us-west-1
 add address=2600:1f1c:fff:f800::/56 disabled=no list=route-aws@us-west-1
 add address=2600:1f2c::/36 disabled=no list=route-aws@us-west-1
 add address=2600:1f30:c000::/40 disabled=no list=route-aws@us-west-1
