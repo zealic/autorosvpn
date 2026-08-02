@@ -7222,7 +7222,6 @@ add address=64.252.122.0/24 disabled=no list=route-aws@us
 add address=64.252.123.0/24 disabled=no list=route-aws@us
 add address=64.252.125.0/24 disabled=no list=route-aws@us
 add address=66.7.0.0/21 disabled=no list=route-aws@us
-add address=66.36.0.0/24 disabled=no list=route-aws@us
 add address=66.36.10.0/24 disabled=no list=route-aws@us
 add address=67.202.0.0/18 disabled=no list=route-aws@us
 add address=67.220.240.0/20 disabled=no list=route-aws@us

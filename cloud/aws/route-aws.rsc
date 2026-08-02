@@ -8344,8 +8344,6 @@ add address=65.176.0.0/15 disabled=no list=route-aws
 add address=65.178.0.0/15 disabled=no list=route-aws
 add address=66.7.0.0/21 disabled=no list=route-aws
 add address=66.7.0.0/21 disabled=no list=route-aws
-add address=66.36.0.0/24 disabled=no list=route-aws
-add address=66.36.0.0/24 disabled=no list=route-aws
 add address=66.36.10.0/24 disabled=no list=route-aws
 add address=66.36.10.0/24 disabled=no list=route-aws
 add address=66.47.0.0/16 disabled=no list=route-aws

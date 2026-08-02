@@ -836,6 +836,7 @@ add address=2600:f0f0:8185::/48 disabled=no list=route-aws@ap-southeast
 add address=2600:f0f0:c005::/48 disabled=no list=route-aws@ap-southeast
 add address=2600:f0f0:c048::/48 disabled=no list=route-aws@ap-southeast
 add address=2600:f0f0:c049::/48 disabled=no list=route-aws@ap-southeast
+add address=2600:f0f0:c145::/48 disabled=no list=route-aws@ap-southeast
 add address=2600:f0f0:e2e::/48 disabled=no list=route-aws@ap-southeast
 add address=2600:f0f0:e2f::/48 disabled=no list=route-aws@ap-southeast
 add address=2600:f0f0:e30::/48 disabled=no list=route-aws@ap-southeast
@@ -2880,6 +2881,7 @@ add address=2600:f0f0:8181::/48 disabled=no list=route-aws@us-west
 add address=2600:f0f0:c001::/48 disabled=no list=route-aws@us-west
 add address=2600:f0f0:c003::/48 disabled=no list=route-aws@us-west
 add address=2600:f0f0:c041::/48 disabled=no list=route-aws@us-west
+add address=2600:f0f0:c121::/48 disabled=no list=route-aws@us-west
 add address=2600:f0f0:cfc::/48 disabled=no list=route-aws@us-west
 add address=2600:f0f0:e00::/48 disabled=no list=route-aws@us-west
 add address=2600:f0f0:e01::/48 disabled=no list=route-aws@us-west
