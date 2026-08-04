@@ -320,6 +320,7 @@ add address=15.129.29.0/24 disabled=no list=route-aws@eu
 add address=15.129.31.0/24 disabled=no list=route-aws@eu
 add address=15.129.36.0/23 disabled=no list=route-aws@eu
 add address=15.129.74.0/23 disabled=no list=route-aws@eu
+add address=15.129.78.0/24 disabled=no list=route-aws@eu
 add address=15.129.80.0/22 disabled=no list=route-aws@eu
 add address=15.145.0.0/23 disabled=no list=route-aws@eu
 add address=15.145.2.0/23 disabled=no list=route-aws@eu
