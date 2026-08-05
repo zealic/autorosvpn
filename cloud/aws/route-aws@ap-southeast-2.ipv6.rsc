@@ -69,7 +69,10 @@ add address=2600:f0f0:5408::/48 disabled=no list=route-aws@ap-southeast-2
 add address=2600:f0f0:8185::/48 disabled=no list=route-aws@ap-southeast-2
 add address=2600:f0f0:c005::/48 disabled=no list=route-aws@ap-southeast-2
 add address=2600:f0f0:c049::/48 disabled=no list=route-aws@ap-southeast-2
+add address=2600:f0f0:c123::/48 disabled=no list=route-aws@ap-southeast-2
+add address=2600:f0f0:c144::/48 disabled=no list=route-aws@ap-southeast-2
 add address=2600:f0f0:c145::/48 disabled=no list=route-aws@ap-southeast-2
+add address=2600:f0f0:c146::/48 disabled=no list=route-aws@ap-southeast-2
 add address=2600:f0f0:e36::/48 disabled=no list=route-aws@ap-southeast-2
 add address=2600:f0f0:e37::/48 disabled=no list=route-aws@ap-southeast-2
 add address=2600:f0f0:e38::/48 disabled=no list=route-aws@ap-southeast-2

@@ -1031,6 +1031,7 @@ add address=173.83.199.0/24 disabled=no list=route-aws@us-east-1
 add address=173.83.200.0/22 disabled=no list=route-aws@us-east-1
 add address=173.83.222.0/24 disabled=no list=route-aws@us-east-1
 add address=173.83.233.0/24 disabled=no list=route-aws@us-east-1
+add address=173.83.234.0/23 disabled=no list=route-aws@us-east-1
 add address=174.129.0.0/16 disabled=no list=route-aws@us-east-1
 add address=176.32.96.0/21 disabled=no list=route-aws@us-east-1
 add address=176.32.120.0/22 disabled=no list=route-aws@us-east-1

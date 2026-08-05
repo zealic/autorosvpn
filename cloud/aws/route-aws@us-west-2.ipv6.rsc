@@ -120,6 +120,9 @@ add address=2600:f0f0:8181::/48 disabled=no list=route-aws@us-west-2
 add address=2600:f0f0:c001::/48 disabled=no list=route-aws@us-west-2
 add address=2600:f0f0:c003::/48 disabled=no list=route-aws@us-west-2
 add address=2600:f0f0:c041::/48 disabled=no list=route-aws@us-west-2
+add address=2600:f0f0:c11f::/48 disabled=no list=route-aws@us-west-2
+add address=2600:f0f0:c133::/48 disabled=no list=route-aws@us-west-2
+add address=2600:f0f0:c135::/48 disabled=no list=route-aws@us-west-2
 add address=2600:f0f0:cfc::/48 disabled=no list=route-aws@us-west-2
 add address=2600:f0f0:e00::/48 disabled=no list=route-aws@us-west-2
 add address=2600:f0f0:e01::/48 disabled=no list=route-aws@us-west-2

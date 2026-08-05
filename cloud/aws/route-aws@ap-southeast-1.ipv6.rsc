@@ -104,6 +104,10 @@ add address=2600:f0f0:1107::/48 disabled=no list=route-aws@ap-southeast-1
 add address=2600:f0f0:1108::/48 disabled=no list=route-aws@ap-southeast-1
 add address=2600:f0f0:4105::/48 disabled=no list=route-aws@ap-southeast-1
 add address=2600:f0f0:c048::/48 disabled=no list=route-aws@ap-southeast-1
+add address=2600:f0f0:c13f::/48 disabled=no list=route-aws@ap-southeast-1
+add address=2600:f0f0:c122::/48 disabled=no list=route-aws@ap-southeast-1
+add address=2600:f0f0:c140::/48 disabled=no list=route-aws@ap-southeast-1
+add address=2600:f0f0:c143::/48 disabled=no list=route-aws@ap-southeast-1
 add address=2600:f0f0:e2e::/48 disabled=no list=route-aws@ap-southeast-1
 add address=2600:f0f0:e2f::/48 disabled=no list=route-aws@ap-southeast-1
 add address=2600:f0f0:e30::/48 disabled=no list=route-aws@ap-southeast-1

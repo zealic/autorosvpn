@@ -80,6 +80,8 @@ add address=2600:1f20:c000::/36 disabled=no list=route-aws@ap-east
 add address=2600:f0f0:810d::/48 disabled=no list=route-aws@ap-east
 add address=2600:f0f0:6113::/48 disabled=no list=route-aws@ap-east
 add address=2600:f0f0:6125::/48 disabled=no list=route-aws@ap-east
+add address=2600:f0f0:c113::/48 disabled=no list=route-aws@ap-east
+add address=2600:f0f0:c125::/48 disabled=no list=route-aws@ap-east
 add address=2600:f0f1:85::/48 disabled=no list=route-aws@ap-east
 add address=2600:f0f1:4280::/42 disabled=no list=route-aws@ap-east
 add address=2600:f0f2:7025::/48 disabled=no list=route-aws@ap-east

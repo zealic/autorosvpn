@@ -5,3 +5,8 @@ add address=2600:1900:4120::/44 disabled=no list=route-gcp@us-west
 add address=2600:1900:4170::/44 disabled=no list=route-gcp@us-west
 add address=2600:1900:4180::/44 disabled=no list=route-gcp@us-west
 add address=2600:1900:4280::/44 disabled=no list=route-gcp@us-west
+add address=2600:1902:2a0::/44 disabled=no list=route-gcp@us-west
+add address=2600:1902:2b0::/44 disabled=no list=route-gcp@us-west
+add address=2600:1902:2c0::/44 disabled=no list=route-gcp@us-west
+add address=2600:1902:2d0::/44 disabled=no list=route-gcp@us-west
+add address=2600:1902:290::/44 disabled=no list=route-gcp@us-west

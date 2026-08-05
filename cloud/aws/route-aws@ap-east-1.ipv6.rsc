@@ -45,6 +45,7 @@ add address=2600:1f01:4814::/47 disabled=no list=route-aws@ap-east-1
 add address=2600:1f01:4920::/47 disabled=no list=route-aws@ap-east-1
 add address=2600:f0f0:810d::/48 disabled=no list=route-aws@ap-east-1
 add address=2600:f0f0:6113::/48 disabled=no list=route-aws@ap-east-1
+add address=2600:f0f0:c113::/48 disabled=no list=route-aws@ap-east-1
 add address=2600:f0f1:85::/48 disabled=no list=route-aws@ap-east-1
 add address=2600:f0f1:4280::/42 disabled=no list=route-aws@ap-east-1
 add address=2600:f0fb:f106::/48 disabled=no list=route-aws@ap-east-1
