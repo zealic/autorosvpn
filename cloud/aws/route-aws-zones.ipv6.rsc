@@ -2510,9 +2510,10 @@ add address=2600:f0f3:f010:300::/56 disabled=no list=route-aws@us-east
 add address=2600:f0f3:f010:3400::/56 disabled=no list=route-aws@us-east
 add address=2600:f0f3:f010:3800::/56 disabled=no list=route-aws@us-east
 add address=2600:f0f3:f010::/56 disabled=no list=route-aws@us-east
-add address=2600:f0fb:c001::/56 disabled=no list=route-aws@us-east
 add address=2600:f0fb:c002::/56 disabled=no list=route-aws@us-east
-add address=2600:f0fb:c800::/56 disabled=no list=route-aws@us-east
+add address=2600:f0fb:c0ff::/56 disabled=no list=route-aws@us-east
+add address=2600:f0fb:c800::/48 disabled=no list=route-aws@us-east
+add address=2600:f0fb:c801::/48 disabled=no list=route-aws@us-east
 add address=2600:f0fb:c900::/52 disabled=no list=route-aws@us-east
 add address=2600:f0fb:ca00::/52 disabled=no list=route-aws@us-east
 add address=2600:f0fb:e000::/40 disabled=no list=route-aws@us-east

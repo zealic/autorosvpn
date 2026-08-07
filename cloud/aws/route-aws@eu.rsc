@@ -395,6 +395,7 @@ add address=15.221.53.0/24 disabled=no list=route-aws@eu
 add address=15.221.144.0/23 disabled=no list=route-aws@eu
 add address=15.221.153.0/24 disabled=no list=route-aws@eu
 add address=15.224.0.0/16 disabled=no list=route-aws@eu
+add address=15.224.178.0/23 disabled=no list=route-aws@eu
 add address=15.224.180.0/22 disabled=no list=route-aws@eu
 add address=15.225.0.0/16 disabled=no list=route-aws@eu
 add address=15.230.9.10/31 disabled=no list=route-aws@eu
