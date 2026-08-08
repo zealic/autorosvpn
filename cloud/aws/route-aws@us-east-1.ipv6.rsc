@@ -203,7 +203,10 @@ add address=2600:f0f3:f010:300::/56 disabled=no list=route-aws@us-east-1
 add address=2600:f0f3:f010:3400::/56 disabled=no list=route-aws@us-east-1
 add address=2600:f0f3:f010:3800::/56 disabled=no list=route-aws@us-east-1
 add address=2600:f0f3:f010::/56 disabled=no list=route-aws@us-east-1
+add address=2600:f0fb:c000::/48 disabled=no list=route-aws@us-east-1
+add address=2600:f0fb:c001::/48 disabled=no list=route-aws@us-east-1
 add address=2600:f0fb:c002::/56 disabled=no list=route-aws@us-east-1
+add address=2600:f0fb:c003::/48 disabled=no list=route-aws@us-east-1
 add address=2600:f0fb:c0ff::/56 disabled=no list=route-aws@us-east-1
 add address=2600:f0fb:c800::/48 disabled=no list=route-aws@us-east-1
 add address=2600:f0fb:c801::/48 disabled=no list=route-aws@us-east-1
