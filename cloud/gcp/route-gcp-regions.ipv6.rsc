@@ -12,6 +12,7 @@ add address=2600:1900:42e0::/44 disabled=no list=route-gcp@asia
 add address=2600:1900:4030::/44 disabled=no list=route-gcp@asia
 add address=2600:1900:4050::/44 disabled=no list=route-gcp@asia
 add address=2600:1900:4080::/44 disabled=no list=route-gcp@asia
+add address=2600:1900:4334::/46 disabled=no list=route-gcp@asia
 add address=2600:1901:8170::/44 disabled=no list=route-gcp@asia
 add address=2600:1901:8180::/44 disabled=no list=route-gcp@asia
 add address=2600:1902:2e0::/44 disabled=no list=route-gcp@asia
@@ -41,6 +42,8 @@ add address=2600:1900:4060::/44 disabled=no list=route-gcp@europe
 add address=2600:1900:4140::/44 disabled=no list=route-gcp@europe
 add address=2600:1900:4150::/44 disabled=no list=route-gcp@europe
 add address=2600:1900:4160::/44 disabled=no list=route-gcp@europe
+add address=2600:1900:4338::/45 disabled=no list=route-gcp@europe
+add address=2600:1900:4340::/46 disabled=no list=route-gcp@europe
 add address=2600:1901:81b0::/44 disabled=no list=route-gcp@europe
 add address=2600:1901:81f0::/44 disabled=no list=route-gcp@europe
 add address=2600:1901:8100::/44 disabled=no list=route-gcp@europe
