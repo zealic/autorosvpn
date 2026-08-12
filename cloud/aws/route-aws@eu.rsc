@@ -1803,8 +1803,6 @@ add address=150.222.242.84/31 disabled=no list=route-aws@eu
 add address=150.222.242.214/31 disabled=no list=route-aws@eu
 add address=150.222.245.122/31 disabled=no list=route-aws@eu
 add address=150.247.32.0/24 disabled=no list=route-aws@eu
-add address=150.247.38.0/27 disabled=no list=route-aws@eu
-add address=150.247.38.112/28 disabled=no list=route-aws@eu
 add address=150.247.42.0/24 disabled=no list=route-aws@eu
 add address=150.247.44.0/24 disabled=no list=route-aws@eu
 add address=150.247.45.0/24 disabled=no list=route-aws@eu
