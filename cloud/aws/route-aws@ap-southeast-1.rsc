@@ -240,6 +240,7 @@ add address=64.252.102.0/24 disabled=no list=route-aws@ap-southeast-1
 add address=64.252.103.0/24 disabled=no list=route-aws@ap-southeast-1
 add address=64.252.104.0/24 disabled=no list=route-aws@ap-southeast-1
 add address=64.252.105.0/24 disabled=no list=route-aws@ap-southeast-1
+add address=66.36.9.0/24 disabled=no list=route-aws@ap-southeast-1
 add address=69.107.6.160/29 disabled=no list=route-aws@ap-southeast-1
 add address=69.107.6.168/29 disabled=no list=route-aws@ap-southeast-1
 add address=69.107.7.0/29 disabled=no list=route-aws@ap-southeast-1

@@ -344,6 +344,7 @@ add address=64.252.86.0/24 disabled=no list=route-aws@eu-central-1
 add address=64.252.87.0/24 disabled=no list=route-aws@eu-central-1
 add address=64.252.88.0/24 disabled=no list=route-aws@eu-central-1
 add address=64.252.89.0/24 disabled=no list=route-aws@eu-central-1
+add address=66.36.4.0/24 disabled=no list=route-aws@eu-central-1
 add address=69.107.11.152/29 disabled=no list=route-aws@eu-central-1
 add address=69.107.11.160/29 disabled=no list=route-aws@eu-central-1
 add address=69.107.13.32/29 disabled=no list=route-aws@eu-central-1
