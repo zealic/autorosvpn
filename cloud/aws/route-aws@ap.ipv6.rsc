@@ -788,6 +788,8 @@ add address=2600:f0f2:7106::/48 disabled=no list=route-aws@ap
 add address=2600:f0f2:7107::/48 disabled=no list=route-aws@ap
 add address=2600:f0f2:7108::/48 disabled=no list=route-aws@ap
 add address=2600:f0f2:7109::/48 disabled=no list=route-aws@ap
+add address=2600:f0f3:f010:2a00::/56 disabled=no list=route-aws@ap
+add address=2600:f0f3:f010:3a00::/56 disabled=no list=route-aws@ap
 add address=2600:f0fb:f025::/48 disabled=no list=route-aws@ap
 add address=2600:f0fb:f026::/48 disabled=no list=route-aws@ap
 add address=2600:f0fb:f027::/48 disabled=no list=route-aws@ap
