@@ -60,6 +60,7 @@ add address=15.230.72.192/26 disabled=no list=route-aws@af
 add address=15.230.138.0/24 disabled=no list=route-aws@af
 add address=15.240.0.0/16 disabled=no list=route-aws@af
 add address=15.240.196.0/22 disabled=no list=route-aws@af
+add address=15.240.204.0/23 disabled=no list=route-aws@af
 add address=15.241.0.0/16 disabled=no list=route-aws@af
 add address=16.6.0.0/16 disabled=no list=route-aws@af
 add address=16.11.0.0/16 disabled=no list=route-aws@af

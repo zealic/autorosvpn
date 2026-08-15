@@ -414,6 +414,7 @@ add address=51.24.128.0/23 disabled=no list=route-aws@eu-west
 add address=51.24.162.0/23 disabled=no list=route-aws@eu-west
 add address=51.24.164.0/22 disabled=no list=route-aws@eu-west
 add address=51.24.168.0/22 disabled=no list=route-aws@eu-west
+add address=51.24.198.0/23 disabled=no list=route-aws@eu-west
 add address=51.44.0.0/16 disabled=no list=route-aws@eu-west
 add address=51.44.72.0/22 disabled=no list=route-aws@eu-west
 add address=51.44.234.0/23 disabled=no list=route-aws@eu-west

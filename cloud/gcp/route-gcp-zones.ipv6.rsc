@@ -45,8 +45,6 @@ add address=2600:1902:d0::/44 disabled=no list=route-gcp@europe-central
 /ipv6 firewall address-list
 add address=2600:1900:42a0::/44 disabled=no list=route-gcp@europe-north
 add address=2600:1900:4150::/44 disabled=no list=route-gcp@europe-north
-add address=2600:1900:4338::/45 disabled=no list=route-gcp@europe-north
-add address=2600:1900:4340::/46 disabled=no list=route-gcp@europe-north
 add address=2600:1902:e0::/44 disabled=no list=route-gcp@europe-north
 add address=2600:1902:f0::/44 disabled=no list=route-gcp@europe-north
 /ipv6 firewall address-list remove [/ipv6 firewall address-list find list="route-gcp@europe-southwest"]
