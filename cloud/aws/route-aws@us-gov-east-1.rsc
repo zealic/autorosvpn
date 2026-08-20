@@ -11,6 +11,7 @@ add address=16.65.0.0/16 disabled=no list=route-aws@us-gov-east-1
 add address=16.65.74.0/23 disabled=no list=route-aws@us-gov-east-1
 add address=16.65.98.128/25 disabled=no list=route-aws@us-gov-east-1
 add address=16.66.0.0/16 disabled=no list=route-aws@us-gov-east-1
+add address=16.66.4.0/22 disabled=no list=route-aws@us-gov-east-1
 add address=16.67.0.0/16 disabled=no list=route-aws@us-gov-east-1
 add address=16.152.0.0/16 disabled=no list=route-aws@us-gov-east-1
 add address=16.153.0.0/16 disabled=no list=route-aws@us-gov-east-1

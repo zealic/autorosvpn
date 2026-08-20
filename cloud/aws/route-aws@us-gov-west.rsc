@@ -45,6 +45,7 @@ add address=40.38.0.0/16 disabled=no list=route-aws@us-gov-west
 add address=40.38.87.128/25 disabled=no list=route-aws@us-gov-west
 add address=40.38.204.0/23 disabled=no list=route-aws@us-gov-west
 add address=40.39.0.0/16 disabled=no list=route-aws@us-gov-west
+add address=40.39.44.0/22 disabled=no list=route-aws@us-gov-west
 add address=52.46.176.0/22 disabled=no list=route-aws@us-gov-west
 add address=52.46.224.0/20 disabled=no list=route-aws@us-gov-west
 add address=52.61.0.0/16 disabled=no list=route-aws@us-gov-west
