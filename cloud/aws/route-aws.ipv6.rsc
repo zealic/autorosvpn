@@ -1067,6 +1067,7 @@ add address=2400:7fc0:200::/40 disabled=no list=route-aws
 add address=2400:7fc0:200::/40 disabled=no list=route-aws
 add address=2400:7fc0:500::/40 disabled=no list=route-aws
 add address=2400:7fc0:500::/40 disabled=no list=route-aws
+add address=2400:7fc0:833b:f400::/56 disabled=no list=route-aws
 add address=2400:7fc0:2100::/40 disabled=no list=route-aws
 add address=2400:7fc0:2100::/40 disabled=no list=route-aws
 add address=2400:7fc0:2200::/40 disabled=no list=route-aws

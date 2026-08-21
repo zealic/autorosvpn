@@ -5223,6 +5223,7 @@ add address=43.196.20.176/30 disabled=no list=route-aws
 add address=43.196.24.4/31 disabled=no list=route-aws
 add address=43.196.24.8/30 disabled=no list=route-aws
 add address=43.196.168.0/25 disabled=no list=route-aws
+add address=43.196.172.0/22 disabled=no list=route-aws
 add address=43.198.0.0/15 disabled=no list=route-aws
 add address=43.198.0.0/15 disabled=no list=route-aws
 add address=43.198.166.0/23 disabled=no list=route-aws
