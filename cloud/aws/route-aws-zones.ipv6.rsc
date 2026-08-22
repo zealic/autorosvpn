@@ -1126,6 +1126,7 @@ add address=2404:c2c0:4000::/56 disabled=no list=route-aws@cn-northwest
 add address=2404:c2c0:4100::/48 disabled=no list=route-aws@cn-northwest
 add address=2404:c2c0:6000::/40 disabled=no list=route-aws@cn-northwest
 add address=2404:c2c0:8000::/36 disabled=no list=route-aws@cn-northwest
+add address=2404:c2c0:8834:a400::/56 disabled=no list=route-aws@cn-northwest
 add address=2404:c2c0::/40 disabled=no list=route-aws@cn-northwest
 add address=2404:c2c0:bb00::/40 disabled=no list=route-aws@cn-northwest
 add address=2404:c2c0:c000::/36 disabled=no list=route-aws@cn-northwest
@@ -2691,6 +2692,7 @@ add address=2620:107:4000:7a00::/56 disabled=no list=route-aws@us-gov-east
 add address=2600:1f00:2000::/40 disabled=no list=route-aws@us-gov-west
 add address=2600:1f12:824:e00::/56 disabled=no list=route-aws@us-gov-west
 add address=2600:1f12::/36 disabled=no list=route-aws@us-gov-west
+add address=2600:1f12:d63:d100::/56 disabled=no list=route-aws@us-gov-west
 add address=2600:1f12:ece:5300::/56 disabled=no list=route-aws@us-gov-west
 add address=2600:1f12:fa9:5100::/56 disabled=no list=route-aws@us-gov-west
 add address=2600:1f22:28::/48 disabled=no list=route-aws@us-gov-west
