@@ -917,6 +917,7 @@ add address=2620:107:4000:a940::/58 disabled=no list=route-aws@ap-southeast
 /ipv6 firewall address-list
 add address=2600:1f00:1000::/40 disabled=no list=route-aws@ca-central
 add address=2600:1f01:48c0::/47 disabled=no list=route-aws@ca-central
+add address=2600:1f1e:2000::/36 disabled=no list=route-aws@ca-central
 add address=2600:1f1e:4000::/36 disabled=no list=route-aws@ca-central
 add address=2600:1f2e:4000::/36 disabled=no list=route-aws@ca-central
 add address=2600:1f11::/36 disabled=no list=route-aws@ca-central
@@ -2260,6 +2261,7 @@ add address=2600:1f2d:4000::/36 disabled=no list=route-aws@us-east
 add address=2600:1f2f:4000::/36 disabled=no list=route-aws@us-east
 add address=2600:1f2f:8000::/36 disabled=no list=route-aws@us-east
 add address=2600:1f2f:c000::/36 disabled=no list=route-aws@us-east
+add address=2600:1f6a:4c00::/46 disabled=no list=route-aws@us-east
 add address=2600:1f10:4a47:1300::/56 disabled=no list=route-aws@us-east
 add address=2600:1f10:4d24:2400::/56 disabled=no list=route-aws@us-east
 add address=2600:1f10:2000::/36 disabled=no list=route-aws@us-east
@@ -2742,6 +2744,7 @@ add address=2620:108:d00f::/64 disabled=no list=route-aws@us-gov-west
 add address=2600:1f00:800::/64 disabled=no list=route-aws@us-south
 add address=2600:1f1a:2000::/36 disabled=no list=route-aws@us-south
 add address=2600:1f10:8000::/36 disabled=no list=route-aws@us-south
+add address=2600:1f11:2000::/36 disabled=no list=route-aws@us-south
 add address=2600:1f12:2000::/36 disabled=no list=route-aws@us-south
 add address=2600:1f20:8000::/36 disabled=no list=route-aws@us-south
 add address=2600:1f30:800::/40 disabled=no list=route-aws@us-south

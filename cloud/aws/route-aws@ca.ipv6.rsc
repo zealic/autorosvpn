@@ -8,6 +8,7 @@ add address=2600:1f1a:4ff6:d500::/56 disabled=no list=route-aws@ca
 add address=2600:1f1a:41c6:700::/56 disabled=no list=route-aws@ca
 add address=2600:1f1a:4000::/36 disabled=no list=route-aws@ca
 add address=2600:1f1a:4040:b100::/56 disabled=no list=route-aws@ca
+add address=2600:1f1e:2000::/36 disabled=no list=route-aws@ca
 add address=2600:1f1e:4000::/36 disabled=no list=route-aws@ca
 add address=2600:1f2a:401c::/48 disabled=no list=route-aws@ca
 add address=2600:1f2a:4000::/36 disabled=no list=route-aws@ca
