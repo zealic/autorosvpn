@@ -135,6 +135,7 @@ add address=34.183.80.0/24 disabled=no list=route-gcp@asia
 add address=34.183.104.0/24 disabled=no list=route-gcp@asia
 add address=34.183.106.0/23 disabled=no list=route-gcp@asia
 add address=34.183.111.0/24 disabled=no list=route-gcp@asia
+add address=34.183.129.0/24 disabled=no list=route-gcp@asia
 add address=34.184.3.0/25 disabled=no list=route-gcp@asia
 add address=34.184.6.0/23 disabled=no list=route-gcp@asia
 add address=34.184.23.0/24 disabled=no list=route-gcp@asia
@@ -145,6 +146,7 @@ add address=34.184.75.0/24 disabled=no list=route-gcp@asia
 add address=34.184.83.0/24 disabled=no list=route-gcp@asia
 add address=34.184.106.0/23 disabled=no list=route-gcp@asia
 add address=34.184.110.0/24 disabled=no list=route-gcp@asia
+add address=34.184.128.0/24 disabled=no list=route-gcp@asia
 add address=35.185.128.0/19 disabled=no list=route-gcp@asia
 add address=35.185.160.0/20 disabled=no list=route-gcp@asia
 add address=35.185.176.0/20 disabled=no list=route-gcp@asia
@@ -832,6 +834,8 @@ add address=34.183.105.0/24 disabled=no list=route-gcp@us
 add address=34.183.113.0/24 disabled=no list=route-gcp@us
 add address=34.183.115.0/24 disabled=no list=route-gcp@us
 add address=34.183.124.0/24 disabled=no list=route-gcp@us
+add address=34.183.125.0/24 disabled=no list=route-gcp@us
+add address=34.183.128.0/24 disabled=no list=route-gcp@us
 add address=34.184.4.0/23 disabled=no list=route-gcp@us
 add address=34.184.12.0/22 disabled=no list=route-gcp@us
 add address=34.184.16.0/22 disabled=no list=route-gcp@us
@@ -854,6 +858,8 @@ add address=34.184.104.0/24 disabled=no list=route-gcp@us
 add address=34.184.112.0/24 disabled=no list=route-gcp@us
 add address=34.184.116.0/24 disabled=no list=route-gcp@us
 add address=34.184.123.0/24 disabled=no list=route-gcp@us
+add address=34.184.126.0/24 disabled=no list=route-gcp@us
+add address=34.184.127.0/24 disabled=no list=route-gcp@us
 add address=34.185.64.0/18 disabled=no list=route-gcp@us
 add address=34.186.0.0/19 disabled=no list=route-gcp@us
 add address=34.186.32.0/19 disabled=no list=route-gcp@us

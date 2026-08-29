@@ -3756,6 +3756,8 @@ add address=2600:1fff:c000::/40 disabled=no list=route-aws
 add address=2600:1fff:c000::/40 disabled=no list=route-aws
 add address=2600:1fff:e000::/40 disabled=no list=route-aws
 add address=2600:1fff:e000::/40 disabled=no list=route-aws
+add address=2600:1fff:e200::/40 disabled=no list=route-aws
+add address=2600:1fff:e200::/40 disabled=no list=route-aws
 add address=2600:1fff:ec00::/40 disabled=no list=route-aws
 add address=2600:1fff:ec00::/40 disabled=no list=route-aws
 add address=2600:9000:520a::/48 disabled=no list=route-aws
