@@ -717,6 +717,7 @@ add address=16.77.0.0/16 disabled=no list=route-aws@ap
 add address=16.78.0.0/16 disabled=no list=route-aws@ap
 add address=16.79.0.0/16 disabled=no list=route-aws@ap
 add address=16.106.0.0/16 disabled=no list=route-aws@ap
+add address=16.106.2.0/23 disabled=no list=route-aws@ap
 add address=16.107.0.0/16 disabled=no list=route-aws@ap
 add address=16.112.0.0/16 disabled=no list=route-aws@ap
 add address=16.112.252.128/25 disabled=no list=route-aws@ap
