@@ -163,6 +163,7 @@ add address=54.20.12.0/23 disabled=no list=route-aws@sa-east
 add address=54.20.50.0/23 disabled=no list=route-aws@sa-east
 add address=54.20.104.0/22 disabled=no list=route-aws@sa-east
 add address=54.20.154.0/23 disabled=no list=route-aws@sa-east
+add address=54.20.156.0/23 disabled=no list=route-aws@sa-east
 add address=54.94.0.0/16 disabled=no list=route-aws@sa-east
 add address=54.207.0.0/16 disabled=no list=route-aws@sa-east
 add address=54.232.0.0/16 disabled=no list=route-aws@sa-east

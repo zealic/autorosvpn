@@ -3,6 +3,7 @@
 add address=1.178.100.0/24 disabled=no list=route-aws@us-west-1
 add address=3.2.54.0/24 disabled=no list=route-aws@us-west-1
 add address=3.2.86.0/24 disabled=no list=route-aws@us-west-1
+add address=3.2.107.0/24 disabled=no list=route-aws@us-west-1
 add address=3.3.24.0/22 disabled=no list=route-aws@us-west-1
 add address=3.4.12.35/32 disabled=no list=route-aws@us-west-1
 add address=3.4.12.36/32 disabled=no list=route-aws@us-west-1

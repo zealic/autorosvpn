@@ -38,6 +38,7 @@ add address=2a05:d07e:5000::/40 disabled=no list=route-aws@il-central-1
 add address=2a05:d07f:5000::/40 disabled=no list=route-aws@il-central-1
 add address=2600:f0f0:20::/48 disabled=no list=route-aws@il-central-1
 add address=2600:f0f0:611f::/48 disabled=no list=route-aws@il-central-1
+add address=2600:f0f0:613f::/48 disabled=no list=route-aws@il-central-1
 add address=2600:f0f0:4110::/48 disabled=no list=route-aws@il-central-1
 add address=2600:f0f0:c124::/48 disabled=no list=route-aws@il-central-1
 add address=2600:f0f1:8f::/48 disabled=no list=route-aws@il-central-1

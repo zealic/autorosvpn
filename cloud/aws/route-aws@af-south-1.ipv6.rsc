@@ -40,6 +40,7 @@ add address=2406:dafe:1000::/40 disabled=no list=route-aws@af-south-1
 add address=2406:daff:1000::/40 disabled=no list=route-aws@af-south-1
 add address=2600:f0f0:4144::/48 disabled=no list=route-aws@af-south-1
 add address=2600:f0f0:6119::/48 disabled=no list=route-aws@af-south-1
+add address=2600:f0f0:6141::/48 disabled=no list=route-aws@af-south-1
 add address=2600:f0f0:8109::/48 disabled=no list=route-aws@af-south-1
 add address=2600:f0f0:c10e::/48 disabled=no list=route-aws@af-south-1
 add address=2600:f0f1:88::/48 disabled=no list=route-aws@af-south-1

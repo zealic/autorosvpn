@@ -3,6 +3,7 @@
 add address=1.178.64.0/24 disabled=no list=route-aws@ap-northeast-1
 add address=3.2.61.0/24 disabled=no list=route-aws@ap-northeast-1
 add address=3.2.66.0/24 disabled=no list=route-aws@ap-northeast-1
+add address=3.2.118.0/24 disabled=no list=route-aws@ap-northeast-1
 add address=3.4.12.27/32 disabled=no list=route-aws@ap-northeast-1
 add address=3.4.12.28/32 disabled=no list=route-aws@ap-northeast-1
 add address=3.4.12.29/32 disabled=no list=route-aws@ap-northeast-1

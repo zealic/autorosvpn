@@ -98,6 +98,7 @@ add address=2600:f0f0:cf8::/56 disabled=no list=route-aws@global
 add address=2600:f0f0:cf8:c00::/56 disabled=no list=route-aws@global
 add address=2600:f0f0:cf8:d00::/56 disabled=no list=route-aws@global
 add address=2600:f0f0:cf8:e00::/56 disabled=no list=route-aws@global
+add address=2600:f0f0:cf9:8c00::/56 disabled=no list=route-aws@global
 add address=2600:f0f0:cf9:c00::/56 disabled=no list=route-aws@global
 add address=2600:f0f0:cf9:d00::/56 disabled=no list=route-aws@global
 add address=2600:f0f0:cf9:e00::/56 disabled=no list=route-aws@global

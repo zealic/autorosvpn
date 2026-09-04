@@ -3,6 +3,7 @@
 add address=1.178.93.0/24 disabled=no list=route-aws@eu-north-1
 add address=1.178.174.0/24 disabled=no list=route-aws@eu-north-1
 add address=3.2.71.0/24 disabled=no list=route-aws@eu-north-1
+add address=3.2.113.0/24 disabled=no list=route-aws@eu-north-1
 add address=3.4.12.61/32 disabled=no list=route-aws@eu-north-1
 add address=3.4.12.62/32 disabled=no list=route-aws@eu-north-1
 add address=3.4.15.200/29 disabled=no list=route-aws@eu-north-1

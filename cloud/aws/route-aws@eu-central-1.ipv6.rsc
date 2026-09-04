@@ -121,6 +121,7 @@ add address=2600:f0f0:5524::/48 disabled=no list=route-aws@eu-central-1
 add address=2600:f0f0:5525::/48 disabled=no list=route-aws@eu-central-1
 add address=2600:f0f0:5526::/48 disabled=no list=route-aws@eu-central-1
 add address=2600:f0f0:6106::/48 disabled=no list=route-aws@eu-central-1
+add address=2600:f0f0:6130::/48 disabled=no list=route-aws@eu-central-1
 add address=2600:f0f0:8183::/48 disabled=no list=route-aws@eu-central-1
 add address=2600:f0f0:c004::/48 disabled=no list=route-aws@eu-central-1
 add address=2600:f0f0:c044::/48 disabled=no list=route-aws@eu-central-1
