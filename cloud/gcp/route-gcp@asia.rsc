@@ -4,6 +4,7 @@ add address=8.228.128.0/18 disabled=no list=route-gcp@asia
 add address=8.230.0.0/19 disabled=no list=route-gcp@asia
 add address=8.231.64.0/18 disabled=no list=route-gcp@asia
 add address=8.234.64.0/18 disabled=no list=route-gcp@asia
+add address=8.237.0.0/18 disabled=no list=route-gcp@asia
 add address=34.0.0.0/20 disabled=no list=route-gcp@asia
 add address=34.0.96.0/19 disabled=no list=route-gcp@asia
 add address=34.0.227.0/24 disabled=no list=route-gcp@asia

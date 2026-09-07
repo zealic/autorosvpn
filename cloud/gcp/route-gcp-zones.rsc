@@ -53,6 +53,7 @@ add address=130.211.240.0/20 disabled=no list=route-gcp@asia-east
 /ip firewall address-list
 add address=8.228.128.0/18 disabled=no list=route-gcp@asia-northeast
 add address=8.230.0.0/19 disabled=no list=route-gcp@asia-northeast
+add address=8.237.0.0/18 disabled=no list=route-gcp@asia-northeast
 add address=34.0.96.0/19 disabled=no list=route-gcp@asia-northeast
 add address=34.4.128.0/18 disabled=no list=route-gcp@asia-northeast
 add address=34.22.64.0/19 disabled=no list=route-gcp@asia-northeast
@@ -303,6 +304,7 @@ add address=8.34.211.0/24 disabled=no list=route-gcp@europe-west
 add address=8.34.220.0/22 disabled=no list=route-gcp@europe-west
 add address=8.228.32.0/19 disabled=no list=route-gcp@europe-west
 add address=8.235.128.0/17 disabled=no list=route-gcp@europe-west
+add address=8.236.144.0/20 disabled=no list=route-gcp@europe-west
 add address=23.251.128.0/20 disabled=no list=route-gcp@europe-west
 add address=34.0.160.0/19 disabled=no list=route-gcp@europe-west
 add address=34.0.224.0/24 disabled=no list=route-gcp@europe-west
@@ -916,6 +918,7 @@ add address=162.216.148.0/22 disabled=no list=route-gcp@us-east
 add address=8.230.96.0/19 disabled=no list=route-gcp@us-south
 add address=8.234.20.0/22 disabled=no list=route-gcp@us-south
 add address=8.234.24.0/21 disabled=no list=route-gcp@us-south
+add address=8.236.192.0/18 disabled=no list=route-gcp@us-south
 add address=34.0.128.0/19 disabled=no list=route-gcp@us-south
 add address=34.127.156.0/22 disabled=no list=route-gcp@us-south
 add address=34.128.4.0/22 disabled=no list=route-gcp@us-south
@@ -947,6 +950,7 @@ add address=34.3.96.0/20 disabled=no list=route-gcp@us-west
 add address=34.4.28.0/22 disabled=no list=route-gcp@us-west
 add address=34.4.104.0/21 disabled=no list=route-gcp@us-west
 add address=34.4.192.0/24 disabled=no list=route-gcp@us-west
+add address=34.4.208.0/20 disabled=no list=route-gcp@us-west
 add address=34.11.128.0/17 disabled=no list=route-gcp@us-west
 add address=34.16.128.0/17 disabled=no list=route-gcp@us-west
 add address=34.19.0.0/17 disabled=no list=route-gcp@us-west
