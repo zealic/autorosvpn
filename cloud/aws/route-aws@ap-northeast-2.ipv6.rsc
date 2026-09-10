@@ -2,6 +2,7 @@
 /ipv6 firewall address-list
 add address=2400:6500:0:7400::/56 disabled=no list=route-aws@ap-northeast-2
 add address=2406:da00:2000::/40 disabled=no list=route-aws@ap-northeast-2
+add address=2406:da6a:5000::/46 disabled=no list=route-aws@ap-northeast-2
 add address=2406:da12:1e1:d900::/56 disabled=no list=route-aws@ap-northeast-2
 add address=2406:da12:8f1:3d00::/56 disabled=no list=route-aws@ap-northeast-2
 add address=2406:da12::/36 disabled=no list=route-aws@ap-northeast-2
@@ -18,6 +19,7 @@ add address=2406:da36:2000::/40 disabled=no list=route-aws@ap-northeast-2
 add address=2406:da38:2000::/40 disabled=no list=route-aws@ap-northeast-2
 add address=2406:da60:2000::/40 disabled=no list=route-aws@ap-northeast-2
 add address=2406:da61:2000::/40 disabled=no list=route-aws@ap-northeast-2
+add address=2406:da62:2000::/40 disabled=no list=route-aws@ap-northeast-2
 add address=2406:da70:2000:100::/56 disabled=no list=route-aws@ap-northeast-2
 add address=2406:da70:2000:200::/56 disabled=no list=route-aws@ap-northeast-2
 add address=2406:da70:2000:300::/56 disabled=no list=route-aws@ap-northeast-2
@@ -28,6 +30,7 @@ add address=2406:daa0:2000::/40 disabled=no list=route-aws@ap-northeast-2
 add address=2406:dab9:2000::/40 disabled=no list=route-aws@ap-northeast-2
 add address=2406:daba:2000::/40 disabled=no list=route-aws@ap-northeast-2
 add address=2406:dabb:2000::/40 disabled=no list=route-aws@ap-northeast-2
+add address=2406:dae7:2000::/40 disabled=no list=route-aws@ap-northeast-2
 add address=2406:dae8:2000::/40 disabled=no list=route-aws@ap-northeast-2
 add address=2406:dae9:2000::/40 disabled=no list=route-aws@ap-northeast-2
 add address=2406:daea:2000::/40 disabled=no list=route-aws@ap-northeast-2

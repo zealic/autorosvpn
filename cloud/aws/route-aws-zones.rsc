@@ -2116,6 +2116,7 @@ add address=35.183.92.176/29 disabled=no list=route-aws@ca-central
 add address=35.183.255.0/24 disabled=no list=route-aws@ca-central
 add address=40.186.0.0/16 disabled=no list=route-aws@ca-central
 add address=40.187.0.0/16 disabled=no list=route-aws@ca-central
+add address=45.33.188.0/24 disabled=no list=route-aws@ca-central
 add address=52.60.0.0/16 disabled=no list=route-aws@ca-central
 add address=52.93.5.0/24 disabled=no list=route-aws@ca-central
 add address=52.93.45.128/25 disabled=no list=route-aws@ca-central
@@ -2151,6 +2152,8 @@ add address=54.239.1.0/28 disabled=no list=route-aws@ca-central
 add address=64.23.0.0/18 disabled=no list=route-aws@ca-central
 add address=64.66.149.0/24 disabled=no list=route-aws@ca-central
 add address=64.252.124.0/24 disabled=no list=route-aws@ca-central
+add address=69.107.13.64/29 disabled=no list=route-aws@ca-central
+add address=69.107.13.72/29 disabled=no list=route-aws@ca-central
 add address=99.77.150.0/24 disabled=no list=route-aws@ca-central
 add address=99.77.233.0/24 disabled=no list=route-aws@ca-central
 add address=99.79.0.0/16 disabled=no list=route-aws@ca-central
@@ -6360,6 +6363,7 @@ add address=77.112.4.0/22 disabled=no list=route-aws@us-east
 add address=77.112.8.0/22 disabled=no list=route-aws@us-east
 add address=77.112.12.0/22 disabled=no list=route-aws@us-east
 add address=77.112.112.0/22 disabled=no list=route-aws@us-east
+add address=77.112.162.0/23 disabled=no list=route-aws@us-east
 add address=96.0.12.0/22 disabled=no list=route-aws@us-east
 add address=96.0.16.0/21 disabled=no list=route-aws@us-east
 add address=96.0.48.0/21 disabled=no list=route-aws@us-east

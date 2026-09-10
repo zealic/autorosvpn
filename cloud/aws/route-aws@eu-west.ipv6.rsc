@@ -58,6 +58,9 @@ add address=2a05:d036:c000::/40 disabled=no list=route-aws@eu-west
 add address=2a05:d038:2000::/40 disabled=no list=route-aws@eu-west
 add address=2a05:d038:8000::/40 disabled=no list=route-aws@eu-west
 add address=2a05:d038:c000::/40 disabled=no list=route-aws@eu-west
+add address=2a05:d039:2000::/40 disabled=no list=route-aws@eu-west
+add address=2a05:d039:8000::/40 disabled=no list=route-aws@eu-west
+add address=2a05:d039:c000::/40 disabled=no list=route-aws@eu-west
 add address=2a05:d03a:2000:100::/56 disabled=no list=route-aws@eu-west
 add address=2a05:d03a:2000:200::/56 disabled=no list=route-aws@eu-west
 add address=2a05:d03a:2000:300::/56 disabled=no list=route-aws@eu-west
@@ -94,6 +97,9 @@ add address=2a05:d05b:c000::/40 disabled=no list=route-aws@eu-west
 add address=2a05:d068:2000::/40 disabled=no list=route-aws@eu-west
 add address=2a05:d068:8000::/40 disabled=no list=route-aws@eu-west
 add address=2a05:d068:c000::/40 disabled=no list=route-aws@eu-west
+add address=2a05:d069:2000::/40 disabled=no list=route-aws@eu-west
+add address=2a05:d069:8000::/40 disabled=no list=route-aws@eu-west
+add address=2a05:d069:c000::/40 disabled=no list=route-aws@eu-west
 add address=2a05:d06a:2000::/40 disabled=no list=route-aws@eu-west
 add address=2a05:d06a:8000::/40 disabled=no list=route-aws@eu-west
 add address=2a05:d06a:c000::/40 disabled=no list=route-aws@eu-west
