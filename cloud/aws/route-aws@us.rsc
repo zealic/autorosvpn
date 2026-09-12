@@ -2010,6 +2010,7 @@ add address=56.137.224.0/23 disabled=no list=route-aws@us
 add address=56.138.0.0/16 disabled=no list=route-aws@us
 add address=56.139.0.0/16 disabled=no list=route-aws@us
 add address=63.246.119.0/24 disabled=no list=route-aws@us
+add address=64.7.200.0/21 disabled=no list=route-aws@us
 add address=64.37.64.0/18 disabled=no list=route-aws@us
 add address=64.66.128.0/24 disabled=no list=route-aws@us
 add address=64.66.129.0/24 disabled=no list=route-aws@us
@@ -2019,15 +2020,6 @@ add address=64.66.134.0/24 disabled=no list=route-aws@us
 add address=64.66.135.0/24 disabled=no list=route-aws@us
 add address=64.66.136.0/24 disabled=no list=route-aws@us
 add address=64.66.137.0/24 disabled=no list=route-aws@us
-add address=64.73.195.0/24 disabled=no list=route-aws@us
-add address=64.73.196.0/24 disabled=no list=route-aws@us
-add address=64.73.197.0/24 disabled=no list=route-aws@us
-add address=64.73.202.0/24 disabled=no list=route-aws@us
-add address=64.73.203.0/24 disabled=no list=route-aws@us
-add address=64.73.204.0/24 disabled=no list=route-aws@us
-add address=64.73.205.0/24 disabled=no list=route-aws@us
-add address=64.73.206.0/24 disabled=no list=route-aws@us
-add address=64.73.213.0/24 disabled=no list=route-aws@us
 add address=64.187.128.0/20 disabled=no list=route-aws@us
 add address=64.252.64.0/24 disabled=no list=route-aws@us
 add address=64.252.65.0/24 disabled=no list=route-aws@us

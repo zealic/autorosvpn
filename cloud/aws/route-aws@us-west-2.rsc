@@ -370,11 +370,6 @@ add address=64.66.128.0/24 disabled=no list=route-aws@us-west-2
 add address=64.66.129.0/24 disabled=no list=route-aws@us-west-2
 add address=64.66.130.0/24 disabled=no list=route-aws@us-west-2
 add address=64.66.134.0/24 disabled=no list=route-aws@us-west-2
-add address=64.73.203.0/24 disabled=no list=route-aws@us-west-2
-add address=64.73.204.0/24 disabled=no list=route-aws@us-west-2
-add address=64.73.205.0/24 disabled=no list=route-aws@us-west-2
-add address=64.73.206.0/24 disabled=no list=route-aws@us-west-2
-add address=64.73.213.0/24 disabled=no list=route-aws@us-west-2
 add address=64.252.65.0/24 disabled=no list=route-aws@us-west-2
 add address=64.252.70.0/24 disabled=no list=route-aws@us-west-2
 add address=64.252.71.0/24 disabled=no list=route-aws@us-west-2

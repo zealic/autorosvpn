@@ -675,6 +675,7 @@ add address=8.234.32.0/19 disabled=no list=route-gcp@us
 add address=8.234.128.0/17 disabled=no list=route-gcp@us
 add address=8.235.0.0/17 disabled=no list=route-gcp@us
 add address=8.236.192.0/18 disabled=no list=route-gcp@us
+add address=8.237.64.0/18 disabled=no list=route-gcp@us
 add address=23.236.48.0/20 disabled=no list=route-gcp@us
 add address=23.251.144.0/20 disabled=no list=route-gcp@us
 add address=34.0.128.0/19 disabled=no list=route-gcp@us
