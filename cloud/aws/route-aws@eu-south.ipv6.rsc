@@ -5,11 +5,13 @@ add address=2a01:578:0:7800::/56 disabled=no list=route-aws@eu-south
 add address=2a05:d000:1000::/40 disabled=no list=route-aws@eu-south
 add address=2a05:d000:a000::/40 disabled=no list=route-aws@eu-south
 add address=2a05:d011:95f:c900::/56 disabled=no list=route-aws@eu-south
+add address=2a05:d011:531:1800::/56 disabled=no list=route-aws@eu-south
 add address=2a05:d011::/36 disabled=no list=route-aws@eu-south
 add address=2a05:d011:ab7:bb00::/56 disabled=no list=route-aws@eu-south
 add address=2a05:d011:cbe:f700::/56 disabled=no list=route-aws@eu-south
 add address=2a05:d011:fbb:2500::/56 disabled=no list=route-aws@eu-south
 add address=2a05:d01a:5d:8900::/56 disabled=no list=route-aws@eu-south
+add address=2a05:d01a:8a9:be00::/56 disabled=no list=route-aws@eu-south
 add address=2a05:d01a::/36 disabled=no list=route-aws@eu-south
 add address=2a05:d01a:c03:4a00::/56 disabled=no list=route-aws@eu-south
 add address=2a05:d01a:eae:1b00::/56 disabled=no list=route-aws@eu-south

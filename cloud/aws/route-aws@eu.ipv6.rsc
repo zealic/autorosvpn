@@ -25,6 +25,7 @@ add address=2a05:d000:9000::/40 disabled=no list=route-aws@eu
 add address=2a05:d000:a000::/40 disabled=no list=route-aws@eu
 add address=2a05:d000:c000::/40 disabled=no list=route-aws@eu
 add address=2a05:d011:95f:c900::/56 disabled=no list=route-aws@eu
+add address=2a05:d011:531:1800::/56 disabled=no list=route-aws@eu
 add address=2a05:d011::/36 disabled=no list=route-aws@eu
 add address=2a05:d011:ab7:bb00::/56 disabled=no list=route-aws@eu
 add address=2a05:d011:cbe:f700::/56 disabled=no list=route-aws@eu
@@ -60,9 +61,11 @@ add address=2a05:d018:b3d:8200::/56 disabled=no list=route-aws@eu
 add address=2a05:d018:fff:f800::/56 disabled=no list=route-aws@eu
 add address=2a05:d019:1d6:2100::/56 disabled=no list=route-aws@eu
 add address=2a05:d019:5aa:1200::/56 disabled=no list=route-aws@eu
+add address=2a05:d019:80b:e300::/56 disabled=no list=route-aws@eu
 add address=2a05:d019:84f:800::/56 disabled=no list=route-aws@eu
 add address=2a05:d019::/36 disabled=no list=route-aws@eu
 add address=2a05:d01a:5d:8900::/56 disabled=no list=route-aws@eu
+add address=2a05:d01a:8a9:be00::/56 disabled=no list=route-aws@eu
 add address=2a05:d01a::/36 disabled=no list=route-aws@eu
 add address=2a05:d01a:c03:4a00::/56 disabled=no list=route-aws@eu
 add address=2a05:d01a:eae:1b00::/56 disabled=no list=route-aws@eu
