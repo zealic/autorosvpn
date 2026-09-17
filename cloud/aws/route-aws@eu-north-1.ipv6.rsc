@@ -4,6 +4,7 @@ add address=2a01:578:0:7500::1/128 disabled=no list=route-aws@eu-north-1
 add address=2a01:578:0:7501::1/128 disabled=no list=route-aws@eu-north-1
 add address=2a01:578:0:7502::1/128 disabled=no list=route-aws@eu-north-1
 add address=2a05:d000:6000::/40 disabled=no list=route-aws@eu-north-1
+add address=2a05:d016:9ed:de00::/56 disabled=no list=route-aws@eu-north-1
 add address=2a05:d016:107:8100::/56 disabled=no list=route-aws@eu-north-1
 add address=2a05:d016:116:3d00::/56 disabled=no list=route-aws@eu-north-1
 add address=2a05:d016:494:f00::/56 disabled=no list=route-aws@eu-north-1
@@ -89,4 +90,5 @@ add address=2600:f0f0:c107::/48 disabled=no list=route-aws@eu-north-1
 add address=2600:f0f1:8b01::/48 disabled=no list=route-aws@eu-north-1
 add address=2600:f0f1:4000::/42 disabled=no list=route-aws@eu-north-1
 add address=2600:f0f2:701f::/48 disabled=no list=route-aws@eu-north-1
+add address=2600:f0f3:f010:800::/56 disabled=no list=route-aws@eu-north-1
 add address=2605:b140:9905::/48 disabled=no list=route-aws@eu-north-1

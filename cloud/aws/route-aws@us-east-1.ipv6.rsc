@@ -84,6 +84,7 @@ add address=2600:1f18:759e:7a00::/56 disabled=no list=route-aws@us-east-1
 add address=2600:1f18:1738:ca00::/56 disabled=no list=route-aws@us-east-1
 add address=2600:1f18:3201:bd00::/56 disabled=no list=route-aws@us-east-1
 add address=2600:1f18:5914:9100::/56 disabled=no list=route-aws@us-east-1
+add address=2600:1f18:7530:7200::/56 disabled=no list=route-aws@us-east-1
 add address=2600:1f18:8000::/36 disabled=no list=route-aws@us-east-1
 add address=2600:1f18::/33 disabled=no list=route-aws@us-east-1
 add address=2600:1f19:4000::/36 disabled=no list=route-aws@us-east-1

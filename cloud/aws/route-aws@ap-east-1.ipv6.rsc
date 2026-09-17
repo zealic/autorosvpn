@@ -52,4 +52,5 @@ add address=2600:f0f0:6113::/48 disabled=no list=route-aws@ap-east-1
 add address=2600:f0f0:c113::/48 disabled=no list=route-aws@ap-east-1
 add address=2600:f0f1:85::/48 disabled=no list=route-aws@ap-east-1
 add address=2600:f0f1:4280::/42 disabled=no list=route-aws@ap-east-1
+add address=2600:f0f3:f010:1800::/56 disabled=no list=route-aws@ap-east-1
 add address=2600:f0fb:f106::/48 disabled=no list=route-aws@ap-east-1
