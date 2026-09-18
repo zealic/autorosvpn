@@ -3116,7 +3116,6 @@ add address=2600:f0f0:c12d::/48 disabled=no list=route-aws@us
 add address=2600:f0f0:c12e::/48 disabled=no list=route-aws@us
 add address=2600:f0f0:c12f::/48 disabled=no list=route-aws@us
 add address=2600:f0f0:c14e::/48 disabled=no list=route-aws@us
-add address=2600:f0f0:c14f::/48 disabled=no list=route-aws@us
 add address=2600:f0f0:c100::/48 disabled=no list=route-aws@us
 add address=2600:f0f0:c115::/48 disabled=no list=route-aws@us
 add address=2600:f0f0:c121::/48 disabled=no list=route-aws@us
