@@ -1494,6 +1494,7 @@ add address=54.116.0.0/15 disabled=no list=route-aws@ap
 add address=54.116.70.0/23 disabled=no list=route-aws@ap
 add address=54.116.148.128/25 disabled=no list=route-aws@ap
 add address=54.117.16.0/22 disabled=no list=route-aws@ap
+add address=54.117.38.0/23 disabled=no list=route-aws@ap
 add address=54.150.0.0/16 disabled=no list=route-aws@ap
 add address=54.151.128.0/17 disabled=no list=route-aws@ap
 add address=54.153.128.0/17 disabled=no list=route-aws@ap

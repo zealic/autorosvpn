@@ -7519,6 +7519,7 @@ add address=54.116.0.0/15 disabled=no list=route-aws
 add address=54.116.70.0/23 disabled=no list=route-aws
 add address=54.116.148.128/25 disabled=no list=route-aws
 add address=54.117.16.0/22 disabled=no list=route-aws
+add address=54.117.38.0/23 disabled=no list=route-aws
 add address=54.136.0.0/16 disabled=no list=route-aws
 add address=54.137.0.0/16 disabled=no list=route-aws
 add address=54.144.0.0/14 disabled=no list=route-aws
