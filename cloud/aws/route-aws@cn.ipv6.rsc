@@ -98,3 +98,5 @@ add address=2404:c2c0:ea00::/40 disabled=no list=route-aws@cn
 add address=2404:c2c0:eb00::/40 disabled=no list=route-aws@cn
 add address=2404:c2c0:ef00::/40 disabled=no list=route-aws@cn
 add address=2404:c2c0:f300::/40 disabled=no list=route-aws@cn
+add address=2600:f0f3:f010:3200::/56 disabled=no list=route-aws@cn
+add address=2600:f0f3:f010:a00::/56 disabled=no list=route-aws@cn

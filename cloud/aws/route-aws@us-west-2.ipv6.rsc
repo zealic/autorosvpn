@@ -58,7 +58,6 @@ add address=2600:1f30:c200::/40 disabled=no list=route-aws@us-west-2
 add address=2600:1f32:4000::/39 disabled=no list=route-aws@us-west-2
 add address=2600:1f32:c200::/40 disabled=no list=route-aws@us-west-2
 add address=2600:1f33:4000::/39 disabled=no list=route-aws@us-west-2
-add address=2600:1f33:c200::/40 disabled=no list=route-aws@us-west-2
 add address=2600:1f36:4000::/39 disabled=no list=route-aws@us-west-2
 add address=2600:1f36:c200::/40 disabled=no list=route-aws@us-west-2
 add address=2600:1f38:4000::/39 disabled=no list=route-aws@us-west-2
@@ -183,6 +182,8 @@ add address=2600:f0f2:7017::/48 disabled=no list=route-aws@us-west-2
 add address=2600:f0f2:7100::/48 disabled=no list=route-aws@us-west-2
 add address=2600:f0f2:7148::/48 disabled=no list=route-aws@us-west-2
 add address=2600:f0f3:f010:2600::/56 disabled=no list=route-aws@us-west-2
+add address=2600:f0f3:f010:3700::/56 disabled=no list=route-aws@us-west-2
+add address=2600:f0f3:f010:3900::/56 disabled=no list=route-aws@us-west-2
 add address=2600:f0fb:8000::/40 disabled=no list=route-aws@us-west-2
 add address=2600:f0fb:e200::/40 disabled=no list=route-aws@us-west-2
 add address=2600:f0fb:e400::/40 disabled=no list=route-aws@us-west-2

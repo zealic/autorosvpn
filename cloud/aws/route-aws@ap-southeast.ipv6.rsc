@@ -95,13 +95,8 @@ add address=2406:da32:9000::/40 disabled=no list=route-aws@ap-southeast
 add address=2406:da32:c000::/40 disabled=no list=route-aws@ap-southeast
 add address=2406:da32:f000::/40 disabled=no list=route-aws@ap-southeast
 add address=2406:da33:800::/40 disabled=no list=route-aws@ap-southeast
-add address=2406:da33:2800::/40 disabled=no list=route-aws@ap-southeast
-add address=2406:da33:4800::/40 disabled=no list=route-aws@ap-southeast
 add address=2406:da33:8000::/40 disabled=no list=route-aws@ap-southeast
-add address=2406:da33:8800::/40 disabled=no list=route-aws@ap-southeast
-add address=2406:da33:9000::/40 disabled=no list=route-aws@ap-southeast
 add address=2406:da33:c000::/40 disabled=no list=route-aws@ap-southeast
-add address=2406:da33:f000::/40 disabled=no list=route-aws@ap-southeast
 add address=2406:da36:800::/40 disabled=no list=route-aws@ap-southeast
 add address=2406:da36:2800::/40 disabled=no list=route-aws@ap-southeast
 add address=2406:da36:4800::/40 disabled=no list=route-aws@ap-southeast

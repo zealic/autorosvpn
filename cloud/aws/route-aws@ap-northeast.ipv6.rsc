@@ -51,7 +51,6 @@ add address=2406:da32:4000::/40 disabled=no list=route-aws@ap-northeast
 add address=2406:da32:6000::/40 disabled=no list=route-aws@ap-northeast
 add address=2406:da33:2000::/40 disabled=no list=route-aws@ap-northeast
 add address=2406:da33:4000::/40 disabled=no list=route-aws@ap-northeast
-add address=2406:da33:6000::/40 disabled=no list=route-aws@ap-northeast
 add address=2406:da36:2000::/40 disabled=no list=route-aws@ap-northeast
 add address=2406:da36:4000::/40 disabled=no list=route-aws@ap-northeast
 add address=2406:da36:6000::/40 disabled=no list=route-aws@ap-northeast

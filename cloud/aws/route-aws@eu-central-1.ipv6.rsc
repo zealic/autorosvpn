@@ -30,8 +30,6 @@ add address=2a05:d032:4000::/40 disabled=no list=route-aws@eu-central-1
 add address=2a05:d032:4800::/40 disabled=no list=route-aws@eu-central-1
 add address=2a05:d032:b000::/40 disabled=no list=route-aws@eu-central-1
 add address=2a05:d033:4000::/40 disabled=no list=route-aws@eu-central-1
-add address=2a05:d033:4800::/40 disabled=no list=route-aws@eu-central-1
-add address=2a05:d033:b000::/40 disabled=no list=route-aws@eu-central-1
 add address=2a05:d036:4000::/40 disabled=no list=route-aws@eu-central-1
 add address=2a05:d036:4800::/40 disabled=no list=route-aws@eu-central-1
 add address=2a05:d036:b000::/40 disabled=no list=route-aws@eu-central-1

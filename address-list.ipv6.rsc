@@ -1020,7 +1020,6 @@ add address=2403:4c80::/32 disabled=no list=novpn.ipv6
 add address=2403:4cc0::/32 disabled=no list=novpn.ipv6
 add address=2403:4d80::/32 disabled=no list=novpn.ipv6
 add address=2403:4ec0::/32 disabled=no list=novpn.ipv6
-add address=2403:5040::/32 disabled=no list=novpn.ipv6
 add address=2403:5080::/32 disabled=no list=novpn.ipv6
 add address=2403:5280::/32 disabled=no list=novpn.ipv6
 add address=2403:5380::/32 disabled=no list=novpn.ipv6
