@@ -13,7 +13,6 @@ add address=2a05:d025:e59:fb00::/56 disabled=no list=route-aws@il
 add address=2a05:d030:5000::/40 disabled=no list=route-aws@il
 add address=2a05:d031:5000::/40 disabled=no list=route-aws@il
 add address=2a05:d032:5000::/40 disabled=no list=route-aws@il
-add address=2a05:d033:5000::/40 disabled=no list=route-aws@il
 add address=2a05:d036:5000::/40 disabled=no list=route-aws@il
 add address=2a05:d038:5000::/40 disabled=no list=route-aws@il
 add address=2a05:d039:5000::/40 disabled=no list=route-aws@il

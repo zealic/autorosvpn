@@ -875,6 +875,7 @@ add address=3.41.0.0/17 disabled=no list=route-aws
 add address=3.41.0.0/17 disabled=no list=route-aws
 add address=3.41.128.0/17 disabled=no list=route-aws
 add address=3.41.128.0/17 disabled=no list=route-aws
+add address=3.41.208.0/25 disabled=no list=route-aws
 add address=3.42.0.0/17 disabled=no list=route-aws
 add address=3.42.0.0/17 disabled=no list=route-aws
 add address=3.42.128.0/17 disabled=no list=route-aws

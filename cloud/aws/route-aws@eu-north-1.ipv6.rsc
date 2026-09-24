@@ -18,7 +18,6 @@ add address=2a05:d031:6000::/40 disabled=no list=route-aws@eu-north-1
 add address=2a05:d031:8800::/40 disabled=no list=route-aws@eu-north-1
 add address=2a05:d032:6000::/40 disabled=no list=route-aws@eu-north-1
 add address=2a05:d032:8800::/40 disabled=no list=route-aws@eu-north-1
-add address=2a05:d033:6000::/40 disabled=no list=route-aws@eu-north-1
 add address=2a05:d036:6000::/40 disabled=no list=route-aws@eu-north-1
 add address=2a05:d036:8800::/40 disabled=no list=route-aws@eu-north-1
 add address=2a05:d038:6000::/40 disabled=no list=route-aws@eu-north-1

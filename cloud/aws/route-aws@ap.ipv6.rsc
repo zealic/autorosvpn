@@ -185,13 +185,6 @@ add address=2406:da32:c000::/40 disabled=no list=route-aws@ap
 add address=2406:da32:c800::/40 disabled=no list=route-aws@ap
 add address=2406:da32:e000::/40 disabled=no list=route-aws@ap
 add address=2406:da32:f000::/40 disabled=no list=route-aws@ap
-add address=2406:da33:800::/40 disabled=no list=route-aws@ap
-add address=2406:da33:2000::/40 disabled=no list=route-aws@ap
-add address=2406:da33:4000::/40 disabled=no list=route-aws@ap
-add address=2406:da33:8000::/40 disabled=no list=route-aws@ap
-add address=2406:da33:a000::/40 disabled=no list=route-aws@ap
-add address=2406:da33:c000::/40 disabled=no list=route-aws@ap
-add address=2406:da33:e000::/40 disabled=no list=route-aws@ap
 add address=2406:da36:800::/40 disabled=no list=route-aws@ap
 add address=2406:da36:2000::/40 disabled=no list=route-aws@ap
 add address=2406:da36:2800::/40 disabled=no list=route-aws@ap
