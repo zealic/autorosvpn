@@ -48,6 +48,7 @@ add address=2600:f0f0:c10e::/48 disabled=no list=route-aws@af-south-1
 add address=2600:f0f1:88::/48 disabled=no list=route-aws@af-south-1
 add address=2600:f0f1:4180::/42 disabled=no list=route-aws@af-south-1
 add address=2600:f0f2:710b::/48 disabled=no list=route-aws@af-south-1
+add address=2600:f0f3:f010:1000::/56 disabled=no list=route-aws@af-south-1
 add address=2606:7b40:1b08:100::/56 disabled=no list=route-aws@af-south-1
 add address=2606:7b40:1b08:200::/56 disabled=no list=route-aws@af-south-1
 add address=2606:7b40:1b08::/56 disabled=no list=route-aws@af-south-1

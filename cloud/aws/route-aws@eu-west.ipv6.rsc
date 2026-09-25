@@ -222,6 +222,7 @@ add address=2600:f0f1:4100::/42 disabled=no list=route-aws@eu-west
 add address=2600:f0f2:701c::/48 disabled=no list=route-aws@eu-west
 add address=2600:f0f2:7015::/48 disabled=no list=route-aws@eu-west
 add address=2600:f0f2:7102::/48 disabled=no list=route-aws@eu-west
+add address=2600:f0f3:f010:1e00::/56 disabled=no list=route-aws@eu-west
 add address=2600:f0f3:f010:1300::/56 disabled=no list=route-aws@eu-west
 add address=2600:f0f3:f010:d00::/56 disabled=no list=route-aws@eu-west
 add address=2600:f0fb:f022::/48 disabled=no list=route-aws@eu-west
