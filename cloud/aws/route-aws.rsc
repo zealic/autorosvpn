@@ -8612,6 +8612,7 @@ add address=83.119.128.0/18 disabled=no list=route-aws
 add address=83.119.128.0/18 disabled=no list=route-aws
 add address=83.160.0.0/15 disabled=no list=route-aws
 add address=83.160.0.0/15 disabled=no list=route-aws
+add address=83.160.88.0/23 disabled=no list=route-aws
 add address=83.162.0.0/15 disabled=no list=route-aws
 add address=86.112.0.0/15 disabled=no list=route-aws
 add address=86.112.0.0/15 disabled=no list=route-aws

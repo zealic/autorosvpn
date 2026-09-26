@@ -5173,6 +5173,7 @@ add address=35.71.91.0/24 disabled=no list=route-aws@sa-west
 add address=52.94.250.176/28 disabled=no list=route-aws@sa-west
 add address=76.223.170.128/28 disabled=no list=route-aws@sa-west
 add address=83.160.0.0/15 disabled=no list=route-aws@sa-west
+add address=83.160.88.0/23 disabled=no list=route-aws@sa-west
 add address=83.162.0.0/15 disabled=no list=route-aws@sa-west
 add address=150.222.55.96/27 disabled=no list=route-aws@sa-west
 add address=150.222.55.128/27 disabled=no list=route-aws@sa-west

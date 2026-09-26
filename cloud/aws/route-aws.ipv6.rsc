@@ -1152,6 +1152,9 @@ add address=2001:3fc3:a800::/40 disabled=no list=route-aws
 add address=2001:3fc3:a800::/40 disabled=no list=route-aws
 add address=2001:3fc4:800::/40 disabled=no list=route-aws
 add address=2001:3fc4:800::/40 disabled=no list=route-aws
+add address=2001:3fc4:1000::/40 disabled=no list=route-aws
+add address=2001:3fc4:1000::/40 disabled=no list=route-aws
+add address=2001:3fc4:1000::/40 disabled=no list=route-aws
 add address=2001:3fc5:800::/40 disabled=no list=route-aws
 add address=2001:3fc5:800::/40 disabled=no list=route-aws
 add address=2001:3fc5:1000::/40 disabled=no list=route-aws
