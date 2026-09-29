@@ -5771,6 +5771,8 @@ add address=51.168.143.0/24 disabled=no list=route-aws
 add address=51.168.144.0/24 disabled=no list=route-aws
 add address=51.168.145.0/24 disabled=no list=route-aws
 add address=51.168.146.0/24 disabled=no list=route-aws
+add address=51.168.170.0/23 disabled=no list=route-aws
+add address=51.168.172.0/23 disabled=no list=route-aws
 add address=51.172.0.0/15 disabled=no list=route-aws
 add address=51.200.0.0/15 disabled=no list=route-aws
 add address=51.200.0.0/15 disabled=no list=route-aws
