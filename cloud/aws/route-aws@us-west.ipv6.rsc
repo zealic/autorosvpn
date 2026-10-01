@@ -401,6 +401,7 @@ add address=2620:107:300f::/48 disabled=no list=route-aws@us-west
 add address=2620:107:3000::/48 disabled=no list=route-aws@us-west
 add address=2620:107:4000:2::/64 disabled=no list=route-aws@us-west
 add address=2620:107:4000:3::/64 disabled=no list=route-aws@us-west
+add address=2620:107:4000:7e00::/56 disabled=no list=route-aws@us-west
 add address=2620:107:4000:8a00::/56 disabled=no list=route-aws@us-west
 add address=2620:107:4000:40::/64 disabled=no list=route-aws@us-west
 add address=2620:107:4000:2001::/64 disabled=no list=route-aws@us-west

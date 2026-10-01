@@ -36,6 +36,7 @@ add address=2a05:d012:610:d500::/56 disabled=no list=route-aws@eu
 add address=2a05:d012::/36 disabled=no list=route-aws@eu
 add address=2a05:d012:c9e:d600::/56 disabled=no list=route-aws@eu
 add address=2a05:d014:1cde:6300::/56 disabled=no list=route-aws@eu
+add address=2a05:d014:11e2:dc00::/56 disabled=no list=route-aws@eu
 add address=2a05:d014:15a0:7500::/56 disabled=no list=route-aws@eu
 add address=2a05:d014:17a8:8b00::/56 disabled=no list=route-aws@eu
 add address=2a05:d014:102e:7e00::/56 disabled=no list=route-aws@eu

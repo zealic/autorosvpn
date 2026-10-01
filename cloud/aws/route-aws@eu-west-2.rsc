@@ -299,6 +299,8 @@ add address=69.107.12.32/29 disabled=no list=route-aws@eu-west-2
 add address=69.107.12.40/29 disabled=no list=route-aws@eu-west-2
 add address=69.107.12.48/29 disabled=no list=route-aws@eu-west-2
 add address=69.107.12.56/29 disabled=no list=route-aws@eu-west-2
+add address=69.107.13.80/29 disabled=no list=route-aws@eu-west-2
+add address=69.107.13.88/29 disabled=no list=route-aws@eu-west-2
 add address=99.77.134.0/24 disabled=no list=route-aws@eu-west-2
 add address=99.77.156.0/24 disabled=no list=route-aws@eu-west-2
 add address=99.77.249.0/24 disabled=no list=route-aws@eu-west-2

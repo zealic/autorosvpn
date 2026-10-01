@@ -747,6 +747,7 @@ add address=43.241.80.0/22 disabled=no list=novpn
 add address=43.241.84.0/22 disabled=no list=novpn
 add address=43.241.88.0/22 disabled=no list=novpn
 add address=43.241.92.0/22 disabled=no list=novpn
+add address=43.241.100.0/23 disabled=no list=novpn
 add address=43.241.112.0/22 disabled=no list=novpn
 add address=43.241.168.0/22 disabled=no list=novpn
 add address=43.241.172.0/22 disabled=no list=novpn
