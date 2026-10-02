@@ -2011,7 +2011,10 @@ add address=56.137.224.0/23 disabled=no list=route-aws@us
 add address=56.138.0.0/16 disabled=no list=route-aws@us
 add address=56.139.0.0/16 disabled=no list=route-aws@us
 add address=63.246.119.0/24 disabled=no list=route-aws@us
-add address=64.7.200.0/21 disabled=no list=route-aws@us
+add address=64.7.200.0/23 disabled=no list=route-aws@us
+add address=64.7.202.0/23 disabled=no list=route-aws@us
+add address=64.7.204.0/23 disabled=no list=route-aws@us
+add address=64.7.206.0/23 disabled=no list=route-aws@us
 add address=64.37.64.0/18 disabled=no list=route-aws@us
 add address=64.66.128.0/24 disabled=no list=route-aws@us
 add address=64.66.129.0/24 disabled=no list=route-aws@us
