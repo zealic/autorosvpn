@@ -843,6 +843,7 @@ add address=2600:f0f3:f010:2000::/56 disabled=no list=route-aws@ap
 add address=2600:f0f3:f010:2300::/56 disabled=no list=route-aws@ap
 add address=2600:f0f3:f010:c00::/56 disabled=no list=route-aws@ap
 add address=2600:f0f3:f010:e00::/56 disabled=no list=route-aws@ap
+add address=2600:f0fb:c004::/48 disabled=no list=route-aws@ap
 add address=2600:f0fb:c900:3000::/52 disabled=no list=route-aws@ap
 add address=2600:f0fb:ca01::/52 disabled=no list=route-aws@ap
 add address=2600:f0fb:f025::/48 disabled=no list=route-aws@ap

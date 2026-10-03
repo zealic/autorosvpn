@@ -213,3 +213,5 @@ add address=136.92.128.0/17 disabled=no list=route-gcp@asia
 add address=136.95.0.0/16 disabled=no list=route-gcp@asia
 add address=136.110.0.0/18 disabled=no list=route-gcp@asia
 add address=136.110.64.0/18 disabled=no list=route-gcp@asia
+add address=152.239.192.0/18 disabled=no list=route-gcp@asia
+add address=179.67.0.0/18 disabled=no list=route-gcp@asia

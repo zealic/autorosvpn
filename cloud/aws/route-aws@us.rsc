@@ -798,6 +798,7 @@ add address=16.12.96.0/21 disabled=no list=route-aws@us
 add address=16.12.104.0/21 disabled=no list=route-aws@us
 add address=16.12.112.0/21 disabled=no list=route-aws@us
 add address=16.15.0.0/21 disabled=no list=route-aws@us
+add address=16.15.28.0/22 disabled=no list=route-aws@us
 add address=16.15.32.0/20 disabled=no list=route-aws@us
 add address=16.15.60.0/22 disabled=no list=route-aws@us
 add address=16.15.156.0/22 disabled=no list=route-aws@us

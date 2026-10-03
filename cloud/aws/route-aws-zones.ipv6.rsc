@@ -938,6 +938,7 @@ add address=2600:f0f3:f010:2b00::/56 disabled=no list=route-aws@ap-southeast
 add address=2600:f0f3:f010:3a00::/56 disabled=no list=route-aws@ap-southeast
 add address=2600:f0f3:f010:2000::/56 disabled=no list=route-aws@ap-southeast
 add address=2600:f0f3:f010:e00::/56 disabled=no list=route-aws@ap-southeast
+add address=2600:f0fb:c004::/48 disabled=no list=route-aws@ap-southeast
 add address=2600:f0fb:c900:3000::/52 disabled=no list=route-aws@ap-southeast
 add address=2600:f0fb:ca01::/52 disabled=no list=route-aws@ap-southeast
 add address=2600:f0fb:f026::/48 disabled=no list=route-aws@ap-southeast
@@ -1910,6 +1911,9 @@ add address=2600:f0f2:7102::/48 disabled=no list=route-aws@eu-west
 add address=2600:f0f3:f010:1e00::/56 disabled=no list=route-aws@eu-west
 add address=2600:f0f3:f010:1300::/56 disabled=no list=route-aws@eu-west
 add address=2600:f0f3:f010:d00::/56 disabled=no list=route-aws@eu-west
+add address=2600:f0fb:c005::/48 disabled=no list=route-aws@eu-west
+add address=2600:f0fb:c900:5000::/52 disabled=no list=route-aws@eu-west
+add address=2600:f0fb:ca03::/52 disabled=no list=route-aws@eu-west
 add address=2600:f0fb:f022::/48 disabled=no list=route-aws@eu-west
 add address=2600:f0fb:f029::/48 disabled=no list=route-aws@eu-west
 add address=2600:f0fb:f102::/48 disabled=no list=route-aws@eu-west
@@ -3328,6 +3332,9 @@ add address=2600:f0f3:f010:2600::/56 disabled=no list=route-aws@us-west
 add address=2600:f0f3:f010:3700::/56 disabled=no list=route-aws@us-west
 add address=2600:f0f3:f010:3900::/56 disabled=no list=route-aws@us-west
 add address=2600:f0fb:8000::/40 disabled=no list=route-aws@us-west
+add address=2600:f0fb:c006::/48 disabled=no list=route-aws@us-west
+add address=2600:f0fb:c900:6000::/52 disabled=no list=route-aws@us-west
+add address=2600:f0fb:ca04::/52 disabled=no list=route-aws@us-west
 add address=2600:f0fb:e200::/40 disabled=no list=route-aws@us-west
 add address=2600:f0fb:e400::/40 disabled=no list=route-aws@us-west
 add address=2600:f0fb:e700::/40 disabled=no list=route-aws@us-west

@@ -5,6 +5,7 @@ add address=8.234.20.0/22 disabled=no list=route-gcp@us-south
 add address=8.234.24.0/21 disabled=no list=route-gcp@us-south
 add address=8.236.192.0/18 disabled=no list=route-gcp@us-south
 add address=8.237.64.0/18 disabled=no list=route-gcp@us-south
+add address=8.237.192.0/18 disabled=no list=route-gcp@us-south
 add address=34.0.128.0/19 disabled=no list=route-gcp@us-south
 add address=34.127.156.0/22 disabled=no list=route-gcp@us-south
 add address=34.128.4.0/22 disabled=no list=route-gcp@us-south
@@ -18,3 +19,4 @@ add address=34.177.120.0/22 disabled=no list=route-gcp@us-south
 add address=34.183.66.0/24 disabled=no list=route-gcp@us-south
 add address=34.184.65.0/24 disabled=no list=route-gcp@us-south
 add address=35.235.172.0/22 disabled=no list=route-gcp@us-south
+add address=152.239.128.0/18 disabled=no list=route-gcp@us-south
