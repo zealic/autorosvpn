@@ -5989,6 +5989,14 @@ add address=2600:f0fb:c0ff::/56 disabled=no list=route-aws
 add address=2600:f0fb:c0ff::/56 disabled=no list=route-aws
 add address=2600:f0fb:c800::/48 disabled=no list=route-aws
 add address=2600:f0fb:c800::/48 disabled=no list=route-aws
+add address=2600:f0fb:c801::/48 disabled=no list=route-aws
+add address=2600:f0fb:c801::/48 disabled=no list=route-aws
+add address=2600:f0fb:c802::/48 disabled=no list=route-aws
+add address=2600:f0fb:c802::/48 disabled=no list=route-aws
+add address=2600:f0fb:c803::/48 disabled=no list=route-aws
+add address=2600:f0fb:c803::/48 disabled=no list=route-aws
+add address=2600:f0fb:c804::/48 disabled=no list=route-aws
+add address=2600:f0fb:c804::/48 disabled=no list=route-aws
 add address=2600:f0fb:c900:1000::/52 disabled=no list=route-aws
 add address=2600:f0fb:c900:1000::/52 disabled=no list=route-aws
 add address=2600:f0fb:c900:2000::/52 disabled=no list=route-aws
