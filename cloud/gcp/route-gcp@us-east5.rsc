@@ -4,7 +4,6 @@ add address=8.231.32.0/20 disabled=no list=route-gcp@us-east5
 add address=8.234.3.0/24 disabled=no list=route-gcp@us-east5
 add address=8.234.4.0/22 disabled=no list=route-gcp@us-east5
 add address=8.234.32.0/19 disabled=no list=route-gcp@us-east5
-add address=8.237.160.0/19 disabled=no list=route-gcp@us-east5
 add address=34.1.16.0/20 disabled=no list=route-gcp@us-east5
 add address=34.4.102.0/23 disabled=no list=route-gcp@us-east5
 add address=34.113.0.0/16 disabled=no list=route-gcp@us-east5

@@ -8,4 +8,3 @@ add address=34.118.0.0/17 disabled=no list=route-gcp@europe-central2
 add address=34.124.52.0/22 disabled=no list=route-gcp@europe-central2
 add address=34.128.208.0/20 disabled=no list=route-gcp@europe-central2
 add address=34.158.224.0/20 disabled=no list=route-gcp@europe-central2
-add address=179.69.192.0/19 disabled=no list=route-gcp@europe-central2

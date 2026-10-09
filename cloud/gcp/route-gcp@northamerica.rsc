@@ -29,12 +29,10 @@ add address=34.183.21.0/24 disabled=no list=route-gcp@northamerica
 add address=34.183.29.0/24 disabled=no list=route-gcp@northamerica
 add address=34.183.75.0/24 disabled=no list=route-gcp@northamerica
 add address=34.183.118.0/24 disabled=no list=route-gcp@northamerica
-add address=34.183.131.0/24 disabled=no list=route-gcp@northamerica
 add address=34.184.22.0/24 disabled=no list=route-gcp@northamerica
 add address=34.184.30.0/24 disabled=no list=route-gcp@northamerica
 add address=34.184.74.0/24 disabled=no list=route-gcp@northamerica
 add address=34.184.117.0/24 disabled=no list=route-gcp@northamerica
-add address=34.184.129.0/24 disabled=no list=route-gcp@northamerica
 add address=34.186.192.0/19 disabled=no list=route-gcp@northamerica
 add address=35.203.0.0/17 disabled=no list=route-gcp@northamerica
 add address=35.215.0.0/18 disabled=no list=route-gcp@northamerica

@@ -810,6 +810,12 @@ add address=16.15.84.0/22 disabled=no list=route-aws@us
 add address=16.15.88.0/22 disabled=no list=route-aws@us
 add address=16.15.92.0/22 disabled=no list=route-aws@us
 add address=16.15.96.0/22 disabled=no list=route-aws@us
+add address=16.15.100.0/22 disabled=no list=route-aws@us
+add address=16.15.104.0/22 disabled=no list=route-aws@us
+add address=16.15.108.0/22 disabled=no list=route-aws@us
+add address=16.15.112.0/22 disabled=no list=route-aws@us
+add address=16.15.116.0/22 disabled=no list=route-aws@us
+add address=16.15.120.0/22 disabled=no list=route-aws@us
 add address=16.15.156.0/22 disabled=no list=route-aws@us
 add address=16.15.160.0/22 disabled=no list=route-aws@us
 add address=16.15.164.0/22 disabled=no list=route-aws@us
