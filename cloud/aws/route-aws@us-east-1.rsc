@@ -1067,6 +1067,7 @@ add address=184.72.64.0/18 disabled=no list=route-aws@us-east-1
 add address=184.72.128.0/17 disabled=no list=route-aws@us-east-1
 add address=184.73.0.0/16 disabled=no list=route-aws@us-east-1
 add address=184.192.0.0/12 disabled=no list=route-aws@us-east-1
+add address=184.195.220.128/25 disabled=no list=route-aws@us-east-1
 add address=184.195.222.0/23 disabled=no list=route-aws@us-east-1
 add address=184.208.0.0/12 disabled=no list=route-aws@us-east-1
 add address=192.43.175.0/24 disabled=no list=route-aws@us-east-1
