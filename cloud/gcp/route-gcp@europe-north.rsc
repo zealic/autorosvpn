@@ -12,3 +12,4 @@ add address=35.217.0.0/18 disabled=no list=route-gcp@europe-north
 add address=35.220.26.0/24 disabled=no list=route-gcp@europe-north
 add address=35.228.0.0/16 disabled=no list=route-gcp@europe-north
 add address=35.242.26.0/24 disabled=no list=route-gcp@europe-north
+add address=179.193.128.0/19 disabled=no list=route-gcp@europe-north
