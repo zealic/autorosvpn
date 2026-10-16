@@ -6316,6 +6316,7 @@ add address=160.202.60.0/22 disabled=no list=chnroutes
 add address=160.202.148.0/22 disabled=no list=chnroutes
 add address=160.202.152.0/22 disabled=no list=chnroutes
 add address=160.202.168.0/22 disabled=no list=chnroutes
+add address=160.202.210.0/23 disabled=no list=chnroutes
 add address=160.202.212.0/22 disabled=no list=chnroutes
 add address=160.202.216.0/22 disabled=no list=chnroutes
 add address=160.202.220.0/22 disabled=no list=chnroutes

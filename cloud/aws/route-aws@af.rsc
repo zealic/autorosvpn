@@ -4,6 +4,7 @@ add address=1.178.18.0/24 disabled=no list=route-aws@af
 add address=3.2.87.0/24 disabled=no list=route-aws@af
 add address=3.5.202.0/23 disabled=no list=route-aws@af
 add address=3.5.228.0/22 disabled=no list=route-aws@af
+add address=3.33.0.0/24 disabled=no list=route-aws@af
 add address=3.43.128.0/18 disabled=no list=route-aws@af
 add address=13.244.0.0/15 disabled=no list=route-aws@af
 add address=13.244.33.0/26 disabled=no list=route-aws@af

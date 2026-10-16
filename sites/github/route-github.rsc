@@ -1,5 +1,7 @@
 /ip firewall address-list remove [/ip firewall address-list find list="route-github"]
 /ip firewall address-list
+add address=3.41.210.0/24 disabled=no list=route-github
+add address=3.42.157.0/24 disabled=no list=route-github
 add address=3.219.87.128/32 disabled=no list=route-github
 add address=4.147.189.192/28 disabled=no list=route-github
 add address=4.148.0.0/16 disabled=no list=route-github

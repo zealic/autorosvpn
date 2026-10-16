@@ -703,6 +703,7 @@ add address=2600:f0f0:731::/48 disabled=no list=route-aws@ap
 add address=2600:f0f0:810a::/48 disabled=no list=route-aws@ap
 add address=2600:f0f0:810d::/48 disabled=no list=route-aws@ap
 add address=2600:f0f0:810f::/48 disabled=no list=route-aws@ap
+add address=2600:f0f0:818d::/48 disabled=no list=route-aws@ap
 add address=2600:f0f0:1100::/48 disabled=no list=route-aws@ap
 add address=2600:f0f0:1101::/48 disabled=no list=route-aws@ap
 add address=2600:f0f0:1102::/48 disabled=no list=route-aws@ap
