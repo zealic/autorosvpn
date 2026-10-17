@@ -6624,6 +6624,7 @@ add address=192.140.200.0/22 disabled=no list=chnroutes
 add address=192.140.204.0/22 disabled=no list=chnroutes
 add address=192.140.208.0/22 disabled=no list=chnroutes
 add address=192.140.212.0/22 disabled=no list=chnroutes
+add address=192.140.244.0/23 disabled=no list=chnroutes
 add address=192.144.128.0/17 disabled=no list=chnroutes
 add address=192.197.113.0/24 disabled=no list=chnroutes
 add address=192.232.34.0/23 disabled=no list=chnroutes
