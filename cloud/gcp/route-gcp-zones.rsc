@@ -818,6 +818,7 @@ add address=34.1.16.0/20 disabled=no list=route-gcp@us-east
 add address=34.3.76.0/22 disabled=no list=route-gcp@us-east
 add address=34.4.16.0/22 disabled=no list=route-gcp@us-east
 add address=34.4.32.0/20 disabled=no list=route-gcp@us-east
+add address=34.4.100.0/24 disabled=no list=route-gcp@us-east
 add address=34.4.102.0/23 disabled=no list=route-gcp@us-east
 add address=34.11.0.0/17 disabled=no list=route-gcp@us-east
 add address=34.21.0.0/17 disabled=no list=route-gcp@us-east
