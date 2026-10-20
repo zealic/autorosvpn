@@ -332,6 +332,7 @@ add address=63.179.154.0/23 disabled=no list=route-aws@eu-central-1
 add address=63.180.0.0/14 disabled=no list=route-aws@eu-central-1
 add address=63.181.18.128/25 disabled=no list=route-aws@eu-central-1
 add address=63.184.0.0/13 disabled=no list=route-aws@eu-central-1
+add address=63.185.44.32/29 disabled=no list=route-aws@eu-central-1
 add address=63.185.196.0/23 disabled=no list=route-aws@eu-central-1
 add address=63.186.244.0/23 disabled=no list=route-aws@eu-central-1
 add address=63.187.12.0/22 disabled=no list=route-aws@eu-central-1
