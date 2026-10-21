@@ -2,6 +2,8 @@
 /ip firewall address-list
 add address=1.178.21.0/24 disabled=no list=route-aws@eu-central-2
 add address=3.2.97.0/24 disabled=no list=route-aws@eu-central-2
+add address=3.4.12.85/32 disabled=no list=route-aws@eu-central-2
+add address=3.4.12.86/32 disabled=no list=route-aws@eu-central-2
 add address=3.5.52.0/22 disabled=no list=route-aws@eu-central-2
 add address=13.248.68.0/24 disabled=no list=route-aws@eu-central-2
 add address=15.177.98.0/24 disabled=no list=route-aws@eu-central-2
