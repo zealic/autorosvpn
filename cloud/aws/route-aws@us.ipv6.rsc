@@ -710,6 +710,7 @@ add address=2600:f0f2:7148::/48 disabled=no list=route-aws@us
 add address=2600:f0f3:f000::/44 disabled=no list=route-aws@us
 add address=2600:f0f3:f010:200::/56 disabled=no list=route-aws@us
 add address=2600:f0f3:f010:300::/56 disabled=no list=route-aws@us
+add address=2600:f0f3:f010:2400::/56 disabled=no list=route-aws@us
 add address=2600:f0f3:f010:2500::/56 disabled=no list=route-aws@us
 add address=2600:f0f3:f010:2600::/56 disabled=no list=route-aws@us
 add address=2600:f0f3:f010:3400::/56 disabled=no list=route-aws@us
@@ -850,6 +851,8 @@ add address=2606:7b40:1b0f:f900::/56 disabled=no list=route-aws@us
 add address=2606:7b40:1b0f:fa00::/56 disabled=no list=route-aws@us
 add address=2606:7b40:1b0f:fd00::/56 disabled=no list=route-aws@us
 add address=2606:7b40:1c00::/40 disabled=no list=route-aws@us
+add address=2606:7b40:1dd4:f000::/60 disabled=no list=route-aws@us
+add address=2606:7b40:1dd4:f400::/60 disabled=no list=route-aws@us
 add address=2606:7b40:1f00::/40 disabled=no list=route-aws@us
 add address=2606:7b40:9fc::/48 disabled=no list=route-aws@us
 add address=2606:7b40:9fd::/48 disabled=no list=route-aws@us
@@ -972,6 +975,7 @@ add address=2620:107:4000:5::/64 disabled=no list=route-aws@us
 add address=2620:107:4000:7a00::/56 disabled=no list=route-aws@us
 add address=2620:107:4000:7e00::/56 disabled=no list=route-aws@us
 add address=2620:107:4000:8a00::/56 disabled=no list=route-aws@us
+add address=2620:107:4000:8b00::/56 disabled=no list=route-aws@us
 add address=2620:107:4000:9::/64 disabled=no list=route-aws@us
 add address=2620:107:4000:40::/64 disabled=no list=route-aws@us
 add address=2620:107:4000:900a::/64 disabled=no list=route-aws@us

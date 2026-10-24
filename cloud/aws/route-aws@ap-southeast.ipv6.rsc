@@ -440,6 +440,7 @@ add address=2606:7b40:1b07:4200::/56 disabled=no list=route-aws@ap-southeast
 add address=2606:7b40:1b07:8000::/56 disabled=no list=route-aws@ap-southeast
 add address=2606:7b40:1b07::/56 disabled=no list=route-aws@ap-southeast
 add address=2606:7b40:1b07:c000::/56 disabled=no list=route-aws@ap-southeast
+add address=2606:7b40:1dd4:7400::/60 disabled=no list=route-aws@ap-southeast
 add address=2606:7b40:10ff:80::/59 disabled=no list=route-aws@ap-southeast
 add address=2606:f40:2a00::/40 disabled=no list=route-aws@ap-southeast
 add address=2606:f40:2800::/40 disabled=no list=route-aws@ap-southeast

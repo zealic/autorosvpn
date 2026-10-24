@@ -71,6 +71,7 @@ add address=16.30.0.0/16 disabled=no list=route-aws@af
 add address=16.31.0.0/16 disabled=no list=route-aws@af
 add address=16.154.0.0/15 disabled=no list=route-aws@af
 add address=18.99.144.0/20 disabled=no list=route-aws@af
+add address=35.34.106.0/24 disabled=no list=route-aws@af
 add address=35.71.103.0/24 disabled=no list=route-aws@af
 add address=52.93.57.0/24 disabled=no list=route-aws@af
 add address=52.93.126.146/32 disabled=no list=route-aws@af
@@ -83,6 +84,8 @@ add address=52.95.180.0/24 disabled=no list=route-aws@af
 add address=52.95.229.0/24 disabled=no list=route-aws@af
 add address=54.239.1.128/28 disabled=no list=route-aws@af
 add address=64.66.151.0/24 disabled=no list=route-aws@af
+add address=69.107.13.112/29 disabled=no list=route-aws@af
+add address=69.107.13.120/29 disabled=no list=route-aws@af
 add address=96.0.36.0/22 disabled=no list=route-aws@af
 add address=96.0.40.0/21 disabled=no list=route-aws@af
 add address=99.77.148.0/24 disabled=no list=route-aws@af
@@ -3945,6 +3948,8 @@ add address=69.107.13.48/29 disabled=no list=route-aws@eu
 add address=69.107.13.56/29 disabled=no list=route-aws@eu
 add address=69.107.13.80/29 disabled=no list=route-aws@eu
 add address=69.107.13.88/29 disabled=no list=route-aws@eu
+add address=69.107.13.128/29 disabled=no list=route-aws@eu
+add address=69.107.13.136/29 disabled=no list=route-aws@eu
 add address=70.232.96.0/20 disabled=no list=route-aws@eu
 add address=70.232.112.0/21 disabled=no list=route-aws@eu
 add address=70.232.120.0/22 disabled=no list=route-aws@eu
@@ -7859,6 +7864,7 @@ add address=184.169.128.0/17 disabled=no list=route-aws@us
 add address=184.192.0.0/12 disabled=no list=route-aws@us
 add address=184.195.220.128/25 disabled=no list=route-aws@us
 add address=184.195.222.0/23 disabled=no list=route-aws@us
+add address=184.198.80.0/25 disabled=no list=route-aws@us
 add address=184.208.0.0/12 disabled=no list=route-aws@us
 add address=192.31.212.0/24 disabled=no list=route-aws@us
 add address=192.43.175.0/24 disabled=no list=route-aws@us

@@ -110,6 +110,7 @@ add address=2606:7b40:1b09:300::/56 disabled=no list=route-aws@sa
 add address=2606:7b40:1b09:400::/56 disabled=no list=route-aws@sa
 add address=2606:7b40:1b09:500::/56 disabled=no list=route-aws@sa
 add address=2606:7b40:1b09::/56 disabled=no list=route-aws@sa
+add address=2606:7b40:1dd4:9000::/60 disabled=no list=route-aws@sa
 add address=2606:7b40:10ff:40::/59 disabled=no list=route-aws@sa
 add address=2606:f40:3e00::/40 disabled=no list=route-aws@sa
 add address=2606:f40:be00::/40 disabled=no list=route-aws@sa
