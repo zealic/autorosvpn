@@ -890,7 +890,6 @@ add address=2606:7b40:1b07:4200::/56 disabled=no list=route-aws@ap
 add address=2606:7b40:1b07:8000::/56 disabled=no list=route-aws@ap
 add address=2606:7b40:1b07::/56 disabled=no list=route-aws@ap
 add address=2606:7b40:1b07:c000::/56 disabled=no list=route-aws@ap
-add address=2606:7b40:1dd4:5c00::/60 disabled=no list=route-aws@ap
 add address=2606:7b40:1dd4:7400::/60 disabled=no list=route-aws@ap
 add address=2606:7b40:10ff:80::/59 disabled=no list=route-aws@ap
 add address=2606:7b40:10ff:c0::/59 disabled=no list=route-aws@ap

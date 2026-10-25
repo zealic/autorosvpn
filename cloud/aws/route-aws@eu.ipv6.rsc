@@ -681,6 +681,7 @@ add address=2606:7b40:1b0d::/56 disabled=no list=route-aws@eu
 add address=2606:7b40:1b0d:c000::/56 disabled=no list=route-aws@eu
 add address=2606:7b40:1b0d:c100::/56 disabled=no list=route-aws@eu
 add address=2606:7b40:1b0d:c200::/56 disabled=no list=route-aws@eu
+add address=2606:7b40:1dd4:c000::/60 disabled=no list=route-aws@eu
 add address=2606:7b40:1dd4:d400::/60 disabled=no list=route-aws@eu
 add address=2606:7b40:1dd4:d800::/60 disabled=no list=route-aws@eu
 add address=2606:7b40:1dd4:dc00::/60 disabled=no list=route-aws@eu

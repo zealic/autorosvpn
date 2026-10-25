@@ -6543,12 +6543,12 @@ add address=2606:7b40:1b70::/44 disabled=no list=route-aws
 add address=2606:7b40:1b80::/44 disabled=no list=route-aws
 add address=2606:7b40:1c00::/40 disabled=no list=route-aws
 add address=2606:7b40:1c00::/40 disabled=no list=route-aws
-add address=2606:7b40:1dd4:5c00::/60 disabled=no list=route-aws
-add address=2606:7b40:1dd4:5c00::/60 disabled=no list=route-aws
 add address=2606:7b40:1dd4:7400::/60 disabled=no list=route-aws
 add address=2606:7b40:1dd4:7400::/60 disabled=no list=route-aws
 add address=2606:7b40:1dd4:9000::/60 disabled=no list=route-aws
 add address=2606:7b40:1dd4:9000::/60 disabled=no list=route-aws
+add address=2606:7b40:1dd4:c000::/60 disabled=no list=route-aws
+add address=2606:7b40:1dd4:c000::/60 disabled=no list=route-aws
 add address=2606:7b40:1dd4:d400::/60 disabled=no list=route-aws
 add address=2606:7b40:1dd4:d400::/60 disabled=no list=route-aws
 add address=2606:7b40:1dd4:d800::/60 disabled=no list=route-aws

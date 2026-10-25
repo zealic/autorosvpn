@@ -99,7 +99,6 @@ add address=2606:7b40:1a45:c000::/60 disabled=no list=route-aws@ap-northeast-1
 add address=2606:7b40:1a45:c340::/60 disabled=no list=route-aws@ap-northeast-1
 add address=2606:7b40:1b05:c000::/56 disabled=no list=route-aws@ap-northeast-1
 add address=2606:7b40:1b05:c100::/56 disabled=no list=route-aws@ap-northeast-1
-add address=2606:7b40:1dd4:5c00::/60 disabled=no list=route-aws@ap-northeast-1
 add address=2606:7b40:10ff:c0::/59 disabled=no list=route-aws@ap-northeast-1
 add address=2606:f40:2200::/40 disabled=no list=route-aws@ap-northeast-1
 add address=2606:f40:a200::/40 disabled=no list=route-aws@ap-northeast-1
