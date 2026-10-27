@@ -895,7 +895,6 @@ add address=2402:e140::/32 disabled=no list=novpn.ipv6
 add address=2402:e2c0::/32 disabled=no list=novpn.ipv6
 add address=2402:e3c0::/32 disabled=no list=novpn.ipv6
 add address=2402:e480::/32 disabled=no list=novpn.ipv6
-add address=2402:e540::/32 disabled=no list=novpn.ipv6
 add address=2402:e680::/32 disabled=no list=novpn.ipv6
 add address=2402:e740::/32 disabled=no list=novpn.ipv6
 add address=2402:e780::/32 disabled=no list=novpn.ipv6
