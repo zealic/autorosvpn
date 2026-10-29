@@ -2497,6 +2497,7 @@ add address=2600:1ff9:ec00::/40 disabled=no list=route-aws@sa-west
 add address=2600:1ffe:ec00::/40 disabled=no list=route-aws@sa-west
 add address=2600:1fff:ec00::/40 disabled=no list=route-aws@sa-west
 add address=2600:f0f0:6026::/48 disabled=no list=route-aws@sa-west
+add address=2600:f0f3:f010:2900::/56 disabled=no list=route-aws@sa-west
 add address=2620:107:4000:8300::/56 disabled=no list=route-aws@sa-west
 /ipv6 firewall address-list remove [/ipv6 firewall address-list find list="route-aws@us-east"]
 /ipv6 firewall address-list
