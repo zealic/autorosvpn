@@ -550,6 +550,8 @@ add address=2600:f0f0:1129::/48 disabled=no list=route-aws@eu
 add address=2600:f0f0:4108::/48 disabled=no list=route-aws@eu
 add address=2600:f0f0:4109::/48 disabled=no list=route-aws@eu
 add address=2600:f0f0:4145::/48 disabled=no list=route-aws@eu
+add address=2600:f0f0:4308::/46 disabled=no list=route-aws@eu
+add address=2600:f0f0:4310::/46 disabled=no list=route-aws@eu
 add address=2600:f0f0:5524::/48 disabled=no list=route-aws@eu
 add address=2600:f0f0:5525::/48 disabled=no list=route-aws@eu
 add address=2600:f0f0:5526::/48 disabled=no list=route-aws@eu

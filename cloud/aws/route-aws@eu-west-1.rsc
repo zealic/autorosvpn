@@ -323,6 +323,7 @@ add address=69.107.13.56/29 disabled=no list=route-aws@eu-west-1
 add address=69.107.13.128/29 disabled=no list=route-aws@eu-west-1
 add address=69.107.13.136/29 disabled=no list=route-aws@eu-west-1
 add address=70.232.124.0/22 disabled=no list=route-aws@eu-west-1
+add address=72.150.4.0/23 disabled=no list=route-aws@eu-west-1
 add address=79.125.0.0/17 disabled=no list=route-aws@eu-west-1
 add address=87.238.80.0/21 disabled=no list=route-aws@eu-west-1
 add address=99.77.133.0/24 disabled=no list=route-aws@eu-west-1
