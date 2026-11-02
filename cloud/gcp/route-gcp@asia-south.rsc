@@ -50,3 +50,4 @@ add address=35.242.42.0/24 disabled=no list=route-gcp@asia-south
 add address=35.244.0.0/18 disabled=no list=route-gcp@asia-south
 add address=136.83.128.0/17 disabled=no list=route-gcp@asia-south
 add address=136.95.0.0/16 disabled=no list=route-gcp@asia-south
+add address=179.193.160.0/19 disabled=no list=route-gcp@asia-south
