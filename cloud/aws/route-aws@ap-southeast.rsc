@@ -407,6 +407,7 @@ add address=35.71.124.0/24 disabled=no list=route-aws@ap-southeast
 add address=35.71.126.0/24 disabled=no list=route-aws@ap-southeast
 add address=40.32.0.0/16 disabled=no list=route-aws@ap-southeast
 add address=40.35.0.0/16 disabled=no list=route-aws@ap-southeast
+add address=40.163.1.0/24 disabled=no list=route-aws@ap-southeast
 add address=40.238.0.0/16 disabled=no list=route-aws@ap-southeast
 add address=40.239.0.0/16 disabled=no list=route-aws@ap-southeast
 add address=43.208.0.0/15 disabled=no list=route-aws@ap-southeast

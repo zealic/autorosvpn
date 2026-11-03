@@ -403,6 +403,7 @@ add address=35.180.112.160/27 disabled=no list=route-aws@eu-west
 add address=35.180.244.0/23 disabled=no list=route-aws@eu-west
 add address=35.181.0.0/16 disabled=no list=route-aws@eu-west
 add address=35.181.128.0/24 disabled=no list=route-aws@eu-west
+add address=40.163.2.0/24 disabled=no list=route-aws@eu-west
 add address=40.180.0.0/15 disabled=no list=route-aws@eu-west
 add address=40.180.9.0/25 disabled=no list=route-aws@eu-west
 add address=40.180.170.192/26 disabled=no list=route-aws@eu-west
