@@ -392,6 +392,7 @@ add address=69.107.11.56/29 disabled=no list=route-aws@us-west-2
 add address=69.107.12.240/29 disabled=no list=route-aws@us-west-2
 add address=69.107.12.248/29 disabled=no list=route-aws@us-west-2
 add address=70.224.192.0/18 disabled=no list=route-aws@us-west-2
+add address=76.197.128.0/18 disabled=no list=route-aws@us-west-2
 add address=96.0.110.0/23 disabled=no list=route-aws@us-west-2
 add address=96.0.160.0/20 disabled=no list=route-aws@us-west-2
 add address=99.77.130.0/24 disabled=no list=route-aws@us-west-2
