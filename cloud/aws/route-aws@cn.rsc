@@ -168,6 +168,10 @@ add address=71.132.0.0/18 disabled=no list=route-aws@cn
 add address=71.136.64.0/18 disabled=no list=route-aws@cn
 add address=71.137.0.0/18 disabled=no list=route-aws@cn
 add address=71.137.18.0/23 disabled=no list=route-aws@cn
+add address=71.137.22.0/23 disabled=no list=route-aws@cn
+add address=71.137.24.0/23 disabled=no list=route-aws@cn
+add address=71.137.26.0/23 disabled=no list=route-aws@cn
+add address=71.137.28.0/23 disabled=no list=route-aws@cn
 add address=107.176.0.0/15 disabled=no list=route-aws@cn
 add address=140.179.0.0/16 disabled=no list=route-aws@cn
 add address=140.179.15.0/26 disabled=no list=route-aws@cn

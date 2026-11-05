@@ -8657,6 +8657,10 @@ add address=71.136.64.0/18 disabled=no list=route-aws
 add address=71.137.0.0/18 disabled=no list=route-aws
 add address=71.137.0.0/18 disabled=no list=route-aws
 add address=71.137.18.0/23 disabled=no list=route-aws
+add address=71.137.22.0/23 disabled=no list=route-aws
+add address=71.137.24.0/23 disabled=no list=route-aws
+add address=71.137.26.0/23 disabled=no list=route-aws
+add address=71.137.28.0/23 disabled=no list=route-aws
 add address=71.152.0.0/17 disabled=no list=route-aws
 add address=71.152.0.0/17 disabled=no list=route-aws
 add address=72.21.192.0/19 disabled=no list=route-aws
