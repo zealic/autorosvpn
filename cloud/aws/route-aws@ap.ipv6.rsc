@@ -840,7 +840,9 @@ add address=2600:f0f3:f010:1b00::/56 disabled=no list=route-aws@ap
 add address=2600:f0f3:f010:1c00::/56 disabled=no list=route-aws@ap
 add address=2600:f0f3:f010:2a00::/56 disabled=no list=route-aws@ap
 add address=2600:f0f3:f010:2b00::/56 disabled=no list=route-aws@ap
+add address=2600:f0f3:f010:2e00::/56 disabled=no list=route-aws@ap
 add address=2600:f0f3:f010:3a00::/56 disabled=no list=route-aws@ap
+add address=2600:f0f3:f010:500::/56 disabled=no list=route-aws@ap
 add address=2600:f0f3:f010:1800::/56 disabled=no list=route-aws@ap
 add address=2600:f0f3:f010:1900::/56 disabled=no list=route-aws@ap
 add address=2600:f0f3:f010:2000::/56 disabled=no list=route-aws@ap

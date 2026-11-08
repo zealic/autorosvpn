@@ -4,6 +4,7 @@ add address=2600:1f00:e000::/40 disabled=no list=route-aws@sa
 add address=2600:1f00:ec00::/40 disabled=no list=route-aws@sa
 add address=2600:1f01:491e::/47 disabled=no list=route-aws@sa
 add address=2600:1f01:4840::/47 disabled=no list=route-aws@sa
+add address=2600:1f01:4952::/47 disabled=no list=route-aws@sa
 add address=2600:1f1e:7ff:f800::/56 disabled=no list=route-aws@sa
 add address=2600:1f1e::/36 disabled=no list=route-aws@sa
 add address=2600:1f1e:a7:2300::/56 disabled=no list=route-aws@sa

@@ -416,6 +416,7 @@ add address=2600:f0f3:f010:1c00::/56 disabled=no list=route-aws@ap-southeast
 add address=2600:f0f3:f010:2a00::/56 disabled=no list=route-aws@ap-southeast
 add address=2600:f0f3:f010:2b00::/56 disabled=no list=route-aws@ap-southeast
 add address=2600:f0f3:f010:3a00::/56 disabled=no list=route-aws@ap-southeast
+add address=2600:f0f3:f010:500::/56 disabled=no list=route-aws@ap-southeast
 add address=2600:f0f3:f010:2000::/56 disabled=no list=route-aws@ap-southeast
 add address=2600:f0f3:f010:b00::/56 disabled=no list=route-aws@ap-southeast
 add address=2600:f0f3:f010:e00::/56 disabled=no list=route-aws@ap-southeast

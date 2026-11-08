@@ -20,6 +20,7 @@ add address=3.4.15.176/29 disabled=no list=route-aws@sa
 add address=3.4.15.184/29 disabled=no list=route-aws@sa
 add address=3.4.15.192/29 disabled=no list=route-aws@sa
 add address=3.5.232.0/22 disabled=no list=route-aws@sa
+add address=3.33.2.0/24 disabled=no list=route-aws@sa
 add address=3.44.192.0/18 disabled=no list=route-aws@sa
 add address=3.44.193.128/25 disabled=no list=route-aws@sa
 add address=13.248.81.0/24 disabled=no list=route-aws@sa
@@ -214,6 +215,8 @@ add address=69.107.7.112/29 disabled=no list=route-aws@sa
 add address=69.107.7.120/29 disabled=no list=route-aws@sa
 add address=69.107.11.64/29 disabled=no list=route-aws@sa
 add address=69.107.11.72/29 disabled=no list=route-aws@sa
+add address=69.107.13.144/29 disabled=no list=route-aws@sa
+add address=69.107.13.152/29 disabled=no list=route-aws@sa
 add address=76.223.170.128/28 disabled=no list=route-aws@sa
 add address=83.160.0.0/15 disabled=no list=route-aws@sa
 add address=83.160.72.0/24 disabled=no list=route-aws@sa
