@@ -59,6 +59,8 @@ add address=3.4.12.83/32 disabled=no list=route-aws@eu
 add address=3.4.12.84/32 disabled=no list=route-aws@eu
 add address=3.4.12.85/32 disabled=no list=route-aws@eu
 add address=3.4.12.86/32 disabled=no list=route-aws@eu
+add address=3.4.12.87/32 disabled=no list=route-aws@eu
+add address=3.4.12.88/32 disabled=no list=route-aws@eu
 add address=3.4.13.32/28 disabled=no list=route-aws@eu
 add address=3.4.13.48/28 disabled=no list=route-aws@eu
 add address=3.4.14.0/29 disabled=no list=route-aws@eu

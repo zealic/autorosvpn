@@ -1174,6 +1174,7 @@ add address=2001:3fc6:1::/48 disabled=no list=route-aws
 add address=2001:3fc6:1::/48 disabled=no list=route-aws
 add address=2001:3fc6:2::/48 disabled=no list=route-aws
 add address=2001:3fc6:2::/48 disabled=no list=route-aws
+add address=2001:3fc6:2::/48 disabled=no list=route-aws
 add address=2001:3fc6:3c::/47 disabled=no list=route-aws
 add address=2001:3fc6:4::/48 disabled=no list=route-aws
 add address=2001:3fc6:4::/48 disabled=no list=route-aws
