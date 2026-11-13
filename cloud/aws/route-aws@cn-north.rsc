@@ -6,6 +6,7 @@ add address=15.230.141.0/24 disabled=no list=route-aws@cn-north
 add address=43.195.0.0/20 disabled=no list=route-aws@cn-north
 add address=43.195.16.0/22 disabled=no list=route-aws@cn-north
 add address=43.195.20.0/23 disabled=no list=route-aws@cn-north
+add address=43.195.128.0/17 disabled=no list=route-aws@cn-north
 add address=43.196.0.0/16 disabled=no list=route-aws@cn-north
 add address=43.196.3.64/26 disabled=no list=route-aws@cn-north
 add address=43.196.14.0/23 disabled=no list=route-aws@cn-north

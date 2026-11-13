@@ -2163,7 +2163,6 @@ add address=72.150.14.0/23 disabled=no list=route-aws@us
 add address=72.150.16.0/23 disabled=no list=route-aws@us
 add address=72.150.18.0/23 disabled=no list=route-aws@us
 add address=72.150.20.0/24 disabled=no list=route-aws@us
-add address=72.150.21.0/24 disabled=no list=route-aws@us
 add address=75.2.128.0/18 disabled=no list=route-aws@us
 add address=75.3.0.0/18 disabled=no list=route-aws@us
 add address=75.3.128.0/18 disabled=no list=route-aws@us
