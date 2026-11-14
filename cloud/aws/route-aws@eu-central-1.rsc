@@ -353,7 +353,6 @@ add address=69.107.11.152/29 disabled=no list=route-aws@eu-central-1
 add address=69.107.11.160/29 disabled=no list=route-aws@eu-central-1
 add address=69.107.13.32/29 disabled=no list=route-aws@eu-central-1
 add address=69.107.13.40/29 disabled=no list=route-aws@eu-central-1
-add address=72.150.8.0/23 disabled=no list=route-aws@eu-central-1
 add address=75.45.128.0/18 disabled=no list=route-aws@eu-central-1
 add address=83.119.128.0/18 disabled=no list=route-aws@eu-central-1
 add address=99.77.136.0/24 disabled=no list=route-aws@eu-central-1

@@ -683,7 +683,6 @@ add address=70.232.86.124/32 disabled=no list=route-aws@ap-southeast
 add address=70.232.86.125/32 disabled=no list=route-aws@ap-southeast
 add address=70.232.86.126/32 disabled=no list=route-aws@ap-southeast
 add address=70.232.88.0/22 disabled=no list=route-aws@ap-southeast
-add address=72.150.2.0/23 disabled=no list=route-aws@ap-southeast
 add address=76.223.170.32/28 disabled=no list=route-aws@ap-southeast
 add address=76.223.170.64/28 disabled=no list=route-aws@ap-southeast
 add address=76.223.170.96/28 disabled=no list=route-aws@ap-southeast

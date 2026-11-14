@@ -1540,8 +1540,6 @@ add address=70.232.96.0/20 disabled=no list=route-aws@eu
 add address=70.232.112.0/21 disabled=no list=route-aws@eu
 add address=70.232.120.0/22 disabled=no list=route-aws@eu
 add address=70.232.124.0/22 disabled=no list=route-aws@eu
-add address=72.150.4.0/23 disabled=no list=route-aws@eu
-add address=72.150.8.0/23 disabled=no list=route-aws@eu
 add address=75.45.128.0/18 disabled=no list=route-aws@eu
 add address=79.125.0.0/17 disabled=no list=route-aws@eu
 add address=80.126.0.0/24 disabled=no list=route-aws@eu
