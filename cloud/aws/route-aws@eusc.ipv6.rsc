@@ -23,6 +23,7 @@ add address=2001:3fc6:4::/48 disabled=no list=route-aws@eusc
 add address=2001:3fc6:5::/48 disabled=no list=route-aws@eusc
 add address=2001:3fc6:8::/45 disabled=no list=route-aws@eusc
 add address=2001:3fc6:8::/47 disabled=no list=route-aws@eusc
+add address=2001:3fc6:20::/43 disabled=no list=route-aws@eusc
 add address=2001:3fc6:100::/48 disabled=no list=route-aws@eusc
 add address=2001:3fc6:200::/40 disabled=no list=route-aws@eusc
 add address=2001:3fc6::/56 disabled=no list=route-aws@eusc

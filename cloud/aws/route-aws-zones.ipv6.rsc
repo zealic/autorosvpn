@@ -1460,6 +1460,7 @@ add address=2600:f0f2:7018::/48 disabled=no list=route-aws@eu-central
 add address=2600:f0f2:7103::/48 disabled=no list=route-aws@eu-central
 add address=2600:f0f3:f010:1600::/56 disabled=no list=route-aws@eu-central
 add address=2600:f0f3:f010:3300::/56 disabled=no list=route-aws@eu-central
+add address=2600:f0fb:c806::/48 disabled=no list=route-aws@eu-central
 add address=2600:f0fb:c900:4000::/52 disabled=no list=route-aws@eu-central
 add address=2600:f0fb:ca02::/52 disabled=no list=route-aws@eu-central
 add address=2600:f0fb:f023::/48 disabled=no list=route-aws@eu-central
@@ -2000,6 +2001,7 @@ add address=2001:3fc6:4::/48 disabled=no list=route-aws@eusc-de-east
 add address=2001:3fc6:5::/48 disabled=no list=route-aws@eusc-de-east
 add address=2001:3fc6:8::/45 disabled=no list=route-aws@eusc-de-east
 add address=2001:3fc6:8::/47 disabled=no list=route-aws@eusc-de-east
+add address=2001:3fc6:20::/43 disabled=no list=route-aws@eusc-de-east
 add address=2001:3fc6:100::/48 disabled=no list=route-aws@eusc-de-east
 add address=2001:3fc6:200::/40 disabled=no list=route-aws@eusc-de-east
 add address=2001:3fc6::/56 disabled=no list=route-aws@eusc-de-east
@@ -2023,8 +2025,6 @@ add address=2001:3fc7:f800::/40 disabled=no list=route-aws@eusc-de-east
 add address=2600:f0f3:f010:2c00::/56 disabled=no list=route-aws@eusc-de-east
 /ipv6 firewall address-list remove [/ipv6 firewall address-list find list="route-aws@global"]
 /ipv6 firewall address-list
-add address=2001:3fc6:3c::/47 disabled=no list=route-aws@global
-add address=2001:3fc6:20::/43 disabled=no list=route-aws@global
 add address=2400:7fc0:500::/40 disabled=no list=route-aws@global
 add address=2404:c2c0:500::/40 disabled=no list=route-aws@global
 add address=2409:8c00:2421:300::/56 disabled=no list=route-aws@global
@@ -2853,9 +2853,11 @@ add address=2600:f0fb:c000::/48 disabled=no list=route-aws@us-east
 add address=2600:f0fb:c001::/48 disabled=no list=route-aws@us-east
 add address=2600:f0fb:c002::/56 disabled=no list=route-aws@us-east
 add address=2600:f0fb:c003::/48 disabled=no list=route-aws@us-east
+add address=2600:f0fb:c007::/48 disabled=no list=route-aws@us-east
 add address=2600:f0fb:c0ff::/56 disabled=no list=route-aws@us-east
 add address=2600:f0fb:c800::/48 disabled=no list=route-aws@us-east
 add address=2600:f0fb:c801::/48 disabled=no list=route-aws@us-east
+add address=2600:f0fb:c805::/48 disabled=no list=route-aws@us-east
 add address=2600:f0fb:c900:1000::/52 disabled=no list=route-aws@us-east
 add address=2600:f0fb:c900:2000::/52 disabled=no list=route-aws@us-east
 add address=2600:f0fb:c900:7000::/52 disabled=no list=route-aws@us-east
