@@ -8834,6 +8834,7 @@ add address=89.48.0.0/13 disabled=no list=route-aws
 add address=89.60.0.0/15 disabled=no list=route-aws
 add address=89.60.0.0/15 disabled=no list=route-aws
 add address=89.60.161.0/24 disabled=no list=route-aws
+add address=89.60.238.0/23 disabled=no list=route-aws
 add address=93.77.128.0/19 disabled=no list=route-aws
 add address=93.77.128.0/19 disabled=no list=route-aws
 add address=94.36.0.0/15 disabled=no list=route-aws
