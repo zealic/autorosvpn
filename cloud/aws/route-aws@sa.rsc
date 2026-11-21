@@ -229,6 +229,8 @@ add address=83.160.96.0/24 disabled=no list=route-aws@sa
 add address=83.160.97.0/24 disabled=no list=route-aws@sa
 add address=83.160.102.0/23 disabled=no list=route-aws@sa
 add address=83.160.104.0/23 disabled=no list=route-aws@sa
+add address=83.160.241.0/25 disabled=no list=route-aws@sa
+add address=83.160.244.0/22 disabled=no list=route-aws@sa
 add address=83.162.0.0/15 disabled=no list=route-aws@sa
 add address=88.104.0.0/15 disabled=no list=route-aws@sa
 add address=88.106.0.0/15 disabled=no list=route-aws@sa
