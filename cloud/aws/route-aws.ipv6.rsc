@@ -5749,8 +5749,6 @@ add address=2600:f0f1:14::/47 disabled=no list=route-aws
 add address=2600:f0f1:14::/47 disabled=no list=route-aws
 add address=2600:f0f1:16::/47 disabled=no list=route-aws
 add address=2600:f0f1:16::/47 disabled=no list=route-aws
-add address=2600:f0f1:18::/46 disabled=no list=route-aws
-add address=2600:f0f1:18::/46 disabled=no list=route-aws
 add address=2600:f0f1:40c0::/42 disabled=no list=route-aws
 add address=2600:f0f1:40c0::/42 disabled=no list=route-aws
 add address=2600:f0f1:41c0::/42 disabled=no list=route-aws

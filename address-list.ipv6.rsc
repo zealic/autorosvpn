@@ -807,6 +807,7 @@ add address=2402:8180::/32 disabled=no list=novpn.ipv6
 add address=2402:8260::/32 disabled=no list=novpn.ipv6
 add address=2402:8300::/32 disabled=no list=novpn.ipv6
 add address=2402:8380::/32 disabled=no list=novpn.ipv6
+add address=2402:8420::/32 disabled=no list=novpn.ipv6
 add address=2402:85c0::/32 disabled=no list=novpn.ipv6
 add address=2402:8800::/32 disabled=no list=novpn.ipv6
 add address=2402:8840::/32 disabled=no list=novpn.ipv6
