@@ -6062,6 +6062,8 @@ add address=2600:f0fb:c006::/48 disabled=no list=route-aws
 add address=2600:f0fb:c006::/48 disabled=no list=route-aws
 add address=2600:f0fb:c007::/48 disabled=no list=route-aws
 add address=2600:f0fb:c007::/48 disabled=no list=route-aws
+add address=2600:f0fb:c008::/48 disabled=no list=route-aws
+add address=2600:f0fb:c008::/48 disabled=no list=route-aws
 add address=2600:f0fb:c0ff::/56 disabled=no list=route-aws
 add address=2600:f0fb:c0ff::/56 disabled=no list=route-aws
 add address=2600:f0fb:c800::/48 disabled=no list=route-aws
