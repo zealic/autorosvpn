@@ -7237,6 +7237,7 @@ add address=15.248.161.0/24 disabled=no list=route-aws@us-west
 add address=15.248.162.0/24 disabled=no list=route-aws@us-west
 add address=15.248.208.0/26 disabled=no list=route-aws@us-west
 add address=15.248.208.64/26 disabled=no list=route-aws@us-west
+add address=15.248.208.128/26 disabled=no list=route-aws@us-west
 add address=15.251.0.0/32 disabled=no list=route-aws@us-west
 add address=15.251.0.1/32 disabled=no list=route-aws@us-west
 add address=15.251.0.2/32 disabled=no list=route-aws@us-west
